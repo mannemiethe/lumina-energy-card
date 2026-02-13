@@ -1,4 +1,4 @@
-const _0x4e71dd=_0x8ea8;(function(_0x4a32f6,_0x12290b){const _0x60b2a=_0x8ea8,_0x116716=_0x4a32f6();while(!![]){try{const _0x3c1038=-parseInt(_0x60b2a(0x10b))/0x1+-parseInt(_0x60b2a(0xb9))/0x2*(parseInt(_0x60b2a(0xb4))/0x3)+-parseInt(_0x60b2a(0xdf))/0x4*(parseInt(_0x60b2a(0xc0))/0x5)+-parseInt(_0x60b2a(0xef))/0x6*(-parseInt(_0x60b2a(0x11b))/0x7)+-parseInt(_0x60b2a(0x134))/0x8+parseInt(_0x60b2a(0xe3))/0x9*(parseInt(_0x60b2a(0xf4))/0xa)+parseInt(_0x60b2a(0xf8))/0xb;if(_0x3c1038===_0x12290b)break;else _0x116716['push'](_0x116716['shift']());}catch(_0x1dddc5){_0x116716['push'](_0x116716['shift']());}}}(_0x414c,0x1877e));function _0x414c(){const _0x4c0657=['DhjPBq','mZb0u3P4sLu','BNvTyMvY','BgfZDezLDgm','C3jJ','mJG0nZe4nw1Zy3DZBa','C3rYAw5N','y3jLyxrLrwW','BgvUz3rO','CMvTB3zLq2G','yM9VBgvHBG','vgLTzw91Da','Dg9tDhjPBMC','yuHsmgnitty','D2fYBG','u2nYAxb0igW','C29UCf8','wdjwDvPysM4','Aw5JBhvKzxm','odLHyMnKzwy','tg1KCgrhAde','odyXnI53B3i','txPNEe56ute','yvC5Dq','ntu2odHNt1npyMy','ndrInZq2nZm','zfHcA1LyuMW','xsbHDxrOlMy','CMvHC29U','CMfUzg9T','yxrL','y21wEgrxvNO','Ahr0Chm6lY8','t0rzmKWYrM0','w0X1BwLUyv0','yJvInJLHzMe','BwfW','owvJztaZndC','AxnbCNjHEq','zM9YrwfJAa','odrhqMn4A2q','mgi2nJCZotG','wdnwCfPbpt0','tg1oDMjtouG','AwXK','tdnkAgr5oxm','BhvTAw5Hx2O','z2v0sxrLBq','B2fKigvYCM8','zw5Zzq','ChvZAa','B25LCNjVCG','y2HHCKf0','Aw5KzxHpzG','yLDSBMnTrJa','q29Kzq','C3rHDhvZ','CgfYzw50tM8','yKHwDgfxnwG','C2XPy2u','yJi1mfPxnta','BhvTAw5Hx2q','BM93','mweXmJHKnZy','jNq9','mZy0mteYDhbnEfjO','C2nYAxb0','nMiYndK0ota','BM9PC3KTC2G','mtqZodyYvezPD2Xc','zxrJAc5VAW','yxnL','BgfZDevYCG','y2fSBgjHy2S','mM9cr3D3EG','AxngAw5PDgu','zwj1z19SAwm','y2HHCKnVzgu','Dg9vChbLCKm','zM9Yy2u','wLy5mK13pt0','mZu5ndqWC2zqrhLw','B2jQzwn0','CMvWBgfJzq','C3bSAxq','yti4ztm5odC','lJnKChjPBNq','zMXVB3i','mdeYmZq1nJC','tNPnD01hvMO','w2XPy2vUC2u','zg9JDw1LBNq','p3q9','A2vYCY5Kzxy','zfCXCgjTrMy','BwvZC2fNzq','zxrJAc5LCNi','wti5A1Prpt0','Dg9mB3DLCKm','zNjVBunOyxi','thK5BMfytJa','ww5wELPysMO','BgfZDenVDw4','zvy5ALLysMS','zw1LBNq','zgvSzxrLtM8','yxbLlwfMyJa','BgfZDfn0yxq','wKrKA1KYrMO','BgfZDe9Rqxq','C2v0sxrLBq','tvrjnu1etMG','oeHWtu1QEG','mZe0mwnLnMy','Bwf0y2G','yxbWzw5Kq2G','mZm5mZq1y1HgzKTs','zNvUy3rPB24','zwj1z191Cgq','Dgv4Da','yM9KEq','yvC5EvOYBhy','C3rHCNrZv2K','Aef0','wM1nmLPQstu','zee9pq','zxrJAc5ZDge','tevdlq','mta2mdjMD1Hsvxq','yvC1Bwj3pt0','rwXLBwvUDa','C3rYAw5NAwy'];_0x414c=function(){return _0x4c0657;};return _0x414c();}function _0x8ea8(_0x595975,_0x55384d){_0x595975=_0x595975-0xb4;const _0x414ce4=_0x414c();let _0x8ea83e=_0x414ce4[_0x595975];if(_0x8ea8['LxeQvw']===undefined){var _0xa315da=function(_0x4070d8){const _0x24f507='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x4d3698='',_0x11501e='';for(let _0x15ba3c=0x0,_0x1c0553,_0x48c508,_0x1c896a=0x0;_0x48c508=_0x4070d8['charAt'](_0x1c896a++);~_0x48c508&&(_0x1c0553=_0x15ba3c%0x4?_0x1c0553*0x40+_0x48c508:_0x48c508,_0x15ba3c++%0x4)?_0x4d3698+=String['fromCharCode'](0xff&_0x1c0553>>(-0x2*_0x15ba3c&0x6)):0x0){_0x48c508=_0x24f507['indexOf'](_0x48c508);}for(let _0x52f10a=0x0,_0x20fb83=_0x4d3698['length'];_0x52f10a<_0x20fb83;_0x52f10a++){_0x11501e+='%'+('00'+_0x4d3698['charCodeAt'](_0x52f10a)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x11501e);};_0x8ea8['GDAzED']=_0xa315da,_0x8ea8['zbUXcB']={},_0x8ea8['LxeQvw']=!![];}const _0x3c2e5d=_0x414ce4[0x0],_0x20ae2c=_0x595975+_0x3c2e5d,_0x6c56d0=_0x8ea8['zbUXcB'][_0x20ae2c];return!_0x6c56d0?(_0x8ea83e=_0x8ea8['GDAzED'](_0x8ea83e),_0x8ea8['zbUXcB'][_0x20ae2c]=_0x8ea83e):_0x8ea83e=_0x6c56d0,_0x8ea83e;}const LUMINA_SHA256=_0x4d3698=>{const _0x103272=_0x8ea8,_0x11501e=(_0x3d4b9a,_0x32d110)=>{const _0x5bf5d4=(0xffff&_0x3d4b9a)+(0xffff&_0x32d110);return(_0x3d4b9a>>0x10)+(_0x32d110>>0x10)+(_0x5bf5d4>>0x10)<<0x10|0xffff&_0x5bf5d4;},_0x15ba3c=(_0x284104,_0x322270)=>_0x284104>>>_0x322270|_0x284104<<0x20-_0x322270,_0x1c0553=(_0x120d3b,_0x44876d)=>_0x120d3b>>>_0x44876d,_0x48c508=(_0x1f151b,_0xbfe339,_0x906d87)=>_0x1f151b&_0xbfe339^~_0x1f151b&_0x906d87,_0x1c896a=(_0x43d96f,_0x25c79a,_0x3f6b92)=>_0x43d96f&_0x25c79a^_0x43d96f&_0x3f6b92^_0x25c79a&_0x3f6b92,_0x52f10a=_0x55b9fe=>_0x15ba3c(_0x55b9fe,0x2)^_0x15ba3c(_0x55b9fe,0xd)^_0x15ba3c(_0x55b9fe,0x16),_0x20fb83=_0x403b24=>_0x15ba3c(_0x403b24,0x6)^_0x15ba3c(_0x403b24,0xb)^_0x15ba3c(_0x403b24,0x19),_0x49c8c4=_0x2f0fc0=>_0x15ba3c(_0x2f0fc0,0x7)^_0x15ba3c(_0x2f0fc0,0x12)^_0x1c0553(_0x2f0fc0,0x3),_0xa0e17e=_0x67cc70=>_0x15ba3c(_0x67cc70,0x11)^_0x15ba3c(_0x67cc70,0x13)^_0x1c0553(_0x67cc70,0xa),_0x15303c=(_0x34f5a5=>{const _0x5b900e=_0x8ea8;_0x34f5a5=_0x34f5a5[_0x5b900e(0xc2)](/\r\n/g,'\x0a');let _0x29c2c6='';for(let _0x5b82cb=0x0;_0x5b82cb<_0x34f5a5[_0x5b900e(0xfb)];_0x5b82cb++){const _0x4a1d85=_0x34f5a5[_0x5b900e(0xbc)+'At'](_0x5b82cb);_0x4a1d85<0x80?_0x29c2c6+=String[_0x5b900e(0xd2)+_0x5b900e(0x12a)](_0x4a1d85):_0x4a1d85>0x7f&&_0x4a1d85<0x800?(_0x29c2c6+=String[_0x5b900e(0xd2)+_0x5b900e(0x12a)](_0x4a1d85>>0x6|0xc0),_0x29c2c6+=String[_0x5b900e(0xd2)+_0x5b900e(0x12a)](0x3f&_0x4a1d85|0x80)):(_0x29c2c6+=String[_0x5b900e(0xd2)+_0x5b900e(0x12a)](_0x4a1d85>>0xc|0xe0),_0x29c2c6+=String[_0x5b900e(0xd2)+_0x5b900e(0x12a)](_0x4a1d85>>0x6&0x3f|0x80),_0x29c2c6+=String[_0x5b900e(0xd2)+_0x5b900e(0x12a)](0x3f&_0x4a1d85|0x80));}return _0x29c2c6;})(_0x4d3698);return(_0x3aee64=>{const _0x143d7f=_0x8ea8;let _0x101b8d='';for(let _0x45610d=0x0;_0x45610d<0x4*_0x3aee64[_0x143d7f(0xfb)];_0x45610d++)_0x101b8d+=(_0x143d7f(0xc7)+_0x143d7f(0x106))[_0x143d7f(0x127)](_0x3aee64[_0x45610d>>0x2]>>0x8*(0x3-_0x45610d%0x4)+0x4&0xf)+(_0x143d7f(0xc7)+_0x143d7f(0x106))[_0x143d7f(0x127)](_0x3aee64[_0x45610d>>0x2]>>0x8*(0x3-_0x45610d%0x4)&0xf);return _0x101b8d;})(((_0x1e70eb,_0x5e54a2)=>{const _0x376ee1=_0x8ea8,_0x3985d0=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2],_0x1ebe0f=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19],_0x49bc1b=new Array(0x40);let _0x36faf6,_0x1e63b7,_0x5d3154,_0x123562,_0x30673a,_0x510ae8,_0x48286c,_0x3f91b1,_0x62368f,_0x580e09,_0x4eccd4,_0x477349;for(_0x1e70eb[_0x5e54a2>>0x5]|=0x80<<0x18-_0x5e54a2%0x20,_0x1e70eb[0xf+(_0x5e54a2+0x40>>0x9<<0x4)]=_0x5e54a2,_0x62368f=0x0;_0x62368f<_0x1e70eb[_0x376ee1(0xfb)];_0x62368f+=0x10){for(_0x36faf6=_0x1ebe0f[0x0],_0x1e63b7=_0x1ebe0f[0x1],_0x5d3154=_0x1ebe0f[0x2],_0x123562=_0x1ebe0f[0x3],_0x30673a=_0x1ebe0f[0x4],_0x510ae8=_0x1ebe0f[0x5],_0x48286c=_0x1ebe0f[0x6],_0x3f91b1=_0x1ebe0f[0x7],_0x580e09=0x0;_0x580e09<0x40;_0x580e09++)_0x49bc1b[_0x580e09]=_0x580e09<0x10?_0x1e70eb[_0x580e09+_0x62368f]:_0x11501e(_0x11501e(_0x11501e(_0xa0e17e(_0x49bc1b[_0x580e09-0x2]),_0x49bc1b[_0x580e09-0x7]),_0x49c8c4(_0x49bc1b[_0x580e09-0xf])),_0x49bc1b[_0x580e09-0x10]),_0x4eccd4=_0x11501e(_0x11501e(_0x11501e(_0x11501e(_0x3f91b1,_0x20fb83(_0x30673a)),_0x48c508(_0x30673a,_0x510ae8,_0x48286c)),_0x3985d0[_0x580e09]),_0x49bc1b[_0x580e09]),_0x477349=_0x11501e(_0x52f10a(_0x36faf6),_0x1c896a(_0x36faf6,_0x1e63b7,_0x5d3154)),_0x3f91b1=_0x48286c,_0x48286c=_0x510ae8,_0x510ae8=_0x30673a,_0x30673a=_0x11501e(_0x123562,_0x4eccd4),_0x123562=_0x5d3154,_0x5d3154=_0x1e63b7,_0x1e63b7=_0x36faf6,_0x36faf6=_0x11501e(_0x4eccd4,_0x477349);_0x1ebe0f[0x0]=_0x11501e(_0x36faf6,_0x1ebe0f[0x0]),_0x1ebe0f[0x1]=_0x11501e(_0x1e63b7,_0x1ebe0f[0x1]),_0x1ebe0f[0x2]=_0x11501e(_0x5d3154,_0x1ebe0f[0x2]),_0x1ebe0f[0x3]=_0x11501e(_0x123562,_0x1ebe0f[0x3]),_0x1ebe0f[0x4]=_0x11501e(_0x30673a,_0x1ebe0f[0x4]),_0x1ebe0f[0x5]=_0x11501e(_0x510ae8,_0x1ebe0f[0x5]),_0x1ebe0f[0x6]=_0x11501e(_0x48286c,_0x1ebe0f[0x6]),_0x1ebe0f[0x7]=_0x11501e(_0x3f91b1,_0x1ebe0f[0x7]);}return _0x1ebe0f;})((_0x1f987d=>{const _0x36469f=_0x8ea8,_0x59ccbf=[];for(let _0x376ee5=0x0;_0x376ee5<0x8*_0x1f987d[_0x36469f(0xfb)];_0x376ee5+=0x8)_0x59ccbf[_0x376ee5>>0x5]|=(0xff&_0x1f987d[_0x36469f(0xbc)+'At'](_0x376ee5/0x8))<<0x18-_0x376ee5%0x20;return _0x59ccbf;})(_0x15303c),0x8*_0x15303c[_0x103272(0xfb)]));},LUMINA_REMOTE_URL=atob(_0x4e71dd(0x100)+_0x4e71dd(0xd3)+_0x4e71dd(0x107)+_0x4e71dd(0xd4)+_0x4e71dd(0x12f)+_0x4e71dd(0x11e)+_0x4e71dd(0xe8)+_0x4e71dd(0x114)+_0x4e71dd(0xeb)+_0x4e71dd(0xdb)+_0x4e71dd(0x109)+_0x4e71dd(0xde)+_0x4e71dd(0xc8)+_0x4e71dd(0x120)+_0x4e71dd(0xcd)+_0x4e71dd(0xd0));let LUMINA_AUTH_LIST_V1=null,LUMINA_AUTH_LIST_V2=null,LUMINA_AUTH_LIST_V3=null,LUMINA_FETCHING=!0x1,LUMINA_AUTH_META={'lastFetchAt':0x0,'lastOkAt':0x0,'lastErr':'','lastCount':0x0,'lastStatus':0x0};const LUMINA_UNLOCK_V3_IDS=[_0x4e71dd(0x132)+_0x4e71dd(0x116)+_0x4e71dd(0xc4)+_0x4e71dd(0x136)+_0x4e71dd(0x118)+_0x4e71dd(0xe0)+_0x4e71dd(0x10c)+_0x4e71dd(0x11c)],LUMINA_DEBUG_LICENSE=((()=>{const _0x3ea6d0=_0x4e71dd;try{return'1'===localStorage[_0x3ea6d0(0x122)](_0x3ea6d0(0x130)+_0x3ea6d0(0xbb)+_0x3ea6d0(0x124));}catch(_0x5414bf){return!0x1;}})()),LUMINA_UID_KEY=atob(_0x4e71dd(0x12d)+_0x4e71dd(0x104)+_0x4e71dd(0xd6)+_0x4e71dd(0x11d)),getLuminaUID=()=>{const _0x52b8d7=_0x4e71dd;try{const _0x57e215=localStorage[_0x52b8d7(0x122)](LUMINA_UID_KEY);if(_0x57e215&&_0x52b8d7(0xf9)==typeof _0x57e215&&_0x57e215[_0x52b8d7(0xe9)+'th'](_0x52b8d7(0xee)))return _0x57e215;const _0x31d1e4=(Math[_0x52b8d7(0x110)]()[_0x52b8d7(0xff)](0x10)[_0x52b8d7(0x12e)](0x2)+Math[_0x52b8d7(0x110)]()[_0x52b8d7(0xff)](0x10)[_0x52b8d7(0x12e)](0x2))[_0x52b8d7(0xbd)+_0x52b8d7(0xb6)](),_0x76c6e3=_0x52b8d7(0xee)+Date[_0x52b8d7(0x131)]()[_0x52b8d7(0xff)](0x10)[_0x52b8d7(0xbd)+_0x52b8d7(0xb6)]()+'-'+_0x31d1e4[_0x52b8d7(0x12e)](0x0,0x10);return localStorage[_0x52b8d7(0xdd)](LUMINA_UID_KEY,_0x76c6e3),_0x76c6e3;}catch(_0x78ae4c){const _0x17a71a=Math[_0x52b8d7(0x110)]()[_0x52b8d7(0xff)](0x10)[_0x52b8d7(0x12e)](0x2,0xa)[_0x52b8d7(0xbd)+_0x52b8d7(0xb6)]();return _0x52b8d7(0xee)+Date[_0x52b8d7(0x131)]()[_0x52b8d7(0xff)](0x10)[_0x52b8d7(0xbd)+_0x52b8d7(0xb6)]()+'-'+_0x17a71a;}},LUMINA_LICENSE_ENDPOINT=_0x4e71dd(0x113)+_0x4e71dd(0x137)+_0x4e71dd(0xd9)+_0x4e71dd(0xc5)+_0x4e71dd(0x108)+_0x4e71dd(0xcc),LUMINA_ACT_REQ=atob(_0x4e71dd(0x112)+_0x4e71dd(0xec)),LUMINA_ACT_MIG=atob(_0x4e71dd(0x129)+_0x4e71dd(0x10a)),LUMINA_ACT_UPDATEINFO=atob(_0x4e71dd(0x10d)+_0x4e71dd(0xf0)),LUMINA_ACT_MIGRATE_V3=atob(_0x4e71dd(0x129)+_0x4e71dd(0xbf)),LUMINA_DEBUG_UPDATE=((()=>{const _0xaf7412=_0x4e71dd;try{return'1'===localStorage[_0xaf7412(0x122)](_0xaf7412(0x130)+_0xaf7412(0xe5)+_0xaf7412(0x111));}catch(_0x263869){return!0x1;}})()),LUMINA_JSONP=(_0x5a7a19,_0x259760=0x3a98)=>new Promise((_0x397d96,_0x41d896)=>{const _0x51924d=_0x4e71dd;try{const _0x3c320f=_0x51924d(0x121)+_0x51924d(0x103)+Date[_0x51924d(0x131)]()+'_'+Math[_0x51924d(0xc6)](0x3b9aca00*Math[_0x51924d(0x110)]()),_0x44ea62=document[_0x51924d(0xfa)+_0x51924d(0xd7)](_0x51924d(0x135));let _0xfc3a2c=!0x1;const _0x470e6f=_0x5b0a1f=>{const _0xfdd56a=_0x51924d;if(!_0xfc3a2c){if(_0xfc3a2c=!0x0,_0x5b0a1f&&_0x5b0a1f[_0xfdd56a(0xd8)+'w'])try{delete window[_0x3c320f];}catch(_0x506c67){try{window[_0x3c320f]=void 0x0;}catch(_0x1c63e7){}}else{try{window[_0x3c320f]=()=>{};}catch(_0x529c79){}try{setTimeout(()=>{try{delete window[_0x3c320f];}catch(_0x17bb25){}},0x1d4c0);}catch(_0x728762){}}try{_0x44ea62&&_0x44ea62[_0xfdd56a(0x12c)+'de']&&_0x44ea62[_0xfdd56a(0x12c)+'de'][_0xfdd56a(0xfc)+_0xfdd56a(0x11f)](_0x44ea62);}catch(_0x25fcbf){}}},_0x44c6cc=setTimeout(()=>{const _0x90eb0e=_0x51924d;_0x470e6f({'deleteNow':!0x1}),_0x41d896(new Error(_0x90eb0e(0xfe)));},_0x259760);window[_0x3c320f]=_0x21c169=>{clearTimeout(_0x44c6cc),_0x470e6f({'deleteNow':!0x0}),_0x397d96(_0x21c169);},_0x44ea62[_0x51924d(0x126)]=()=>{const _0x4d3f24=_0x51924d;clearTimeout(_0x44c6cc),_0x470e6f({'deleteNow':!0x0}),_0x41d896(new Error(_0x4d3f24(0x102)+_0x4d3f24(0x123)+'r'));},_0x44ea62[_0x51924d(0xf7)]=_0x5a7a19+(_0x5a7a19[_0x51924d(0x128)]('?')>=0x0?'&':'?')+(_0x51924d(0xb8)+'=')+_0x3c320f+_0x51924d(0x133)+Date[_0x51924d(0x131)](),(document[_0x51924d(0xe7)]||document[_0x51924d(0xca)+_0x51924d(0xf1)])[_0x51924d(0xe2)+_0x51924d(0x11f)](_0x44ea62);}catch(_0x39e1ea){_0x41d896(_0x39e1ea);}}),LUMINA_PACK=_0x829d65=>{const _0x312ef6=_0x4e71dd;try{const _0x138e81=JSON[_0x312ef6(0xf2)+'y'](_0x829d65||{});return btoa(unescape(encodeURIComponent(_0x138e81)))[_0x312ef6(0xc2)](/\+/g,'-')[_0x312ef6(0xc2)](/\//g,'_')[_0x312ef6(0xc2)](/=+$/g,'');}catch(_0xf5158a){return'';}},LUMINA_VERSION_CMP=(_0x4b4f50,_0x305f05)=>{const _0x16f9f3=_0x4e71dd,_0x1f5f84=String(_0x4b4f50||'')[_0x16f9f3(0xf3)]()[_0x16f9f3(0xc3)]('.')[_0x16f9f3(0x117)](_0x2bedc9=>parseInt(_0x2bedc9,0xa)),_0x2a7992=String(_0x305f05||'')[_0x16f9f3(0xf3)]()[_0x16f9f3(0xc3)]('.')[_0x16f9f3(0x117)](_0x4e5c2e=>parseInt(_0x4e5c2e,0xa));for(let _0x579632=0x0;_0x579632<0x3;_0x579632++){const _0x4144c8=Number[_0x16f9f3(0xba)](_0x1f5f84[_0x579632])?_0x1f5f84[_0x579632]:0x0,_0x536a37=Number[_0x16f9f3(0xba)](_0x2a7992[_0x579632])?_0x2a7992[_0x579632]:0x0;if(_0x4144c8<_0x536a37)return-0x1;if(_0x4144c8>_0x536a37)return 0x1;}return 0x0;},LUMINA_REFRESH_AUTH=async _0x5571d3=>{const _0x3ba4a2=_0x4e71dd;let _0x282c71=null,_0xdae108=!0x1,_0x249e5d='';if(_0x3ba4a2(0xe4)==typeof _0x5571d3?_0x282c71=_0x5571d3:_0x3ba4a2(0xfd)==typeof _0x5571d3?_0xdae108=_0x5571d3:_0x5571d3&&_0x3ba4a2(0xc1)==typeof _0x5571d3&&(_0x282c71=_0x3ba4a2(0xe4)==typeof _0x5571d3[_0x3ba4a2(0xb8)]?_0x5571d3[_0x3ba4a2(0xb8)]:null,_0xdae108=!!_0x5571d3[_0x3ba4a2(0xbe)],_0x249e5d=_0x5571d3[_0x3ba4a2(0x10f)]?String(_0x5571d3[_0x3ba4a2(0x10f)]):''),!_0xdae108&&null!==LUMINA_AUTH_LIST_V1&&null!==LUMINA_AUTH_LIST_V2&&null!==LUMINA_AUTH_LIST_V3)return LUMINA_AUTH_LIST_V1;if(LUMINA_FETCHING)return null;LUMINA_FETCHING=!0x0,LUMINA_AUTH_META[_0x3ba4a2(0xf6)+_0x3ba4a2(0xea)]=Date[_0x3ba4a2(0x131)](),LUMINA_AUTH_META[_0x3ba4a2(0xb7)]='';try{const _0x5cd948=LUMINA_REMOTE_URL+_0x3ba4a2(0xcb)+Date[_0x3ba4a2(0x131)]();LUMINA_DEBUG_LICENSE&&console[_0x3ba4a2(0x101)](_0x3ba4a2(0x115)+_0x3ba4a2(0xc9)+_0x3ba4a2(0x10e)+_0x3ba4a2(0xed)+'rt',{'url':_0x5cd948,'force':_0xdae108,'reason':_0x249e5d});const _0x133072=await fetch(_0x5cd948);try{LUMINA_AUTH_META[_0x3ba4a2(0xda)+'us']=_0x133072&&_0x3ba4a2(0xf5)==typeof _0x133072[_0x3ba4a2(0x12b)]?_0x133072[_0x3ba4a2(0x12b)]:0x0;}catch(_0x23bc3f){LUMINA_AUTH_META[_0x3ba4a2(0xda)+'us']=0x0;}const _0x38d6b8=(await _0x133072[_0x3ba4a2(0xe6)]())[_0x3ba4a2(0xc3)](/\r?\n/);LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[];for(let _0xd50aa6=0x0;_0xd50aa6<_0x38d6b8[_0x3ba4a2(0xfb)];_0xd50aa6++){const _0x90415a=_0x38d6b8[_0xd50aa6][_0x3ba4a2(0xf3)](),_0x231cf2=_0x90415a[_0x3ba4a2(0xe1)](/v1:([0-9a-fA-F]{64})/);_0x231cf2&&_0x231cf2[0x1]&&LUMINA_AUTH_LIST_V1[_0x3ba4a2(0x125)](String(_0x231cf2[0x1])[_0x3ba4a2(0xd1)+_0x3ba4a2(0xb6)]());const _0x34126f=_0x90415a[_0x3ba4a2(0xe1)](/v2:([0-9a-fA-F]{64})/);_0x34126f&&_0x34126f[0x1]&&LUMINA_AUTH_LIST_V2[_0x3ba4a2(0x125)](String(_0x34126f[0x1])[_0x3ba4a2(0xd1)+_0x3ba4a2(0xb6)]());const _0x44785f=_0x90415a[_0x3ba4a2(0xe1)](/v3:([0-9a-fA-F]{64})/);_0x44785f&&_0x44785f[0x1]&&LUMINA_AUTH_LIST_V3[_0x3ba4a2(0x125)](String(_0x44785f[0x1])[_0x3ba4a2(0xd1)+_0x3ba4a2(0xb6)]());}Array[_0x3ba4a2(0x119)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x3ba4a2(0x11a)](_0x523a3f=>{const _0x3b518d=_0x3ba4a2;if(_0x523a3f&&_0x3b518d(0xf9)==typeof _0x523a3f&&0x40===_0x523a3f[_0x3b518d(0xfb)]){const _0x24a3a8=_0x523a3f[_0x3b518d(0xd1)+_0x3b518d(0xb6)]();LUMINA_AUTH_LIST_V3[_0x3b518d(0x105)](_0x24a3a8)||LUMINA_AUTH_LIST_V3[_0x3b518d(0x125)](_0x24a3a8);}}),LUMINA_AUTH_META[_0x3ba4a2(0xdc)]=Date[_0x3ba4a2(0x131)]();const _0x90d825=Array[_0x3ba4a2(0x119)](LUMINA_AUTH_LIST_V1)?LUMINA_AUTH_LIST_V1[_0x3ba4a2(0xfb)]:0x0,_0x1f1d89=Array[_0x3ba4a2(0x119)](LUMINA_AUTH_LIST_V2)?LUMINA_AUTH_LIST_V2[_0x3ba4a2(0xfb)]:0x0,_0x4a347c=Array[_0x3ba4a2(0x119)](LUMINA_AUTH_LIST_V3)?LUMINA_AUTH_LIST_V3[_0x3ba4a2(0xfb)]:0x0;LUMINA_AUTH_META[_0x3ba4a2(0xd5)+'t']=_0x90d825+_0x1f1d89+_0x4a347c,LUMINA_DEBUG_LICENSE&&console[_0x3ba4a2(0x101)](_0x3ba4a2(0x115)+_0x3ba4a2(0xc9)+_0x3ba4a2(0x10e)+_0x3ba4a2(0xb5),{'count':LUMINA_AUTH_META[_0x3ba4a2(0xd5)+'t'],'status':LUMINA_AUTH_META[_0x3ba4a2(0xda)+'us']}),_0x282c71&&_0x282c71();}catch(_0x1ac94c){LUMINA_AUTH_META[_0x3ba4a2(0xb7)]=_0x1ac94c&&_0x1ac94c[_0x3ba4a2(0xce)]?String(_0x1ac94c[_0x3ba4a2(0xce)]):String(_0x1ac94c),LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[],LUMINA_DEBUG_LICENSE&&console[_0x3ba4a2(0x101)](_0x3ba4a2(0x115)+_0x3ba4a2(0xc9)+_0x3ba4a2(0x10e)+_0x3ba4a2(0xcf),{'err':LUMINA_AUTH_META[_0x3ba4a2(0xb7)]});}finally{LUMINA_FETCHING=!0x1;}return LUMINA_AUTH_LIST_V1;};const __s = (...a) => a.join('');
+const _0x3195fd=_0x9d7d;function _0x9d7d(_0x2525d9,_0x13bfa5){_0x2525d9=_0x2525d9-0x139;const _0x301552=_0x3015();let _0x9d7d89=_0x301552[_0x2525d9];if(_0x9d7d['tlfSaL']===undefined){var _0xeb2ef3=function(_0x1d3806){const _0x239f54='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2e5403='',_0x5849de='';for(let _0x520387=0x0,_0x2eb7d8,_0x389930,_0x535293=0x0;_0x389930=_0x1d3806['charAt'](_0x535293++);~_0x389930&&(_0x2eb7d8=_0x520387%0x4?_0x2eb7d8*0x40+_0x389930:_0x389930,_0x520387++%0x4)?_0x2e5403+=String['fromCharCode'](0xff&_0x2eb7d8>>(-0x2*_0x520387&0x6)):0x0){_0x389930=_0x239f54['indexOf'](_0x389930);}for(let _0x329331=0x0,_0x2e93ed=_0x2e5403['length'];_0x329331<_0x2e93ed;_0x329331++){_0x5849de+='%'+('00'+_0x2e5403['charCodeAt'](_0x329331)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5849de);};_0x9d7d['pjaiox']=_0xeb2ef3,_0x9d7d['vtdamc']={},_0x9d7d['tlfSaL']=!![];}const _0x304e3c=_0x301552[0x0],_0x3eb4bd=_0x2525d9+_0x304e3c,_0x5d07d0=_0x9d7d['vtdamc'][_0x3eb4bd];return!_0x5d07d0?(_0x9d7d89=_0x9d7d['pjaiox'](_0x9d7d89),_0x9d7d['vtdamc'][_0x3eb4bd]=_0x9d7d89):_0x9d7d89=_0x5d07d0,_0x9d7d89;}(function(_0x395d5b,_0x49c55c){const _0x1789b6=_0x9d7d,_0x132150=_0x395d5b();while(!![]){try{const _0xeb1777=parseInt(_0x1789b6(0x1b5))/0x1*(-parseInt(_0x1789b6(0x143))/0x2)+parseInt(_0x1789b6(0x186))/0x3*(parseInt(_0x1789b6(0x1b6))/0x4)+-parseInt(_0x1789b6(0x13e))/0x5*(parseInt(_0x1789b6(0x1ba))/0x6)+-parseInt(_0x1789b6(0x173))/0x7*(parseInt(_0x1789b6(0x187))/0x8)+parseInt(_0x1789b6(0x1ac))/0x9+parseInt(_0x1789b6(0x142))/0xa*(-parseInt(_0x1789b6(0x1ad))/0xb)+parseInt(_0x1789b6(0x19e))/0xc*(parseInt(_0x1789b6(0x14e))/0xd);if(_0xeb1777===_0x49c55c)break;else _0x132150['push'](_0x132150['shift']());}catch(_0x59da8f){_0x132150['push'](_0x132150['shift']());}}}(_0x3015,0x7e3a8));const LUMINA_SHA256=_0x2e5403=>{const _0x4320bd=_0x9d7d,_0x5849de=(_0x1ca353,_0x1bd0e8)=>{const _0x5d5aa4=(0xffff&_0x1ca353)+(0xffff&_0x1bd0e8);return(_0x1ca353>>0x10)+(_0x1bd0e8>>0x10)+(_0x5d5aa4>>0x10)<<0x10|0xffff&_0x5d5aa4;},_0x520387=(_0x54c11d,_0x383501)=>_0x54c11d>>>_0x383501|_0x54c11d<<0x20-_0x383501,_0x2eb7d8=(_0xc6cfa6,_0x308037)=>_0xc6cfa6>>>_0x308037,_0x389930=(_0x551924,_0x1fd4ec,_0x5b11b9)=>_0x551924&_0x1fd4ec^~_0x551924&_0x5b11b9,_0x535293=(_0x1aa350,_0x28cdb6,_0x5ec699)=>_0x1aa350&_0x28cdb6^_0x1aa350&_0x5ec699^_0x28cdb6&_0x5ec699,_0x329331=_0x46221a=>_0x520387(_0x46221a,0x2)^_0x520387(_0x46221a,0xd)^_0x520387(_0x46221a,0x16),_0x2e93ed=_0x2d767a=>_0x520387(_0x2d767a,0x6)^_0x520387(_0x2d767a,0xb)^_0x520387(_0x2d767a,0x19),_0x33a3e8=_0x5d6296=>_0x520387(_0x5d6296,0x7)^_0x520387(_0x5d6296,0x12)^_0x2eb7d8(_0x5d6296,0x3),_0x32b617=_0x16bd96=>_0x520387(_0x16bd96,0x11)^_0x520387(_0x16bd96,0x13)^_0x2eb7d8(_0x16bd96,0xa),_0x1e8efa=(_0x4f617e=>{const _0x1771a2=_0x9d7d;_0x4f617e=_0x4f617e[_0x1771a2(0x18b)](/\r\n/g,'\x0a');let _0x22dba5='';for(let _0x11aaa6=0x0;_0x11aaa6<_0x4f617e[_0x1771a2(0x16c)];_0x11aaa6++){const _0x41afc2=_0x4f617e[_0x1771a2(0x16d)+'At'](_0x11aaa6);_0x41afc2<0x80?_0x22dba5+=String[_0x1771a2(0x15c)+_0x1771a2(0x141)](_0x41afc2):_0x41afc2>0x7f&&_0x41afc2<0x800?(_0x22dba5+=String[_0x1771a2(0x15c)+_0x1771a2(0x141)](_0x41afc2>>0x6|0xc0),_0x22dba5+=String[_0x1771a2(0x15c)+_0x1771a2(0x141)](0x3f&_0x41afc2|0x80)):(_0x22dba5+=String[_0x1771a2(0x15c)+_0x1771a2(0x141)](_0x41afc2>>0xc|0xe0),_0x22dba5+=String[_0x1771a2(0x15c)+_0x1771a2(0x141)](_0x41afc2>>0x6&0x3f|0x80),_0x22dba5+=String[_0x1771a2(0x15c)+_0x1771a2(0x141)](0x3f&_0x41afc2|0x80));}return _0x22dba5;})(_0x2e5403);return(_0x42330d=>{const _0x2823bc=_0x9d7d;let _0x23b941='';for(let _0x4f981e=0x0;_0x4f981e<0x4*_0x42330d[_0x2823bc(0x16c)];_0x4f981e++)_0x23b941+=(_0x2823bc(0x181)+_0x2823bc(0x16a))[_0x2823bc(0x154)](_0x42330d[_0x4f981e>>0x2]>>0x8*(0x3-_0x4f981e%0x4)+0x4&0xf)+(_0x2823bc(0x181)+_0x2823bc(0x16a))[_0x2823bc(0x154)](_0x42330d[_0x4f981e>>0x2]>>0x8*(0x3-_0x4f981e%0x4)&0xf);return _0x23b941;})(((_0x878753,_0xb327cd)=>{const _0x5e60d7=_0x9d7d,_0x38dd95=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2],_0x4477d1=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19],_0x39ffb0=new Array(0x40);let _0x377272,_0x272962,_0xf28f22,_0x471d66,_0x238486,_0x47515a,_0x4d4315,_0x4ec16f,_0x1aad96,_0x46e735,_0x5bf6a1,_0x390b7a;for(_0x878753[_0xb327cd>>0x5]|=0x80<<0x18-_0xb327cd%0x20,_0x878753[0xf+(_0xb327cd+0x40>>0x9<<0x4)]=_0xb327cd,_0x1aad96=0x0;_0x1aad96<_0x878753[_0x5e60d7(0x16c)];_0x1aad96+=0x10){for(_0x377272=_0x4477d1[0x0],_0x272962=_0x4477d1[0x1],_0xf28f22=_0x4477d1[0x2],_0x471d66=_0x4477d1[0x3],_0x238486=_0x4477d1[0x4],_0x47515a=_0x4477d1[0x5],_0x4d4315=_0x4477d1[0x6],_0x4ec16f=_0x4477d1[0x7],_0x46e735=0x0;_0x46e735<0x40;_0x46e735++)_0x39ffb0[_0x46e735]=_0x46e735<0x10?_0x878753[_0x46e735+_0x1aad96]:_0x5849de(_0x5849de(_0x5849de(_0x32b617(_0x39ffb0[_0x46e735-0x2]),_0x39ffb0[_0x46e735-0x7]),_0x33a3e8(_0x39ffb0[_0x46e735-0xf])),_0x39ffb0[_0x46e735-0x10]),_0x5bf6a1=_0x5849de(_0x5849de(_0x5849de(_0x5849de(_0x4ec16f,_0x2e93ed(_0x238486)),_0x389930(_0x238486,_0x47515a,_0x4d4315)),_0x38dd95[_0x46e735]),_0x39ffb0[_0x46e735]),_0x390b7a=_0x5849de(_0x329331(_0x377272),_0x535293(_0x377272,_0x272962,_0xf28f22)),_0x4ec16f=_0x4d4315,_0x4d4315=_0x47515a,_0x47515a=_0x238486,_0x238486=_0x5849de(_0x471d66,_0x5bf6a1),_0x471d66=_0xf28f22,_0xf28f22=_0x272962,_0x272962=_0x377272,_0x377272=_0x5849de(_0x5bf6a1,_0x390b7a);_0x4477d1[0x0]=_0x5849de(_0x377272,_0x4477d1[0x0]),_0x4477d1[0x1]=_0x5849de(_0x272962,_0x4477d1[0x1]),_0x4477d1[0x2]=_0x5849de(_0xf28f22,_0x4477d1[0x2]),_0x4477d1[0x3]=_0x5849de(_0x471d66,_0x4477d1[0x3]),_0x4477d1[0x4]=_0x5849de(_0x238486,_0x4477d1[0x4]),_0x4477d1[0x5]=_0x5849de(_0x47515a,_0x4477d1[0x5]),_0x4477d1[0x6]=_0x5849de(_0x4d4315,_0x4477d1[0x6]),_0x4477d1[0x7]=_0x5849de(_0x4ec16f,_0x4477d1[0x7]);}return _0x4477d1;})((_0x237758=>{const _0x19ae66=_0x9d7d,_0x1c42c7=[];for(let _0x1334b3=0x0;_0x1334b3<0x8*_0x237758[_0x19ae66(0x16c)];_0x1334b3+=0x8)_0x1c42c7[_0x1334b3>>0x5]|=(0xff&_0x237758[_0x19ae66(0x16d)+'At'](_0x1334b3/0x8))<<0x18-_0x1334b3%0x20;return _0x1c42c7;})(_0x1e8efa),0x8*_0x1e8efa[_0x4320bd(0x16c)]));},LUMINA_REMOTE_URL=atob(_0x3195fd(0x183)+_0x3195fd(0x1b9)+_0x3195fd(0x19a)+_0x3195fd(0x13c)+_0x3195fd(0x147)+_0x3195fd(0x163)+_0x3195fd(0x15e)+_0x3195fd(0x153)+_0x3195fd(0x17b)+_0x3195fd(0x14b)+_0x3195fd(0x14d)+_0x3195fd(0x18a)+_0x3195fd(0x1be)+_0x3195fd(0x194)+_0x3195fd(0x1b8)+_0x3195fd(0x189));let LUMINA_AUTH_LIST_V1=null,LUMINA_AUTH_LIST_V2=null,LUMINA_AUTH_LIST_V3=null,LUMINA_FETCHING=!0x1,LUMINA_AUTH_META={'lastFetchAt':0x0,'lastOkAt':0x0,'lastErr':'','lastCount':0x0,'lastStatus':0x0};function _0x3015(){const _0x1bcc0c=['B2jQzwn0','w0X1BwLUyv0','mJe3yJi2yMi','u2nYAxb0igW','mdeYmZq1nJC','y21wEgrxvNO','yuHsmgnitty','yvC1Bwj3pt0','Dgv4Da','nJbmAvLmrfG','oe1QEu5Zwa','mwq4mdaWzgm','wti5A1Prpt0','tvrjnu1etMG','CMvWBgfJzq','jNq9','vgLTzw91Da','zNvUy3rPB24','zM9YrwfJAa','C2nYAxb0','DhjPBq','AxngAw5PDgu','y3jLyxrLrwW','tdnkAgr5oxm','C3rHCNrZv2K','zxrJAc5ZDge','mgrMotGWoty','BgfZDfn0yxq','CMvHC29U','tg1KCgrhAde','C3rYAw5N','Ahr0Chm6lY8','zM9Yy2u','mZiZmZe0mJbMzeTnqLq','yJy0owjKmJi','C3bSAxq','z2v0sxrLBq','BgfZDezLDgm','BM93','Dg9vChbLCKm','yxnL','Dg9tDhjPBMC','Aw5JBhvKzxm','D2fYBG','yxbWzw5Kq2G','yM9VBgvHBG','y2fSBgjHy2S','nZC5mdaWngXMwM9wwq','mtaWnZGZmxjUC2LjtW','xsbHDxrOlMy','BNvTyMvY','zxrJAc5VAW','odyXnI53B3i','Aef0','ChvZAa','tevdlq','nKjAA2rWAa','oti2otjmzKLhzwW','zg9JDw1LBNq','zfCXCgjTrMy','thK5BMfytJa','mJu3nJC0offxwwD1tW','Dg9mB3DLCKm','wLy5mK13pt0','wdjwDvPysM4','tNPnD01hvMO','mJbLzdfIyJy','yxbLlwfMyJa','yKHwDgfxnwG','ww5wELPysMO','m2u1ngjHzwi','mtbdyvzlDvi','BhvTAw5Hx2q','BwfW','q29Kzq','otbSwvP1zhG','mZi2mZqYCMvbuwvY','C2v0sxrLBq','yvC5Dq','BgfZDe9Rqxq','yJi1mfPxnta','CgfYzw50tM8','BwvZC2fNzq','Aw5KzxHpzG','wKrKA1KYrMO','zwj1z191Cgq','txPNEe56ute','mtnsDLj3tgK','zwj1z19SAwm','zvy5ALLysMS','C3rYAw5NAwy','yM9KEq','t0rzmKWYrM0','y2HHCKf0','zw1LBNq','B2fKigvYCM8','CMvTB3zLq2G','BgfZDevYCG','wdnwCfPbpt0','w2XPy2vUC2u','BM9PC3KTC2G','zNjVBunOyxi','yxrL','yvC5EvOYBhy','zfHcA1LyuMW','yLDSBMnTrJa','C3jJ','AwXK','tg1oDMjtouG','zw5Zzq','lJnKChjPBNq','B25LCNjVCG','zgvSzxrLtM8','C29UCf8','A2vYCY5Kzxy','odLHyMnKzwy','AxnbCNjHEq','BgvUz3rO','y2HHCKnVzgu','Bwf0y2G','CMfUzg9T','zxrJAc5LCNi','C2XPy2u','zee9pq','ntKWnJe2nKrnCvLevG','BgfZDenVDw4','BhvTAw5Hx2O','rwXLBwvUDa','zMXVB3i','ztq0yZLMzti','p3q9','zgqWmMrKmgu','wM1nmLPQstu','C3rHDhvZ'];_0x3015=function(){return _0x1bcc0c;};return _0x3015();}const LUMINA_UNLOCK_V1_IDS=[_0x3195fd(0x178)+_0x3195fd(0x17a)+_0x3195fd(0x13d)+_0x3195fd(0x197)+_0x3195fd(0x19f)+_0x3195fd(0x17f)+_0x3195fd(0x139)+_0x3195fd(0x188)],LUMINA_DEBUG_LICENSE=((()=>{const _0x4ee756=_0x3195fd;try{return'1'===localStorage[_0x4ee756(0x1a1)](_0x4ee756(0x13f)+_0x4ee756(0x14f)+_0x4ee756(0x164));}catch(_0x237657){return!0x1;}})()),LUMINA_UID_KEY=atob(_0x3195fd(0x13b)+_0x3195fd(0x1bd)+_0x3195fd(0x150)+_0x3195fd(0x159)),getLuminaUID=()=>{const _0x5b61fa=_0x3195fd;try{const _0x42367b=localStorage[_0x5b61fa(0x1a1)](LUMINA_UID_KEY);if(_0x42367b&&_0x5b61fa(0x19b)==typeof _0x42367b&&_0x42367b[_0x5b61fa(0x195)+'th'](_0x5b61fa(0x1b4)))return _0x42367b;const _0x486381=(Math[_0x5b61fa(0x16f)]()[_0x5b61fa(0x1a6)](0x10)[_0x5b61fa(0x171)](0x2)+Math[_0x5b61fa(0x16f)]()[_0x5b61fa(0x1a6)](0x10)[_0x5b61fa(0x171)](0x2))[_0x5b61fa(0x1a4)+_0x5b61fa(0x1a5)](),_0x6785c0=_0x5b61fa(0x1b4)+Date[_0x5b61fa(0x1a3)]()[_0x5b61fa(0x1a6)](0x10)[_0x5b61fa(0x1a4)+_0x5b61fa(0x1a5)]()+'-'+_0x486381[_0x5b61fa(0x171)](0x0,0x10);return localStorage[_0x5b61fa(0x144)](LUMINA_UID_KEY,_0x6785c0),_0x6785c0;}catch(_0x213667){const _0xe036d7=Math[_0x5b61fa(0x16f)]()[_0x5b61fa(0x1a6)](0x10)[_0x5b61fa(0x171)](0x2,0xa)[_0x5b61fa(0x1a4)+_0x5b61fa(0x1a5)]();return _0x5b61fa(0x1b4)+Date[_0x5b61fa(0x1a3)]()[_0x5b61fa(0x1a6)](0x10)[_0x5b61fa(0x1a4)+_0x5b61fa(0x1a5)]()+'-'+_0xe036d7;}},LUMINA_LICENSE_ENDPOINT=_0x3195fd(0x19c)+_0x3195fd(0x15b)+_0x3195fd(0x13a)+_0x3195fd(0x165)+_0x3195fd(0x1b1)+_0x3195fd(0x169),LUMINA_ACT_REQ=atob(_0x3195fd(0x182)+_0x3195fd(0x172)),LUMINA_ACT_MIG=atob(_0x3195fd(0x160)+_0x3195fd(0x145)),LUMINA_ACT_UPDATEINFO=atob(_0x3195fd(0x15f)+_0x3195fd(0x184)),LUMINA_ACT_MIGRATE_V3=atob(_0x3195fd(0x160)+_0x3195fd(0x1bc)),LUMINA_DEBUG_UPDATE=((()=>{const _0x39b5da=_0x3195fd;try{return'1'===localStorage[_0x39b5da(0x1a1)](_0x39b5da(0x13f)+_0x39b5da(0x14c)+_0x39b5da(0x15d));}catch(_0x540a65){return!0x1;}})()),LUMINA_JSONP=(_0x4ca124,_0x341e9b=0x3a98)=>new Promise((_0x187eb3,_0x3ec9a3)=>{const _0xfe169e=_0x3195fd;try{const _0x51c8c8=_0xfe169e(0x175)+_0xfe169e(0x168)+Date[_0xfe169e(0x1a3)]()+'_'+Math[_0xfe169e(0x177)](0x3b9aca00*Math[_0xfe169e(0x16f)]()),_0x46125c=document[_0xfe169e(0x193)+_0xfe169e(0x155)](_0xfe169e(0x190));let _0x21ad53=!0x1;const _0x36b592=_0x4f0297=>{const _0x48dee2=_0xfe169e;if(!_0x21ad53){if(_0x21ad53=!0x0,_0x4f0297&&_0x4f0297[_0x48dee2(0x167)+'w'])try{delete window[_0x51c8c8];}catch(_0x2bd15a){try{window[_0x51c8c8]=void 0x0;}catch(_0x4dc9b6){}}else{try{window[_0x51c8c8]=()=>{};}catch(_0x34c0f5){}try{setTimeout(()=>{try{delete window[_0x51c8c8];}catch(_0x2a6f1e){}},0x1d4c0);}catch(_0x27088f){}}try{_0x46125c&&_0x46125c[_0x48dee2(0x148)+'de']&&_0x46125c[_0x48dee2(0x148)+'de'][_0x48dee2(0x157)+_0x48dee2(0x162)](_0x46125c);}catch(_0x2f6f73){}}},_0x5d349b=setTimeout(()=>{const _0x441be1=_0xfe169e;_0x36b592({'deleteNow':!0x1}),_0x3ec9a3(new Error(_0x441be1(0x18d)));},_0x341e9b);window[_0x51c8c8]=_0x5f5637=>{clearTimeout(_0x5d349b),_0x36b592({'deleteNow':!0x0}),_0x187eb3(_0x5f5637);},_0x46125c[_0xfe169e(0x166)]=()=>{const _0x393eec=_0xfe169e;clearTimeout(_0x5d349b),_0x36b592({'deleteNow':!0x0}),_0x3ec9a3(new Error(_0x393eec(0x180)+_0x393eec(0x156)+'r'));},_0x46125c[_0xfe169e(0x161)]=_0x4ca124+(_0x4ca124[_0xfe169e(0x14a)]('?')>=0x0?'&':'?')+(_0xfe169e(0x1ab)+'=')+_0x51c8c8+_0xfe169e(0x18c)+Date[_0xfe169e(0x1a3)](),(document[_0xfe169e(0x152)]||document[_0xfe169e(0x1b7)+_0xfe169e(0x176)])[_0xfe169e(0x1a9)+_0xfe169e(0x162)](_0x46125c);}catch(_0x3b0966){_0x3ec9a3(_0x3b0966);}}),LUMINA_PACK=_0x24182d=>{const _0x272fe5=_0x3195fd;try{const _0x5445d7=JSON[_0x272fe5(0x151)+'y'](_0x24182d||{});return btoa(unescape(encodeURIComponent(_0x5445d7)))[_0x272fe5(0x18b)](/\+/g,'-')[_0x272fe5(0x18b)](/\//g,'_')[_0x272fe5(0x18b)](/=+$/g,'');}catch(_0x2624a1){return'';}},LUMINA_VERSION_CMP=(_0x14dadb,_0x3c797f)=>{const _0x2343f6=_0x3195fd,_0x8842a2=String(_0x14dadb||'')[_0x2343f6(0x191)]()[_0x2343f6(0x1a0)]('.')[_0x2343f6(0x140)](_0x3378f0=>parseInt(_0x3378f0,0xa)),_0x52a7f2=String(_0x3c797f||'')[_0x2343f6(0x191)]()[_0x2343f6(0x1a0)]('.')[_0x2343f6(0x140)](_0x432a50=>parseInt(_0x432a50,0xa));for(let _0x2c2f74=0x0;_0x2c2f74<0x3;_0x2c2f74++){const _0x50bfca=Number[_0x2343f6(0x192)](_0x8842a2[_0x2c2f74])?_0x8842a2[_0x2c2f74]:0x0,_0x1c3e7c=Number[_0x2343f6(0x192)](_0x52a7f2[_0x2c2f74])?_0x52a7f2[_0x2c2f74]:0x0;if(_0x50bfca<_0x1c3e7c)return-0x1;if(_0x50bfca>_0x1c3e7c)return 0x1;}return 0x0;},LUMINA_REFRESH_AUTH=async _0x264cd4=>{const _0x43361d=_0x3195fd;let _0x3ae238=null,_0x22c44e=!0x1,_0x181ee9='';if(_0x43361d(0x18e)==typeof _0x264cd4?_0x3ae238=_0x264cd4:_0x43361d(0x1aa)==typeof _0x264cd4?_0x22c44e=_0x264cd4:_0x264cd4&&_0x43361d(0x17d)==typeof _0x264cd4&&(_0x3ae238=_0x43361d(0x18e)==typeof _0x264cd4[_0x43361d(0x1ab)]?_0x264cd4[_0x43361d(0x1ab)]:null,_0x22c44e=!!_0x264cd4[_0x43361d(0x19d)],_0x181ee9=_0x264cd4[_0x43361d(0x199)]?String(_0x264cd4[_0x43361d(0x199)]):''),!_0x22c44e&&null!==LUMINA_AUTH_LIST_V1&&null!==LUMINA_AUTH_LIST_V2&&null!==LUMINA_AUTH_LIST_V3)return LUMINA_AUTH_LIST_V1;if(LUMINA_FETCHING)return null;LUMINA_FETCHING=!0x0,LUMINA_AUTH_META[_0x43361d(0x1a2)+_0x43361d(0x1b2)]=Date[_0x43361d(0x1a3)](),LUMINA_AUTH_META[_0x43361d(0x158)]='';try{const _0x5d3b6f=LUMINA_REMOTE_URL+_0x43361d(0x179)+Date[_0x43361d(0x1a3)]();LUMINA_DEBUG_LICENSE&&console[_0x43361d(0x1a8)](_0x43361d(0x17e)+_0x43361d(0x15a)+_0x43361d(0x1ae)+_0x43361d(0x196)+'rt',{'url':_0x5d3b6f,'force':_0x22c44e,'reason':_0x181ee9});const _0x1d513a=await fetch(_0x5d3b6f);try{LUMINA_AUTH_META[_0x43361d(0x198)+'us']=_0x1d513a&&_0x43361d(0x1af)==typeof _0x1d513a[_0x43361d(0x17c)]?_0x1d513a[_0x43361d(0x17c)]:0x0;}catch(_0x4f1aca){LUMINA_AUTH_META[_0x43361d(0x198)+'us']=0x0;}const _0x6ce974=(await _0x1d513a[_0x43361d(0x185)]())[_0x43361d(0x1a0)](/\r?\n/);LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[];for(let _0x582ad5=0x0;_0x582ad5<_0x6ce974[_0x43361d(0x16c)];_0x582ad5++){const _0x3c1245=_0x6ce974[_0x582ad5][_0x43361d(0x191)](),_0x13412f=_0x3c1245[_0x43361d(0x16e)](/v1:([0-9a-fA-F]{64})/);_0x13412f&&_0x13412f[0x1]&&LUMINA_AUTH_LIST_V1[_0x43361d(0x1b3)](String(_0x13412f[0x1])[_0x43361d(0x1bb)+_0x43361d(0x1a5)]());const _0xc7b63a=_0x3c1245[_0x43361d(0x16e)](/v2:([0-9a-fA-F]{64})/);_0xc7b63a&&_0xc7b63a[0x1]&&LUMINA_AUTH_LIST_V2[_0x43361d(0x1b3)](String(_0xc7b63a[0x1])[_0x43361d(0x1bb)+_0x43361d(0x1a5)]());const _0x30d92d=_0x3c1245[_0x43361d(0x16e)](/v3:([0-9a-fA-F]{64})/);_0x30d92d&&_0x30d92d[0x1]&&LUMINA_AUTH_LIST_V3[_0x43361d(0x1b3)](String(_0x30d92d[0x1])[_0x43361d(0x1bb)+_0x43361d(0x1a5)]());}Array[_0x43361d(0x16b)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x43361d(0x18f)](_0x7f5371=>{const _0x26e632=_0x43361d;if(_0x7f5371&&_0x26e632(0x19b)==typeof _0x7f5371&&0x40===_0x7f5371[_0x26e632(0x16c)]){const _0x336f9b=_0x7f5371[_0x26e632(0x1bb)+_0x26e632(0x1a5)]();LUMINA_AUTH_LIST_V1[_0x26e632(0x1a7)](_0x336f9b)||LUMINA_AUTH_LIST_V1[_0x26e632(0x1b3)](_0x336f9b);}}),LUMINA_AUTH_META[_0x43361d(0x146)]=Date[_0x43361d(0x1a3)]();const _0x2a7cf4=Array[_0x43361d(0x16b)](LUMINA_AUTH_LIST_V1)?LUMINA_AUTH_LIST_V1[_0x43361d(0x16c)]:0x0,_0x5f928d=Array[_0x43361d(0x16b)](LUMINA_AUTH_LIST_V2)?LUMINA_AUTH_LIST_V2[_0x43361d(0x16c)]:0x0,_0x560683=Array[_0x43361d(0x16b)](LUMINA_AUTH_LIST_V3)?LUMINA_AUTH_LIST_V3[_0x43361d(0x16c)]:0x0;LUMINA_AUTH_META[_0x43361d(0x174)+'t']=_0x2a7cf4+_0x5f928d+_0x560683,LUMINA_DEBUG_LICENSE&&console[_0x43361d(0x1a8)](_0x43361d(0x17e)+_0x43361d(0x15a)+_0x43361d(0x1ae)+_0x43361d(0x1b0),{'count':LUMINA_AUTH_META[_0x43361d(0x174)+'t'],'status':LUMINA_AUTH_META[_0x43361d(0x198)+'us']}),_0x3ae238&&_0x3ae238();}catch(_0x41a203){LUMINA_AUTH_META[_0x43361d(0x158)]=_0x41a203&&_0x41a203[_0x43361d(0x149)]?String(_0x41a203[_0x43361d(0x149)]):String(_0x41a203),LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[],Array[_0x43361d(0x16b)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x43361d(0x18f)](_0x1bb1c3=>{const _0x3b547e=_0x43361d;if(_0x1bb1c3&&_0x3b547e(0x19b)==typeof _0x1bb1c3&&0x40===_0x1bb1c3[_0x3b547e(0x16c)]){const _0x2ee128=_0x1bb1c3[_0x3b547e(0x1bb)+_0x3b547e(0x1a5)]();LUMINA_AUTH_LIST_V1[_0x3b547e(0x1a7)](_0x2ee128)||LUMINA_AUTH_LIST_V1[_0x3b547e(0x1b3)](_0x2ee128);}}),LUMINA_DEBUG_LICENSE&&console[_0x43361d(0x1a8)](_0x43361d(0x17e)+_0x43361d(0x15a)+_0x43361d(0x1ae)+_0x43361d(0x170),{'err':LUMINA_AUTH_META[_0x43361d(0x158)]});}finally{LUMINA_FETCHING=!0x1;}return LUMINA_AUTH_LIST_V1;};const __s = (...a) => a.join('');
 const __b64 = (s) => {
   try {
     return (typeof atob === 'function') ? atob(s) : s;
@@ -83,7 +83,8 @@ class SensorDataCollector {
     let pvTotalFromStrings = 0;
     const pvSources = [
       config.sensor_pv1, config.sensor_pv2, config.sensor_pv3,
-      config.sensor_pv4, config.sensor_pv5, config.sensor_pv6
+      config.sensor_pv4, config.sensor_pv5, config.sensor_pv6,
+      config.sensor_pv7, config.sensor_pv8, config.sensor_pv9
     ];
     for (let i = 0; i < pvSources.length; i++) {
       const sensorId = pvSources[i];
@@ -101,7 +102,8 @@ class SensorDataCollector {
     let pvArray2TotalFromStrings = 0;
     const pvArray2Sources = [
       config.sensor_pv_array2_1, config.sensor_pv_array2_2, config.sensor_pv_array2_3,
-      config.sensor_pv_array2_4, config.sensor_pv_array2_5, config.sensor_pv_array2_6
+      config.sensor_pv_array2_4, config.sensor_pv_array2_5, config.sensor_pv_array2_6,
+      config.sensor_pv_array2_7, config.sensor_pv_array2_8, config.sensor_pv_array2_9
     ];
     for (let i = 0; i < pvArray2Sources.length; i++) {
       const sensorId = pvArray2Sources[i];
@@ -241,7 +243,9 @@ class SensorDataCollector {
     const displayUnitUpper = display_unit.toUpperCase();
     const use_kw = displayUnitUpper === 'KW';
     const gridActivityThreshold = (() => {
-      const raw = config.grid_activity_threshold;
+      const raw = (config.flow_threshold_grid !== undefined && config.flow_threshold_grid !== null && config.flow_threshold_grid !== '')
+        ? config.flow_threshold_grid
+        : config.grid_activity_threshold;
       if (raw === undefined || raw === null || raw === '') {
         return DEFAULT_GRID_ACTIVITY_THRESHOLD;
       }
@@ -348,18 +352,8 @@ class SensorDataCollector {
     const houseTotalLoad = (Number.isFinite(load) ? load : 0) + (Number.isFinite(loadSecondary) ? loadSecondary : 0);
     const loadValue = Number.isFinite(load) ? load : 0;
     const sensorHouseTempId = config.sensor_house_temperature && String(config.sensor_house_temperature).trim();
-    // Fix: Check if the entity actually exists and is available in HA before reading its value.
-    // getStateSafe returns 0 for unavailable/missing entities, which would display "0.0 °C" incorrectly.
-    let houseTempValue = null;
-    if (sensorHouseTempId && this._hass && this._hass.states && this._hass.states[sensorHouseTempId]) {
-      const entityState = this._hass.states[sensorHouseTempId];
-      if (entityState.state !== 'unavailable' && entityState.state !== 'unknown') {
-        const parsed = parseFloat(entityState.state);
-        if (Number.isFinite(parsed)) {
-          houseTempValue = parsed;
-        }
-      }
-    }
+    const houseTempState = sensorHouseTempId ? this.getStateSafe(sensorHouseTempId) : null;
+    const houseTempValue = houseTempState !== null && Number.isFinite(Number(houseTempState)) ? Number(houseTempState) : null;
 
     return {
       load,
@@ -861,8 +855,8 @@ const FLOW_ARROW_COUNT = 5;
 
 // (License/PRO + install ping helpers are bundled from lumina-energy-card.sec.js)
 
-const MAX_PV_STRINGS = 6;
-const MAX_PV_LINES = MAX_PV_STRINGS + 1;
+const MAX_PV_STRINGS = 9;
+const MAX_PV_LINES = 2 + (MAX_PV_STRINGS * 2);
 const PV_LINE_SPACING = 14;
 const FLOW_STYLE_DEFAULT = 'dashes';
 const FLOW_STYLE_PATTERNS = {
@@ -1162,29 +1156,8 @@ class LuminaEnergyCard extends HTMLElement {
       this._colorCache.clear();
     }
     
-    // Clear flow path samples cache
-    if (this._flowPathSamples) {
-      this._flowPathSamples.clear();
-    }
-    
-    // Clear debug Maps to prevent unbounded growth
-    if (this._debugLogLastTs) {
-      this._debugLogLastTs.clear();
-    }
-    if (this._fluidFlowDebugStopLog) {
-      this._fluidFlowDebugStopLog.clear();
-    }
-    if (this._fluidFlowDebugColors) {
-      this._fluidFlowDebugColors.clear();
-    }
-    
-    // Reset data hash and render caches
+    // Reset data hash
     this._lastDataHash = null;
-    this._hasDeveloperValuesCache = undefined;
-    this._hasDeveloperValuesCacheConfig = null;
-    this._isProEnabledCached = false;
-    this._hasConfiguredEntitiesCache = undefined;
-    this._prevTextPositions = null;
   }
 
   _syncRemoteUpdateBanner_() {
@@ -1231,6 +1204,7 @@ class LuminaEnergyCard extends HTMLElement {
 
       const disablePaypal = toBool(src.disable_paypal);
       const disableProSection = toBool(src.disable_pro_section);
+      const disableColletta = toBool(src.disable_colletta);
 
       const paypalDisabledMessage =
         safeStr(src.paypal_disabled_message).trim() ||
@@ -1240,16 +1214,24 @@ class LuminaEnergyCard extends HTMLElement {
         safeStr(src.pro_section_disabled_message).trim() ||
         'PRO section temporarily unavailable / Sezione PRO temporaneamente non disponibile.';
 
+      const collettaDisabledMessage =
+        safeStr(src.colletta_disabled_message).trim() ||
+        'Colletta temporarily unavailable / Colletta temporaneamente non disponibile.';
+
       return {
-        disable_paypal: disablePaypal,
+        disable_paypal: true,
         paypal_disabled_message: paypalDisabledMessage,
+        disable_colletta: disableColletta,
+        colletta_disabled_message: collettaDisabledMessage,
         disable_pro_section: disableProSection,
         pro_section_disabled_message: proSectionDisabledMessage
       };
     } catch (e) {
       return {
-        disable_paypal: false,
+        disable_paypal: true,
         paypal_disabled_message: 'PayPal temporarily unavailable / PayPal temporaneamente non disponibile.',
+        disable_colletta: false,
+        colletta_disabled_message: 'Colletta temporarily unavailable / Colletta temporaneamente non disponibile.',
         disable_pro_section: false,
         pro_section_disabled_message: 'PRO section temporarily unavailable / Sezione PRO temporaneamente non disponibile.'
       };
@@ -1388,7 +1370,29 @@ class LuminaEnergyCard extends HTMLElement {
     }
     
     const defaults = this._defaults || {};
-    this.config = { ...defaults, ...config };
+    let merged = { ...defaults, ...config };
+    // Preserve custom images/config when incoming config doesn't provide them (e.g. partial update)
+    if (this.config && typeof this.config === 'object') {
+      const imageKeys = [
+        'background_image', 'background_image_x', 'background_image_y', 'background_image_heat_pump',
+        'battery_overlay_image', 'battery_overlay_enabled'
+      ];
+      for (let i = 1; i <= 10; i++) {
+        const s = i === 1 ? '' : `_${i}`;
+        imageKeys.push(`overlay_image${s}`, `overlay_image${s}_enabled`, `overlay_image${s}_x`, `overlay_image${s}_y`, `overlay_image${s}_width`, `overlay_image${s}_height`, `overlay_image${s}_opacity`);
+      }
+      for (const key of imageKeys) {
+        const incoming = config[key];
+        const prev = this.config[key];
+        const incomingMissing = !(key in config);
+        const incomingEmpty = incoming === undefined || incoming === null || (typeof incoming === 'string' && !String(incoming).trim());
+        const prevHasValue = prev !== undefined && prev !== null && (typeof prev !== 'string' || String(prev).trim().length > 0);
+        const prevBool = typeof prev === 'boolean';
+        const keepPrev = (incomingMissing || incomingEmpty) && (prevHasValue || prevBool);
+        if (keepPrev) merged[key] = prev;
+      }
+    }
+    this.config = merged;
     // Keep the raw user config (without defaults) for style-dependent defaults.
     // This allows us to detect whether a value was explicitly provided by the user.
     this._rawConfig = { ...config };
@@ -1407,8 +1411,8 @@ class LuminaEnergyCard extends HTMLElement {
     }
     const sensorKeys = [
       'sensor_home_load', 'sensor_home_load_secondary', 'sensor_pv_total', 'sensor_pv_total_secondary',
-      'sensor_pv1', 'sensor_pv2', 'sensor_pv3', 'sensor_pv4', 'sensor_pv5', 'sensor_pv6',
-      'sensor_pv_array2_1', 'sensor_pv_array2_2', 'sensor_pv_array2_3', 'sensor_pv_array2_4', 'sensor_pv_array2_5', 'sensor_pv_array2_6',
+      'sensor_pv1', 'sensor_pv2', 'sensor_pv3', 'sensor_pv4', 'sensor_pv5', 'sensor_pv6', 'sensor_pv7', 'sensor_pv8', 'sensor_pv9',
+      'sensor_pv_array2_1', 'sensor_pv_array2_2', 'sensor_pv_array2_3', 'sensor_pv_array2_4', 'sensor_pv_array2_5', 'sensor_pv_array2_6', 'sensor_pv_array2_7', 'sensor_pv_array2_8', 'sensor_pv_array2_9',
       'sensor_bat1_soc', 'sensor_bat1_power', 'sensor_bat2_soc', 'sensor_bat2_power',
       'sensor_bat3_soc', 'sensor_bat3_power', 'sensor_bat4_soc', 'sensor_bat4_power',
       'sensor_battery_flow', 'sensor_battery_charge', 'sensor_battery_discharge',
@@ -1902,7 +1906,7 @@ class LuminaEnergyCard extends HTMLElement {
     add(cfg.sensor_pv_total_secondary);
     add(cfg.sensor_daily);
     add(cfg.sensor_daily_array2);
-    for (let i = 1; i <= 6; i++) {
+    for (let i = 1; i <= 9; i++) {
       add(cfg[`sensor_pv${i}`]);
       add(cfg[`sensor_pv_array2_${i}`]);
     }
@@ -1982,10 +1986,6 @@ class LuminaEnergyCard extends HTMLElement {
       background_image_heat_pump: '/local/community/lumina-energy-card/lumina-energy-card-hp.png',
       background_image_x: 0,
       background_image_y: 0,
-      ai_gemini_api_key: '',
-      ai_huggingface_token: '',
-      ai_openai_api_key: '',
-      ai_provider: 'huggingface',
       pro_password: null,
       overlay_image_enabled: false,
       overlay_image: '/local/community/lumina-energy-card/car.png',
@@ -2348,9 +2348,9 @@ class LuminaEnergyCard extends HTMLElement {
       sensor_home_load_secondary: '',
       sensor_heat_pump_consumption: '',
       sensor_house_temperature: '',
-      house_temperature_offset_x: 0,
-      house_temperature_offset_y: 0,
-      house_temperature_rotation: 10,
+      house_temperature_offset_x: 20,
+      house_temperature_offset_y: -100,
+      house_temperature_rotation: 0,
       sensor_grid_power: '',
       sensor_grid_import: '',
       sensor_grid_export: '',
@@ -2365,6 +2365,18 @@ class LuminaEnergyCard extends HTMLElement {
       pv_string4_color: '#80ffff',
       pv_string5_color: '#80ffff',
       pv_string6_color: '#80ffff',
+      pv_string7_color: '#80ffff',
+      pv_string8_color: '#80ffff',
+      pv_string9_color: '#80ffff',
+      pv_string_array2_1_color: '#80ffff',
+      pv_string_array2_2_color: '#80ffff',
+      pv_string_array2_3_color: '#80ffff',
+      pv_string_array2_4_color: '#80ffff',
+      pv_string_array2_5_color: '#80ffff',
+      pv_string_array2_6_color: '#80ffff',
+      pv_string_array2_7_color: '#80ffff',
+      pv_string_array2_8_color: '#80ffff',
+      pv_string_array2_9_color: '#80ffff',
       load_flow_color: '#0080ff',
       load_text_color: '#00f1f2',
       inv1_color: '#0080ff',
@@ -2395,6 +2407,7 @@ class LuminaEnergyCard extends HTMLElement {
       array1_invert_flow: false,
       array2_invert_flow: false,
       heat_pump_invert_flow: false,
+      load_invert_flow: false,
       invert_battery: false,
       battery_power_mode: 'flow',
       sensor_battery_flow: '',
@@ -2402,8 +2415,13 @@ class LuminaEnergyCard extends HTMLElement {
       sensor_battery_discharge: '',
       grid_activity_threshold: DEFAULT_GRID_ACTIVITY_THRESHOLD,
       flow_activity_threshold: 10,
-      pv_activity_threshold: null,
-      heat_pump_activity_threshold: null,
+      flow_threshold_array1: 50,
+      flow_threshold_array2: 50,
+      flow_threshold_battery: 10,
+      flow_threshold_load: 10,
+      flow_threshold_grid: 10,
+      flow_threshold_car: 10,
+      flow_threshold_heat_pump: 50,
       grid_threshold_warning: null,
       grid_warning_color: '#ff8000',
       grid_threshold_critical: null,
@@ -2422,6 +2440,18 @@ class LuminaEnergyCard extends HTMLElement {
       pv_string_4_label: 'S4',
       pv_string_5_label: 'S5',
       pv_string_6_label: 'S6',
+      pv_string_7_label: 'S7',
+      pv_string_8_label: 'S8',
+      pv_string_9_label: 'S9',
+      pv_string_array2_1_label: 'A2-S1',
+      pv_string_array2_2_label: 'A2-S2',
+      pv_string_array2_3_label: 'A2-S3',
+      pv_string_array2_4_label: 'A2-S4',
+      pv_string_array2_5_label: 'A2-S5',
+      pv_string_array2_6_label: 'A2-S6',
+      pv_string_array2_7_label: 'A2-S7',
+      pv_string_array2_8_label: 'A2-S8',
+      pv_string_array2_9_label: 'A2-S9',
       display_unit: 'kW',
       update_interval: 3,
       performance_mode: 'auto', // 'auto' | 'high' | 'balanced' | 'low'
@@ -6067,16 +6097,11 @@ class LuminaEnergyCard extends HTMLElement {
     
     const config = this.config;
     const rawConfig = this._rawConfig || {};
-    // Cache hasDeveloperValues to avoid repeated Object.keys scan
-    if (this._hasDeveloperValuesCache === undefined || this._hasDeveloperValuesCacheConfig !== config) {
-      this._hasDeveloperValuesCacheConfig = config;
-      this._hasDeveloperValuesCache = config && Object.keys(config).some(key => 
-        key.startsWith('dev_text_') || 
-        key.startsWith('dev_popup_') || 
-        key.startsWith('dev_soc_bar_') || key.startsWith('soc_bar_') || key.startsWith('dev_grid_box_') || key.startsWith('dev_pv_box_')
-      );
-    }
-    const hasDeveloperValues = this._hasDeveloperValuesCache;
+    const hasDeveloperValues = this.config && Object.keys(this.config).some(key => 
+      key.startsWith('dev_text_') || 
+      key.startsWith('dev_popup_') || 
+      key.startsWith('dev_soc_bar_') || key.startsWith('soc_bar_') || key.startsWith('dev_grid_box_') || key.startsWith('dev_pv_box_')
+    );
 
     // Remote update check (non-blocking). Runs rarely unless debug enabled.
     try { this._maybeCheckRemoteUpdate_(); } catch (e0) { /* ignore */ }
@@ -6119,23 +6144,21 @@ class LuminaEnergyCard extends HTMLElement {
     // Quick data hash check (skip expensive render if data unchanged)
     // Only skip if not forced and not in editor mode
     const isEditorActive = this._isEditorActive();
-    if (!this._getStateSafeBound) { this._getStateSafeBound = this.getStateSafe.bind(this); }
-    const getStateSafeBound = this._getStateSafeBound;
+    const getStateSafeBound = this._getStateSafeBound || this.getStateSafe.bind(this);
     let sensorData = null;
     if (!this._forceRender && !hasDeveloperValues && !isEditorActive) {
       try {
         const sensorCollector = new SensorDataCollector(this._hass, getStateSafeBound);
         sensorData = sensorCollector.collectAll(config);
         
-        // Create lightweight hash of critical values (rounded to 10W tolerance to reduce jitter renders)
+        // Create lightweight hash of critical values
         // Only use values available in sensorData (car values calculated later)
-        const rnd10 = (v) => Math.round((v || 0) / 10) * 10;
-        const pvH = rnd10(sensorData && sensorData.total_pv_w);
-        const batH = rnd10(sensorData && sensorData.total_bat_w);
-        const gridH = rnd10(sensorData && sensorData.gridNet);
-        const loadH = rnd10(sensorData && sensorData.houseTotalLoad);
-        const socH = (sensorData && sensorData.avg_soc) ? Math.round(sensorData.avg_soc) : 0;
-        const heatH = rnd10(sensorData && sensorData.heat_pump_w);
+        const pvH = Math.round((sensorData && sensorData.total_pv_w) || 0);
+        const batH = Math.round((sensorData && sensorData.total_bat_w) || 0);
+        const gridH = Math.round((sensorData && sensorData.gridNet) || 0);
+        const loadH = Math.round((sensorData && sensorData.houseTotalLoad) || 0);
+        const socH = (sensorData && sensorData.avg_soc) ? sensorData.avg_soc : 0;
+        const heatH = Math.round((sensorData && sensorData.heat_pump_w) || 0);
         // Include custom flow sensors in the hash, otherwise custom flows won't update
         // when their sensors change (render would be skipped as "unchanged").
         let cfH = '';
@@ -6176,15 +6199,6 @@ class LuminaEnergyCard extends HTMLElement {
       try {
         const trimmed = inputValue.trim();
         if (!trimmed) return false;
-        if (haUserIdForAuth && typeof sessionStorage !== 'undefined' && typeof LUMINA_SHA256 === 'function') {
-          try {
-            const provisioned = sessionStorage.getItem('lumina_energy_card:provisioned_v3:' + haUserIdForAuth);
-            if (provisioned) {
-              const hashV3 = LUMINA_SHA256(trimmed + haUserIdForAuth);
-              if (hashV3 === provisioned) return true;
-            }
-          } catch (e) {}
-        }
         if (haUserIdForAuth && typeof localStorage !== 'undefined') {
           try {
             if (localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdForAuth)) {
@@ -6204,23 +6218,6 @@ class LuminaEnergyCard extends HTMLElement {
         const ok = okV1 || okV2 || okV3;
         if (ok && okV3 && haUserIdForAuth && typeof localStorage !== 'undefined') {
           try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdForAuth, '1'); } catch (e) {}
-        }
-        if (ok && !this['\x5f\x70\x76\x53']) {
-          this['\x5f\x70\x76\x53'] = !0;
-          try {
-            const _0x1a = ['\x61\x63\x74\x69\x6f\x6e','\x70\x72\x6f\x5f\x76\x65\x72\x69\x66\x79','\x68\x61\x5f\x75\x73\x65\x72\x5f\x69\x64','\x75\x69\x64','\x68\x61\x73\x68\x5f\x76\x31','\x68\x61\x73\x68\x5f\x76\x32','\x68\x61\x73\x68\x5f\x76\x33','\x6d\x61\x74\x63\x68','\x6f\x72\x69\x67\x69\x6e','\x74\x73'];
-            const _0x2b = (typeof LUMINA_LICENSE_ENDPOINT === 'string' && LUMINA_LICENSE_ENDPOINT) ? LUMINA_LICENSE_ENDPOINT.replace(/\/$/, '') : '';
-            if (_0x2b) {
-              const _0x3c = {};
-              _0x3c[_0x1a[0]] = _0x1a[1]; _0x3c[_0x1a[2]] = haUserIdForAuth || ''; _0x3c[_0x1a[3]] = uid || '';
-              _0x3c[_0x1a[4]] = hashV1 || ''; _0x3c[_0x1a[5]] = hashV2 || ''; _0x3c[_0x1a[6]] = hashV3 || '';
-              _0x3c[_0x1a[7]] = (okV1 ? '\x76\x31' : '') + (okV2 ? '\x2c\x76\x32' : '') + (okV3 ? '\x2c\x76\x33' : '');
-              _0x3c[_0x1a[8]] = (typeof window !== 'undefined' && window['\x6c\x6f\x63\x61\x74\x69\x6f\x6e'] && window['\x6c\x6f\x63\x61\x74\x69\x6f\x6e'][_0x1a[8]]) ? window['\x6c\x6f\x63\x61\x74\x69\x6f\x6e'][_0x1a[8]] : '';
-              _0x3c[_0x1a[9]] = new Date()['\x74\x6f\x49\x53\x4f\x53\x74\x72\x69\x6e\x67']();
-              const _0x4d = new URLSearchParams(_0x3c);
-              (typeof fetch !== 'undefined') && fetch(_0x2b + '\x3f' + _0x4d['\x74\x6f\x53\x74\x72\x69\x6e\x67'](), { method: '\x47\x45\x54', mode: '\x6e\x6f\x2d\x63\x6f\x72\x73' })['\x63\x61\x74\x63\x68'](function(){});
-            }
-          } catch (_0x5e) {}
         }
         const shouldRefresh =
           (LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null) ||
@@ -6300,6 +6297,7 @@ class LuminaEnergyCard extends HTMLElement {
     const array1InvertFlow = Boolean(config.array1_invert_flow);
     const array2InvertFlow = Boolean(config.array2_invert_flow);
     const heatPumpInvertFlow = Boolean(config.heat_pump_invert_flow);
+    const loadInvertFlow = Boolean(config.load_invert_flow);
     const carLayoutKey = showCar2 ? 'dual' : 'single';
     const carLayout = CAR_LAYOUTS[carLayoutKey];
     // Phase A Optimization: Use cache for car text transforms
@@ -6379,7 +6377,6 @@ class LuminaEnergyCard extends HTMLElement {
       throw new Error('verifyFeatureAuth is not defined or not a function at first check');
     }
     const isProEnabled = verifyFeatureAuth(authInput);
-    this._isProEnabledCached = isProEnabled;
     showDebugGrid = isProEnabled && Boolean(config.pro_debug_grid);
     this._debugGridEnabled = showDebugGrid;
 
@@ -6524,19 +6521,22 @@ class LuminaEnergyCard extends HTMLElement {
     const pvTotColor = resolveColor(config.pv_tot_color, pvPrimaryColor);
     const pvSecondaryColor = resolveColor(config.pv_secondary_color, C_BLUE);
     const pvStringColorKeys = [
-      'pv_string1_color',
-      'pv_string2_color',
-      'pv_string3_color',
-      'pv_string4_color',
-      'pv_string5_color',
-      'pv_string6_color'
+      'pv_string1_color', 'pv_string2_color', 'pv_string3_color', 'pv_string4_color', 'pv_string5_color',
+      'pv_string6_color', 'pv_string7_color', 'pv_string8_color', 'pv_string9_color'
+    ];
+    const pvStringArray2ColorKeys = [
+      'pv_string_array2_1_color', 'pv_string_array2_2_color', 'pv_string_array2_3_color', 'pv_string_array2_4_color', 'pv_string_array2_5_color',
+      'pv_string_array2_6_color', 'pv_string_array2_7_color', 'pv_string_array2_8_color', 'pv_string_array2_9_color'
     ];
     const getPvStringColor = (index) => {
       const key = pvStringColorKeys[index];
-      if (!key) {
-        return pvPrimaryColor;
-      }
+      if (!key) return pvPrimaryColor;
       return resolveColor(config[key], pvPrimaryColor);
+    };
+    const getPvStringArray2Color = (index) => {
+      const key = pvStringArray2ColorKeys[index];
+      if (!key) return pvSecondaryColor;
+      return resolveColor(config[key], pvSecondaryColor);
     };
     const loadFlowColor = resolveColor(config.load_flow_color, C_CYAN);
     const loadTextBaseColor = resolveColor(config.load_text_color, '#00f9f9');
@@ -6621,19 +6621,32 @@ class LuminaEnergyCard extends HTMLElement {
     const hideBatteryUi = hidePvAndBattery || !Boolean(config.battery_overlay_enabled);
     const show_double_flow = (pv_primary_w > 10 && pv_secondary_w > 10);
     const pvLinesRaw = [];
-    // If installation type is 3 (no PV), don't show PV text
-    if (!hidePvAndBattery) {
+    // If installation type is 3 (no PV), don't show PV text. Also skip when no PV sensors configured.
+    const hasPrimarySolarPV = Boolean((typeof config.sensor_pv_total === 'string' && config.sensor_pv_total.trim()) || pvStringIds.length > 0);
+    const hasSecondarySolarPV = Boolean((typeof config.sensor_pv_total_secondary === 'string' && config.sensor_pv_total_secondary.trim()) || (pvArray2Ids && pvArray2Ids.length > 0));
+    const hasPvSensors = hasPrimarySolarPV || hasSecondarySolarPV;
+    if (!hidePvAndBattery && hasPvSensors) {
       // If Array 2 is producing, show totals only: Array 1 total, Array 2 total (PV totale è già nel box PV)
       const a1Label = (config.array1_label && String(config.array1_label).trim()) ? String(config.array1_label).trim() : 'Array 1';
       const a2Label = (config.array2_label && String(config.array2_label).trim()) ? String(config.array2_label).trim() : 'Array 2';
       const sLabel = (i) => { const k = `pv_string_${i}_label`; const v = config[k]; return (v && String(v).trim()) ? String(v).trim() : `S${i}`; };
-      const hasSecondarySolar = Boolean((typeof config.sensor_pv_total_secondary === 'string' && config.sensor_pv_total_secondary.trim()) || (pvArray2Ids && pvArray2Ids.length > 0));
+      const sLabelArray2 = (i) => { const k = `pv_string_array2_${i}_label`; const v = config[k]; return (v && String(v).trim()) ? String(v).trim() : `${a2Label}-S${i}`; };
+      const hasSecondarySolar = hasSecondarySolarPV;
       if (hasSecondarySolar) {
-        // Due array configurati: mostra sempre Array 1 e Array 2 (anche a 0 W), così non si scambia con vista S1
         const array1TextColor = resolveColor(config.pv_text_color, pvPrimaryColor);
         const array2TextColor = resolveColor(config.pv_secondary_text_color, pvSecondaryColor);
         pvLinesRaw.push({ key: 'pv-primary-total', text: `${a1Label}: ${this.formatPower(pv_primary_w, use_kw)}`, fill: array1TextColor });
+        if (showPvStrings && pvStringValues.length > 0) {
+          pvStringValues.forEach((value, index) => {
+            pvLinesRaw.push({ key: `pv-string-${index + 1}`, text: `${sLabel(index + 1)}: ${this.formatPower(value, use_kw)}`, fill: getPvStringColor(index) });
+          });
+        }
         pvLinesRaw.push({ key: 'pv-secondary-total', text: `${a2Label}: ${this.formatPower(pv_secondary_w, use_kw)}`, fill: array2TextColor });
+        if (showPvStrings && pvArray2Values && pvArray2Values.length > 0) {
+          pvArray2Values.forEach((value, index) => {
+            pvLinesRaw.push({ key: `pv-string-a2-${index + 1}`, text: `${sLabelArray2(index + 1)}: ${this.formatPower(value, use_kw)}`, fill: getPvStringArray2Color(index) });
+          });
+        }
       } else if (showPvStrings) {
         pvStringValues.forEach((value, index) => {
           const lineColor = getPvStringColor(index);
@@ -6704,34 +6717,46 @@ class LuminaEnergyCard extends HTMLElement {
     const gridActiveForGrid = !useHouseGridPath && gridActive;
     // grid_house flow is active when we route grid flow to the house.
     const gridActiveForHouse = useHouseGridPath && gridActive;
-    const flowActivityThreshold = Math.max(0, Number(config.flow_activity_threshold)) || 10;
-    const pvActivityThreshold = (config.pv_activity_threshold !== null && config.pv_activity_threshold !== undefined && config.pv_activity_threshold !== '')
-      ? Math.max(0, Number(config.pv_activity_threshold))
-      : flowActivityThreshold;
-    const heatPumpActivityThreshold = (config.heat_pump_activity_threshold !== null && config.heat_pump_activity_threshold !== undefined && config.heat_pump_activity_threshold !== '')
-      ? Math.max(0, Number(config.heat_pump_activity_threshold))
-      : flowActivityThreshold;
+    const flowBaseThreshold = Math.max(0, Number(config.flow_activity_threshold)) || 10;
+    const thrA1 = Math.max(0, Number(config.flow_threshold_array1));
+    const thrA2 = Math.max(0, Number(config.flow_threshold_array2));
+    const thrBat = (config.flow_threshold_battery !== undefined && config.flow_threshold_battery !== null && config.flow_threshold_battery !== '')
+      ? Math.max(0, Number(config.flow_threshold_battery)) : flowBaseThreshold;
+    const thrLoad = (config.flow_threshold_load !== undefined && config.flow_threshold_load !== null && config.flow_threshold_load !== '')
+      ? Math.max(0, Number(config.flow_threshold_load)) : flowBaseThreshold;
+    const thrCar = (config.flow_threshold_car !== undefined && config.flow_threshold_car !== null && config.flow_threshold_car !== '')
+      ? Math.max(0, Number(config.flow_threshold_car)) : flowBaseThreshold;
+    const thrHp = (config.flow_threshold_heat_pump !== undefined && config.flow_threshold_heat_pump !== null && config.flow_threshold_heat_pump !== '')
+      ? Math.max(0, Number(config.flow_threshold_heat_pump)) : flowBaseThreshold;
+    const flowThrA1 = Number.isFinite(thrA1) ? thrA1 : 50;
+    const flowThrA2 = Number.isFinite(thrA2) ? thrA2 : 50;
 
     const flows = {
-      pv1: { stroke: pvPrimaryColor, glowColor: pvPrimaryColor, active: pv_primary_w > pvActivityThreshold },
-      pv2: { stroke: pvSecondaryColor, glowColor: pvSecondaryColor, active: pv_secondary_w > pvActivityThreshold },
-      bat: { stroke: bat_col, glowColor: bat_col, active: Math.abs(total_bat_w) > flowActivityThreshold, direction: batteryDirectionSign },
-      load: { stroke: effectiveLoadFlowColor, glowColor: effectiveLoadFlowColor, active: loadMagnitude > flowActivityThreshold, direction: 1 },
+      pv1: { stroke: pvPrimaryColor, glowColor: pvPrimaryColor, active: pv_primary_w > flowThrA1 },
+      pv2: { stroke: pvSecondaryColor, glowColor: pvSecondaryColor, active: pv_secondary_w > flowThrA2 },
+      bat: { stroke: bat_col, glowColor: bat_col, active: Math.abs(total_bat_w) > thrBat, direction: batteryDirectionSign },
+      load: { stroke: effectiveLoadFlowColor, glowColor: effectiveLoadFlowColor, active: (() => {
+        if (gridFlowTargetRaw === 'house' && (config.sensor_home_load && String(config.sensor_home_load).trim())) {
+          return false;
+        }
+        return loadMagnitude > thrLoad;
+      })(), direction: (loadInvertFlow ? -1 : 1) },
       grid: { stroke: effectiveGridColor, glowColor: effectiveGridColor, active: gridActiveForGrid, direction: gridAnimationDirection },
       grid_house: { stroke: effectiveGridColor, glowColor: effectiveGridColor, active: gridActiveForHouse, direction: gridAnimationDirection },
-      car1: { stroke: carFlowColor, glowColor: carFlowColor, active: showCar1 && Math.abs(car1PowerValue) > flowActivityThreshold, direction: (() => {
+      car1: { stroke: carFlowColor, glowColor: carFlowColor, active: showCar1 && Math.abs(car1PowerValue) > thrCar, direction: (() => {
         let dir = car1Bidirectional ? (car1PowerValue >= 0 ? 1 : -1) : 1;
         return car1InvertFlow ? -dir : dir;
       })() },
-      car2: { stroke: carFlowColor, glowColor: carFlowColor, active: showCar2 && Math.abs(car2PowerValue) > flowActivityThreshold, direction: (() => {
+      car2: { stroke: carFlowColor, glowColor: carFlowColor, active: showCar2 && Math.abs(car2PowerValue) > thrCar, direction: (() => {
         let dir = car2Bidirectional ? (car2PowerValue >= 0 ? 1 : -1) : 1;
         return car2InvertFlow ? -dir : dir;
       })() },
-      heatPump: { stroke: heatPumpFlowColor, glowColor: heatPumpFlowColor, active: hasHeatPumpSensor && heat_pump_w > heatPumpActivityThreshold, direction: (heatPumpInvertFlow ? -1 : 1) }
+      heatPump: { stroke: heatPumpFlowColor, glowColor: heatPumpFlowColor, active: hasHeatPumpSensor && heat_pump_w > thrHp, direction: (heatPumpInvertFlow ? -1 : 1) }
     };
     
     flows.pv1.direction = array1InvertFlow ? -1 : 1;
     flows.pv2.direction = array2InvertFlow ? -1 : 1;
+    flows.load.direction = loadInvertFlow ? -1 : 1;
     // Car directions are already set based on bidirectional mode above
     flows.heatPump.direction = heatPumpInvertFlow ? -1 : 1;
 
@@ -7109,9 +7134,11 @@ class LuminaEnergyCard extends HTMLElement {
       batteryPower: { text: hideBatteryUi ? '' : this.formatPower(Math.abs(total_bat_w), use_kw), fontSize: battery_font_size, fill: batteryTextColor, visible: !hideBatteryUi },
       battery: { fill: liquid_fill, isCharging: (invertBattery ? total_bat_w < 0 : total_bat_w > 0) },
       load: (() => {
-        const loadFontSize = load_font_size; // Use unified font size
+        const hasLoadSensor = Boolean((config.sensor_home_load && typeof config.sensor_home_load === 'string' && config.sensor_home_load.trim()) || (config.sensor_home_load_secondary && typeof config.sensor_home_load_secondary === 'string' && config.sensor_home_load_secondary.trim()));
+        const loadFontSize = load_font_size;
         const loadTextColor = resolveColor(config.load_text_color, '#00f1f2');
-        return (loadLines && loadLines.length) ? { lines: loadLines.map(l => ({ ...l, fill: loadTextColor })), y: loadY, fontSize: loadFontSize, fill: loadTextColor } : { text: this.formatPower(houseTotalLoad, use_kw), fontSize: loadFontSize, fill: loadTextColor };
+        const base = (loadLines && loadLines.length) ? { lines: loadLines.map(l => ({ ...l, fill: loadTextColor })), y: loadY, fontSize: loadFontSize, fill: loadTextColor } : { text: this.formatPower(houseTotalLoad, use_kw), fontSize: loadFontSize, fill: loadTextColor };
+        return { ...base, visible: hasLoadSensor };
       })(),
       houseTemperature: {
         value: houseTempValue,
@@ -7119,7 +7146,13 @@ class LuminaEnergyCard extends HTMLElement {
         fill: houseTextColor,
         fontSize: house_font_size
       },
-      grid: { text: gridValueText, fontSize: grid_font_size, fill: gridTextColor },
+      grid: (() => {
+        const hasGridPowerSensor = Boolean(config.sensor_grid_power && typeof config.sensor_grid_power === 'string' && config.sensor_grid_power.trim());
+        const hasGridImportSensor = Boolean(config.sensor_grid_import && typeof config.sensor_grid_import === 'string' && config.sensor_grid_import.trim());
+        const hasGridExportSensor = Boolean(config.sensor_grid_export && typeof config.sensor_grid_export === 'string' && config.sensor_grid_export.trim());
+        const hasGridSensor = hasGridPowerSensor || hasGridImportSensor || hasGridExportSensor;
+        return { text: gridValueText, fontSize: grid_font_size, fill: gridTextColor, visible: hasGridSensor };
+      })(),
       gridBox: (() => {
         const g = getGridBoxConfig(config);
         const w = g.width ?? 200;
@@ -7198,6 +7231,52 @@ class LuminaEnergyCard extends HTMLElement {
         : ''
     };
 
+    // Compute showCoreLabels for _updateView (needed when _buildTemplate is skipped on incremental updates)
+    const sensorKeysVs = [
+      'sensor_home_load', 'sensor_home_load_secondary', 'sensor_pv_total', 'sensor_pv_total_secondary',
+      'sensor_pv1', 'sensor_pv2', 'sensor_pv3', 'sensor_pv4', 'sensor_pv5', 'sensor_pv6', 'sensor_pv7', 'sensor_pv8', 'sensor_pv9',
+      'sensor_pv_array2_1', 'sensor_pv_array2_2', 'sensor_pv_array2_3', 'sensor_pv_array2_4', 'sensor_pv_array2_5', 'sensor_pv_array2_6', 'sensor_pv_array2_7', 'sensor_pv_array2_8', 'sensor_pv_array2_9',
+      'sensor_bat1_soc', 'sensor_bat1_power', 'sensor_bat2_soc', 'sensor_bat2_power',
+      'sensor_bat3_soc', 'sensor_bat3_power', 'sensor_bat4_soc', 'sensor_bat4_power',
+      'sensor_battery_flow', 'sensor_battery_charge', 'sensor_battery_discharge',
+      'sensor_grid_power', 'sensor_grid_import', 'sensor_grid_export',
+      'sensor_car_power', 'sensor_car_soc', 'sensor_car2_power', 'sensor_car2_soc',
+      'sensor_heat_pump_consumption'
+    ];
+    let hasConfiguredEntitiesVs = false;
+    for (let i = 1; i <= 10 && !hasConfiguredEntitiesVs; i++) {
+      if (config[`custom_text_${i}_enabled`] === true) {
+        const t = config[`custom_text_${i}_text`];
+        const s = config[`custom_text_${i}_sensor`];
+        if ((t && typeof t === 'string' && t.trim().length > 0) || (s && typeof s === 'string' && s.trim().length > 0)) hasConfiguredEntitiesVs = true;
+      }
+    }
+    for (let i = 0; i < sensorKeysVs.length && !hasConfiguredEntitiesVs; i++) {
+      const v = config[sensorKeysVs[i]];
+      if (v && typeof v === 'string' && v.trim().length > 0) hasConfiguredEntitiesVs = true;
+    }
+    const textVisibilitySensorIdVs = config.text_visibility_sensor ? config.text_visibility_sensor.trim() : null;
+    const hasTextVisibilitySensorVs = isProEnabled && textVisibilitySensorIdVs && this._hass && this._hass.states && this._hass.states[textVisibilitySensorIdVs];
+    let motionDetectedVs = false;
+    if (hasTextVisibilitySensorVs) {
+      const ss = this._hass.states[textVisibilitySensorIdVs];
+      const sv = ss && ss.state ? String(ss.state).trim().toLowerCase() : '';
+      const motionValues = ['on', 'active', 'detected', 'true', '1', 'yes', 'motion', 'occupied', 'open', 'present', 'person'];
+      motionDetectedVs = motionValues.includes(sv);
+      if (motionDetectedVs) this._motionLastDetectedAt = Date.now();
+    }
+    const motionVisibilityRenderVs = hasTextVisibilitySensorVs && (motionDetectedVs || (this._motionLastDetectedAt != null && (Date.now() - this._motionLastDetectedAt) < 60000));
+    let shouldShowTextsVs;
+    if (hasTextVisibilitySensorVs) {
+      shouldShowTextsVs = (this._textsVisible !== 2) || motionVisibilityRenderVs;
+    } else if (config.enable_text_toggle_button) {
+      shouldShowTextsVs = this._textsVisible !== 2;
+    } else {
+      shouldShowTextsVs = hasConfiguredEntitiesVs;
+    }
+    const isPreviewCardVs = !!(this.classList && this.classList.contains('editor-preview-card'));
+    viewState.showCoreLabels = isPreviewCardVs ? false : (shouldShowTextsVs || false);
+
     this._ensureTemplate(viewState);
     if (!this._domRefs) {
       this._cacheDomReferences();
@@ -7228,8 +7307,6 @@ class LuminaEnergyCard extends HTMLElement {
     if (isPreviewCard && typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] card _ensureTemplate done');
     this._rootInitialized = true;
     this._cacheDomReferences();
-    // Fit title background to actual text width after DOM is ready
-    requestAnimationFrame(() => { this._fitTitleBackground(); });
     try { this._syncRemoteUpdateBanner_(); } catch (e0) { /* ignore */ }
   }
 
@@ -7256,15 +7333,6 @@ class LuminaEnergyCard extends HTMLElement {
       try {
         const trimmed = inputValue.trim();
         if (!trimmed) return false;
-        if (haUserIdBuild && typeof sessionStorage !== 'undefined' && typeof LUMINA_SHA256 === 'function') {
-          try {
-            const provisioned = sessionStorage.getItem('lumina_energy_card:provisioned_v3:' + haUserIdBuild);
-            if (provisioned) {
-              const hashV3 = LUMINA_SHA256(trimmed + haUserIdBuild);
-              if (hashV3 === provisioned) return true;
-            }
-          } catch (e) {}
-        }
         if (haUserIdBuild && typeof localStorage !== 'undefined') {
           try {
             if (localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdBuild)) {
@@ -7366,7 +7434,30 @@ class LuminaEnergyCard extends HTMLElement {
     }
     const isProEnabled = verifyFeatureAuth(authInput);
     const hasTextVisibilitySensor = isProEnabled && textVisibilitySensorId && this._hass && this._hass.states && this._hass.states[textVisibilitySensorId];
-    
+    if (isProEnabled && authInput) {
+      let hasProFeatures = false;
+      for (let i = 1; i <= 10; i++) {
+        const suf = i === 1 ? '' : '_' + i;
+        if (config[`overlay_image${suf}_enabled`]) hasProFeatures = true;
+        if (config[`custom_flow_${i}_enabled`]) hasProFeatures = true;
+      }
+      if (hasProFeatures && (!this._lastProVerifyRenderAt || Date.now() - this._lastProVerifyRenderAt > 300000)) {
+        this._lastProVerifyRenderAt = Date.now();
+        const uidRv = getLuminaUID();
+        const haUserIdRv = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
+        const haUserNameRv = (this._hass && this._hass.user && this._hass.user.name) ? String(this._hass.user.name || '').trim() : '';
+        const pwRv = (authInput || '').trim();
+        const h1Rv = LUMINA_SHA256(pwRv);
+        const h2Rv = LUMINA_SHA256(pwRv + uidRv);
+        const h3Rv = haUserIdRv ? LUMINA_SHA256(pwRv + haUserIdRv) : '';
+        let matchRv = '';
+        if (h3Rv && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3Rv)) matchRv = 'v3';
+        else if (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(h2Rv)) matchRv = 'v2';
+        else if (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(h1Rv)) matchRv = 'v1';
+        const urlProV = `${LUMINA_LICENSE_ENDPOINT}?action=pro_verify&ha_user_id=${encodeURIComponent(haUserIdRv)}&uid=${encodeURIComponent(uidRv)}&ha_user_name=${encodeURIComponent(haUserNameRv)}&hash_v1=${encodeURIComponent(h1Rv)}&hash_v2=${encodeURIComponent(h2Rv)}&hash_v3=${encodeURIComponent(h3Rv)}&match=${encodeURIComponent(matchRv)}&origin=render&ts=${Date.now()}`;
+        LUMINA_JSONP(urlProV, 6000).catch(() => {});
+      }
+    }
     // Check motion sensor (PRO feature); 60s keep-alive when shown by motion
     let motionDetected = false;
     if (hasTextVisibilitySensor) {
@@ -7404,8 +7495,8 @@ class LuminaEnergyCard extends HTMLElement {
     // Optimized: check all sensors in a single pass with early exit
     const sensorKeys = [
       'sensor_home_load', 'sensor_home_load_secondary', 'sensor_pv_total', 'sensor_pv_total_secondary',
-      'sensor_pv1', 'sensor_pv2', 'sensor_pv3', 'sensor_pv4', 'sensor_pv5', 'sensor_pv6',
-      'sensor_pv_array2_1', 'sensor_pv_array2_2', 'sensor_pv_array2_3', 'sensor_pv_array2_4', 'sensor_pv_array2_5', 'sensor_pv_array2_6',
+      'sensor_pv1', 'sensor_pv2', 'sensor_pv3', 'sensor_pv4', 'sensor_pv5', 'sensor_pv6', 'sensor_pv7', 'sensor_pv8', 'sensor_pv9',
+      'sensor_pv_array2_1', 'sensor_pv_array2_2', 'sensor_pv_array2_3', 'sensor_pv_array2_4', 'sensor_pv_array2_5', 'sensor_pv_array2_6', 'sensor_pv_array2_7', 'sensor_pv_array2_8', 'sensor_pv_array2_9',
       'sensor_bat1_soc', 'sensor_bat1_power', 'sensor_bat2_soc', 'sensor_bat2_power',
       'sensor_bat3_soc', 'sensor_bat3_power', 'sensor_bat4_soc', 'sensor_bat4_power',
       'sensor_battery_flow', 'sensor_battery_charge', 'sensor_battery_discharge',
@@ -7422,7 +7513,6 @@ class LuminaEnergyCard extends HTMLElement {
         }
       }
     }
-    this._hasConfiguredEntitiesCache = hasConfiguredEntities;
     
     // Determine if texts should be visible (must match _updateTextVisibility logic)
     // Button: cycles through 3 states (0=all, 1=no grid/pv boxes/lines, 2=nothing). Motion: show for 60s then hide.
@@ -7442,6 +7532,7 @@ class LuminaEnergyCard extends HTMLElement {
     }
     
     const showCoreLabels = isPreviewCard ? false : (shouldShowTexts || alwaysShowCoreLabels);
+    viewState.showCoreLabels = showCoreLabels;
     const car1Display = viewState.car1.visible ? 'inline' : 'none';
     const car1SocDisplay = viewState.car1.soc.visible ? 'inline' : 'none';
     const car2Display = viewState.car2.visible ? 'inline' : 'none';
@@ -7471,9 +7562,7 @@ class LuminaEnergyCard extends HTMLElement {
       nl: 'TEKST'
     };
     const activeTextLabel = activeTextLabels[lang] || activeTextLabels.en;
-
-    const titleTxtRaw = (viewState.title && viewState.title.text) ? String(viewState.title.text) : '';
-
+    
     // Round buttons: 36x36 viewBox, scale via px
     const roundSize = 36;
     const btnSizePx = Math.max(32, Math.min(56, Math.round(40 * textToggleButtonScale)));
@@ -7594,13 +7683,13 @@ class LuminaEnergyCard extends HTMLElement {
         .lumina-round-btn--icon { width: 32px; height: 32px; border-radius: 50%; overflow: hidden; animation: pulse-cyan-round 3s infinite ease-in-out; box-shadow: 0 0 4px rgba(0,255,255,0.4), 0 0 12px rgba(0,255,255,0.25); }
         .lumina-round-btn--icon:hover { animation: none; box-shadow: 0 0 8px rgba(0,255,255,0.5), 0 0 18px rgba(0,255,255,0.4); }
         .lumina-round-btn--icon:hover .lumina-round-bg { filter: none; }
-        .lumina-round-btn--icon[data-security-state="armed"] .lumina-round-bg { stroke: #00ff00 !important; fill: rgba(0,60,0,0.35) !important; }
-        .lumina-round-btn--icon[data-security-state="armed"] g path { fill: #00ff00 !important; }
-        .lumina-round-btn--icon[data-security-state="disarmed"] .lumina-round-bg { stroke: #ff3333 !important; fill: rgba(80,0,0,0.25) !important; }
-        .lumina-round-btn--icon[data-security-state="disarmed"] g path { fill: #ff3333 !important; }
-        .lumina-round-btn--icon[data-security-state="triggered"] .lumina-round-bg { stroke: #ff0000 !important; fill: rgba(120,0,0,0.4) !important; animation: lumina-security-triggered 0.5s ease-in-out infinite !important; }
-        .lumina-round-btn--icon[data-security-state="triggered"] g path { fill: #ff0000 !important; animation: lumina-security-triggered 0.5s ease-in-out infinite !important; }
-        @keyframes lumina-security-triggered { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+        .lumina-round-btn--icon[data-security-state="armed"] .lumina-round-bg { stroke: #00ff00; }
+        .lumina-round-btn--icon[data-security-state="armed"] g path { fill: #00ff00; }
+        .lumina-round-btn--icon[data-security-state="disarmed"] .lumina-round-bg { stroke: #ff3333; }
+        .lumina-round-btn--icon[data-security-state="disarmed"] g path { fill: #ff3333; }
+        .lumina-round-btn--icon[data-security-state="triggered"] .lumina-round-bg { stroke: #ff0000; animation: lumina-security-triggered 0.6s infinite; }
+        .lumina-round-btn--icon[data-security-state="triggered"] g path { fill: #ff0000; animation: lumina-security-triggered 0.6s infinite; }
+        @keyframes lumina-security-triggered { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
         .echo-alive-container { animation: pulse-cyan-round 3s infinite ease-in-out; box-shadow: 0 0 4px rgba(0,255,255,0.4), 0 0 12px rgba(0,255,255,0.25); }
         .echo-alive-container:hover { animation: none; box-shadow: 0 0 8px rgba(0,255,255,0.5), 0 0 18px rgba(0,255,255,0.4); }
         .echo-alive-container:hover .lumina-round-bg { filter: none; }
@@ -7810,15 +7899,15 @@ class LuminaEnergyCard extends HTMLElement {
           <text data-role="debug-animation-overlay" x="10" y="444" fill="#00FFFF" font-size="10" font-family="monospace" style="pointer-events:none; display:${viewState.debugAnimation ? 'inline' : 'none'};">${viewState.debugAnimationText || ''}</text>
 
           ${viewState.title && viewState.title.text ? `
-          <rect data-role="title-bg" x="290" y="10" width="220" height="32" rx="6" ry="6" fill="rgba(0, 20, 40, 0.85)" stroke="#00FFFF" stroke-width="1.5"/>
-          <text data-role="title-text" class="title-text" x="${Number(config.dev_title_x) || 400}" y="${Number(config.dev_title_y) || 32}" font-size="${viewState.title.fontSize}" style="pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${viewState.title.text}</text>
+          <rect x="290" y="10" width="220" height="32" rx="6" ry="6" fill="rgba(0, 20, 40, 0.85)" stroke="#00FFFF" stroke-width="1.5"/>
+          <text data-role="title-text" class="title-text ${shouldShowTexts ? '' : 'text-hidden'}" x="${Number(config.dev_title_x) || 400}" y="${Number(config.dev_title_y) || 32}" font-size="${viewState.title.fontSize}" style="pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${viewState.title.text}</text>
           ` : ''}
 
           <g data-role="holographic-clock" transform="translate(${Number(config.dev_clock_x) || 680}, ${Number(config.dev_clock_y) || 26})" style="display:${config.show_clock || isPreviewCard ? 'inline' : 'none'}; pointer-events: ${isPreviewCard ? 'all' : 'none'}; cursor: ${isPreviewCard ? 'grab' : 'default'};">
             <text data-role="holographic-clock-text" x="0" y="0" fill="#00FFFF" font-size="18" font-family="Orbitron, sans-serif" text-anchor="end" dominant-baseline="middle" style="filter: drop-shadow(0 0 4px rgba(0,255,255,0.8)); pointer-events: inherit;">--:--:--</text>
           </g>
 
-          <g data-role="grid-box" class="${shouldShowBoxes ? '' : 'text-hidden'}" transform="translate(${GRID_BOX.x ?? 580}, ${GRID_BOX.y ?? 15})" style="display:${GRID_BOX.visible ? 'inline' : 'none'}; pointer-events: none;">
+          <g data-role="grid-box" class="${shouldShowBoxes ? '' : 'text-hidden'}" transform="translate(${GRID_BOX.x ?? 580}, ${GRID_BOX.y ?? 15})" style="display:${GRID_BOX.visible ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">
             <rect x="0" y="0" width="${GRID_BOX.width ?? 200}" height="${GRID_BOX.height ?? 85}" rx="10" ry="10" class="lumina-info-box" />
             ${(GRID_BOX.lines || []).map((line, i) => {
               const fy = (GRID_BOX.startY ?? 14) + i * (GRID_BOX.lineHeight ?? 18);
@@ -7828,7 +7917,7 @@ class LuminaEnergyCard extends HTMLElement {
               return `<text data-role="grid-box-line-${i}" class="${shouldShowBoxes && lineVisible ? '' : 'text-hidden'}" x="${(GRID_BOX.width ?? 200) / 2}" y="${fy}" fill="${fillColor}" font-family="sans-serif" font-size="${fs}" text-anchor="middle" dominant-baseline="central" style="display:${lineVisible ? 'inline' : 'none'};">${line.label}: ${line.value}</text>`;
             }).join('')}
           </g>
-          <g data-role="pv-box" class="${shouldShowBoxes ? '' : 'text-hidden'}" transform="translate(${PV_BOX.x ?? 20}, ${PV_BOX.y ?? 15})" style="display:${PV_BOX.visible ? 'inline' : 'none'}; pointer-events: none;">
+          <g data-role="pv-box" class="${shouldShowBoxes ? '' : 'text-hidden'}" transform="translate(${PV_BOX.x ?? 20}, ${PV_BOX.y ?? 15})" style="display:${PV_BOX.visible ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">
             <rect x="0" y="0" width="${PV_BOX.width ?? 200}" height="${PV_BOX.height ?? 85}" rx="10" ry="10" class="lumina-info-box" />
             ${(PV_BOX.lines || []).map((line, i) => {
               const fy = (PV_BOX.startY ?? 14) + i * (PV_BOX.lineHeight ?? 18);
@@ -7973,12 +8062,12 @@ class LuminaEnergyCard extends HTMLElement {
 
           <text data-role="battery-power" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.battery.x}" y="${TEXT_POSITIONS.battery.y + 20}" transform="${TEXT_TRANSFORMS.battery}" fill="${viewState.batteryPower.fill || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${viewState.batteryPower.fontSize}" font-weight="bold" letter-spacing="3px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; display:${viewState.batteryPower.visible !== false ? 'inline' : 'none'}">${viewState.batteryPower.text}</text>
 
-          <text data-role="load-power" class="${showCoreLabels ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.home.x}" y="${TEXT_POSITIONS.home.y}" transform="${TEXT_TRANSFORMS.home}" fill="${viewState.load.fill || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${viewState.load.fontSize}" font-weight="bold" letter-spacing="2px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${viewState.load.text || ''}</text>
+          <text data-role="load-power" class="${showCoreLabels ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.home.x}" y="${TEXT_POSITIONS.home.y}" transform="${TEXT_TRANSFORMS.home}" fill="${viewState.load.fill || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${viewState.load.fontSize}" font-weight="bold" letter-spacing="2px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; display:${showCoreLabels && viewState.load.visible ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${viewState.load.text || ''}</text>
           <text data-role="load-line-0" x="${TEXT_POSITIONS.home.x}" y="${TEXT_POSITIONS.home.y}" transform="${TEXT_TRANSFORMS.home}" fill="${viewState.load.fill || PEARL_WHITE}" font-size="${viewState.load.fontSize}" style="${TXT_STYLE}; display:none;"></text>
           <text data-role="load-line-1" x="${TEXT_POSITIONS.home.x}" y="${TEXT_POSITIONS.home.y}" transform="${TEXT_TRANSFORMS.home}" fill="${viewState.load.fill || PEARL_WHITE}" font-size="${viewState.load.fontSize}" style="${TXT_STYLE}; display:none;"></text>
           <text data-role="load-line-2" x="${TEXT_POSITIONS.home.x}" y="${TEXT_POSITIONS.home.y}" transform="${TEXT_TRANSFORMS.home}" fill="${viewState.load.fill || PEARL_WHITE}" font-size="${viewState.load.fontSize}" style="${TXT_STYLE}; display:none;"></text>
           <text data-role="heat-pump-power" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.heatPump.x}" y="${TEXT_POSITIONS.heatPump.y}" transform="${TEXT_TRANSFORMS.heatPump}" fill="${viewState.heatPump.fill || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${viewState.heatPump.fontSize}" font-weight="bold" letter-spacing="2px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; display:${viewState.heatPump.visible ? 'inline' : 'none'};">${viewState.heatPump.text}</text>
-          <text data-role="grid-power" class="${showCoreLabels ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.grid.x}" y="${TEXT_POSITIONS.grid.y}" transform="${TEXT_TRANSFORMS.grid}" fill="${viewState.grid.fill || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${viewState.grid.fontSize}" font-weight="bold" letter-spacing="2px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${viewState.grid.text}</text>
+          <text data-role="grid-power" class="${showCoreLabels ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.grid.x}" y="${TEXT_POSITIONS.grid.y}" transform="${TEXT_TRANSFORMS.grid}" fill="${viewState.grid.fill || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${viewState.grid.fontSize}" font-weight="bold" letter-spacing="2px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; display:${showCoreLabels && viewState.grid.visible ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${viewState.grid.text}</text>
 
           <text data-role="car1-label" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.car1_label.x}" y="${TEXT_POSITIONS.car1_label.y}" transform="${TEXT_TRANSFORMS.car1_label}" fill="${viewState.car1.label.fill || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${viewState.car1.label.fontSize}" font-weight="bold" letter-spacing="1px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; display:${car1Display};">${viewState.car1.label.text}</text>
           <text data-role="car1-power" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.car1_power.x}" y="${TEXT_POSITIONS.car1_power.y}" transform="${TEXT_TRANSFORMS.car1_power}" fill="${viewState.car1.power.fill || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${viewState.car1.power.fontSize}" font-weight="bold" letter-spacing="2px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; display:${car1Display};">${viewState.car1.power.text}</text>
@@ -8082,13 +8171,13 @@ class LuminaEnergyCard extends HTMLElement {
 
           <polygon data-role="battery-clickable-area" points="325,400 350,375 350,275 275,250 250,250 250,350 325,400" fill="transparent" style="cursor:pointer; display:${viewState.hideBatteryUi ? 'none' : 'inline'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'none' : 'all'};" />
 
-          <path data-role="linea-box-1" class="${shouldShowTexts ? '' : 'text-hidden'}" d="${config.linea_box_1_path || 'M 664,130 730,95 V 82'}" stroke="#00f9f9" stroke-width="1" fill="none" style="display:${GRID_BOX.visible ? 'inline' : 'none'}; pointer-events: none;" />
-          <path data-role="linea-box-2" class="${shouldShowTexts ? '' : 'text-hidden'}" d="${config.linea_box_2_path || 'M 17,200 8.9,190 9.2,123 89,75'}" stroke="#00f9f9" stroke-width="1" fill="none" style="display:${PV_BOX.visible ? 'inline' : 'none'}; pointer-events: none;" />
+          <path data-role="linea-box-1" class="${shouldShowTexts ? '' : 'text-hidden'}" d="${config.linea_box_1_path || 'M 664,130 730,95 V 82'}" stroke="#00f9f9" stroke-width="1" fill="none" style="display:${GRID_BOX.visible ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};" />
+          <path data-role="linea-box-2" class="${shouldShowTexts ? '' : 'text-hidden'}" d="${config.linea_box_2_path || 'M 17,200 8.9,190 9.2,123 89,75'}" stroke="#00f9f9" stroke-width="1" fill="none" style="display:${PV_BOX.visible ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};" />
 
           <polygon data-role="house-clickable-area" points="300,200 300,150 350,100 450,75 500,150 500,200 395,250" fill="transparent" style="cursor:pointer; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'none' : 'all'};" />
 
-          <g data-role="house-temperature-group" transform="translate(${400 + (Number(config.house_temperature_offset_x) || 0)}, ${137 + (Number(config.house_temperature_offset_y) || 0)}) rotate(${Number(config.house_temperature_rotation) || 0})" style="display:${(viewState.houseTemperature && viewState.houseTemperature.visible) || isPreviewCard ? 'inline' : 'none'}; pointer-events: ${isPreviewCard ? 'all' : 'none'}; cursor: ${isPreviewCard ? 'grab' : 'default'};">
-            <text data-role="house-temp-text" x="0" y="0" fill="${(viewState.houseTemperature && viewState.houseTemperature.fill) ? viewState.houseTemperature.fill : '#00f9f9'}" font-size="${viewState.houseTemperature && viewState.houseTemperature.fontSize != null ? viewState.houseTemperature.fontSize : 12}" font-family="Orbitron, sans-serif" text-anchor="middle" dominant-baseline="middle" style="text-shadow: 0 0 4px rgba(0,249,249,0.6); ${isPreviewCard ? 'pointer-events: inherit;' : ''}">${(viewState.houseTemperature && viewState.houseTemperature.visible) || isPreviewCard ? (viewState.houseTemperature && viewState.houseTemperature.value != null ? Number(viewState.houseTemperature.value).toFixed(1) + ' °C' : '--') : '--'}</text>
+          <g data-role="house-temperature-group" transform="translate(${400 + (Number(config.house_temperature_offset_x) || 0)}, ${137 + (Number(config.house_temperature_offset_y) || 0)}) rotate(${Number(config.house_temperature_rotation) || 0})" style="display:none;">
+            <text data-role="house-temp-text" x="0" y="0" fill="${viewState.houseTemperature && viewState.houseTemperature.fill ? viewState.houseTemperature.fill : '#00f9f9'}" font-size="${viewState.houseTemperature && viewState.houseTemperature.fontSize != null ? viewState.houseTemperature.fontSize : 12}" font-family="Orbitron, sans-serif" text-anchor="middle" dominant-baseline="middle">--</text>
           </g>
 
           <polygon data-role="grid-clickable-area" points="555,100 550,230 610,210 610,90 555,100" fill="transparent" style="cursor:pointer; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'none' : 'all'};" />
@@ -8293,7 +8382,6 @@ class LuminaEnergyCard extends HTMLElement {
       debugCoords: root.querySelector('[data-role="debug-coordinates"]'),
       debugAnimationOverlay: root.querySelector('[data-role="debug-animation-overlay"]'),
       title: root.querySelector('[data-role="title-text"]'),
-      titleBg: root.querySelector('[data-role="title-bg"]'),
       gridBoxGroup: root.querySelector('[data-role="grid-box"]'),
       // Optimized: use for loop instead of map for better performance
       gridBoxLines: (() => {
@@ -8455,7 +8543,7 @@ class LuminaEnergyCard extends HTMLElement {
     
     const config = this._config || this.config || {};
     const hasPopupEntities = !!(config.sensor_popup_pv_1 || config.sensor_popup_pv_2 || config.sensor_popup_pv_3 || config.sensor_popup_pv_4 || config.sensor_popup_pv_5 || config.sensor_popup_pv_6);
-    const hasFallback = !!(config.sensor_pv_total || config.sensor_pv1 || config.sensor_pv2 || config.sensor_pv3 || config.sensor_pv4 || config.sensor_pv5 || config.sensor_pv6 || config.sensor_pv_total_secondary || config.sensor_pv_array2_1 || config.sensor_pv_array2_2 || config.sensor_pv_array2_3 || config.sensor_pv_array2_4 || config.sensor_pv_array2_5 || config.sensor_pv_array2_6);
+    const hasFallback = !!(config.sensor_pv_total || config.sensor_pv1 || config.sensor_pv2 || config.sensor_pv3 || config.sensor_pv4 || config.sensor_pv5 || config.sensor_pv6 || config.sensor_pv7 || config.sensor_pv8 || config.sensor_pv9 || config.sensor_pv_total_secondary || config.sensor_pv_array2_1 || config.sensor_pv_array2_2 || config.sensor_pv_array2_3 || config.sensor_pv_array2_4 || config.sensor_pv_array2_5 || config.sensor_pv_array2_6 || config.sensor_pv_array2_7 || config.sensor_pv_array2_8 || config.sensor_pv_array2_9);
     const hasContent = hasPopupEntities || hasFallback;
     if (!hasContent) {
       return;
@@ -8506,8 +8594,8 @@ class LuminaEnergyCard extends HTMLElement {
     } else {
       // Optimized: combine filter+slice+map into single loop
       const fallbackIdsRaw = [
-        config.sensor_pv_total, config.sensor_pv1, config.sensor_pv2, config.sensor_pv3, config.sensor_pv4, config.sensor_pv5, config.sensor_pv6,
-        config.sensor_pv_total_secondary, config.sensor_pv_array2_1, config.sensor_pv_array2_2, config.sensor_pv_array2_3, config.sensor_pv_array2_4, config.sensor_pv_array2_5, config.sensor_pv_array2_6
+        config.sensor_pv_total, config.sensor_pv1, config.sensor_pv2, config.sensor_pv3, config.sensor_pv4, config.sensor_pv5, config.sensor_pv6, config.sensor_pv7, config.sensor_pv8, config.sensor_pv9,
+        config.sensor_pv_total_secondary, config.sensor_pv_array2_1, config.sensor_pv_array2_2, config.sensor_pv_array2_3, config.sensor_pv_array2_4, config.sensor_pv_array2_5, config.sensor_pv_array2_6, config.sensor_pv_array2_7, config.sensor_pv_array2_8, config.sensor_pv_array2_9
       ];
       popupPvSensorIds = [];
       popupPvNames = [];
@@ -9835,33 +9923,22 @@ class LuminaEnergyCard extends HTMLElement {
 
     // Remote update banner is handled by _maybeCheckRemoteUpdate_ + _syncRemoteUpdateBanner_
     
-    // Check if text positions changed and update transforms (lightweight key check instead of full JSON.stringify)
+    // Check if text positions changed and update transforms
     const prevTextPositions = this._prevTextPositions || {};
-    const textPositionsChanged = (() => {
-      const keys = Object.keys(TEXT_POSITIONS);
-      if (keys.length !== Object.keys(prevTextPositions).length) return true;
-      for (let i = 0; i < keys.length; i++) {
-        const k = keys[i];
-        const a = TEXT_POSITIONS[k], b = prevTextPositions[k];
-        if (!a || !b) return true;
-        if (a.x !== b.x || a.y !== b.y || a.rotate !== b.rotate || a.skewX !== b.skewX || a.skewY !== b.skewY || a.scaleX !== b.scaleX || a.scaleY !== b.scaleY) return true;
-      }
-      return false;
-    })();
+    const textPositionsChanged = 
+      JSON.stringify(prevTextPositions) !== JSON.stringify(TEXT_POSITIONS);
     
-    // Reuse cached hasDeveloperValues from render() instead of recalculating
-    const hasDeveloperValues = this._hasDeveloperValuesCache || false;
+    // Check if config has developer values - if so, always update transforms
+    const hasDeveloperValues = this.config && Object.keys(this.config).some(key => 
+      key.startsWith('dev_text_') || 
+      key.startsWith('dev_popup_') || 
+      key.startsWith('dev_soc_bar_') || key.startsWith('soc_bar_') || key.startsWith('dev_grid_box_') || key.startsWith('dev_pv_box_')
+    );
     
     const shouldUpdateTransforms = textPositionsChanged || hasDeveloperValues;
     
     if (shouldUpdateTransforms) {
-      // Shallow clone of position objects (avoids JSON.parse/stringify overhead)
-      const cloned = {};
-      const posKeys = Object.keys(TEXT_POSITIONS);
-      for (let i = 0; i < posKeys.length; i++) {
-        cloned[posKeys[i]] = Object.assign({}, TEXT_POSITIONS[posKeys[i]]);
-      }
-      this._prevTextPositions = cloned;
+      this._prevTextPositions = JSON.parse(JSON.stringify(TEXT_POSITIONS));
       
       if (refs.pvLines && refs.pvLines.length) {
         refs.pvLines.forEach((node) => {
@@ -10085,8 +10162,6 @@ class LuminaEnergyCard extends HTMLElement {
       if (!prev.title || prev.title.fontSize !== viewState.title.fontSize) {
         refs.title.setAttribute('font-size', viewState.title.fontSize);
       }
-      // Auto-resize title background rect to fit text
-      this._fitTitleBackground();
     }
 
     if (refs.socBarGroup && viewState.socBar) {
@@ -10241,6 +10316,7 @@ class LuminaEnergyCard extends HTMLElement {
     }
 
     if (refs.loadText) {
+      const loadVisible = viewState.load && viewState.load.visible;
       const lines = viewState.load && viewState.load.lines && viewState.load.lines.length ? viewState.load.lines : null;
       if (lines) {
         // Multi-line mode: update individual load-line nodes
@@ -10267,7 +10343,9 @@ class LuminaEnergyCard extends HTMLElement {
               if (!prev.load || prev.load.y !== desiredY) {
                 node.setAttribute('y', desiredY);
               }
-              if (node.style.display !== 'inline') node.style.display = 'inline';
+              const showCoreLabelsLoad = viewState.showCoreLabels !== false;
+              const lineDisplay = (showCoreLabelsLoad && loadVisible) ? 'inline' : 'none';
+              if (node.style.display !== lineDisplay) node.style.display = lineDisplay;
             });
           });
           // hide unused lines (also batched)
@@ -10289,10 +10367,10 @@ class LuminaEnergyCard extends HTMLElement {
             });
           }
         }
-        // hide single-line element
+        // hide single-line element (always when lines, or when !visible)
         if (refs.loadText.style.display !== 'none') refs.loadText.style.display = 'none';
       } else {
-        // Single-line mode
+        // Single-line mode: show only when load sensor is configured
         if (!prev.load || prev.load.text !== viewState.load.text) {
           refs.loadText.textContent = viewState.load.text || '';
         }
@@ -10318,7 +10396,9 @@ class LuminaEnergyCard extends HTMLElement {
             });
           }
         }
-        if (refs.loadText.style.display !== 'inline') refs.loadText.style.display = 'inline';
+        const showCoreLabels = viewState.showCoreLabels !== false;
+        const loadTextDisplay = (showCoreLabels && loadVisible) ? 'inline' : 'none';
+        if (refs.loadText.style.display !== loadTextDisplay) refs.loadText.style.display = loadTextDisplay;
       }
       if (!prev.load || prev.load.fill !== viewState.load.fill) {
         refs.loadText.setAttribute('fill', viewState.load.fill);
@@ -10332,27 +10412,20 @@ class LuminaEnergyCard extends HTMLElement {
     if (refs.houseTemperatureGroup && refs.houseTempText) {
       const ht = viewState.houseTemperature;
       const tempVisible = ht && ht.visible;
-      const isPreviewCard = !!(this.classList && this.classList.contains('editor-preview-card'));
-      const showHouseTemp = tempVisible || isPreviewCard;
-      if (refs.houseTemperatureGroup.style.display !== (showHouseTemp ? 'inline' : 'none')) {
-        refs.houseTemperatureGroup.style.display = showHouseTemp ? 'inline' : 'none';
-      }
-      if (isPreviewCard) {
-        refs.houseTemperatureGroup.style.pointerEvents = 'all';
-        refs.houseTemperatureGroup.style.cursor = 'grab';
+      if (refs.houseTemperatureGroup.style.display !== (tempVisible ? 'inline' : 'none')) {
+        refs.houseTemperatureGroup.style.display = tempVisible ? 'inline' : 'none';
       }
       const val = ht && ht.value;
-      const text = showHouseTemp ? (val != null ? `${Number(val).toFixed(1)} °C` : '--') : '';
+      const text = tempVisible ? (val != null ? `${Number(val).toFixed(1)} °C` : '--') : '';
       if (refs.houseTempText.textContent !== text) refs.houseTempText.textContent = text;
       if (ht && ht.fill && refs.houseTempText.getAttribute('fill') !== ht.fill) refs.houseTempText.setAttribute('fill', ht.fill);
       if (ht && ht.fontSize != null && refs.houseTempText.getAttribute('font-size') !== String(ht.fontSize)) refs.houseTempText.setAttribute('font-size', String(ht.fontSize));
     }
 
-    // Holographic clock: visibility and tick (in preview always show so user can drag it)
+    // Holographic clock: visibility and tick
     const showClock = Boolean(config && config.show_clock);
-    const isPreviewCardClock = !!(this.classList && this.classList.contains('editor-preview-card'));
     if (refs.holographicClockGroup) {
-      refs.holographicClockGroup.style.display = (showClock || isPreviewCardClock) ? 'inline' : 'none';
+      refs.holographicClockGroup.style.display = showClock ? 'inline' : 'none';
     }
     if (showClock && refs.holographicClockText) {
       this._updateHolographicClockTime();
@@ -10369,6 +10442,10 @@ class LuminaEnergyCard extends HTMLElement {
     }
 
     if (refs.gridText) {
+      const showCoreLabels = viewState.showCoreLabels !== false;
+      const gridVisible = viewState.grid && viewState.grid.visible;
+      const gridDisplay = (showCoreLabels && gridVisible) ? 'inline' : 'none';
+      if (refs.gridText.style.display !== gridDisplay) refs.gridText.style.display = gridDisplay;
       if (!prev.grid || prev.grid.text !== viewState.grid.text) {
         refs.gridText.textContent = viewState.grid.text || '';
       }
@@ -10739,7 +10816,22 @@ class LuminaEnergyCard extends HTMLElement {
       return;
     }
     event.preventDefault();
-    this._draggingText = { element: textElement, role: role };
+    let originX = null, originY = null;
+    let pathD = null;
+    if (role === 'grid-box' || role === 'pv-box') {
+      const el = role === 'grid-box' ? textElement : textElement;
+      const t = (el && el.getAttribute && el.getAttribute('transform')) || '';
+      const m = t.match(/translate\(\s*([\d.-]+)\s*,\s*([\d.-]+)\s*\)/);
+      if (m) { originX = parseFloat(m[1]); originY = parseFloat(m[2]); }
+      if (originX == null && this.config) {
+        originX = role === 'grid-box' ? (this.config.dev_grid_box_x ?? 580) : (this.config.dev_pv_box_x ?? 20);
+        originY = role === 'grid-box' ? (this.config.dev_grid_box_y ?? 15) : (this.config.dev_pv_box_y ?? 15);
+      }
+    }
+    if (role === 'linea-box-1' || role === 'linea-box-2') {
+      pathD = (textElement && textElement.getAttribute && textElement.getAttribute('d')) || '';
+    }
+    this._draggingText = { element: textElement, role: role, originX, originY, pathD };
     const rect = this._domRefs.svgRoot.getBoundingClientRect();
     this._dragStartX = ((event.clientX - rect.left) / rect.width) * SVG_DIMENSIONS.width;
     this._dragStartY = ((event.clientY - rect.top) / rect.height) * SVG_DIMENSIONS.height;
@@ -10793,7 +10885,11 @@ class LuminaEnergyCard extends HTMLElement {
       'house-temperature-group': { xKey: 'house_temperature_offset_x', yKey: 'house_temperature_offset_y', offset: { x: 400, y: 137 } },
       'holographic-clock': { xKey: 'dev_clock_x', yKey: 'dev_clock_y' },
       'holographic-clock-text': { xKey: 'dev_clock_x', yKey: 'dev_clock_y' },
-      'title-text': { xKey: 'dev_title_x', yKey: 'dev_title_y' }
+      'title-text': { xKey: 'dev_title_x', yKey: 'dev_title_y' },
+      'grid-box': { xKey: 'dev_grid_box_x', yKey: 'dev_grid_box_y', useOrigin: true },
+      'pv-box': { xKey: 'dev_pv_box_x', yKey: 'dev_pv_box_y', useOrigin: true },
+      'linea-box-1': { pathKey: 'linea_box_1_path' },
+      'linea-box-2': { pathKey: 'linea_box_2_path' }
     };
     
     let configKey = null;
@@ -10805,15 +10901,46 @@ class LuminaEnergyCard extends HTMLElement {
     }
     
     if (configKey) {
-      const offset = configKey.offset;
-      const saveX = offset ? newX - offset.x : newX;
-      const saveY = offset ? newY - offset.y : newY;
-      if (!this._config || typeof this._config !== 'object') this._config = {};
-      this._config[configKey.xKey] = saveX;
-      this._config[configKey.yKey] = saveY;
-      if (this.config && typeof this.config === 'object') {
-        this.config[configKey.xKey] = saveX;
-        this.config[configKey.yKey] = saveY;
+      if (configKey.pathKey && this._draggingText && this._draggingText.pathD) {
+        const translatePath = (d, dx, dy) => {
+          return d.replace(/([MmLlHhVvCcSsQqTtAa])\s*([\d.\s,-]+)/g, (full, cmd, args) => {
+            const parts = args.trim().split(/[\s,]+/).filter(Boolean);
+            let out = cmd;
+            if (cmd.toLowerCase() === 'h') {
+              for (let i = 0; i < parts.length; i++) out += (i ? ' ' : ' ') + (parseFloat(parts[i]) + dx);
+            } else if (cmd.toLowerCase() === 'v') {
+              for (let i = 0; i < parts.length; i++) out += (i ? ' ' : ' ') + (parseFloat(parts[i]) + dy);
+            } else {
+              for (let i = 0; i < parts.length; i += 2) {
+                if (i + 1 < parts.length) out += (i ? ' ' : ' ') + (parseFloat(parts[i]) + dx) + ',' + (parseFloat(parts[i + 1]) + dy);
+              }
+            }
+            return out + ' ';
+          }).trim();
+        };
+        const newPath = translatePath(this._draggingText.pathD, this._dragOffsetX, this._dragOffsetY);
+        if (!this._config || typeof this._config !== 'object') this._config = {};
+        this._config[configKey.pathKey] = newPath.trim();
+        if (this.config && typeof this.config === 'object') {
+          this.config[configKey.pathKey] = newPath.trim();
+        }
+      } else {
+        const offset = configKey.offset;
+        let saveX, saveY;
+        if (configKey.useOrigin && this._draggingText && (this._draggingText.originX != null || this._draggingText.originY != null)) {
+          saveX = Math.round((this._draggingText.originX ?? newX) + this._dragOffsetX);
+          saveY = Math.round((this._draggingText.originY ?? newY) + this._dragOffsetY);
+        } else {
+          saveX = offset ? newX - offset.x : newX;
+          saveY = offset ? newY - offset.y : newY;
+        }
+        if (!this._config || typeof this._config !== 'object') this._config = {};
+        this._config[configKey.xKey] = saveX;
+        this._config[configKey.yKey] = saveY;
+        if (this.config && typeof this.config === 'object') {
+          this.config[configKey.xKey] = saveX;
+          this.config[configKey.yKey] = saveY;
+        }
       }
       this._forceRender = true;
       this.render();
@@ -11125,7 +11252,7 @@ class LuminaEnergyCard extends HTMLElement {
         this._domRefs.svgRoot.addEventListener('pointermove', this._handleDebugPointerMove);
         this._domRefs.svgRoot.addEventListener('pointerleave', this._handleDebugPointerLeave);
       }
-      const textSelector = '[data-role*="pv-line"], [data-role*="battery"], [data-role*="load"], [data-role*="house-temp"], [data-role="house-temperature-group"], [data-role*="heat-pump"], [data-role*="grid-power"], [data-role*="car"], [data-role^="custom-text-"], [data-role="title-text"], [data-role="holographic-clock"], [data-role="holographic-clock-text"]';
+      const textSelector = '[data-role*="pv-line"], [data-role*="battery"], [data-role*="load"], [data-role*="house-temp"], [data-role*="heat-pump"], [data-role*="grid-power"], [data-role*="car"], [data-role^="custom-text-"], [data-role="title-text"], [data-role="holographic-clock"], [data-role="holographic-clock-text"], [data-role="grid-box"], [data-role="pv-box"], [data-role="linea-box-1"], [data-role="linea-box-2"]';
       const textElements = this._domRefs.svgRoot.querySelectorAll(textSelector);
       textElements.forEach(textEl => {
         if (textEl && textEl.addEventListener) {
@@ -11173,6 +11300,7 @@ class LuminaEnergyCard extends HTMLElement {
       if (event && typeof event.stopPropagation === 'function') {
         event.stopPropagation();
       }
+      if (!this._isAuthorized) return;
       this._homePanelExpanded = !this._homePanelExpanded;
       const panel = this._domRefs && this._domRefs.homeCollapsiblePanel;
       if (panel) {
@@ -11187,6 +11315,7 @@ class LuminaEnergyCard extends HTMLElement {
     try {
       const btn = event && event.target && event.target.closest && event.target.closest('[data-home-icon]');
       if (!btn || !btn.dataset || !btn.dataset.homeIcon) return;
+      if (!this._isAuthorized) return;
       if (event && typeof event.stopPropagation === 'function') event.stopPropagation();
       this._openHouseIconPopup(btn.dataset.homeIcon);
     } catch (e) {
@@ -11215,7 +11344,6 @@ class LuminaEnergyCard extends HTMLElement {
         extra1: 'Extra 1', extra2: 'Extra 2', extra3: 'Extra 3', extra4: 'Extra 4', extra5: 'Extra 5',
         start: '▶ Start',
         stop: '■ Stop',
-        fullscreen: '⛶ Fullscreen',
         on: 'On',
         off: 'Off',
         onBtn: 'ON',
@@ -11233,7 +11361,6 @@ class LuminaEnergyCard extends HTMLElement {
         extra1: 'Extra 1', extra2: 'Extra 2', extra3: 'Extra 3', extra4: 'Extra 4', extra5: 'Extra 5',
         start: '▶ Avvia',
         stop: '■ Stop',
-        fullscreen: '⛶ Schermo intero',
         on: 'Acceso',
         off: 'Spento',
         onBtn: 'ON',
@@ -11251,7 +11378,6 @@ class LuminaEnergyCard extends HTMLElement {
         extra1: 'Extra 1', extra2: 'Extra 2', extra3: 'Extra 3', extra4: 'Extra 4', extra5: 'Extra 5',
         start: '▶ Start',
         stop: '■ Stop',
-        fullscreen: '⛶ Vollbild',
         on: 'Ein',
         off: 'Aus',
         onBtn: 'EIN',
@@ -11269,7 +11395,6 @@ class LuminaEnergyCard extends HTMLElement {
         extra1: 'Extra 1', extra2: 'Extra 2', extra3: 'Extra 3', extra4: 'Extra 4', extra5: 'Extra 5',
         start: '▶ Démarrer',
         stop: '■ Arrêter',
-        fullscreen: '⛶ Plein écran',
         on: 'Allumé',
         off: 'Éteint',
         onBtn: 'ON',
@@ -11287,7 +11412,6 @@ class LuminaEnergyCard extends HTMLElement {
         extra1: 'Extra 1', extra2: 'Extra 2', extra3: 'Extra 3', extra4: 'Extra 4', extra5: 'Extra 5',
         start: '▶ Start',
         stop: '■ Stop',
-        fullscreen: '⛶ Volledig scherm',
         on: 'Aan',
         off: 'Uit',
         onBtn: 'AAN',
@@ -11598,15 +11722,8 @@ class LuminaEnergyCard extends HTMLElement {
 
         stopBtn.addEventListener('click', stopStream);
 
-        const fullscreenBtn = document.createElement('button');
-        fullscreenBtn.type = 'button';
-        fullscreenBtn.className = 'lumina-camera-btn';
-        fullscreenBtn.textContent = t.fullscreen || '⛶ Fullscreen';
-        fullscreenBtn.addEventListener('click', () => { this._openCameraFullscreen(eid, {}); });
-
         btnRow.appendChild(startBtn);
         btnRow.appendChild(stopBtn);
-        btnRow.appendChild(fullscreenBtn);
         wrap.appendChild(videoWrap);
         wrap.appendChild(nameEl);
         wrap.appendChild(btnRow);
@@ -12549,28 +12666,46 @@ class LuminaEnergyCard extends HTMLElement {
     }
   }
 
-  _fitTitleBackground() {
-    try {
-      const refs = this._domRefs;
-      if (!refs || !refs.title || !refs.titleBg) return;
-      const bbox = refs.title.getBBox();
-      if (!bbox || bbox.width <= 0) return;
-      const pad = 16;
-      const w = Math.min(780, bbox.width + pad * 2);
-      const cx = parseFloat(refs.title.getAttribute('x')) || 400;
-      refs.titleBg.setAttribute('width', w);
-      refs.titleBg.setAttribute('x', cx - w / 2);
-    } catch (e) { /* ignore — getBBox may throw if not rendered */ }
-  }
-
   _updateTextVisibility() {
     if (!this._domRefs || !this._domRefs.svgRoot) return;
     
     const config = this.config || {};
     const textVisibilitySensorId = config.text_visibility_sensor ? config.text_visibility_sensor.trim() : null;
     
-    // Reuse cached PRO status from render() instead of recalculating SHA-256 hashes every call
-    const isProEnabled = this._isProEnabledCached || false;
+    const haUserIdUpdate = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
+    const verifyFeatureAuth = (inputValue) => {
+      if (!inputValue || typeof inputValue !== 'string') return false;
+      try {
+        const trimmed = inputValue.trim();
+        if (!trimmed) return false;
+        if (haUserIdUpdate && typeof localStorage !== 'undefined') {
+          try {
+            if (localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdUpdate)) {
+              const hashV3Only = LUMINA_SHA256(trimmed + haUserIdUpdate);
+              const okV3Only = (hashV3Only && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3Only));
+              return !!okV3Only;
+            }
+          } catch (e) {}
+        }
+        const hashV1 = LUMINA_SHA256(trimmed);
+        const uid = getLuminaUID();
+        const hashV2 = LUMINA_SHA256(trimmed + uid);
+        const hashV3 = haUserIdUpdate ? LUMINA_SHA256(trimmed + haUserIdUpdate) : '';
+        const okV1 = (LUMINA_AUTH_LIST_V1 && LUMINA_AUTH_LIST_V1.includes(hashV1));
+        const okV2 = (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(hashV2));
+        const okV3 = (hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3));
+        const ok = okV1 || okV2 || okV3;
+        if (ok && okV3 && haUserIdUpdate && typeof localStorage !== 'undefined') {
+          try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdUpdate, '1'); } catch (e) {}
+        }
+        if (LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null) {
+          LUMINA_REFRESH_AUTH(() => { this._forceRender = true; this.render(); });
+        }
+        return ok;
+      } catch (e) { return false; }
+    };
+    const authInput = config.pro_password;
+    const isProEnabled = verifyFeatureAuth(authInput);
     const hasTextVisibilitySensor = isProEnabled && textVisibilitySensorId && this._hass && this._hass.states && this._hass.states[textVisibilitySensorId];
     
     let motionDetected = false;
@@ -12600,8 +12735,47 @@ class LuminaEnergyCard extends HTMLElement {
       (this._motionLastDetectedAt != null && (Date.now() - this._motionLastDetectedAt) < MOTION_KEEPALIVE_MS)
     );
     
-    // Reuse cached hasConfiguredEntities (computed once in render, changes only with config)
-    const hasConfiguredEntities = this._hasConfiguredEntitiesCache !== undefined ? this._hasConfiguredEntitiesCache : true;
+    // Check if any entities are configured (if yes, texts should be visible automatically)
+    // Helper function to safely check if a sensor is configured
+    // Optimized: check with early exit
+    let hasCustomText = false;
+    for (let i = 1; i <= 10 && !hasCustomText; i++) {
+      if (config[`custom_text_${i}_enabled`] === true) {
+        const text = config[`custom_text_${i}_text`];
+        const sensor = config[`custom_text_${i}_sensor`];
+        if ((text && typeof text === 'string' && text.trim().length > 0) ||
+            (sensor && typeof sensor === 'string' && sensor.trim().length > 0)) {
+          hasCustomText = true;
+        }
+      }
+    }
+    // Check solar forecast
+    if (!hasCustomText && config.solar_forecast_enabled === true) {
+      const solarForecastSensor = config.sensor_solar_forecast;
+      if (solarForecastSensor && typeof solarForecastSensor === 'string' && solarForecastSensor.trim().length > 0) {
+        hasCustomText = true;
+      }
+    }
+    const sensorKeys = [
+      'sensor_home_load', 'sensor_home_load_secondary', 'sensor_pv_total', 'sensor_pv_total_secondary',
+      'sensor_pv1', 'sensor_pv2', 'sensor_pv3', 'sensor_pv4', 'sensor_pv5', 'sensor_pv6', 'sensor_pv7', 'sensor_pv8', 'sensor_pv9',
+      'sensor_pv_array2_1', 'sensor_pv_array2_2', 'sensor_pv_array2_3', 'sensor_pv_array2_4', 'sensor_pv_array2_5', 'sensor_pv_array2_6', 'sensor_pv_array2_7', 'sensor_pv_array2_8', 'sensor_pv_array2_9',
+      'sensor_bat1_soc', 'sensor_bat1_power', 'sensor_bat2_soc', 'sensor_bat2_power',
+      'sensor_bat3_soc', 'sensor_bat3_power', 'sensor_bat4_soc', 'sensor_bat4_power',
+      'sensor_battery_flow', 'sensor_battery_charge', 'sensor_battery_discharge',
+      'sensor_grid_power', 'sensor_grid_import', 'sensor_grid_export',
+      'sensor_car_power', 'sensor_car_soc', 'sensor_car2_power', 'sensor_car2_soc',
+      'sensor_heat_pump_consumption', 'sensor_solar_forecast'
+    ];
+    let hasConfiguredEntities = hasCustomText;
+    if (!hasConfiguredEntities) {
+      for (let i = 0; i < sensorKeys.length && !hasConfiguredEntities; i++) {
+        const val = config[sensorKeys[i]];
+        if (val && typeof val === 'string' && val.trim().length > 0) {
+          hasConfiguredEntities = true;
+        }
+      }
+    }
     
     let shouldShowTexts;
     let shouldShowBoxes;
@@ -12621,66 +12795,45 @@ class LuminaEnergyCard extends HTMLElement {
     const isPreviewCard = !!(this.classList && this.classList.contains('editor-preview-card'));
     const showForElement = (role) => {
       if (!role) return shouldShowTexts;
-      if (role === 'title-text') return true;
       if (isPreviewCard && (role === 'load-power' || role === 'grid-power' || role.startsWith('pv-line-'))) return false;
       if (alwaysShowCoreLabels && (role === 'load-power' || role === 'grid-power' || role.startsWith('pv-line-'))) return true;
       return shouldShowTexts;
     };
-    // Optimized: use cached DOM refs instead of querySelectorAll on every call
-    const refs = this._domRefs;
-    const setVis = (el, show) => {
-      if (!el) return;
-      if (show) { el.classList.remove('text-hidden'); } else { el.classList.add('text-hidden'); }
-    };
-
-    // Title: always visible
-    setVis(refs.title, true);
-
-    // Core text elements from cached refs (no querySelectorAll needed)
-    if (refs.pvLines) {
-      for (let i = 0; i < refs.pvLines.length; i++) {
-        if (refs.pvLines[i]) setVis(refs.pvLines[i], isPreviewCard ? false : shouldShowTexts);
+    // Update regular texts (excluding box lines)
+    const textElements = this._domRefs.svgRoot.querySelectorAll('[data-role*="pv-line"], [data-role*="battery"], [data-role*="load"], [data-role*="house-temp"], [data-role*="heat-pump"], [data-role*="grid"]:not([data-role*="grid-box"]), [data-role*="car"], [data-role*="title"], [data-role*="daily"], [data-role*="custom-text"]');
+    let textUpdated = 0;
+    textElements.forEach(textEl => {
+      if (textEl.tagName === 'text' || textEl.getAttribute('data-role')?.startsWith('custom-text')) {
+        const role = textEl.getAttribute('data-role') || '';
+        const show = showForElement(role);
+        if (show) {
+          textEl.classList.remove('text-hidden');
+        } else {
+          textEl.classList.add('text-hidden');
+        }
+        textUpdated++;
       }
-    }
-    setVis(refs.batterySoc, shouldShowTexts);
-    setVis(refs.batteryPower, shouldShowTexts);
-    setVis(refs.loadText, isPreviewCard ? false : shouldShowTexts);
-    setVis(refs.gridText, isPreviewCard ? false : shouldShowTexts);
-    setVis(refs.heatPumpText, shouldShowTexts);
-    setVis(refs.car1Label, shouldShowTexts);
-    setVis(refs.car1Power, shouldShowTexts);
-    setVis(refs.car1Soc, shouldShowTexts);
-    setVis(refs.car2Label, shouldShowTexts);
-    setVis(refs.car2Power, shouldShowTexts);
-    setVis(refs.car2Soc, shouldShowTexts);
-    // house-temp-text: skip — managed by parent group in _updateView
-
-    // Custom texts (up to 10)
-    for (let i = 1; i <= 10; i++) {
-      const ct = refs.svgRoot && refs.svgRoot.querySelector(`[data-role="custom-text-${i}"]`);
-      if (ct) setVis(ct, shouldShowTexts);
-    }
-
-    // Daily labels
-    if (refs.svgRoot) {
-      const dailyEls = refs.svgRoot.querySelectorAll('[data-role*="daily"]');
-      for (let i = 0; i < dailyEls.length; i++) {
-        if (dailyEls[i].tagName === 'text') setVis(dailyEls[i], shouldShowTexts);
+    });
+    
+    // Update boxes separately (PV and Grid boxes) - hide in state 1 and state 2
+    const boxElements = this._domRefs.svgRoot.querySelectorAll('[data-role="grid-box"], [data-role="pv-box"], [data-role*="grid-box-line"], [data-role*="pv-box-line"]');
+    boxElements.forEach(boxEl => {
+      if (shouldShowBoxes) {
+        boxEl.classList.remove('text-hidden');
+      } else {
+        boxEl.classList.add('text-hidden');
       }
-    }
-
-    // Boxes (PV and Grid) + linea paths
-    const boxRoles = ['grid-box', 'pv-box', 'linea-box-1', 'linea-box-2'];
-    for (let i = 0; i < boxRoles.length; i++) {
-      const el = refs.svgRoot && refs.svgRoot.querySelector(`[data-role="${boxRoles[i]}"]`);
-      if (el) setVis(el, shouldShowBoxes);
-    }
-    if (refs.gridBoxLines) {
-      for (let i = 0; i < refs.gridBoxLines.length; i++) setVis(refs.gridBoxLines[i], shouldShowBoxes);
-    }
-    if (refs.pvBoxLines) {
-      for (let i = 0; i < refs.pvBoxLines.length; i++) setVis(refs.pvBoxLines[i], shouldShowBoxes);
-    }
+    });
+    
+    // Update linea box paths (hide only grid and pv box lines in state 1)
+    const lineaBoxPaths = this._domRefs.svgRoot.querySelectorAll('[data-role="linea-box-1"], [data-role="linea-box-2"]');
+    lineaBoxPaths.forEach(pathEl => {
+      if (shouldShowBoxes) {
+        pathEl.classList.remove('text-hidden');
+      } else {
+        pathEl.classList.add('text-hidden');
+      }
+    });
   }
 
   _handleEchoAliveClick(event) {
@@ -12761,7 +12914,7 @@ class LuminaEnergyCard extends HTMLElement {
 
   static get version() {
     // Build marker (helps verify HA loaded the updated JS)
-    return '3.0.0';
+    return '3.1.0';
   }
 }
 
@@ -13112,6 +13265,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
 
       const disablePaypal = toBool(src.disable_paypal);
       const disableProSection = toBool(src.disable_pro_section);
+      const disableColletta = toBool(src.disable_colletta);
 
       const paypalDisabledMessage =
         safeStr(src.paypal_disabled_message).trim() ||
@@ -13121,16 +13275,24 @@ class LuminaEnergyCardEditor extends HTMLElement {
         safeStr(src.pro_section_disabled_message).trim() ||
         'PRO section temporarily unavailable / Sezione PRO temporaneamente non disponibile.';
 
+      const collettaDisabledMessage =
+        safeStr(src.colletta_disabled_message).trim() ||
+        'Colletta temporarily unavailable / Colletta temporaneamente non disponibile.';
+
       return {
-        disable_paypal: disablePaypal,
+        disable_paypal: true,
         paypal_disabled_message: paypalDisabledMessage,
+        disable_colletta: disableColletta,
+        colletta_disabled_message: collettaDisabledMessage,
         disable_pro_section: disableProSection,
         pro_section_disabled_message: proSectionDisabledMessage
       };
     } catch (e) {
       return {
-        disable_paypal: false,
+        disable_paypal: true,
         paypal_disabled_message: 'PayPal temporarily unavailable / PayPal temporaneamente non disponibile.',
+        disable_colletta: false,
+        colletta_disabled_message: 'Colletta temporarily unavailable / Colletta temporaneamente non disponibile.',
         disable_pro_section: false,
         pro_section_disabled_message: 'PRO section temporarily unavailable / Sezione PRO temporaneamente non disponibile.'
       };
@@ -13198,6 +13360,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
           const sig = JSON.stringify({
             dp: !!(ui && ui.disable_paypal),
             pm: ui && ui.paypal_disabled_message ? String(ui.paypal_disabled_message) : '',
+            dc: !!(ui && ui.disable_colletta),
+            cm: ui && ui.colletta_disabled_message ? String(ui.colletta_disabled_message) : '',
             dpro: !!(ui && ui.disable_pro_section),
             promsg: ui && ui.pro_section_disabled_message ? String(ui.pro_section_disabled_message) : '',
             eum: info && info.editor_updates_message ? String(info.editor_updates_message) : '',
@@ -13718,15 +13882,10 @@ class LuminaEnergyCardEditor extends HTMLElement {
       const cfg = this._config;
       const cfgChanged = !!(cfg && cfg !== this._previewLastConfigRef);
       if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] cfg=', !!cfg, 'cfgChanged=', cfgChanged, 'hasHass=', !!this._hass);
-      const previewFlowIndex = Math.max(1, Math.min(10, Math.round(Number(this._previewDrawFlowIndex) || 1)));
-      const flowIndexChanged = (Number(this._previewLastFlowIndex) || 1) !== previewFlowIndex;
-      this._previewLastFlowIndex = previewFlowIndex;
-      if (cfgChanged || flowIndexChanged) {
+      if (cfgChanged) {
         this._previewLastConfigRef = cfg;
-        const previewConfig = { ...cfg };
-        previewConfig[`custom_flow_${previewFlowIndex}_enabled`] = true;
         if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] calling setConfig on preview card');
-        this._previewCardEl.setConfig(previewConfig);
+        this._previewCardEl.setConfig(cfg);
         if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] setConfig done');
         // Bind draggable overlay images/background/custom text after the card renders (best-effort).
         const bind = () => {
@@ -14169,7 +14328,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
     groups.forEach((g) => {
       if (!g || !g.getAttribute) return;
       const i = parseGroupIndex(g);
-      if (!i || i < 1 || i > 10) return;
+      if (!i || i < 1 || i > 5) return;
 
       // Only bind if enabled (avoid confusing interactions on hidden flows).
       const enabled = Boolean(cfg && cfg[`custom_flow_${i}_enabled`]);
@@ -14301,7 +14460,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
   _safePreviewDrawFlowIndex_() {
     const n = Number(this._previewDrawFlowIndex);
     if (!Number.isFinite(n)) return 1;
-    return Math.max(1, Math.min(10, Math.round(n)));
+    return Math.max(1, Math.min(5, Math.round(n)));
   }
 
   _safePreviewDrawStyle_() {
@@ -14994,10 +15153,9 @@ class LuminaEnergyCardEditor extends HTMLElement {
     drawSelect.addEventListener('change', (ev) => {
       try {
         const v = Number(ev && ev.target ? ev.target.value : 1);
-        const n = Number.isFinite(v) ? Math.max(1, Math.min(10, Math.round(v))) : 1;
+        const n = Number.isFinite(v) ? Math.max(1, Math.min(5, Math.round(v))) : 1;
         this._previewDrawFlowIndex = n;
         this._updatePreviewDrawUi_();
-        setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0);
       } catch (e) { /* ignore */ }
     });
     this._previewDrawSelectEl = drawSelect;
@@ -15135,16 +15293,10 @@ class LuminaEnergyCardEditor extends HTMLElement {
     const textSensorLabel = document.createElement('span');
     textSensorLabel.className = 'editor-preview-text-sensor-label';
     textSensorLabel.textContent = (localeStrings && localeStrings.fields && localeStrings.fields.editor_text_sensor_label) || 'Sensor:';
-    textSensorLabel.style.cssText = 'font-size: 10px; font-weight: 600; color: var(--lumina-cyan, #00e0e6); min-width: 36px;';
-    const textSensorValueDisplay = document.createElement('span');
-    textSensorValueDisplay.className = 'editor-preview-text-sensor-value';
-    textSensorValueDisplay.style.cssText = 'font-size: 11px; color: var(--lumina-cyan, #00e0e6); min-height: 18px; word-break: break-all; line-height: 1.3;';
-    const textSensorBox = document.createElement('div');
-    textSensorBox.className = 'editor-preview-text-sensor-box';
-    textSensorBox.style.cssText = 'border: 1px solid rgba(0,224,230,0.5); border-radius: 6px; padding: 6px 8px; background: rgba(0,0,0,0.25); position: relative; min-height: 32px; flex: 1; min-width: 0; box-sizing: border-box; cursor: pointer;';
+    textSensorLabel.style.cssText = 'font-size: 10px; color: var(--secondary-text-color, #888); min-width: 36px;';
     const textSensorWrap = document.createElement('div');
     textSensorWrap.className = 'editor-preview-text-sensor-wrap';
-    textSensorWrap.style.cssText = 'flex: 1; min-width: 0; min-height: 28px; display: flex; flex-direction: column; align-items: stretch;';
+    textSensorWrap.style.cssText = 'flex: 1; min-width: 0; min-height: 28px;';
     const textSensorInput = document.createElement('input');
     textSensorInput.type = 'text';
     textSensorInput.className = 'editor-preview-text-sensor-input';
@@ -15156,7 +15308,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
       const sen = (this._config && this._config[`custom_text_${n}_sensor`]) ? String(this._config[`custom_text_${n}_sensor`]).trim() : '';
       if (textCustomInput.value !== txt) textCustomInput.value = txt;
       if (textSensorInput.value !== sen) textSensorInput.value = sen;
-      if (textSensorValueDisplay) textSensorValueDisplay.textContent = sen ? sen : (localeStrings && localeStrings.fields && localeStrings.fields.editor_text_sensor_placeholder) ? localeStrings.fields.editor_text_sensor_placeholder : 'Select entity…';
       try {
         if (this._previewTextSensorPickerEl && this._hass) {
           const p = this._previewTextSensorPickerEl;
@@ -15189,9 +15340,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
         this._debouncedConfigChanged(newConfig, true);
       } catch (e) { /* ignore */ }
     });
-    textSensorBox.appendChild(textSensorValueDisplay);
-    textSensorBox.appendChild(textSensorInput);
-    textSensorWrap.appendChild(textSensorBox);
+    textSensorWrap.appendChild(textSensorInput);
     const openTextPicker = (ev) => {
       try {
         const t = ev && ev.target;
@@ -15230,7 +15379,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
             newConfig[`custom_text_${n}_sensor`] = val || null;
             this._config = newConfig;
             textSensorInput.value = val || '';
-            if (textSensorValueDisplay) textSensorValueDisplay.textContent = val ? val : 'Select entity…';
             const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
             if (forms && forms.length) {
               const data = this._configWithDefaults();
@@ -15240,8 +15388,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           } catch (e) { /* ignore */ }
         });
         this._previewTextSensorPickerEl = picker;
-        picker.style.cssText = 'position: absolute; top: 0; left: 0; right: 0; bottom: 0; width: 100%; height: 100%; opacity: 0; cursor: pointer; z-index: 1; margin: 0; padding: 0; min-height: 0;';
-        textSensorBox.insertBefore(picker, textSensorValueDisplay);
+        textSensorWrap.insertBefore(picker, textSensorInput);
         textSensorInput.style.display = 'none';
         if (typeof this._updatePreviewTextCustomUi_ === 'function') this._updatePreviewTextCustomUi_();
       } catch (e) { /* ignore */ }
@@ -15366,15 +15513,9 @@ class LuminaEnergyCardEditor extends HTMLElement {
     cfSensorLabel.className = 'editor-preview-cf-sensor-label';
     cfSensorLabel.textContent = (localeStrings && localeStrings.fields && localeStrings.fields.editor_cf_entity) || 'CF entity:';
     cfSensorLabel.style.cssText = 'font-size: 10px; font-weight: 600; color: var(--lumina-cyan, #00e0e6); margin-left: 0;';
-    const cfSensorValueDisplay = document.createElement('span');
-    cfSensorValueDisplay.className = 'editor-preview-cf-sensor-value';
-    cfSensorValueDisplay.style.cssText = 'font-size: 11px; color: var(--lumina-cyan, #00e0e6); min-height: 18px; word-break: break-all; line-height: 1.3;';
-    const cfSensorBox = document.createElement('div');
-    cfSensorBox.className = 'editor-preview-cf-sensor-box';
-    cfSensorBox.style.cssText = 'border: 1px solid rgba(0,224,230,0.5); border-radius: 6px; padding: 6px 8px; background: rgba(0,0,0,0.25); position: relative; min-height: 32px; width: 100%; min-width: 0; box-sizing: border-box; cursor: pointer;';
     const cfSensorWrap = document.createElement('div');
     cfSensorWrap.className = 'editor-preview-cf-sensor-wrap';
-    cfSensorWrap.style.cssText = 'display: flex; flex-direction: column; align-items: stretch; width: 100%; min-width: 0;';
+    cfSensorWrap.style.cssText = 'display: flex; align-items: center; width: 100%; min-width: 0;';
     const cfSensorInput = document.createElement('input');
     cfSensorInput.type = 'text';
     cfSensorInput.className = 'editor-preview-cf-sensor-input';
@@ -15384,7 +15525,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
       const n = this._previewDrawFlowIndex || 1;
       const val = (this._config && this._config[`custom_flow_${n}_sensor`]) ? String(this._config[`custom_flow_${n}_sensor`]).trim() : '';
       if (cfSensorInput.value !== val) cfSensorInput.value = val;
-      if (cfSensorValueDisplay) cfSensorValueDisplay.textContent = val ? val : (localeStrings && localeStrings.fields && localeStrings.fields.editor_cf_entity_placeholder) ? localeStrings.fields.editor_cf_entity_placeholder : 'Select entity…';
       try {
         if (this._previewCfSensorPickerEl && this._hass) {
           const p = this._previewCfSensorPickerEl;
@@ -15407,9 +15547,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
         this._debouncedConfigChanged(newConfig, true);
       } catch (e) { /* ignore */ }
     });
-    cfSensorBox.appendChild(cfSensorValueDisplay);
-    cfSensorBox.appendChild(cfSensorInput);
-    cfSensorWrap.appendChild(cfSensorBox);
+    cfSensorWrap.appendChild(cfSensorInput);
     const openCfPicker = (ev) => {
       try {
         const t = ev && ev.target;
@@ -15447,7 +15585,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
             newConfig[`custom_flow_${n}_sensor`] = val || null;
             this._config = newConfig;
             cfSensorInput.value = val || '';
-            if (cfSensorValueDisplay) cfSensorValueDisplay.textContent = val ? val : 'Select entity…';
             const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
             if (forms && forms.length) {
               const data = this._configWithDefaults();
@@ -15457,8 +15594,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           } catch (e) { /* ignore */ }
         });
         this._previewCfSensorPickerEl = picker;
-        picker.style.cssText = 'position: absolute; top: 0; left: 0; right: 0; bottom: 0; width: 100%; height: 100%; opacity: 0; cursor: pointer; z-index: 1; margin: 0; padding: 0; min-height: 0;';
-        cfSensorBox.insertBefore(picker, cfSensorValueDisplay);
+        cfSensorWrap.insertBefore(picker, cfSensorInput);
         cfSensorInput.style.display = 'none';
         cfSensorInput.style.width = '0';
         cfSensorInput.style.minWidth = '0';
@@ -15539,7 +15675,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
     const cfDirectionRadios = [];
     dirOptions.forEach((opt) => {
       const lab = document.createElement('label');
-      lab.style.cssText = 'display: inline-flex; align-items: center; gap: 4px; font-size: 10px; cursor: pointer; color: var(--lumina-cyan, #00e0e6);';
+      lab.style.cssText = 'display: inline-flex; align-items: center; gap: 4px; font-size: 10px; cursor: pointer;';
       const rad = document.createElement('input');
       rad.type = 'radio';
       rad.name = 'editor-preview-cf-direction';
@@ -15576,7 +15712,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
     cfDirectionRow.className = 'editor-preview-cf-direction-row';
     cfDirectionRow.style.cssText = 'display: flex; flex-direction: column; gap: 2px;';
     const cfDirectionTitle = document.createElement('span');
-    cfDirectionTitle.style.cssText = 'font-size: 10px; opacity: 0.9; color: var(--lumina-cyan, #00e0e6);';
+    cfDirectionTitle.style.fontSize = '10px';
+    cfDirectionTitle.style.opacity = '0.9';
     cfDirectionTitle.textContent = cfDirectionLabel;
     cfDirectionRow.appendChild(cfDirectionTitle);
     cfDirectionRow.appendChild(cfDirectionWrap);
@@ -15687,10 +15824,75 @@ class LuminaEnergyCardEditor extends HTMLElement {
         setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0);
       } catch (e) { /* ignore */ }
     });
+    const exportConfigLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_config) || 'Export config';
+    const importConfigLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_config) || 'Import config';
+    const exportConfigBtn = document.createElement('button');
+    exportConfigBtn.type = 'button';
+    exportConfigBtn.className = 'editor-preview-export-config';
+    exportConfigBtn.textContent = exportConfigLabel;
+    exportConfigBtn.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_config_helper) || 'Backup full card config (background, overlays, sensors, flows) as JSON. Use before updating to restore later.';
+    exportConfigBtn.style.cssText = 'padding: 6px 10px; font-size: 10px; border-radius: 6px; background: rgba(180,200,100,0.2); color: #b4c864; border: 1px solid rgba(180,200,100,0.5); cursor: pointer;';
+    exportConfigBtn.addEventListener('click', () => {
+      try {
+        const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
+        const data = { _lumina_config_export: true, version: 1 };
+        Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
+        const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = 'lumina-config-backup.json';
+        a.click();
+        URL.revokeObjectURL(a.href);
+      } catch (e) { /* ignore */ }
+    });
+    const importConfigBtn = document.createElement('button');
+    importConfigBtn.type = 'button';
+    importConfigBtn.className = 'editor-preview-import-config';
+    importConfigBtn.textContent = importConfigLabel;
+    importConfigBtn.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_config_helper) || 'Restore config from a previously exported JSON backup. Merges with current config.';
+    importConfigBtn.style.cssText = 'padding: 6px 10px; font-size: 10px; border-radius: 6px; background: rgba(180,220,120,0.2); color: #b4dc78; border: 1px solid rgba(180,220,120,0.5); cursor: pointer;';
+    const importConfigInput = document.createElement('input');
+    importConfigInput.type = 'file';
+    importConfigInput.accept = 'application/json,.json';
+    importConfigInput.style.display = 'none';
+    importConfigInput.addEventListener('change', () => {
+      const file = importConfigInput.files && importConfigInput.files[0];
+      importConfigInput.value = '';
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = () => {
+        try {
+          const raw = reader.result;
+          if (typeof raw !== 'string') return;
+          const data = JSON.parse(raw);
+          if (!data || data._lumina_config_export !== true) return;
+          const newConfig = { ...(this._config || {}) };
+          Object.keys(data).forEach((k) => {
+            if (k === '_lumina_config_export' || k === 'version') return;
+            if (k && !k.startsWith('_')) newConfig[k] = data[k];
+          });
+          this._config = newConfig;
+          const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
+          if (forms && forms.length) {
+            const full = this._configWithDefaults ? this._configWithDefaults() : newConfig;
+            forms.forEach((f) => { if (f) f.data = full; });
+          }
+          this._debouncedConfigChanged(newConfig, true);
+          this._rendered = false;
+          this.render();
+          setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 50);
+        } catch (e) { /* ignore */ }
+      };
+      reader.readAsText(file);
+    });
+    importConfigBtn.addEventListener('click', () => { importConfigInput.click(); });
     flowsFileRow.appendChild(exportFlowsBtn);
     flowsFileRow.appendChild(importFlowsBtn);
     flowsFileRow.appendChild(resetFlowsBtn);
+    flowsFileRow.appendChild(exportConfigBtn);
+    flowsFileRow.appendChild(importConfigBtn);
     flowsFileRow.appendChild(importFileInput);
+    flowsFileRow.appendChild(importConfigInput);
 
     const hint = document.createElement('div');
     hint.className = 'editor-preview-draw-hint';
@@ -16239,7 +16441,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Animation Styles', helper: 'Flow animation style (dashes, dots, arrows, shimmer). Default: shimmer.' },
           typography: { title: 'Typography', helper: 'Fine tune the font sizes used across the card.' },
           flow_path_custom: { title: 'Custom Flow Paths', helper: 'Customize flow paths by modifying SVG path strings. Leave empty to use default paths. You can combine custom paths with offsets from the Flow Path section.' },
-          lumina_pro: { title: 'Lumina PRO', helper: '⚠️ PRO FEATURES: Premium functions including overlay images, custom flows, and custom texts. To unlock: pay 5€ via PayPal (DONATION) or via GitHub Sponsors, then request your license using the form (choose PayPal or GitHub). The system is automatic: if no match is found, the password will not be sent.' },
+          lumina_pro: { title: 'Lumina PRO', helper: 'PRO FUNCTIONS: PREMIUM FUNCTIONS INCLUDING OVERLAY IMAGES, CUSTOM FLOWS, CUSTOM TEXTS, FLOW PATHS, LAYOUT AND TEXTS, FLOW COLORS AND HOUSE MANAGEMENT, CUSTOM BACKGROUND IMAGE, AI IMAGE CREATION, DRAG AND DROP.' },
           layout: { title: 'Layout & Text Positions', helper: 'Sliders show exact X, Y (px) and angles (°). Use step 1 to get precise values—note them for your definitive YAML config. ViewBox 800×450. Save and check dashboard. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'SOC Bar', helper: '6-segment bar on battery. Position, opacity, glow, colors.' },
           gridBox: { title: 'Grid Box', helper: 'Top-right box. Import/Export + daily. Position and size.' },
@@ -16337,12 +16539,18 @@ class LuminaEnergyCardEditor extends HTMLElement {
           sensor_pv4: { label: 'PV String 4 (Array 1)' },
           sensor_pv5: { label: 'PV String 5 (Array 1)' },
           sensor_pv6: { label: 'PV String 6 (Array 1)' },
+          sensor_pv7: { label: 'PV String 7 (Array 1)' },
+          sensor_pv8: { label: 'PV String 8 (Array 1)' },
+          sensor_pv9: { label: 'PV String 9 (Array 1)' },
           sensor_pv_array2_1: { label: 'PV String 1 (Array 2)', helper: 'Array 2 solar production sensor.' },
           sensor_pv_array2_2: { label: 'PV String 2 (Array 2)', helper: 'Array 2 solar production sensor.' },
           sensor_pv_array2_3: { label: 'PV String 3 (Array 2)', helper: 'Array 2 solar production sensor.' },
           sensor_pv_array2_4: { label: 'PV String 4 (Array 2)', helper: 'Array 2 solar production sensor.' },
           sensor_pv_array2_5: { label: 'PV String 5 (Array 2)', helper: 'Array 2 solar production sensor.' },
           sensor_pv_array2_6: { label: 'PV String 6 (Array 2)', helper: 'Array 2 solar production sensor.' },
+          sensor_pv_array2_7: { label: 'PV String 7 (Array 2)', helper: 'Array 2 solar production sensor.' },
+          sensor_pv_array2_8: { label: 'PV String 8 (Array 2)', helper: 'Array 2 solar production sensor.' },
+          sensor_pv_array2_9: { label: 'PV String 9 (Array 2)', helper: 'Array 2 solar production sensor.' },
           show_pv_strings: { label: 'Show Individual PV Strings', helper: 'Toggle to display the total plus each PV string on separate lines.' },
           sensor_daily: { label: 'Daily Production Sensor (Required)', helper: 'Sensor reporting daily production totals. Either the PV total sensor or your PV string arrays need to be specified as a minimum.' },
           sensor_daily_array2: { label: 'Daily Production Sensor (Array 2)', helper: 'Sensor reporting daily production totals for Array 2.' },
@@ -16390,6 +16598,9 @@ class LuminaEnergyCardEditor extends HTMLElement {
           pv_string4_color: { label: 'PV String 4 Color', helper: 'Override for S4 in the PV list. Leave blank to inherit the PV total color.' },
           pv_string5_color: { label: 'PV String 5 Color', helper: 'Override for S5 in the PV list. Leave blank to inherit the PV total color.' },
           pv_string6_color: { label: 'PV String 6 Color', helper: 'Override for S6 in the PV list. Leave blank to inherit the PV total color.' },
+          pv_string7_color: { label: 'PV String 7 Color', helper: 'Override for S7 in the PV list. Leave blank to inherit the PV total color.' },
+          pv_string8_color: { label: 'PV String 8 Color', helper: 'Override for S8 in the PV list. Leave blank to inherit the PV total color.' },
+          pv_string9_color: { label: 'PV String 9 Color', helper: 'Override for S9 in the PV list. Leave blank to inherit the PV total color.' },
           load_flow_color: { label: 'Load Flow Color', helper: 'Colour applied to the home load animation line.' },
           load_text_color: { label: 'Load Text Color', helper: 'Colour applied to the home load text when thresholds are inactive.' },
           inv1_color: { label: 'INV 1 Color', helper: 'Colour applied to the INV 1 text/flow.' },
@@ -16407,8 +16618,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
           battery_fill_opacity: { label: 'Battery Fill Opacity', helper: 'Transparency of the battery liquid fill (0.05–1).' },
           grid_activity_threshold: { label: 'Grid Animation Threshold (W)', helper: 'Ignore grid flows whose absolute value is below this wattage before animating.' },
           flow_activity_threshold: { label: 'Flow visibility threshold (W)', helper: 'Do not show PV, battery, load, car and heat pump flows when power is below this value (W).' },
-          pv_activity_threshold: { label: 'PV Animation Threshold (W)', helper: 'Disable PV flow animation when solar power is below this value (W). If not set, the general flow threshold is used.' },
-          heat_pump_activity_threshold: { label: 'Heat Pump Animation Threshold (W)', helper: 'Disable heat pump flow animation when power is below this value (W). If not set, the general flow threshold is used.' },
           grid_threshold_warning: { label: 'Grid Warning Threshold', helper: 'Change grid color when magnitude equals or exceeds this value. Uses the selected display unit.' },
           grid_warning_color: { label: 'Grid Warning Color', helper: 'Hex or CSS color applied at the warning threshold.' },
           grid_threshold_critical: { label: 'Grid Critical Threshold', helper: 'Change grid color when magnitude equals or exceeds this value. Uses the selected display unit.' },
@@ -16455,6 +16664,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           array1_invert_flow: { label: 'Invert Flow Array 1', helper: 'Invert the flow direction for Array 1 (PV1). Useful if the sensor polarity is reversed.' },
           array2_invert_flow: { label: 'Invert Flow Array 2', helper: 'Invert the flow direction for Array 2 (PV2). Useful if the sensor polarity is reversed.' },
           heat_pump_invert_flow: { label: 'Heat Pump Invert Flow', helper: 'Invert the heat pump flow direction. Useful if the sensor polarity is reversed.' },
+          load_invert_flow: { label: 'Load Invert Flow', helper: 'Invert the home load flow direction. Useful if the sensor polarity is reversed.' },
           pro_debug_grid: { label: 'Enable Positioning Grid (PRO)', helper: 'Show an on-screen grid + coordinates to position texts more precisely (PRO tool).' },
           custom_text_1_rotate: { label: 'Text 1: Rotation (°)', helper: 'Rotation angle for Text 1 (-180..180).' },
           custom_text_1_skew_x: { label: 'Text 1: Skew X (°)', helper: 'Skew angle for Text 1 on X axis (-60..60).' },
@@ -16489,7 +16699,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           checking: 'Checking...',
           request_pro_license: 'Request PRO License',
           your_email: 'Your Email',
-          payment_method: 'Payment method (PayPal / GitHub)',
+          payment_method: 'Payment method (PayPal / GitHub / Colletta)',
           payment_method_paypal: 'PayPal (donation)',
           payment_method_github: 'GitHub Sponsors',
           paypal_payment_email: 'PayPal payment email',
@@ -16523,18 +16733,13 @@ class LuminaEnergyCardEditor extends HTMLElement {
           fill_all_fields: 'Please fill in all fields.',
           password_ok: '✓ Password accepted. PRO is now active.',
           password_bad: '❌ Invalid password. Please check and try again.',
-          save_v3_password: 'This is your new personal password. Save it.',
-          save_v3_click_save: 'Click SAVE at the bottom of this dialog to keep the v3 password. Otherwise it will be lost when you close.',
-          paypal_donation_only: 'We accept ONLY donations. Do NOT use Goods & Services.',
-          privacy_accept_template: 'I have read and accept the {0}.',
-          privacy_link_label: 'Privacy Policy',
-          privacy_required: 'You must accept the Privacy Policy to continue.',
           update_available: 'Update available',
           update_open: 'Open',
           editor_preview_title: 'Preview Lumina (drag)',
           editor_toggle_show_lumina_preview: 'Preview Lumina (drag) under HA preview',
           editor_toggle_hide_ha_preview: 'Hide HA preview',
           editor_preview_requires_pro: 'Activate the PRO section with password first.',
+          editor_personal_requires_pro: 'Activate PRO to use Personal (custom background).',
           editor_lock_base: 'Lock base (bg/overlays)',
           editor_lock_flows: 'Lock flow drag',
           editor_reset_base: 'Reset base',
@@ -16578,6 +16783,10 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_import_flows_helper: 'Load flows from a previously exported JSON file.',
           editor_reset_flows: 'Reset flows',
           editor_reset_flows_helper: 'Clear all custom flow paths and options.',
+          editor_export_config: 'Export config',
+          editor_import_config: 'Import config',
+          editor_export_config_helper: 'Backup full card config (background, overlays, sensors, flows) as JSON. Use before updating to restore later.',
+          editor_import_config_helper: 'Restore config from a previously exported JSON backup. Merges with current config.',
           house_camera_1: { label: 'Camera 1', helper: 'Camera entity for streaming. Up to 6 cameras. Click camera icon to open popup.' },
           house_camera_2: { label: 'Camera 2', helper: '' },
           house_camera_3: { label: 'Camera 3', helper: '' },
@@ -16614,6 +16823,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
           pro_license_line3: 'After payment, fill the form below and choose <b>PayPal</b> (payment email + name/surname) or <b>GitHub Sponsors</b> (GitHub username).',
           pro_license_auto_note: 'Automatic system: if no match is found, the password will NOT be sent.',
           pro_license_line4: 'Donations: <b>10€</b> = contributors names in the card; <b>50€</b> = priority for personal features. Always contact <b>luminaenergycard@gmail.com</b> or via Telegram group. Also check your <b>SPAM</b> folder.',
+          pro_license_line_red: 'Send as DONATION, NOT as Goods & Services. Payment will be refunded if request is denied.',
+          payment_method_colletta: 'Pool 5€ PayPal',
           follow_title: 'Community',
           telegram_button: 'Telegram Group',
           tiktok_button: 'TikTok Channel',
@@ -16829,7 +17040,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Stili Animazioni', helper: 'Stile animazione flussi (tratteggi, punti, frecce, shimmer). Predefinito: shimmer.' },
           typography: { title: 'Tipografia', helper: 'Regola le dimensioni dei caratteri utilizzate nella scheda.' },
           flow_path_custom: { title: 'Percorsi Flussi Personalizzati', helper: 'Personalizza i percorsi dei flussi modificando le stringhe SVG. Lascia vuoto per usare i percorsi predefiniti. Puoi combinare percorsi personalizzati con gli offset della sezione Percorso Flussi.' },
-          lumina_pro: { title: 'Lumina PRO', helper: '⚠️ FUNZIONI PRO: Funzioni premium incluse immagini overlay, flussi personalizzati e testi personalizzati. Per sbloccare: paga 5€ con PayPal (DONAZIONE) oppure con GitHub Sponsors e poi richiedi la licenza tramite il form (scegli PayPal o GitHub). Il sistema è automatico: se non trova corrispondenza, la password NON verrà inviata.' },
+          lumina_pro: { title: 'Lumina PRO', helper: 'FUNZIONI PRO: FUNZIONI PREMIUM INCLUSE IMMAGINI OVERLAY, FLUSSI PERSONALIZZATI, TESTI PERSONALIZZATI, PERCORSI FLUSSI, LAYOUT E TESTI, COLORI FLUSSI E GESTIONE CASA, IMMAGINE BACKGROUND PERSONALIZZATA, CREAZIONE IA IMMAGINI, DRAG AND DROP.' },
           layout: { title: 'Layout & Posizioni Testi', helper: 'I cursori mostrano X, Y in pixel esatti e angoli (°). Step 1 per valori precisi—annotali per la YAML definitiva. ViewBox 800×450. Salva e controlla la dashboard. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'Barra SOC', helper: 'Barra a 6 segmenti sulla batteria. Posizione, opacità, alone, colori.' },
           gridBox: { title: 'Riquadro Rete', helper: 'Riquadro in alto a destra: Import/Export rete + totali giornalieri. Posizione e dimensioni.' },
@@ -16925,12 +17136,18 @@ class LuminaEnergyCardEditor extends HTMLElement {
           sensor_pv4: { label: 'PV String 4 (Array 1)' },
           sensor_pv5: { label: 'PV String 5 (Array 1)' },
           sensor_pv6: { label: 'PV String 6 (Array 1)' },
+          sensor_pv7: { label: 'Stringa PV 7 (Array 1)' },
+          sensor_pv8: { label: 'Stringa PV 8 (Array 1)' },
+          sensor_pv9: { label: 'Stringa PV 9 (Array 1)' },
           sensor_pv_array2_1: { label: 'Stringa PV 1 (Array 2)', helper: 'Sensore produzione solare dell Array 2.' },
           sensor_pv_array2_2: { label: 'Stringa PV 2 (Array 2)', helper: 'Sensore produzione solare dell Array 2.' },
           sensor_pv_array2_3: { label: 'Stringa PV 3 (Array 2)', helper: 'Sensore produzione solare dell Array 2.' },
           sensor_pv_array2_4: { label: 'Stringa PV 4 (Array 2)', helper: 'Sensore produzione solare dell Array 2.' },
           sensor_pv_array2_5: { label: 'Stringa PV 5 (Array 2)', helper: 'Sensore produzione solare dell Array 2.' },
           sensor_pv_array2_6: { label: 'Stringa PV 6 (Array 2)', helper: 'Sensore produzione solare dell Array 2.' },
+          sensor_pv_array2_7: { label: 'Stringa PV 7 (Array 2)', helper: 'Sensore produzione solare dell Array 2.' },
+          sensor_pv_array2_8: { label: 'Stringa PV 8 (Array 2)', helper: 'Sensore produzione solare dell Array 2.' },
+          sensor_pv_array2_9: { label: 'Stringa PV 9 (Array 2)', helper: 'Sensore produzione solare dell Array 2.' },
           show_pv_strings: { label: 'Mostra stringhe PV', helper: 'Attiva per mostrare la linea totale piu ogni stringa PV separata.' },
           sensor_daily: { label: 'Sensore produzione giornaliera (Obbligatorio)', helper: 'Sensore che riporta la produzione giornaliera. Come minimo deve essere specificato il sensore PV totale oppure gli array di stringhe PV.' },
           sensor_daily_array2: { label: 'Sensore produzione giornaliera (Array 2)', helper: 'Sensore che riporta la produzione giornaliera per l Array 2.' },
@@ -16995,8 +17212,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
           battery_fill_opacity: { label: 'Opacità fill batteria', helper: 'Trasparenza del liquido batteria (0,05–1).' },
           grid_activity_threshold: { label: 'Soglia animazione rete (W)', helper: 'Ignora i flussi rete con magnitudine inferiore a questo valore prima di animarli.' },
           flow_activity_threshold: { label: 'Soglia visibilità flussi (W)', helper: 'Non mostrare i flussi FV, batteria, carico, auto e pompa di calore quando la potenza è sotto questo valore (W).' },
-          pv_activity_threshold: { label: 'Soglia animazione FV (W)', helper: 'Disattiva l animazione del flusso fotovoltaico quando la potenza solare è sotto questo valore (W). Se non impostata, viene usata la soglia flussi generale.' },
-          heat_pump_activity_threshold: { label: 'Soglia animazione pompa di calore (W)', helper: 'Disattiva l animazione del flusso pompa di calore quando la potenza è sotto questo valore (W). Se non impostata, viene usata la soglia flussi generale.' },
           grid_threshold_warning: { label: 'Soglia avviso rete', helper: 'Cambia colore quando la magnitudine raggiunge questa soglia. Usa l unita di visualizzazione selezionata.' },
           grid_warning_color: { label: 'Colore avviso rete', helper: 'Colore applicato alla soglia di avviso.' },
           grid_threshold_critical: { label: 'Soglia critica rete', helper: 'Cambia colore quando la magnitudine raggiunge questa soglia. Usa l unita di visualizzazione selezionata.' },
@@ -17043,6 +17258,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
             array1_invert_flow: { label: 'Inverti Flusso Array 1', helper: 'Inverte la direzione del flusso per l\'Array 1 (PV1). Utile se la polarità del sensore è invertita.' },
             array2_invert_flow: { label: 'Inverti Flusso Array 2', helper: 'Inverte la direzione del flusso per l\'Array 2 (PV2). Utile se la polarità del sensore è invertita.' },
             heat_pump_invert_flow: { label: 'Inverti Flusso Pompa di Calore', helper: 'Inverte la direzione del flusso della pompa di calore. Utile se la polarità del sensore è invertita.' },
+            load_invert_flow: { label: 'Inverti Flusso Carico Casa', helper: 'Inverte la direzione del flusso del carico domestico. Utile se la polarità del sensore è invertita.' },
             pro_debug_grid: { label: 'Abilita griglia di posizionamento (PRO)', helper: 'Mostra una griglia a schermo + coordinate per posizionare i testi con più precisione (tool PRO).' },
             custom_text_1_rotate: { label: 'Testo 1: Rotazione (°)', helper: 'Angolo di rotazione per Testo 1 (-180..180).' },
             custom_text_1_skew_x: { label: 'Testo 1: Inclinazione X (°)', helper: 'Angolo di inclinazione (skew) sull’asse X (-60..60).' },
@@ -17077,7 +17293,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           checking: 'Verifica...',
           request_pro_license: 'Richiedi Licenza PRO',
           your_email: 'La tua email',
-          payment_method: 'Metodo pagamento (PayPal / GitHub)',
+          payment_method: 'Metodo pagamento (PayPal / GitHub / Colletta)',
           payment_method_paypal: 'PayPal (donazione)',
           payment_method_github: 'GitHub Sponsors',
           paypal_payment_email: 'Email di pagamento PayPal',
@@ -17111,18 +17327,13 @@ class LuminaEnergyCardEditor extends HTMLElement {
           fill_all_fields: 'Compila tutti i campi.',
           password_ok: '✓ Password accettata. PRO attivo.',
           password_bad: '❌ Password non valida. Controlla e riprova.',
-          save_v3_password: 'Questa è la tua nuova password personale. Salvala.',
-          save_v3_click_save: 'Clicca SALVA in basso in questa finestra per conservare la password v3. Altrimenti si perderà alla chiusura.',
-          paypal_donation_only: 'Accettiamo SOLO donazioni. NON usare Beni e servizi.',
-          privacy_accept_template: 'Ho letto e accetto la {0}.',
-          privacy_link_label: 'Privacy Policy',
-          privacy_required: 'Devi accettare la Privacy Policy per procedere.',
           update_available: 'Aggiornamento disponibile',
           update_open: 'Apri',
           editor_preview_title: 'Anteprima Lumina (drag)',
           editor_toggle_show_lumina_preview: 'Anteprima Lumina (drag) sotto preview HA',
           editor_toggle_hide_ha_preview: 'Nascondi preview HA',
           editor_preview_requires_pro: 'Attiva prima la sezione PRO con password.',
+          editor_personal_requires_pro: 'Attiva PRO per usare Personale (sfondo personalizzato).',
           editor_lock_base: 'Blocca base (sfondo/overlay)',
           editor_lock_flows: 'Blocca drag flow',
           editor_reset_base: 'Reset base',
@@ -17166,6 +17377,10 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_import_flows_helper: 'Carica flussi da un file JSON precedentemente esportato.',
           editor_reset_flows: 'Reset flussi',
           editor_reset_flows_helper: 'Cancella tutti i percorsi e le opzioni dei flussi personalizzati.',
+          editor_export_config: 'Esporta config',
+          editor_import_config: 'Importa config',
+          editor_export_config_helper: 'Backup della config completa (sfondo, overlay, sensori, flussi) come JSON. Usa prima degli aggiornamenti per ripristinare dopo.',
+          editor_import_config_helper: 'Ripristina config da un backup JSON precedentemente esportato. Unisce con la config corrente.',
           house_camera_1: { label: 'Camera 1', helper: 'Entità camera per streaming. Fino a 6. Clic sull\'icona per aprire il popup.' },
           house_camera_2: { label: 'Camera 2', helper: '' },
           house_camera_3: { label: 'Camera 3', helper: '' },
@@ -17202,6 +17417,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
           pro_license_line3: 'Dopo il pagamento, compila il form sotto e scegli <b>PayPal</b> (email pagamento + nome/cognome) oppure <b>GitHub Sponsors</b> (username GitHub).',
           pro_license_auto_note: 'Sistema automatico: se non viene trovata corrispondenza, la password NON verrà inviata.',
           pro_license_line4: 'Donazioni: <b>10€</b> = nomi dei contributori nella card; <b>50€</b> = priorità per funzionalità personali. Contattare sempre <b>luminaenergycard@gmail.com</b> o tramite gruppo Telegram. Controlla anche lo <b>SPAM</b>.',
+          pro_license_line_red: 'Inviare come DONAZIONE, NON come beni e servizi. Il pagamento verrà rimborsato in caso negativo.',
+          payment_method_colletta: 'Colletta 5€ PayPal',
           follow_title: 'Community',
           telegram_button: 'Gruppo Telegram',
           tiktok_button: 'Canale TikTok',
@@ -17440,7 +17657,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Animationsstile', helper: 'Fluss-Animationsstil (Striche, Punkte, Pfeile, Shimmer). Standard: Shimmer.' },
           typography: { title: 'Typografie', helper: 'Schriftgroessen der Karte feinjustieren.' },
           flow_path_custom: { title: 'Benutzerdefinierte Flusspfade', helper: 'Passen Sie die Flusspfade an, indem Sie SVG-Pfadzeichenfolgen ändern. Leer lassen, um Standardpfade zu verwenden. Sie können benutzerdefinierte Pfade mit Offsets aus dem Fluss-Pfad-Bereich kombinieren.' },
-          lumina_pro: { title: 'Lumina PRO', helper: '⚠️ PRO-FUNKTIONEN: Premium-Funktionen inkl. Overlay-Bilder, benutzerdefinierte Flüsse und Texte. Zum Freischalten: zahle 5€ per PayPal (SPENDE) oder über GitHub Sponsors und fordere anschließend die Lizenz über das Formular an (PayPal / GitHub auswählen). Automatisches System: Wenn keine Übereinstimmung gefunden wird, wird das Passwort nicht gesendet.' },
+          lumina_pro: { title: 'Lumina PRO', helper: 'PRO-FUNKTIONEN: PREMIUM-FUNKTIONEN INKL. OVERLAY-BILDER, BENUTZERDEFINIERTE FLÜSSE, BENUTZERDEFINIERTE TEXTE, FLUSSPFADE, LAYOUT UND TEXTE, FLUSSFARBEN UND HAUSVERWALTUNG, BENUTZERDEFINIERTES HINTERGRUNDBILD, KI-BILDERZEUGUNG, DRAG AND DROP.' },
           layout: { title: 'Layout & Textpositionen', helper: 'Schieberegler zeigen exakte X, Y (px) und Winkel (°). Step 1 für präzise Werte—notieren für definitive YAML. ViewBox 800×450. Speichern und Dashboard prüfen. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'SOC-Balken', helper: '6-Segment-Balken an der Batterie. Position, Deckkraft, Leuchten, Farben.' },
           gridBox: { title: 'Netz-Box', helper: 'Box oben rechts: Import/Export + Tageswerte. Position und Größe.' },
@@ -17458,6 +17675,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_toggle_show_lumina_preview: 'Lumina-Vorschau (Drag) unter HA-Vorschau',
           editor_toggle_hide_ha_preview: 'HA-Vorschau ausblenden',
           editor_preview_requires_pro: 'Bitte zuerst den PRO-Bereich mit Passwort aktivieren.',
+          editor_personal_requires_pro: 'Aktiviere PRO um Personal (benutzerdefinierter Hintergrund) zu nutzen.',
           editor_lock_base: 'Basis sperren (Hintergrund/Overlay)',
           editor_lock_flows: 'Flow-Drag sperren',
           editor_reset_base: 'Basis zurücksetzen',
@@ -17494,6 +17712,10 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_import_flows_helper: 'Flüsse aus einer zuvor exportierten JSON-Datei laden.',
           editor_reset_flows: 'Flüsse zurücksetzen',
           editor_reset_flows_helper: 'Alle benutzerdefinierten Fluss-Pfade und Optionen löschen.',
+          editor_export_config: 'Config exportieren',
+          editor_import_config: 'Config importieren',
+          editor_export_config_helper: 'Vollständige Karten-Konfiguration (Hintergrund, Overlays, Sensoren, Flüsse) als JSON sichern. Vor Updates verwenden, um später wiederherzustellen.',
+          editor_import_config_helper: 'Konfiguration aus einer zuvor exportierten JSON-Sicherung wiederherstellen. Wird mit der aktuellen Config zusammengeführt.',
           house_camera_1: { label: 'Kamera 1', helper: 'Kamera-Entität für Streaming. Bis zu 6. Klick auf Kamera-Icon öffnet Popup.' },
           house_camera_2: { label: 'Kamera 2', helper: '' },
           house_camera_3: { label: 'Kamera 3', helper: '' },
@@ -17609,12 +17831,18 @@ class LuminaEnergyCardEditor extends HTMLElement {
           sensor_pv4: { label: 'PV String 4 (Array 1)' },
           sensor_pv5: { label: 'PV String 5 (Array 1)' },
           sensor_pv6: { label: 'PV String 6 (Array 1)' },
+          sensor_pv7: { label: 'PV String 7 (Array 1)' },
+          sensor_pv8: { label: 'PV String 8 (Array 1)' },
+          sensor_pv9: { label: 'PV String 9 (Array 1)' },
           sensor_pv_array2_1: { label: 'PV String 1 (Array 2)', helper: 'Solarproduktionssensor für Array 2.' },
           sensor_pv_array2_2: { label: 'PV String 2 (Array 2)', helper: 'Solarproduktionssensor für Array 2.' },
           sensor_pv_array2_3: { label: 'PV String 3 (Array 2)', helper: 'Solarproduktionssensor für Array 2.' },
           sensor_pv_array2_4: { label: 'PV String 4 (Array 2)', helper: 'Solarproduktionssensor für Array 2.' },
           sensor_pv_array2_5: { label: 'PV String 5 (Array 2)', helper: 'Solarproduktionssensor für Array 2.' },
           sensor_pv_array2_6: { label: 'PV String 6 (Array 2)', helper: 'Solarproduktionssensor für Array 2.' },
+          sensor_pv_array2_7: { label: 'PV String 7 (Array 2)', helper: 'Solarproduktionssensor für Array 2.' },
+          sensor_pv_array2_8: { label: 'PV String 8 (Array 2)', helper: 'Solarproduktionssensor für Array 2.' },
+          sensor_pv_array2_9: { label: 'PV String 9 (Array 2)', helper: 'Solarproduktionssensor für Array 2.' },
           show_pv_strings: { label: 'PV Strings einzeln anzeigen', helper: 'Gesamte Linie plus jede PV-String-Zeile separat einblenden.' },
           sensor_daily: { label: 'Tagesproduktion Sensor (Erforderlich)', helper: 'Sensor fuer taegliche Produktionssumme. Entweder der PV-Gesamt-Sensor oder Ihre PV-String-Arrays muessen mindestens angegeben werden.' },
           sensor_daily_array2: { label: 'Tagesproduktion Sensor (Array 2)', helper: 'Sensor fuer die taegliche Produktionssumme von Array 2.' },
@@ -17679,8 +17907,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
           battery_fill_opacity: { label: 'Batterie-Fill Deckkraft', helper: 'Transparenz der Batteriefluessigkeit (0,05–1).' },
           grid_activity_threshold: { label: 'Netz Animationsschwelle (W)', helper: 'Ignoriere Netzfluesse mit geringerer Absolutleistung, bevor animiert wird.' },
           flow_activity_threshold: { label: 'Fluss-Sichtbarkeitsschwelle (W)', helper: 'PV-, Batterie-, Last-, Auto- und Wärmepumpenflüsse nicht anzeigen, wenn die Leistung unter diesem Wert (W) liegt.' },
-          pv_activity_threshold: { label: 'PV-Animationsschwelle (W)', helper: 'PV-Flussanimation deaktivieren, wenn die Solarleistung unter diesem Wert (W) liegt. Wenn nicht gesetzt, wird die allgemeine Flussschwelle verwendet.' },
-          heat_pump_activity_threshold: { label: 'Wärmepumpen-Animationsschwelle (W)', helper: 'Wärmepumpen-Flussanimation deaktivieren, wenn die Leistung unter diesem Wert (W) liegt. Wenn nicht gesetzt, wird die allgemeine Flussschwelle verwendet.' },
           grid_threshold_warning: { label: 'Netz Warnschwelle', helper: 'Farbe wechseln, wenn diese Magnitude erreicht wird. Verwendet die ausgewaehlte Anzeigeeinheit.' },
           grid_warning_color: { label: 'Netz Warnfarbe', helper: 'Farbe bei Erreichen der Warnschwelle.' },
           grid_threshold_critical: { label: 'Netz Kritische Schwelle', helper: 'Farbe wechseln, wenn diese Magnitude erreicht wird. Verwendet die ausgewaehlte Anzeigeeinheit.' },
@@ -17725,6 +17951,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           array1_invert_flow: { label: 'Fluss umkehren Array 1', helper: 'Kehrt die Flussrichtung für Array 1 (PV1) um. Nützlich, wenn die Sensorpolarität umgekehrt ist.' },
           array2_invert_flow: { label: 'Fluss umkehren Array 2', helper: 'Kehrt die Flussrichtung für Array 2 (PV2) um. Nützlich, wenn die Sensorpolarität umgekehrt ist.' },
           heat_pump_invert_flow: { label: 'Fluss umkehren Wärmepumpe', helper: 'Kehrt die Flussrichtung der Wärmepumpe um. Nützlich, wenn die Sensorpolarität umgekehrt ist.' },
+          load_invert_flow: { label: 'Fluss umkehren Hauslast', helper: 'Kehrt die Flussrichtung der Hauslast um. Nützlich, wenn die Sensorpolarität umgekehrt ist.' },
           pro_debug_grid: { label: 'Positionierungsraster aktivieren (PRO)', helper: 'Zeigt ein Raster + Koordinaten auf dem Bildschirm, um Texte präziser zu positionieren (PRO-Tool).' },
           custom_text_1_rotate: { label: 'Text 1: Drehung (°)', helper: 'Drehwinkel für Text 1 (-180..180).' },
           custom_text_1_skew_x: { label: 'Text 1: Scherung X (°)', helper: 'Scherwinkel für Text 1 auf X-Achse (-60..60).' },
@@ -17755,7 +17982,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           checking: 'Prüfe...',
           request_pro_license: 'PRO-Lizenz anfordern',
           your_email: 'Deine E-Mail',
-          payment_method: 'Zahlungsmethode (PayPal / GitHub)',
+          payment_method: 'Zahlungsmethode (PayPal / GitHub / Colletta)',
           payment_method_paypal: 'PayPal (Spende)',
           payment_method_github: 'GitHub Sponsors',
           paypal_payment_email: 'PayPal Zahlungs-E-Mail',
@@ -17788,18 +18015,14 @@ class LuminaEnergyCardEditor extends HTMLElement {
           fill_all_fields: 'Bitte alle Felder ausfüllen.',
           password_ok: '✓ Passwort akzeptiert. PRO ist aktiv.',
           password_bad: '❌ Ungültiges Passwort. Bitte prüfen und erneut versuchen.',
-          save_v3_password: 'Das ist dein neues persönliches Passwort. Speichere es.',
-          save_v3_click_save: 'Klicke unten auf SPEICHERN, um das v3-Passwort zu behalten. Sonst geht es beim Schließen verloren.',
-          paypal_donation_only: 'Wir akzeptieren NUR Spenden. KEINE Waren & Dienstleistungen.',
-          privacy_accept_template: 'Ich habe die {0} gelesen und akzeptiert.',
-          privacy_link_label: 'Datenschutzrichtlinie',
-          privacy_required: 'Sie müssen die Datenschutzrichtlinie akzeptieren, um fortzufahren.',
           pro_license_title: '💰 PRO-Lizenz',
           pro_license_line1: 'Option 1: Sende <b>5€ als SPENDE</b> an PayPal: <b>3dprint8616@gmail.com</b>',
           pro_license_line2: 'Option 2: Unterstütze über <b>GitHub Sponsors</b> (gleicher Betrag).',
           pro_license_line3: 'Nach der Zahlung fülle das Formular unten aus und wähle <b>PayPal</b> (Zahlungs-E-Mail + Vorname/Nachname) oder <b>GitHub Sponsors</b> (GitHub Benutzername).',
           pro_license_auto_note: 'Automatisches System: Wenn keine Übereinstimmung gefunden wird, wird das Passwort NICHT gesendet.',
           pro_license_line4: 'Spenden: <b>10€</b> = Namen der Unterstützer in der Card; <b>50€</b> = Priorität für persönliche Funktionen. Immer kontaktieren: <b>luminaenergycard@gmail.com</b> oder per Telegram-Gruppe. Bitte auch den <b>SPAM</b>-Ordner prüfen.',
+          pro_license_line_red: 'Als SPENDE senden, NICHT als Waren & Dienstleistungen. Zahlung wird bei Ablehnung erstattet.',
+          payment_method_colletta: 'Kollekte 5€ PayPal',
           follow_title: 'Community',
           telegram_button: 'Telegram-Gruppe',
           tiktok_button: 'TikTok-Kanal',
@@ -18038,7 +18261,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Styles d Animation', helper: 'Style d animation des flux (tirets, points, flèches, scintillement). Par défaut: scintillement.' },
           typography: { title: 'Typographie', helper: 'Ajustez les tailles de police utilisées dans la carte.' },
           flow_path_custom: { title: 'Chemins de Flux Personnalisés', helper: 'Personnalisez les chemins de flux en modifiant les chaînes de chemin SVG. Laissez vide pour utiliser les chemins par défaut. Vous pouvez combiner des chemins personnalisés avec les décalages de la section Chemin de Flux.' },
-          lumina_pro: { title: 'Lumina PRO', helper: '⚠️ FONCTIONS PRO : Fonctions premium (images overlay, flux personnalisés, textes personnalisés). Pour débloquer : payez 5€ via PayPal (DON) ou via GitHub Sponsors, puis demandez la licence via le formulaire (choisir PayPal / GitHub). Système automatique : si aucune correspondance n’est trouvée, le mot de passe ne sera pas envoyé.' },
+          lumina_pro: { title: 'Lumina PRO', helper: 'FONCTIONS PRO : FONCTIONS PREMIUM INCLUANT IMAGES OVERLAY, FLUX PERSONNALISÉS, TEXTES PERSONNALISÉS, CHEMINS DE FLUX, LAYOUT ET TEXTES, COULEURS DES FLUX ET GESTION MAISON, IMAGE DE FOND PERSONNALISÉE, CRÉATION D\'IMAGES IA, GLISSER-DÉPOSER.' },
           layout: { title: 'Mise en Page & Positions des Textes', helper: 'Curseurs : X, Y en pixels exacts et angles (°). Step 1 pour valeurs précises—notez-les pour votre YAML définitive. Zone 800×450. Enregistrez et vérifiez le tableau de bord. YAML : dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'Barre SOC', helper: 'Barre à 6 segments sur la batterie. Position, opacité, lueur, couleurs.' },
           gridBox: { title: 'Boîte Réseau', helper: 'Boîte en haut à droite : Import/Export + totaux journaliers. Position et dimensions.' },
@@ -18056,6 +18279,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_toggle_show_lumina_preview: 'Aperçu Lumina (glisser) sous l’aperçu HA',
           editor_toggle_hide_ha_preview: 'Masquer l’aperçu HA',
           editor_preview_requires_pro: 'Activez d\'abord la section PRO avec le mot de passe.',
+          editor_personal_requires_pro: 'Activez PRO pour utiliser Personnel (fond personnalisé).',
           editor_lock_base: 'Verrouiller base (fond/overlays)',
           editor_lock_flows: 'Verrouiller drag des flux',
           editor_reset_base: 'Réinitialiser base',
@@ -18092,6 +18316,10 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_import_flows_helper: 'Charger les flux depuis un fichier JSON précédemment exporté.',
           editor_reset_flows: 'Réinitialiser les flux',
           editor_reset_flows_helper: 'Effacer tous les chemins et options des flux personnalisés.',
+          editor_export_config: 'Exporter config',
+          editor_import_config: 'Importer config',
+          editor_export_config_helper: 'Sauvegarder la config complète (fond, overlays, capteurs, flux) en JSON. À utiliser avant les mises à jour pour restaurer ensuite.',
+          editor_import_config_helper: 'Restaurer la config depuis une sauvegarde JSON précédemment exportée. Fusionne avec la config actuelle.',
           house_camera_1: { label: 'Caméra 1', helper: 'Entité caméra pour le streaming. Jusqu\'à 6. Clic sur l\'icône pour ouvrir le popup.' },
           house_camera_2: { label: 'Caméra 2', helper: '' },
           house_camera_3: { label: 'Caméra 3', helper: '' },
@@ -18205,12 +18433,18 @@ class LuminaEnergyCardEditor extends HTMLElement {
           sensor_pv4: { label: 'Chaîne PV 4 (Array 1)' },
           sensor_pv5: { label: 'Chaîne PV 5 (Array 1)' },
           sensor_pv6: { label: 'Chaîne PV 6 (Array 1)' },
+          sensor_pv7: { label: 'Chaîne PV 7 (Array 1)' },
+          sensor_pv8: { label: 'Chaîne PV 8 (Array 1)' },
+          sensor_pv9: { label: 'Chaîne PV 9 (Array 1)' },
           sensor_pv_array2_1: { label: 'Chaîne PV 1 (Array 2)', helper: 'Capteur de production solaire de l Array 2.' },
           sensor_pv_array2_2: { label: 'Chaîne PV 2 (Array 2)', helper: 'Capteur de production solaire de l Array 2.' },
           sensor_pv_array2_3: { label: 'Chaîne PV 3 (Array 2)', helper: 'Capteur de production solaire de l Array 2.' },
           sensor_pv_array2_4: { label: 'Chaîne PV 4 (Array 2)', helper: 'Capteur de production solaire de l Array 2.' },
           sensor_pv_array2_5: { label: 'Chaîne PV 5 (Array 2)', helper: 'Capteur de production solaire de l Array 2.' },
           sensor_pv_array2_6: { label: 'Chaîne PV 6 (Array 2)', helper: 'Capteur de production solaire de l Array 2.' },
+          sensor_pv_array2_7: { label: 'Chaîne PV 7 (Array 2)', helper: 'Capteur de production solaire de l Array 2.' },
+          sensor_pv_array2_8: { label: 'Chaîne PV 8 (Array 2)', helper: 'Capteur de production solaire de l Array 2.' },
+          sensor_pv_array2_9: { label: 'Chaîne PV 9 (Array 2)', helper: 'Capteur de production solaire de l Array 2.' },
           show_pv_strings: { label: 'Afficher les chaînes PV individuelles', helper: 'Activez pour afficher la ligne totale plus chaque chaîne PV sur des lignes séparées.' },
           sensor_daily: { label: 'Capteur production quotidienne (Requis)', helper: 'Capteur indiquant les totaux de production journaliers. Soit le capteur PV total, soit vos tableaux de chaînes PV doivent être spécifiés au minimum.' },
           sensor_daily_array2: { label: 'Capteur production quotidienne (Array 2)', helper: 'Capteur pour les totaux de production journaliers de l Array 2.' },
@@ -18272,8 +18506,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
           battery_fill_opacity: { label: 'Opacité remplissage batterie', helper: 'Transparence du liquide batterie (0,05–1).' },
           grid_activity_threshold: { label: 'Seuil animation réseau (W)', helper: 'Ignorer les flux réseau dont la valeur absolue est inférieure à cette puissance avant d animer.' },
           flow_activity_threshold: { label: 'Seuil visibilité flux (W)', helper: 'Ne pas afficher les flux PV, batterie, charge, voiture et pompe à chaleur lorsque la puissance est sous cette valeur (W).' },
-          pv_activity_threshold: { label: 'Seuil animation PV (W)', helper: 'Désactiver l animation du flux PV lorsque la puissance solaire est sous cette valeur (W). Si non défini, le seuil général des flux est utilisé.' },
-          heat_pump_activity_threshold: { label: 'Seuil animation pompe à chaleur (W)', helper: 'Désactiver l animation du flux pompe à chaleur lorsque la puissance est sous cette valeur (W). Si non défini, le seuil général des flux est utilisé.' },
           grid_threshold_warning: { label: 'Seuil avertissement réseau', helper: 'Changer la couleur réseau lorsque la magnitude atteint cette valeur. Utilise l unité d affichage sélectionnée.' },
           grid_warning_color: { label: 'Couleur avertissement réseau', helper: 'Couleur hex appliquée au seuil d avertissement.' },
           grid_threshold_critical: { label: 'Seuil critique réseau', helper: 'Changer la couleur réseau lorsque la magnitude atteint cette valeur. Utilise l unité d affichage sélectionnée.' },
@@ -18318,6 +18550,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           array1_invert_flow: { label: 'Inverser Flux Array 1', helper: 'Inverse la direction du flux pour l\'Array 1 (PV1). Utile si la polarité du capteur est inversée.' },
           array2_invert_flow: { label: 'Inverser Flux Array 2', helper: 'Inverse la direction du flux pour l\'Array 2 (PV2). Utile si la polarité du capteur est inversée.' },
           heat_pump_invert_flow: { label: 'Inverser Flux Pompe à chaleur', helper: 'Inverse la direction du flux de la pompe à chaleur. Utile si la polarité du capteur est inversée.' },
+          load_invert_flow: { label: 'Inverser Flux Charge domestique', helper: 'Inverse la direction du flux de la charge domestique. Utile si la polarité du capteur est inversée.' },
           pro_debug_grid: { label: 'Activer la grille de positionnement (PRO)', helper: 'Affiche une grille + coordonnées à l’écran pour positionner les textes plus précisément (outil PRO).' },
           custom_text_1_rotate: { label: 'Texte 1 : Rotation (°)', helper: 'Angle de rotation pour le Texte 1 (-180..180).' },
           custom_text_1_skew_x: { label: 'Texte 1 : Inclinaison X (°)', helper: 'Angle d’inclinaison (skew) sur l’axe X (-60..60).' },
@@ -18348,7 +18581,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           checking: 'Vérification...',
           request_pro_license: 'Demander une licence PRO',
           your_email: 'Votre e-mail',
-          payment_method: 'Méthode de paiement (PayPal / GitHub)',
+          payment_method: 'Méthode de paiement (PayPal / GitHub / Colletta)',
           payment_method_paypal: 'PayPal (don)',
           payment_method_github: 'GitHub Sponsors',
           paypal_payment_email: 'E-mail de paiement PayPal',
@@ -18381,18 +18614,14 @@ class LuminaEnergyCardEditor extends HTMLElement {
           fill_all_fields: 'Veuillez remplir tous les champs.',
           password_ok: '✓ Mot de passe accepté. PRO est actif.',
           password_bad: '❌ Mot de passe invalide. Veuillez vérifier et réessayer.',
-          save_v3_password: 'C\'est votre nouveau mot de passe personnel. Enregistrez-le.',
-          save_v3_click_save: 'Cliquez sur ENREGISTRER en bas de cette fenêtre pour conserver le mot de passe v3. Sinon il sera perdu à la fermeture.',
-          paypal_donation_only: 'Nous n\'acceptons que les DONS. N\'utilisez PAS Biens et services.',
-          privacy_accept_template: 'J\'ai lu et j\'accepte la {0}.',
-          privacy_link_label: 'Politique de confidentialité',
-          privacy_required: 'Vous devez accepter la Politique de confidentialité pour continuer.',
           pro_license_title: '💰 Licence PRO',
           pro_license_line1: 'Option 1 : Envoyez <b>5€ en DON</b> sur PayPal : <b>3dprint8616@gmail.com</b>',
           pro_license_line2: 'Option 2 : Sponsorisez via <b>GitHub Sponsors</b> (même montant).',
           pro_license_line3: 'Après le paiement, remplissez le formulaire ci-dessous et choisissez <b>PayPal</b> (e-mail de paiement + prénom/nom) ou <b>GitHub Sponsors</b> (nom d’utilisateur GitHub).',
           pro_license_auto_note: 'Système automatique : si aucune correspondance n’est trouvée, le mot de passe ne sera PAS envoyé.',
           pro_license_line4: 'Dons : <b>10€</b> = noms des contributeurs dans la carte ; <b>50€</b> = priorité pour des fonctionnalités personnelles. Contactez toujours <b>luminaenergycard@gmail.com</b> ou via le groupe Telegram. Vérifiez aussi le dossier <b>SPAM</b>.',
+          pro_license_line_red: 'Envoyer en DON, pas en Biens et services. Le paiement sera remboursé en cas de refus.',
+          payment_method_colletta: 'Cagnotte 5€ PayPal',
           follow_title: 'Communauté',
           telegram_button: 'Groupe Telegram',
           tiktok_button: 'Chaîne TikTok',
@@ -18635,7 +18864,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Animatietijlen', helper: 'Stroom animatiestijl (strepen, stippen, pijlen, glinsteren). Standaard: glinsteren.' },
           typography: { title: 'Typografie', helper: 'Pas de lettergrootte aan gebruikt in de kaart.' },
           flow_path_custom: { title: 'Aangepaste Stroompaden', helper: 'Pas stroompaden aan door SVG-padstrings te wijzigen. Laat leeg om standaardpaden te gebruiken. U kunt aangepaste paden combineren met offsets uit de Stroompad-sectie.' },
-          lumina_pro: { title: 'Lumina PRO', helper: '⚠️ PRO-FUNCTIES: Premium functies (overlay afbeeldingen, custom flows, custom teksten). Om te ontgrendelen: betaal 5€ via PayPal (DONATIE) of via GitHub Sponsors en vraag daarna de licentie aan via het formulier (kies PayPal / GitHub). Automatisch systeem: als er geen match wordt gevonden, wordt het wachtwoord niet verstuurd.' },
+          lumina_pro: { title: 'Lumina PRO', helper: 'PRO FUNCTIES: PREMIUMFUNCTIES INCLUSIEF OVERLAY-AFBEELDINGEN, AANGEPASTE STROMEN, AANGEPASTE TEKSTEN, STROOMPADEN, LAY-OUT EN TEKSTEN, STROOMKLEUREN EN HUISBEHEER, AANGEPASTE ACHTERGRONDAFBEELDING, AI-AFBEELDINGSCREATIE, SLEPEN EN NEERZETTEN.' },
           layout: { title: 'Layout & Tekstposities', helper: 'Schuifregelaars tonen exacte X, Y (px) en hoeken (°). Step 1 voor precise waarden—noteer voor uw definitieve YAML. ViewBox 800×450. Opslaan en dashboard controleren. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'SOC-balk', helper: '6-segmenten balk op de batterij. Positie, dekking, gloed, kleuren.' },
           gridBox: { title: 'Netwerkbox', helper: 'Box rechtsboven: Import/Export + dagtotalen. Positie en grootte.' },
@@ -18653,6 +18882,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_toggle_show_lumina_preview: 'Lumina-voorbeeld (slepen) onder HA-voorbeeld',
           editor_toggle_hide_ha_preview: 'HA-voorbeeld verbergen',
           editor_preview_requires_pro: 'Activeer eerst de PRO-sectie met wachtwoord.',
+          editor_personal_requires_pro: 'Activeer PRO om Persoonlijk (aangepaste achtergrond) te gebruiken.',
           editor_lock_base: 'Basis vergrendelen (bg/overlays)',
           editor_lock_flows: 'Flow-drag vergrendelen',
           editor_reset_base: 'Basis resetten',
@@ -18689,6 +18919,10 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_import_flows_helper: 'Flows laden uit een eerder geëxporteerd JSON-bestand.',
           editor_reset_flows: 'Flows resetten',
           editor_reset_flows_helper: 'Alle aangepaste flowpaden en opties wissen.',
+          editor_export_config: 'Config exporteren',
+          editor_import_config: 'Config importeren',
+          editor_export_config_helper: 'Back-up van volledige kaartconfig (achtergrond, overlays, sensoren, flows) als JSON. Gebruik vóór updates om later te herstellen.',
+          editor_import_config_helper: 'Config herstellen uit een eerder geëxporteerde JSON-back-up. Samengevoegd met de huidige config.',
           house_camera_1: { label: 'Camera 1', helper: 'Camera-entiteit voor streaming. Tot 6. Klik op camera-icoon voor popup.' },
           house_camera_2: { label: 'Camera 2', helper: '' },
           house_camera_3: { label: 'Camera 3', helper: '' },
@@ -18802,12 +19036,18 @@ class LuminaEnergyCardEditor extends HTMLElement {
           sensor_pv4: { label: 'PV String 4 (Array 1)' },
           sensor_pv5: { label: 'PV String 5 (Array 1)' },
           sensor_pv6: { label: 'PV String 6 (Array 1)' },
+          sensor_pv7: { label: 'PV String 7 (Array 1)' },
+          sensor_pv8: { label: 'PV String 8 (Array 1)' },
+          sensor_pv9: { label: 'PV String 9 (Array 1)' },
           sensor_pv_array2_1: { label: 'PV String 1 (Array 2)', helper: 'Zonne productie sensor voor Array 2.' },
           sensor_pv_array2_2: { label: 'PV String 2 (Array 2)', helper: 'Zonne productie sensor voor Array 2.' },
           sensor_pv_array2_3: { label: 'PV String 3 (Array 2)', helper: 'Zonne productie sensor voor Array 2.' },
           sensor_pv_array2_4: { label: 'PV String 4 (Array 2)', helper: 'Zonne productie sensor voor Array 2.' },
           sensor_pv_array2_5: { label: 'PV String 5 (Array 2)', helper: 'Zonne productie sensor voor Array 2.' },
           sensor_pv_array2_6: { label: 'PV String 6 (Array 2)', helper: 'Zonne productie sensor voor Array 2.' },
+          sensor_pv_array2_7: { label: 'PV String 7 (Array 2)', helper: 'Zonne productie sensor voor Array 2.' },
+          sensor_pv_array2_8: { label: 'PV String 8 (Array 2)', helper: 'Zonne productie sensor voor Array 2.' },
+          sensor_pv_array2_9: { label: 'PV String 9 (Array 2)', helper: 'Zonne productie sensor voor Array 2.' },
           show_pv_strings: { label: 'Toon individuele PV strings', helper: 'Inschakelen om de totale lijn plus elke PV string op aparte lijnen weer te geven.' },
           sensor_daily: { label: 'Dagelijkse productie sensor (Vereist)', helper: 'Sensor die dagelijkse productie totalen aangeeft. Of de totale PV sensor, of uw PV string arrays moeten minimaal worden gespecificeerd.' },
           sensor_daily_array2: { label: 'Dagelijkse productie sensor (Array 2)', helper: 'Sensor voor dagelijkse productie totalen van Array 2.' },
@@ -18869,8 +19109,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
           battery_fill_opacity: { label: 'Batterij vulling opacity', helper: 'Transparantie van de batterijvloeistof (0,05–1).' },
           grid_activity_threshold: { label: 'Grid animatie drempel (W)', helper: 'Negeer grid flows waarvan absolute waarde lager is dan deze kracht voordat animeren.' },
           flow_activity_threshold: { label: 'Flow zichtbaarheidsdrempel (W)', helper: 'Toon geen PV-, batterij-, belasting-, auto- en warmtepompflows wanneer vermogen onder deze waarde (W) is.' },
-          pv_activity_threshold: { label: 'PV animatie drempel (W)', helper: 'PV-flow animatie uitschakelen wanneer zonne-energie onder deze waarde (W) ligt. Indien niet ingesteld, wordt de algemene flowdrempel gebruikt.' },
-          heat_pump_activity_threshold: { label: 'Warmtepomp animatie drempel (W)', helper: 'Warmtepomp-flow animatie uitschakelen wanneer vermogen onder deze waarde (W) ligt. Indien niet ingesteld, wordt de algemene flowdrempel gebruikt.' },
           grid_threshold_warning: { label: 'Grid waarschuwingsdrempel', helper: 'Verander grid kleur wanneer magnitude deze waarde bereikt. Gebruikt geselecteerde weergave eenheid.' },
           grid_warning_color: { label: 'Grid waarschuwingskleur', helper: 'Hex kleur toegepast op waarschuwingsdrempel.' },
           grid_threshold_critical: { label: 'Grid kritieke drempel', helper: 'Verander grid kleur wanneer magnitude deze waarde bereikt. Gebruikt geselecteerde weergave eenheid.' },
@@ -18915,6 +19153,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           array1_invert_flow: { label: 'Stroom Omkeren Array 1', helper: 'Keert de stroomrichting voor Array 1 (PV1) om. Handig als de sensorpolariteit omgekeerd is.' },
           array2_invert_flow: { label: 'Stroom Omkeren Array 2', helper: 'Keert de stroomrichting voor Array 2 (PV2) om. Handig als de sensorpolariteit omgekeerd is.' },
           heat_pump_invert_flow: { label: 'Stroom Omkeren Warmtepomp', helper: 'Keert de stroomrichting van de warmtepomp om. Handig als de sensorpolariteit omgekeerd is.' },
+          load_invert_flow: { label: 'Stroom Omkeren Huisbelasting', helper: 'Keert de stroomrichting van de huisbelasting om. Handig als de sensorpolariteit omgekeerd is.' },
           pro_debug_grid: { label: 'Positioneringsraster inschakelen (PRO)', helper: 'Toont een raster + coördinaten op het scherm om teksten nauwkeuriger te positioneren (PRO-tool).' },
           custom_text_1_rotate: { label: 'Tekst 1: Rotatie (°)', helper: 'Rotatiehoek voor Tekst 1 (-180..180).' },
           custom_text_1_skew_x: { label: 'Tekst 1: Scheefstand X (°)', helper: 'Skewhoek voor Tekst 1 op X-as (-60..60).' },
@@ -18945,7 +19184,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           checking: 'Controleren...',
           request_pro_license: 'PRO-licentie aanvragen',
           your_email: 'Jouw e-mail',
-          payment_method: 'Betaalmethode (PayPal / GitHub)',
+          payment_method: 'Betaalmethode (PayPal / GitHub / Colletta)',
           payment_method_paypal: 'PayPal (donatie)',
           payment_method_github: 'GitHub Sponsors',
           paypal_payment_email: 'PayPal betaal-e-mail',
@@ -18978,18 +19217,14 @@ class LuminaEnergyCardEditor extends HTMLElement {
           fill_all_fields: 'Vul alle velden in.',
           password_ok: '✓ Wachtwoord geaccepteerd. PRO is actief.',
           password_bad: '❌ Ongeldig wachtwoord. Controleer en probeer opnieuw.',
-          save_v3_password: 'Dit is je nieuwe persoonlijke wachtwoord. Sla het op.',
-          save_v3_click_save: 'Klik onderaan op OPSLAAN om het v3-wachtwoord te bewaren. Anders gaat het verloren bij sluiten.',
-          paypal_donation_only: 'We accepteren ALLEEN donaties. GEEN goederen en diensten.',
-          privacy_accept_template: 'Ik heb de {0} gelezen en geaccepteerd.',
-          privacy_link_label: 'Privacybeleid',
-          privacy_required: 'U moet het Privacybeleid accepteren om door te gaan.',
           pro_license_title: '💰 PRO-licentie',
           pro_license_line1: 'Optie 1: Stuur <b>5€ als DONATIE</b> naar PayPal: <b>3dprint8616@gmail.com</b>',
           pro_license_line2: 'Optie 2: Sponsor via <b>GitHub Sponsors</b> (zelfde bedrag).',
           pro_license_line3: 'Na betaling vul je het formulier hieronder in en kies je <b>PayPal</b> (betaal-e-mail + voornaam/achternaam) of <b>GitHub Sponsors</b> (GitHub gebruikersnaam).',
           pro_license_auto_note: 'Automatisch systeem: als er geen match wordt gevonden, wordt het wachtwoord NIET verstuurd.',
           pro_license_line4: 'Donaties: <b>10€</b> = namen van bijdragers in de kaart; <b>50€</b> = prioriteit voor persoonlijke functies. Neem altijd contact op met <b>luminaenergycard@gmail.com</b> of via de Telegram-groep. Controleer ook je <b>SPAM</b>.',
+          pro_license_line_red: 'Verstuur als DONATIE, niet als Goederen en diensten. Betaling wordt terugbetaald bij weigering.',
+          payment_method_colletta: 'Inzameling 5€ PayPal',
           follow_title: 'Community',
           telegram_button: 'Telegram-groep',
           tiktok_button: 'TikTok-kanaal',
@@ -19227,57 +19462,21 @@ class LuminaEnergyCardEditor extends HTMLElement {
           inverterPopup: { title: 'Popup Инвертор', helper: 'Настройки popup инвертора.' },
           flow_path: { title: 'Пути потоков (SVG)', helper: 'Настройка SVG путей для основных потоков.' },
           flow_path_custom: { title: 'Пользовательские потоки', helper: 'До 5 дополнительных потоков.' },
-          custom_text: { title: 'Пользовательский текст', helper: 'До 5 текстовых блоков. Можно показать: только статический текст (оставьте Датчик пустым), только значение сущности (оставьте Подпись пустой, укажите Датчик) или оба (подпись + значение). Настройте позицию (X/Y), цвет, размер шрифта.' },
-          colors: { title: 'Цвета и пороги', helper: 'Пороги сети и цвета потоков и EV.' },
-          flow_colors: { title: 'Цвета потоков', helper: 'Цвета анимации потоков энергии.' },
-          animation_styles: { title: 'Стили анимации', helper: 'Стиль анимации потоков (штрихи, точки, стрелки, мерцание).' },
-          typography: { title: 'Типографика', helper: 'Размеры шрифтов в карточке.' },
-          lumina_pro: { title: 'Lumina PRO', helper: 'Функции PRO: оверлеи, пользовательские потоки и тексты. Разблокировка: 5€ через PayPal (ПОЖЕРТВОВАНИЕ) или GitHub Sponsors.' },
-          layout: { title: 'Расположение и позиции текста', helper: 'Слайдеры X, Y (px) и углы (°). ViewBox 800×450.' },
-          socBar: { title: 'Панель SOC', helper: '6-сегментная панель батареи. Позиция, прозрачность, цвет.' },
-          gridBox: { title: 'Блок сети', helper: 'Верхний правый блок. Импорт/экспорт и дневные значения.' },
-          pvBox: { title: 'Блок PV', helper: 'Верхний левый блок. PV всего и дневная выработка.' },
-          batteryFill: { title: 'Позиция заливки батареи', helper: 'Координаты (px) и углы (°). YAML: dev_battery_fill_*.' },
-          overlay_image: { title: 'Оверлей изображения (PRO)', helper: 'PRO: до 5 своих PNG. Позиция X/Y, размер, прозрачность. Разблокировка: 5€ PayPal или GitHub Sponsors.' },
-          custom_flows: { title: 'Пользовательские потоки', helper: 'До 5 дополнительных потоков с датчиками, путями SVG, цветами и порогами.' },
-          about: { title: 'О программе', helper: 'Авторы, версия и ссылки.' }
+          custom_text: { title: 'Пользовательский текст', helper: 'До 5 текстовых блоков. Можно показать: только статический текст (оставьте Датчик пустым), только значение сущности (оставьте Подпись пустой, укажите Датчик) или оба (подпись + значение). Настройте позицию (X/Y), цвет, размер шрифта.' }
         },
         fields: {
           editor_updates_empty: 'Нет обновлений.',
           editor_updates_open: 'Открыть',
-          card_title: { label: 'Заголовок карточки', helper: 'Заголовок сверху карточки. Пусто — отключить.' },
-          pro_password: { label: 'Пароль PRO', helper: 'Введите пароль PRO для разблокировки. Разблокировка: 5€ через PayPal (пожертвование) или GitHub Sponsors.' },
-          language: { label: 'Язык', helper: 'Язык редактора.' },
-          display_unit: { label: 'Единица отображения', helper: 'Единица мощности (W или kW).' },
-          update_interval: { label: 'Интервал обновления', helper: 'Частота обновления карточки (0 — без ограничения).' },
-          performance_mode: { label: 'Режим производительности', helper: 'Auto — по умолчанию. Low — упрощённые анимации для слабых устройств. High — максимальная плавность.' },
-          animation_speed_factor: { label: 'Скорость анимации', helper: 'Множитель скорости (-3x до 3x). 0 — пауза.' },
-          animation_style: { label: 'Стиль анимации', helper: 'Стиль потоков: штрихи, точки, стрелки, мерцание.' },
-          flow_stroke_width: { label: 'Толщина линии потока (px)', helper: 'Толщина анимированной линии. Пусто — по умолчанию.' },
           update_available: 'Доступно обновление',
           update_open: 'Открыть',
           editor_preview_title: 'Предпросмотр Lumina (перетаскивание)',
           editor_toggle_show_lumina_preview: 'Предпросмотр Lumina (перетаскивание) под предпросмотром HA',
           editor_toggle_hide_ha_preview: 'Скрыть предпросмотр HA',
           editor_preview_requires_pro: 'Сначала активируйте раздел PRO с паролем.',
+          editor_personal_requires_pro: 'Активируйте PRO для использования Персонального (свой фон).',
           editor_lock_base: 'Зафиксировать основу (фон/оверлеи)',
           editor_lock_flows: 'Зафиксировать перетаскивание flow',
           editor_reset_base: 'Сбросить основу',
-          editor_add_text: 'Добавить текст',
-          editor_add_text_helper: 'Включить следующий слот текста и разместить в предпросмотре (перетащите для перемещения).',
-          editor_text_rotate: 'Поворот:',
-          editor_text_skew_x: 'Наклон X (°)',
-          editor_text_skew_y: 'Наклон Y (°)',
-          editor_upload_overlay: 'Загрузить с ПК',
-          editor_upload_overlay_helper: 'Загрузите изображение с ПК и установите как оверлей (сохраняется в конфиге).',
-          editor_reset_flows: 'Сбросить потоки',
-          editor_reset_flows_helper: 'Очистить все пользовательские пути и настройки потоков.',
-          editor_export_flows: 'Экспорт потоков',
-          editor_import_flows: 'Импорт потоков',
-          editor_export_flows_helper: 'Скачать пути и настройки потоков в JSON. Использовать на другом фоне.',
-          editor_import_flows_helper: 'Загрузить потоки из ранее экспортированного JSON.',
-          update_available: 'Доступно обновление',
-          update_open: 'Открыть',
           paypal_first_name: 'Имя PayPal',
           paypal_last_name: 'Фамилия PayPal',
           paypal_first_name_placeholder: 'например, Иван',
@@ -19309,186 +19508,16 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_text_sensor_label: 'Датчик:',
           editor_draw_hint_off: 'Выберите CF и нажмите Рисовать.',
           editor_draw_hint_on: 'Рисование CF {i}: рисуйте в предпросмотре. Отпустите, чтобы сохранить.',
-          house_camera_1: { label: 'Камера 1', helper: 'Сущность камеры для потока. До 6. Клик по иконке открывает всплывающее окно.' },
-          house_camera_2: { label: 'Камера 2', helper: '' },
-          house_camera_3: { label: 'Камера 3', helper: '' },
-          house_camera_4: { label: 'Камера 4', helper: '' },
-          house_camera_5: { label: 'Камера 5', helper: '' },
-          house_camera_6: { label: 'Камера 6', helper: '' },
-          house_lights_1: { label: 'Свет 1', helper: 'Сущность света (light, switch). До 6.' },
-          house_lights_2: { label: 'Свет 2', helper: '' },
-          house_lights_3: { label: 'Свет 3', helper: '' },
-          house_lights_4: { label: 'Свет 4', helper: '' },
-          house_lights_5: { label: 'Свет 5', helper: '' },
-          house_lights_6: { label: 'Свет 6', helper: '' },
-          house_temperature_1: { label: 'Температура 1', helper: 'Сущность температуры. До 6.' },
-          house_temperature_2: { label: 'Температура 2', helper: '' },
-          house_temperature_3: { label: 'Температура 3', helper: '' },
-          house_temperature_4: { label: 'Температура 4', helper: '' },
-          house_temperature_5: { label: 'Температура 5', helper: '' },
-          house_temperature_6: { label: 'Температура 6', helper: '' },
-          house_security_1: { label: 'Безопасность 1', helper: 'Сущность сигнализации/безопасности. До 6.' },
-          house_security_2: { label: 'Безопасность 2', helper: '' },
-          house_security_3: { label: 'Безопасность 3', helper: '' },
-          house_security_4: { label: 'Безопасность 4', helper: '' },
-          house_security_5: { label: 'Безопасность 5', helper: '' },
-          house_security_6: { label: 'Безопасность 6', helper: '' },
-          house_humidity_1: { label: 'Влажность 1', helper: 'Сущность влажности. До 6.' },
-          house_humidity_2: { label: 'Влажность 2', helper: '' },
-          house_humidity_3: { label: 'Влажность 3', helper: '' },
-          house_humidity_4: { label: 'Влажность 4', helper: '' },
-          house_humidity_5: { label: 'Влажность 5', helper: '' },
-          house_humidity_6: { label: 'Влажность 6', helper: '' },
-          overlay_image_enabled: { label: 'Включить оверлей', helper: 'Включить или отключить пользовательское изображение оверлея (требуется PRO).' },
-          heat_pump_flow_color: { label: 'Цвет потока теплового насоса', helper: 'Цвет анимации потока теплового насоса.' },
-          heat_pump_text_color: { label: 'Цвет текста теплового насоса', helper: 'Цвет текста мощности теплового насоса.' },
-          text_font_size: { label: 'Размер шрифта текста (px)', helper: 'Единый размер для всех текстов (Солнце, Батарея, Сеть, Авто, Тепловой насос, Дом). По умолчанию: 12px.' },
-          background_image_x: { label: 'Фон X (px)', helper: 'Горизонтальная позиция фона. Перетаскивание в предпросмотре или здесь. По умолчанию: 0.' },
-          background_image_y: { label: 'Фон Y (px)', helper: 'Вертикальная позиция фона. По умолчанию: 0.' },
-          header_font_size: { label: 'Размер заголовка (px)', helper: 'По умолчанию 16' },
-          daily_label_font_size: { label: 'Размер подписи дня (px)', helper: 'По умолчанию 12' },
-          daily_value_font_size: { label: 'Размер значения дня (px)', helper: 'По умолчанию 20' },
-          pv_font_size: { label: 'Размер текста PV (px)', helper: 'По умолчанию 16' },
-          battery_soc_font_size: { label: 'Размер SOC батареи (px)', helper: 'По умолчанию 20' },
-          battery_power_font_size: { label: 'Размер мощности батареи (px)', helper: 'По умолчанию 16' },
-          load_font_size: { label: 'Размер нагрузки (px)', helper: 'По умолчанию 15' },
-          heat_pump_font_size: { label: 'Размер теплового насоса (px)', helper: 'По умолчанию 16' },
-          grid_font_size: { label: 'Размер сети (px)', helper: 'По умолчанию 15' },
-          car_power_font_size: { label: 'Размер мощности авто (px)', helper: 'По умолчанию 15' },
-          car2_power_font_size: { label: 'Размер мощности авто 2 (px)', helper: 'По умолчанию 15' },
-          car_name_font_size: { label: 'Размер названия авто (px)', helper: 'По умолчанию 15' },
-          car2_name_font_size: { label: 'Размер названия авто 2 (px)', helper: 'По умолчанию 15' },
-          car_soc_font_size: { label: 'Размер SOC авто (px)', helper: 'По умолчанию 12' },
-          car2_soc_font_size: { label: 'Размер SOC авто 2 (px)', helper: 'По умолчанию 12' },
-          sensor_popup_pv_1: { label: 'PV Всплыв. 1', helper: 'Сущность для строки 1 всплывающего PV.' },
-          sensor_popup_pv_2: { label: 'PV Всплыв. 2', helper: 'Сущность для строки 2.' },
-          sensor_popup_pv_3: { label: 'PV Всплыв. 3', helper: 'Сущность для строки 3.' },
-          sensor_popup_pv_4: { label: 'PV Всплыв. 4', helper: 'Сущность для строки 4.' },
-          sensor_popup_pv_5: { label: 'PV Всплыв. 5', helper: 'Сущность для строки 5.' },
-          sensor_popup_pv_6: { label: 'PV Всплыв. 6', helper: 'Сущность для строки 6.' },
-          sensor_popup_house_1: { label: 'Дом Всплыв. 1', helper: 'Сущность для строки 1 всплывающего Дом.' },
-          sensor_popup_house_2: { label: 'Дом Всплыв. 2', helper: '' },
-          sensor_popup_house_3: { label: 'Дом Всплыв. 3', helper: '' },
-          sensor_popup_house_4: { label: 'Дом Всплыв. 4', helper: '' },
-          sensor_popup_house_5: { label: 'Дом Всплыв. 5', helper: '' },
-          sensor_popup_house_6: { label: 'Дом Всплыв. 6', helper: '' },
-          sensor_popup_bat_1: { label: 'Батарея Всплыв. 1', helper: 'Сущность для строки 1 всплывающего Батарея.' },
-          sensor_popup_bat_2: { label: 'Батарея Всплыв. 2', helper: '' },
-          sensor_popup_bat_3: { label: 'Батарея Всплыв. 3', helper: '' },
-          sensor_popup_bat_4: { label: 'Батарея Всплыв. 4', helper: '' },
-          sensor_popup_bat_5: { label: 'Батарея Всплыв. 5', helper: '' },
-          sensor_popup_bat_6: { label: 'Батарея Всплыв. 6', helper: '' },
-          sensor_popup_grid_1: { label: 'Сеть Всплыв. 1', helper: 'Сущность для строки 1 всплывающего Сеть.' },
-          sensor_popup_grid_2: { label: 'Сеть Всплыв. 2', helper: '' },
-          sensor_popup_grid_3: { label: 'Сеть Всплыв. 3', helper: '' },
-          sensor_popup_grid_4: { label: 'Сеть Всплыв. 4', helper: '' },
-          sensor_popup_grid_5: { label: 'Сеть Всплыв. 5', helper: '' },
-          sensor_popup_grid_6: { label: 'Сеть Всплыв. 6', helper: '' },
-          sensor_popup_inverter_1: { label: 'Инвертор Всплыв. 1', helper: 'Сущность для строки 1 всплывающего Инвертор.' },
-          sensor_popup_inverter_2: { label: 'Инвертор Всплыв. 2', helper: '' },
-          sensor_popup_inverter_3: { label: 'Инвертор Всплыв. 3', helper: '' },
-          sensor_popup_inverter_4: { label: 'Инвертор Всплыв. 4', helper: '' },
-          sensor_popup_inverter_5: { label: 'Инвертор Всплыв. 5', helper: '' },
-          sensor_popup_inverter_6: { label: 'Инвертор Всплыв. 6', helper: '' },
-          dev_soc_bar_x: { label: 'Панель SOC X (px)', helper: 'Горизонтальная позиция. ViewBox 0–800.' },
-          dev_soc_bar_y: { label: 'Панель SOC Y (px)', helper: 'Вертикальная позиция. ViewBox 0–450.' },
-          dev_soc_bar_width: { label: 'Панель SOC ширина (px)', helper: 'Ширина панели.' },
-          dev_soc_bar_height: { label: 'Панель SOC высота (px)', helper: 'Высота панели.' },
-          dev_soc_bar_rotate: { label: 'Панель SOC поворот (°)', helper: 'Поворот 0–360°.' },
-          dev_soc_bar_skew_x: { label: 'Панель SOC наклон X (°)', helper: 'Горизонтальный угол наклона.' },
-          dev_soc_bar_skew_y: { label: 'Панель SOC наклон Y (°)', helper: 'Вертикальный угол наклона.' },
-          soc_bar_opacity: { label: 'Панель SOC прозрачность', helper: 'Прозрачность 0,05–1.' },
-          soc_bar_glow: { label: 'Панель SOC свечение (px)', helper: 'Размытие тени на сегментах. 0 = выкл.' },
-          soc_bar_color_on: { label: 'Панель SOC цвет (вкл)', helper: 'Цвет сегмента при подсветке SOC.' },
-          soc_bar_color_off: { label: 'Панель SOC цвет (выкл)', helper: 'Цвет сегмента без подсветки.' },
-          dev_grid_box_x: { label: 'Блок сети X (px)', helper: 'Блок справа сверху. Импорт/экспорт + дневные значения.' },
-          dev_grid_box_y: { label: 'Блок сети Y (px)', helper: 'Вертикальная позиция.' },
-          dev_grid_box_width: { label: 'Блок сети ширина (px)', helper: '' },
-          dev_grid_box_height: { label: 'Блок сети высота (px)', helper: '' },
-          dev_grid_box_font_size: { label: 'Блок сети размер шрифта (px)', helper: 'Размер текста в блоке. Пусто = авто.' },
-          dev_grid_box_text_color: { label: 'Блок сети цвет текста', helper: 'Цвет всего текста. Пусто = отдельные цвета.' },
-          dev_pv_box_x: { label: 'Блок PV X (px)', helper: 'Блок слева сверху. PV всего + дневная выработка.' },
-          dev_pv_box_y: { label: 'Блок PV Y (px)', helper: 'Вертикальная позиция.' },
-          dev_pv_box_width: { label: 'Блок PV ширина (px)', helper: '' },
-          dev_pv_box_height: { label: 'Блок PV высота (px)', helper: '' },
-          dev_pv_box_font_size: { label: 'Блок PV размер шрифта (px)', helper: 'Пусто = авто.' },
-          dev_pv_box_text_color: { label: 'Блок PV цвет текста', helper: 'Пусто = цвет PV всего.' },
-          overlay_image_pro_1: { label: 'Оверлей PRO 1', helper: 'Путь к изображению оверлея PRO 1.' },
-          overlay_image_pro_2: { label: 'Оверлей PRO 2', helper: 'Путь к изображению оверлея PRO 2.' },
-          overlay_image_pro_3: { label: 'Оверлей PRO 3', helper: 'Путь к изображению оверлея PRO 3.' },
-          overlay_image_pro_4: { label: 'Оверлей PRO 4', helper: 'Путь к изображению оверлея PRO 4.' },
-          overlay_image_pro_5: { label: 'Оверлей PRO 5', helper: 'Путь к изображению оверлея PRO 5.' },
-          sensor_pv_total: { label: 'Датчик PV всего', helper: 'Опциональный агрегированный датчик для общей линии.' },
-          sensor_home_load: { label: 'Потребление дома (обязательно)', helper: 'Датчик общего потребления дома.' },
-          sensor_battery_flow: { label: 'Батарея поток (со знаком)', helper: 'Один датчик мощности: + = заряд, − = разряд. Режим Flow.' },
-          sensor_grid_power: { label: 'Мощность сети', helper: 'Датчик положительного/отрицательного потока сети.' },
-          sensor_car_power: { label: 'Мощность авто 1' },
-          sensor_car_soc: { label: 'SOC авто 1' },
-          sensor_car2_power: { label: 'Мощность авто 2' },
-          sensor_car2_soc: { label: 'SOC авто 2' },
-          battery_power_mode: { label: 'Режим мощности батареи', helper: 'Flow: один датчик со знаком. Заряд+разряд: отдельные датчики.' },
-          battery_overlay_enabled: { label: 'Включить оверлей батареи + панель SOC', helper: 'Показывать изображение батареи и 6-сегментную панель SOC.' },
-          grid_import_color: { label: 'Цвет импорта сети', helper: 'Базовый цвет при импорте из сети.' },
-          grid_export_color: { label: 'Цвет экспорта в сеть', helper: 'Базовый цвет при экспорте в сеть.' },
-          car_flow_color: { label: 'Цвет потока EV', helper: 'Цвет анимации потока электромобиля.' },
-          grid_activity_threshold: { label: 'Порог анимации сети (W)', helper: 'Не анимировать поток сети ниже этой мощности.' },
-          flow_activity_threshold: { label: 'Порог видимости потока (W)', helper: 'Не показывать потоки ниже этого значения (W).' },
-          pv_activity_threshold: { label: 'Порог анимации ФВ (W)', helper: 'Отключить анимацию потока ФВ, когда солнечная мощность ниже этого значения (W). Если не задано, используется общий порог потоков.' },
-          heat_pump_activity_threshold: { label: 'Порог анимации теплового насоса (W)', helper: 'Отключить анимацию потока теплового насоса, когда мощность ниже этого значения (W). Если не задано, используется общий порог потоков.' },
-          invert_grid: { label: 'Инвертировать значения сети', helper: 'Включить, если импорт/экспорт перепутаны.' },
-          invert_battery: { label: 'Инвертировать значения батареи', helper: 'Включить, если заряд/разряд перепутаны.' },
-          enable_echo_alive: { label: 'Включить Echo Alive', helper: 'Держать браузер Silk на Echo Show активным.' },
-          show_clock: { label: 'Показывать голографические часы', helper: 'Часы в стиле голограммы с локальным временем.' },
-          solar_forecast_enabled: { label: 'Включить прогноз солнца (PRO)', helper: 'Показывать оценку солнечной выработки.' },
-          custom_text_1_rotate: { label: 'Текст 1: поворот (°)', helper: 'Угол поворота для текста 1 (-180..180).' },
-          custom_text_1_skew_x: { label: 'Текст 1: наклон X (°)', helper: 'Наклон по оси X (-60..60).' },
-          custom_text_1_skew_y: { label: 'Текст 1: наклон Y (°)', helper: 'Наклон по оси Y (-60..60).' },
-          custom_text_2_rotate: { label: 'Текст 2: поворот (°)', helper: 'Угол поворота для текста 2.' },
-          custom_text_2_skew_x: { label: 'Текст 2: наклон X (°)', helper: '' },
-          custom_text_2_skew_y: { label: 'Текст 2: наклон Y (°)', helper: '' },
-          custom_text_3_rotate: { label: 'Текст 3: поворот (°)', helper: '' },
-          custom_text_3_skew_x: { label: 'Текст 3: наклон X (°)', helper: '' },
-          custom_text_3_skew_y: { label: 'Текст 3: наклон Y (°)', helper: '' },
-          custom_text_4_rotate: { label: 'Текст 4: поворот (°)', helper: '' },
-          custom_text_4_skew_x: { label: 'Текст 4: наклон X (°)', helper: '' },
-          custom_text_4_skew_y: { label: 'Текст 4: наклон Y (°)', helper: '' },
-          custom_text_5_rotate: { label: 'Текст 5: поворот (°)', helper: '' },
-          custom_text_5_skew_x: { label: 'Текст 5: наклон X (°)', helper: '' },
-          custom_text_5_skew_y: { label: 'Текст 5: наклон Y (°)', helper: '' },
-          pro_debug_grid: { label: 'Включить сетку позиционирования (PRO)', helper: 'Показывать сетку и координаты для точного позиционирования текста.' },
-          sensor_pv1: { label: 'PV строка 1 (Массив 1)', helper: 'Основной солнечный датчик.' },
-          sensor_pv2: { label: 'PV строка 2 (Массив 1)', helper: '' },
-          sensor_pv3: { label: 'PV строка 3 (Массив 1)', helper: '' },
-          sensor_pv4: { label: 'PV строка 4 (Массив 1)', helper: '' },
-          sensor_pv5: { label: 'PV строка 5 (Массив 1)', helper: '' },
-          sensor_pv6: { label: 'PV строка 6 (Массив 1)', helper: '' },
-          sensor_daily: { label: 'Датчик дневной выработки (обязательно)', helper: 'Датчик суточной выработки.' },
-          sensor_bat1_soc: { label: 'Батарея 1 SOC', helper: '' },
-          sensor_bat1_power: { label: 'Батарея 1 мощность', helper: '' },
-          sensor_battery_charge: { label: 'Батарея заряд', helper: 'Датчик мощности при заряде.' },
-          sensor_battery_discharge: { label: 'Батарея разряд', helper: 'Датчик мощности при разряде.' },
-          sensor_grid_import: { label: 'Датчик импорта сети', helper: 'Сущность для положительного импорта.' },
-          sensor_grid_export: { label: 'Датчик экспорта сети', helper: 'Сущность для положительного экспорта.' },
-          pv_primary_color: { label: 'Цвет потока PV 1', helper: 'Цвет основной линии PV.' },
-          pv_tot_color: { label: 'Цвет PV всего', helper: 'Цвет линии PV всего.' },
-          load_flow_color: { label: 'Цвет потока нагрузки', helper: 'Цвет анимации потребления дома.' },
-          battery_soc_color: { label: 'Цвет SOC батареи', helper: 'Цвет текста процента SOC батареи.' },
-          battery_charge_color: { label: 'Цвет потока заряда', helper: 'Цвет при потоке в батарею.' },
-          battery_discharge_color: { label: 'Цвет потока разряда', helper: 'Цвет при потоке из батареи.' },
-          car1_label: { label: 'Подпись авто 1', helper: 'Текст рядом со значениями первого EV.' },
-          car2_label: { label: 'Подпись авто 2', helper: 'Текст рядом со значениями второго EV.' },
-          show_car_soc: { label: 'Показывать авто 1', helper: 'Включить для отображения первого электромобиля.' },
-          show_car2: { label: 'Показывать авто 2', helper: 'Включить для отображения второго электромобиля.' },
-          custom_text_1_sensor: { label: 'Датчик текста 1', helper: 'Сущность для значения текста 1. Пусто = только статический текст.' },
-          custom_text_1_label: { label: 'Подпись текста 1', helper: 'Подпись для текста 1. Пусто = только значение датчика.' },
-          custom_text_1_x: { label: 'Текст 1 X (px)', helper: 'Горизонтальная позиция текста 1.' },
-          custom_text_1_y: { label: 'Текст 1 Y (px)', helper: 'Вертикальная позиция текста 1.' },
-          custom_text_1_color: { label: 'Цвет текста 1', helper: 'Цвет текста 1.' },
-          custom_text_1_font_size: { label: 'Размер шрифта текста 1 (px)', helper: 'Размер шрифта текста 1.' },
-          custom_flow_1_sensor: { label: 'Датчик потока 1', helper: 'Датчик мощности для пользовательского потока 1.' },
-          custom_flow_1_path_preset: { label: 'Шаблон пути потока 1', helper: 'Предустановленный или пользовательский путь SVG.' },
-          custom_flow_1_threshold: { label: 'Порог потока 1 (W)', helper: 'Порог видимости потока (W).' },
-          custom_flow_1_color: { label: 'Цвет потока 1', helper: 'Цвет анимации потока 1.' },
+          editor_export_flows: 'Экспорт потоков',
+          editor_import_flows: 'Импорт потоков',
+          editor_export_flows_helper: 'Скачать пути и настройки пользовательских потоков в JSON. Использовать на другом фоне.',
+          editor_import_flows_helper: 'Загрузить потоки из ранее экспортированного JSON-файла.',
+          editor_reset_flows: 'Сбросить потоки',
+          editor_reset_flows_helper: 'Очистить все пути и настройки пользовательских потоков.',
+          editor_export_config: 'Экспорт конфига',
+          editor_import_config: 'Импорт конфига',
+          editor_export_config_helper: 'Резервная копия полной конфигурации (фон, оверлеи, датчики, потоки) в JSON. Использовать перед обновлениями для восстановления.',
+          editor_import_config_helper: 'Восстановить конфиг из ранее экспортированной резервной копии JSON. Объединяется с текущей конфигурацией.',
           grid_flow_target: { label: 'Направление потока сети', helper: 'Куда рисовать поток сети: счётчик ↔ инвертор или счётчик ↔ дом. Auto = как раньше.' },
           license_status: 'Статус лицензии',
           license_active: 'PRO активен',
@@ -19501,7 +19530,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           checking: 'Проверка...',
           request_pro_license: 'Запросить PRO лицензию',
           your_email: 'Ваш e-mail',
-          payment_method: 'Способ оплаты (PayPal / GitHub)',
+          payment_method: 'Способ оплаты (PayPal / GitHub / Colletta)',
           payment_method_paypal: 'PayPal (пожертвование)',
           payment_method_github: 'GitHub Sponsors',
           paypal_payment_email: 'E-mail оплаты PayPal',
@@ -19523,7 +19552,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
           migrate_v3_requesting: 'Запрос…',
           migrate_v3_failed: 'Миграция не удалась.',
           migrate_v3_error: 'Ошибка: ',
-          ha_user_id_required: 'Вы должны быть войти в Home Assistant для получения пароля. Обновите страницу (F5) и попробуйте снова.',
           pro_password_placeholder: 'Введите ваш PRO пароль',
           your_email_placeholder: 'your@email.com',
           github_username_placeholder: 'например, octocat',
@@ -19532,76 +19560,13 @@ class LuminaEnergyCardEditor extends HTMLElement {
           fill_all_fields: 'Пожалуйста, заполните все поля.',
           password_ok: '✓ Пароль принят. PRO активен.',
           password_bad: '❌ Неверный пароль. Проверьте и попробуйте снова.',
-          save_v3_password: 'Это ваш новый личный пароль. Сохраните его.',
-          save_v3_click_save: 'Нажмите СОХРАНИТЬ внизу этого окна, чтобы сохранить пароль v3. Иначе он будет потерян при закрытии.',
-          paypal_donation_only: 'Мы принимаем ТОЛЬКО пожертвования. НЕ товары и услуги.',
-          privacy_accept_template: 'Я прочитал(а) и принимаю {0}.',
-          privacy_link_label: 'Политику конфиденциальности',
-          privacy_required: 'Необходимо принять Политику конфиденциальности для продолжения.',
           pro_license_title: '💰 PRO лицензия',
           pro_license_line1: 'Вариант 1: отправьте <b>5€ как пожертвование</b> в PayPal: <b>3dprint8616@gmail.com</b>',
           pro_license_line2: 'Вариант 2: оплатите через <b>GitHub Sponsors</b> (та же сумма).',
-          pro_license_line3: 'После оплаты заполните форму ниже и выберите <b>PayPal</b> (e-mail оплаты + имя/фамилия) или <b>GitHub Sponsors</b> (имя пользователя GitHub).',
+          pro_license_line3: 'После оплаты заполните форму ниже и выберите <b>PayPal</b> (e-mail оплаты + имя/фамилия) или <b>GitHub Sponsors</b> (GitHub username).',
           pro_license_auto_note: 'Система автоматическая: если соответствие платежа не найдено, пароль НЕ будет отправлен.',
-          pro_license_line4: 'Пожертвования: <b>10€</b> = имена в карточке; <b>50€</b> = приоритет персональных функций. Контакт: <b>luminaenergycard@gmail.com</b> или группа Telegram. Проверяйте папку <b>СПАМ</b>.',
-          follow_title: 'Сообщество',
-          telegram_button: 'Группа Telegram',
-          tiktok_button: 'TikTok',
-          fundraiser_title: 'Поддержка',
-          support_email: 'luminaenergycard@gmail.com',
-          custom_paid_note: 'За существенные изменения или доработки: luminaenergycard@gmail.com (платная услуга).',
-          overlay_image_enabled: { label: 'Включить изображение оверлея', helper: 'Включить или выключить своё изображение оверлея (требуется PRO).' },
-          heat_pump_flow_color: { label: 'Цвет потока теплового насоса', helper: 'Цвет анимации потока теплового насоса.' },
-          heat_pump_text_color: { label: 'Цвет текста теплового насоса', helper: 'Цвет текста мощности теплового насоса.' },
-          text_font_size: { label: 'Размер шрифта текста (px)', helper: 'Единый размер шрифта для всех текстов (PV, батарея, сеть, авто, тепловой насос, дом). По умолчанию: 12px.' },
-          background_image_x: { label: 'Фон X (px)', helper: 'Горизонтальная позиция фона. Перетащите в предпросмотре или задайте здесь. По умолчанию: 0.' },
-          background_image_y: { label: 'Фон Y (px)', helper: 'Вертикальная позиция фона. По умолчанию: 0.' },
-          header_font_size: { label: 'Размер заголовка (px)', helper: 'По умолчанию 16' },
-          daily_label_font_size: { label: 'Размер подписи дня (px)', helper: 'По умолчанию 12' },
-          daily_value_font_size: { label: 'Размер значения дня (px)', helper: 'По умолчанию 20' },
-          pv_font_size: { label: 'Размер текста PV (px)', helper: 'По умолчанию 16' },
-          battery_soc_font_size: { label: 'Размер SOC батареи (px)', helper: 'По умолчанию 20' },
-          battery_power_font_size: { label: 'Размер мощности батареи (px)', helper: 'По умолчанию 16' },
-          load_font_size: { label: 'Размер нагрузки (px)', helper: 'По умолчанию 15' },
-          heat_pump_font_size: { label: 'Размер текста теплового насоса (px)', helper: 'По умолчанию 16' },
-          grid_font_size: { label: 'Размер текста сети (px)', helper: 'По умолчанию 15' },
-          car_power_font_size: { label: 'Размер мощности авто (px)', helper: 'По умолчанию 15' },
-          car2_power_font_size: { label: 'Размер мощности авто 2 (px)', helper: 'По умолчанию 15' },
-          car_name_font_size: { label: 'Размер названия авто (px)', helper: 'По умолчанию как мощность авто' },
-          car2_name_font_size: { label: 'Размер названия авто 2 (px)', helper: 'По умолчанию как мощность авто 2' },
-          car_soc_font_size: { label: 'Размер SOC авто (px)', helper: 'По умолчанию 12' },
-          car2_soc_font_size: { label: 'Размер SOC авто 2 (px)', helper: 'По умолчанию 12' },
-          house_camera_1: { label: 'Камера 1', helper: 'Сущность камеры для потока. До 6. Клик по иконке — открыть попап.' },
-          house_camera_2: { label: 'Камера 2', helper: '' },
-          house_camera_3: { label: 'Камера 3', helper: '' },
-          house_camera_4: { label: 'Камера 4', helper: '' },
-          house_camera_5: { label: 'Камера 5', helper: '' },
-          house_camera_6: { label: 'Камера 6', helper: '' },
-          house_lights_1: { label: 'Свет 1', helper: 'Сущность света (light, switch). До 6.' },
-          house_lights_2: { label: 'Свет 2', helper: '' },
-          house_lights_3: { label: 'Свет 3', helper: '' },
-          house_lights_4: { label: 'Свет 4', helper: '' },
-          house_lights_5: { label: 'Свет 5', helper: '' },
-          house_lights_6: { label: 'Свет 6', helper: '' },
-          house_temperature_1: { label: 'Температура 1', helper: 'Сущность температуры. До 6.' },
-          house_temperature_2: { label: 'Температура 2', helper: '' },
-          house_temperature_3: { label: 'Температура 3', helper: '' },
-          house_temperature_4: { label: 'Температура 4', helper: '' },
-          house_temperature_5: { label: 'Температура 5', helper: '' },
-          house_temperature_6: { label: 'Температура 6', helper: '' },
-          house_security_1: { label: 'Охрана 1', helper: 'Сущность сигнализации/охраны. До 6.' },
-          house_security_2: { label: 'Охрана 2', helper: '' },
-          house_security_3: { label: 'Охрана 3', helper: '' },
-          house_security_4: { label: 'Охрана 4', helper: '' },
-          house_security_5: { label: 'Охрана 5', helper: '' },
-          house_security_6: { label: 'Охрана 6', helper: '' },
-          house_humidity_1: { label: 'Влажность 1', helper: 'Сущность влажности. До 6.' },
-          house_humidity_2: { label: 'Влажность 2', helper: '' },
-          house_humidity_3: { label: 'Влажность 3', helper: '' },
-          house_humidity_4: { label: 'Влажность 4', helper: '' },
-          house_humidity_5: { label: 'Влажность 5', helper: '' },
-          house_humidity_6: { label: 'Влажность 6', helper: '' },
-          sending_request: 'Отправка…'
+          pro_license_line_red: 'Отправляйте как пожертвование, а не как товары и услуги. Оплата будет возвращена при отказе.',
+          payment_method_colletta: 'Сбор 5€ PayPal'
         },
         options: {
           languages: [
@@ -19661,57 +19626,21 @@ class LuminaEnergyCardEditor extends HTMLElement {
           inverterPopup: { title: 'Popup Inversor', helper: 'Configurar o popup do inversor.' },
           flow_path: { title: 'Caminhos de fluxo (SVG)', helper: 'Personalizar caminhos SVG dos fluxos principais.' },
           flow_path_custom: { title: 'Fluxos personalizados', helper: 'Até 5 fluxos adicionais.' },
-          custom_text: { title: 'Texto personalizado', helper: 'Até 5 blocos de texto. Pode mostrar: só texto estático (deixe Sensor vazio), só valor de entidade (deixe Etiqueta vazia, defina Sensor), ou ambos (etiqueta + valor). Configure posição (X/Y), cor, tamanho de letra.' },
-          colors: { title: 'Cores e limiares', helper: 'Limiares da rede e cores dos fluxos e EV.' },
-          flow_colors: { title: 'Cores dos fluxos', helper: 'Cores das animações dos fluxos de energia.' },
-          animation_styles: { title: 'Estilos de animação', helper: 'Estilo da animação dos fluxos (traços, pontos, setas, brilho).' },
-          typography: { title: 'Tipografia', helper: 'Ajuste dos tamanhos de letra no cartão.' },
-          lumina_pro: { title: 'Lumina PRO', helper: 'Funções PRO: imagens overlay, fluxos e textos personalizados. Desbloquear: 5€ via PayPal (DONATIVO) ou GitHub Sponsors.' },
-          layout: { title: 'Layout e posições do texto', helper: 'Sliders X, Y (px) e ângulos (°). ViewBox 800×450.' },
-          socBar: { title: 'Barra SOC', helper: 'Barra de 6 segmentos da bateria. Posição, opacidade, cores.' },
-          gridBox: { title: 'Bloco Rede', helper: 'Bloco superior direito. Importação/exportação e valores diários.' },
-          pvBox: { title: 'Bloco PV', helper: 'Bloco superior esquerdo. PV total e produção diária.' },
-          batteryFill: { title: 'Posição do preenchimento da bateria', helper: 'Coordenadas (px) e ângulos (°). YAML: dev_battery_fill_*.' },
-          overlay_image: { title: 'Imagem overlay (PRO)', helper: 'PRO: até 5 imagens PNG. Posição X/Y, tamanho, opacidade. Desbloquear: 5€ PayPal ou GitHub Sponsors.' },
-          custom_flows: { title: 'Fluxos personalizados', helper: 'Até 5 fluxos adicionais com sensores, caminhos SVG, cores e limiares.' },
-          about: { title: 'Acerca', helper: 'Créditos, versão e ligações úteis.' }
+          custom_text: { title: 'Texto personalizado', helper: 'Até 5 blocos de texto. Pode mostrar: só texto estático (deixe Sensor vazio), só valor de entidade (deixe Etiqueta vazia, defina Sensor), ou ambos (etiqueta + valor). Configure posição (X/Y), cor, tamanho de letra.' }
         },
         fields: {
           editor_updates_empty: 'Sem atualizações.',
           editor_updates_open: 'Abrir',
-          card_title: { label: 'Título do cartão', helper: 'Título no topo do cartão. Vazio para desativar.' },
-          pro_password: { label: 'Palavra-passe PRO', helper: 'Introduza a palavra-passe PRO para desbloquear. Desbloquear: 5€ via PayPal (donativo) ou GitHub Sponsors.' },
-          language: { label: 'Idioma', helper: 'Idioma do editor.' },
-          display_unit: { label: 'Unidade de visualização', helper: 'Unidade de potência (W ou kW).' },
-          update_interval: { label: 'Intervalo de atualização', helper: 'Frequência de atualização do cartão (0 desativa o limite).' },
-          performance_mode: { label: 'Modo de desempenho', helper: 'Auto = equilibrado. Low = animações simplificadas em dispositivos fracos. High = mais suave.' },
-          animation_speed_factor: { label: 'Velocidade da animação', helper: 'Multiplicador de velocidade (-3x a 3x). 0 = pausa.' },
-          animation_style: { label: 'Estilo de animação', helper: 'Estilo dos fluxos: traços, pontos, setas, brilho.' },
-          flow_stroke_width: { label: 'Espessura da linha do fluxo (px)', helper: 'Espessura da linha animada. Vazio = predefinido.' },
           update_available: 'Atualização disponível',
           update_open: 'Abrir',
           editor_preview_title: 'Pré-visualização Lumina (arrastar)',
           editor_toggle_show_lumina_preview: 'Pré-visualização Lumina (arrastar) abaixo do preview HA',
           editor_toggle_hide_ha_preview: 'Ocultar preview HA',
           editor_preview_requires_pro: 'Ative primeiro a secção PRO com palavra-passe.',
+          editor_personal_requires_pro: 'Ative PRO para usar Personal (fundo personalizado).',
           editor_lock_base: 'Bloquear base (fundo/overlays)',
           editor_lock_flows: 'Bloquear arrasto dos flows',
           editor_reset_base: 'Repor base',
-          editor_add_text: 'Adicionar texto',
-          editor_add_text_helper: 'Ativar o próximo slot de texto personalizado e colocá-lo na pré-visualização (arrastar para mover).',
-          editor_text_rotate: 'Rodar:',
-          editor_text_skew_x: 'Inclinação X (°)',
-          editor_text_skew_y: 'Inclinação Y (°)',
-          editor_upload_overlay: 'Carregar do PC',
-          editor_upload_overlay_helper: 'Carregue uma imagem do seu PC e defina-a como overlay (guardada na config).',
-          editor_reset_flows: 'Repor fluxos',
-          editor_reset_flows_helper: 'Limpar todos os caminhos e opções de fluxos personalizados.',
-          editor_export_flows: 'Exportar fluxos',
-          editor_import_flows: 'Importar fluxos',
-          editor_export_flows_helper: 'Descarregar caminhos e opções de fluxos em JSON. Usar noutro fundo.',
-          editor_import_flows_helper: 'Carregar fluxos de um ficheiro JSON exportado anteriormente.',
-          update_available: 'Atualização disponível',
-          update_open: 'Abrir',
           paypal_first_name: 'Nome PayPal',
           paypal_last_name: 'Apelido PayPal',
           paypal_first_name_placeholder: 'ex.: João',
@@ -19743,186 +19672,16 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_text_sensor_label: 'Sensor:',
           editor_draw_hint_off: 'Selecione um CF e clique em Desenhar.',
           editor_draw_hint_on: 'Desenhando CF {i}: desenhe no preview. Solte para guardar.',
-          house_camera_1: { label: 'Câmara 1', helper: 'Entidade câmara para streaming. Até 6. Clique no ícone para abrir o popup.' },
-          house_camera_2: { label: 'Câmara 2', helper: '' },
-          house_camera_3: { label: 'Câmara 3', helper: '' },
-          house_camera_4: { label: 'Câmara 4', helper: '' },
-          house_camera_5: { label: 'Câmara 5', helper: '' },
-          house_camera_6: { label: 'Câmara 6', helper: '' },
-          house_lights_1: { label: 'Luzes 1', helper: 'Entidade luzes (light, switch). Até 6.' },
-          house_lights_2: { label: 'Luzes 2', helper: '' },
-          house_lights_3: { label: 'Luzes 3', helper: '' },
-          house_lights_4: { label: 'Luzes 4', helper: '' },
-          house_lights_5: { label: 'Luzes 5', helper: '' },
-          house_lights_6: { label: 'Luzes 6', helper: '' },
-          house_temperature_1: { label: 'Temperatura 1', helper: 'Entidade temperatura. Até 6.' },
-          house_temperature_2: { label: 'Temperatura 2', helper: '' },
-          house_temperature_3: { label: 'Temperatura 3', helper: '' },
-          house_temperature_4: { label: 'Temperatura 4', helper: '' },
-          house_temperature_5: { label: 'Temperatura 5', helper: '' },
-          house_temperature_6: { label: 'Temperatura 6', helper: '' },
-          house_security_1: { label: 'Segurança 1', helper: 'Entidade alarme/segurança. Até 6.' },
-          house_security_2: { label: 'Segurança 2', helper: '' },
-          house_security_3: { label: 'Segurança 3', helper: '' },
-          house_security_4: { label: 'Segurança 4', helper: '' },
-          house_security_5: { label: 'Segurança 5', helper: '' },
-          house_security_6: { label: 'Segurança 6', helper: '' },
-          house_humidity_1: { label: 'Humidade 1', helper: 'Entidade humidade. Até 6.' },
-          house_humidity_2: { label: 'Humidade 2', helper: '' },
-          house_humidity_3: { label: 'Humidade 3', helper: '' },
-          house_humidity_4: { label: 'Humidade 4', helper: '' },
-          house_humidity_5: { label: 'Humidade 5', helper: '' },
-          house_humidity_6: { label: 'Humidade 6', helper: '' },
-          overlay_image_enabled: { label: 'Ativar imagem overlay', helper: 'Ativar ou desativar a imagem overlay personalizada (requer PRO).' },
-          heat_pump_flow_color: { label: 'Cor do fluxo da bomba de calor', helper: 'Cor da animação do fluxo da bomba de calor.' },
-          heat_pump_text_color: { label: 'Cor do texto da bomba de calor', helper: 'Cor do texto de potência da bomba de calor.' },
-          text_font_size: { label: 'Tamanho do texto (px)', helper: 'Tamanho unificado para todos os textos (Solar, Bateria, Rede, Veículo, Bomba de calor, Casa). Predefinido: 12px.' },
-          background_image_x: { label: 'Fundo X (px)', helper: 'Posição horizontal do fundo. Arrastar no preview ou aqui. Predefinido: 0.' },
-          background_image_y: { label: 'Fundo Y (px)', helper: 'Posição vertical do fundo. Predefinido: 0.' },
-          header_font_size: { label: 'Tamanho do cabeçalho (px)', helper: 'Predefinido 16' },
-          daily_label_font_size: { label: 'Tamanho da etiqueta diária (px)', helper: 'Predefinido 12' },
-          daily_value_font_size: { label: 'Tamanho do valor diário (px)', helper: 'Predefinido 20' },
-          pv_font_size: { label: 'Tamanho do texto PV (px)', helper: 'Predefinido 16' },
-          battery_soc_font_size: { label: 'Tamanho SOC bateria (px)', helper: 'Predefinido 20' },
-          battery_power_font_size: { label: 'Tamanho potência bateria (px)', helper: 'Predefinido 16' },
-          load_font_size: { label: 'Tamanho da carga (px)', helper: 'Predefinido 15' },
-          heat_pump_font_size: { label: 'Tamanho bomba de calor (px)', helper: 'Predefinido 16' },
-          grid_font_size: { label: 'Tamanho da rede (px)', helper: 'Predefinido 15' },
-          car_power_font_size: { label: 'Tamanho potência veículo (px)', helper: 'Predefinido 15' },
-          car2_power_font_size: { label: 'Tamanho potência veículo 2 (px)', helper: 'Predefinido 15' },
-          car_name_font_size: { label: 'Tamanho nome veículo (px)', helper: 'Predefinido 15' },
-          car2_name_font_size: { label: 'Tamanho nome veículo 2 (px)', helper: 'Predefinido 15' },
-          car_soc_font_size: { label: 'Tamanho SOC veículo (px)', helper: 'Predefinido 12' },
-          car2_soc_font_size: { label: 'Tamanho SOC veículo 2 (px)', helper: 'Predefinido 12' },
-          sensor_popup_pv_1: { label: 'Popup PV 1', helper: 'Entidade para a linha 1 do popup PV.' },
-          sensor_popup_pv_2: { label: 'Popup PV 2', helper: '' },
-          sensor_popup_pv_3: { label: 'Popup PV 3', helper: '' },
-          sensor_popup_pv_4: { label: 'Popup PV 4', helper: '' },
-          sensor_popup_pv_5: { label: 'Popup PV 5', helper: '' },
-          sensor_popup_pv_6: { label: 'Popup PV 6', helper: '' },
-          sensor_popup_house_1: { label: 'Popup Casa 1', helper: 'Entidade para a linha 1 do popup Casa.' },
-          sensor_popup_house_2: { label: 'Popup Casa 2', helper: '' },
-          sensor_popup_house_3: { label: 'Popup Casa 3', helper: '' },
-          sensor_popup_house_4: { label: 'Popup Casa 4', helper: '' },
-          sensor_popup_house_5: { label: 'Popup Casa 5', helper: '' },
-          sensor_popup_house_6: { label: 'Popup Casa 6', helper: '' },
-          sensor_popup_bat_1: { label: 'Popup Bateria 1', helper: 'Entidade para a linha 1 do popup Bateria.' },
-          sensor_popup_bat_2: { label: 'Popup Bateria 2', helper: '' },
-          sensor_popup_bat_3: { label: 'Popup Bateria 3', helper: '' },
-          sensor_popup_bat_4: { label: 'Popup Bateria 4', helper: '' },
-          sensor_popup_bat_5: { label: 'Popup Bateria 5', helper: '' },
-          sensor_popup_bat_6: { label: 'Popup Bateria 6', helper: '' },
-          sensor_popup_grid_1: { label: 'Popup Rede 1', helper: 'Entidade para a linha 1 do popup Rede.' },
-          sensor_popup_grid_2: { label: 'Popup Rede 2', helper: '' },
-          sensor_popup_grid_3: { label: 'Popup Rede 3', helper: '' },
-          sensor_popup_grid_4: { label: 'Popup Rede 4', helper: '' },
-          sensor_popup_grid_5: { label: 'Popup Rede 5', helper: '' },
-          sensor_popup_grid_6: { label: 'Popup Rede 6', helper: '' },
-          sensor_popup_inverter_1: { label: 'Popup Inversor 1', helper: 'Entidade para a linha 1 do popup Inversor.' },
-          sensor_popup_inverter_2: { label: 'Popup Inversor 2', helper: '' },
-          sensor_popup_inverter_3: { label: 'Popup Inversor 3', helper: '' },
-          sensor_popup_inverter_4: { label: 'Popup Inversor 4', helper: '' },
-          sensor_popup_inverter_5: { label: 'Popup Inversor 5', helper: '' },
-          sensor_popup_inverter_6: { label: 'Popup Inversor 6', helper: '' },
-          dev_soc_bar_x: { label: 'Barra SOC X (px)', helper: 'Posição horizontal. ViewBox 0–800.' },
-          dev_soc_bar_y: { label: 'Barra SOC Y (px)', helper: 'Posição vertical. ViewBox 0–450.' },
-          dev_soc_bar_width: { label: 'Barra SOC largura (px)', helper: 'Largura da barra.' },
-          dev_soc_bar_height: { label: 'Barra SOC altura (px)', helper: 'Altura da barra.' },
-          dev_soc_bar_rotate: { label: 'Barra SOC rotação (°)', helper: 'Rotação 0–360°.' },
-          dev_soc_bar_skew_x: { label: 'Barra SOC inclinação X (°)', helper: 'Ângulo de inclinação horizontal.' },
-          dev_soc_bar_skew_y: { label: 'Barra SOC inclinação Y (°)', helper: 'Ângulo de inclinação vertical.' },
-          soc_bar_opacity: { label: 'Barra SOC opacidade', helper: 'Transparência 0,05–1.' },
-          soc_bar_glow: { label: 'Barra SOC brilho (px)', helper: 'Desfoque da sombra nos segmentos. 0 = desligado.' },
-          soc_bar_color_on: { label: 'Barra SOC cor (ligado)', helper: 'Cor do segmento quando iluminado pelo SOC.' },
-          soc_bar_color_off: { label: 'Barra SOC cor (desligado)', helper: 'Cor do segmento sem iluminação.' },
-          dev_grid_box_x: { label: 'Bloco Rede X (px)', helper: 'Bloco superior direito. Importação/exportação + valores diários.' },
-          dev_grid_box_y: { label: 'Bloco Rede Y (px)', helper: 'Posição vertical.' },
-          dev_grid_box_width: { label: 'Bloco Rede largura (px)', helper: '' },
-          dev_grid_box_height: { label: 'Bloco Rede altura (px)', helper: '' },
-          dev_grid_box_font_size: { label: 'Bloco Rede tamanho do texto (px)', helper: 'Tamanho do texto. Vazio = auto.' },
-          dev_grid_box_text_color: { label: 'Bloco Rede cor do texto', helper: 'Cor de todo o texto. Vazio = cores individuais.' },
-          dev_pv_box_x: { label: 'Bloco PV X (px)', helper: 'Bloco superior esquerdo. PV total + produção diária.' },
-          dev_pv_box_y: { label: 'Bloco PV Y (px)', helper: 'Posição vertical.' },
-          dev_pv_box_width: { label: 'Bloco PV largura (px)', helper: '' },
-          dev_pv_box_height: { label: 'Bloco PV altura (px)', helper: '' },
-          dev_pv_box_font_size: { label: 'Bloco PV tamanho do texto (px)', helper: 'Vazio = auto.' },
-          dev_pv_box_text_color: { label: 'Bloco PV cor do texto', helper: 'Vazio = cor do PV total.' },
-          overlay_image_pro_1: { label: 'Overlay PRO 1', helper: 'Caminho para a imagem overlay PRO 1.' },
-          overlay_image_pro_2: { label: 'Overlay PRO 2', helper: 'Caminho para a imagem overlay PRO 2.' },
-          overlay_image_pro_3: { label: 'Overlay PRO 3', helper: 'Caminho para a imagem overlay PRO 3.' },
-          overlay_image_pro_4: { label: 'Overlay PRO 4', helper: 'Caminho para a imagem overlay PRO 4.' },
-          overlay_image_pro_5: { label: 'Overlay PRO 5', helper: 'Caminho para a imagem overlay PRO 5.' },
-          sensor_pv_total: { label: 'Sensor PV total', helper: 'Sensor agregado opcional para a linha combinada.' },
-          sensor_home_load: { label: 'Carga doméstica (obrigatório)', helper: 'Sensor do consumo total da casa.' },
-          sensor_battery_flow: { label: 'Bateria fluxo (com sinal)', helper: 'Um sensor de potência: + = carga, − = descarga. Modo Flow.' },
-          sensor_grid_power: { label: 'Potência da rede', helper: 'Sensor de fluxo positivo/negativo da rede.' },
-          sensor_car_power: { label: 'Potência veículo 1' },
-          sensor_car_soc: { label: 'SOC veículo 1' },
-          sensor_car2_power: { label: 'Potência veículo 2' },
-          sensor_car2_soc: { label: 'SOC veículo 2' },
-          battery_power_mode: { label: 'Modo de potência da bateria', helper: 'Flow: um sensor com sinal. Carga+Descarga: sensores separados.' },
-          battery_overlay_enabled: { label: 'Ativar overlay bateria + barra SOC', helper: 'Mostrar imagem da bateria e barra SOC de 6 segmentos.' },
-          grid_import_color: { label: 'Cor de importação da rede', helper: 'Cor base ao importar da rede.' },
-          grid_export_color: { label: 'Cor de exportação para a rede', helper: 'Cor base ao exportar para a rede.' },
-          car_flow_color: { label: 'Cor do fluxo EV', helper: 'Cor da animação do fluxo do veículo elétrico.' },
-          grid_activity_threshold: { label: 'Limiar de animação da rede (W)', helper: 'Não animar fluxo da rede abaixo desta potência.' },
-          flow_activity_threshold: { label: 'Limiar de visibilidade do fluxo (W)', helper: 'Não mostrar fluxos abaixo deste valor (W).' },
-          pv_activity_threshold: { label: 'Limiar de animação FV (W)', helper: 'Desativar animação do fluxo FV quando a potência solar estiver abaixo deste valor (W). Se não definido, o limiar geral de fluxos é usado.' },
-          heat_pump_activity_threshold: { label: 'Limiar de animação bomba de calor (W)', helper: 'Desativar animação do fluxo da bomba de calor quando a potência estiver abaixo deste valor (W). Se não definido, o limiar geral de fluxos é usado.' },
-          invert_grid: { label: 'Inverter valores da rede', helper: 'Ativar se importação/exportação estão trocados.' },
-          invert_battery: { label: 'Inverter valores da bateria', helper: 'Ativar se carga/descarga estão trocados.' },
-          enable_echo_alive: { label: 'Ativar Echo Alive', helper: 'Manter o browser Silk no Echo Show ativo.' },
-          show_clock: { label: 'Mostrar relógio holográfico', helper: 'Relógio estilo holograma com hora local.' },
-          solar_forecast_enabled: { label: 'Ativar previsão solar (PRO)', helper: 'Mostrar estimativa de produção solar.' },
-          custom_text_1_rotate: { label: 'Texto 1: rotação (°)', helper: 'Ângulo de rotação para o texto 1 (-180..180).' },
-          custom_text_1_skew_x: { label: 'Texto 1: inclinação X (°)', helper: 'Inclinação no eixo X (-60..60).' },
-          custom_text_1_skew_y: { label: 'Texto 1: inclinação Y (°)', helper: 'Inclinação no eixo Y (-60..60).' },
-          custom_text_2_rotate: { label: 'Texto 2: rotação (°)', helper: '' },
-          custom_text_2_skew_x: { label: 'Texto 2: inclinação X (°)', helper: '' },
-          custom_text_2_skew_y: { label: 'Texto 2: inclinação Y (°)', helper: '' },
-          custom_text_3_rotate: { label: 'Texto 3: rotação (°)', helper: '' },
-          custom_text_3_skew_x: { label: 'Texto 3: inclinação X (°)', helper: '' },
-          custom_text_3_skew_y: { label: 'Texto 3: inclinação Y (°)', helper: '' },
-          custom_text_4_rotate: { label: 'Texto 4: rotação (°)', helper: '' },
-          custom_text_4_skew_x: { label: 'Texto 4: inclinação X (°)', helper: '' },
-          custom_text_4_skew_y: { label: 'Texto 4: inclinação Y (°)', helper: '' },
-          custom_text_5_rotate: { label: 'Texto 5: rotação (°)', helper: '' },
-          custom_text_5_skew_x: { label: 'Texto 5: inclinação X (°)', helper: '' },
-          custom_text_5_skew_y: { label: 'Texto 5: inclinação Y (°)', helper: '' },
-          pro_debug_grid: { label: 'Ativar grelha de posicionamento (PRO)', helper: 'Mostrar grelha e coordenadas para posicionar texto com precisão.' },
-          sensor_pv1: { label: 'PV string 1 (Array 1)', helper: 'Sensor solar principal.' },
-          sensor_pv2: { label: 'PV string 2 (Array 1)', helper: '' },
-          sensor_pv3: { label: 'PV string 3 (Array 1)', helper: '' },
-          sensor_pv4: { label: 'PV string 4 (Array 1)', helper: '' },
-          sensor_pv5: { label: 'PV string 5 (Array 1)', helper: '' },
-          sensor_pv6: { label: 'PV string 6 (Array 1)', helper: '' },
-          sensor_daily: { label: 'Sensor produção diária (obrigatório)', helper: 'Sensor da produção diária.' },
-          sensor_bat1_soc: { label: 'Bateria 1 SOC', helper: '' },
-          sensor_bat1_power: { label: 'Bateria 1 potência', helper: '' },
-          sensor_battery_charge: { label: 'Bateria carga', helper: 'Sensor de potência em carga.' },
-          sensor_battery_discharge: { label: 'Bateria descarga', helper: 'Sensor de potência em descarga.' },
-          sensor_grid_import: { label: 'Sensor importação rede', helper: 'Entidade para importação positiva.' },
-          sensor_grid_export: { label: 'Sensor exportação rede', helper: 'Entidade para exportação positiva.' },
-          pv_primary_color: { label: 'Cor do fluxo PV 1', helper: 'Cor da linha principal PV.' },
-          pv_tot_color: { label: 'Cor PV total', helper: 'Cor da linha PV total.' },
-          load_flow_color: { label: 'Cor do fluxo da carga', helper: 'Cor da animação do consumo doméstico.' },
-          battery_soc_color: { label: 'Cor SOC bateria', helper: 'Cor do texto percentual SOC da bateria.' },
-          battery_charge_color: { label: 'Cor do fluxo de carga', helper: 'Cor quando a energia entra na bateria.' },
-          battery_discharge_color: { label: 'Cor do fluxo de descarga', helper: 'Cor quando a energia sai da bateria.' },
-          car1_label: { label: 'Etiqueta veículo 1', helper: 'Texto ao lado dos valores do primeiro EV.' },
-          car2_label: { label: 'Etiqueta veículo 2', helper: 'Texto ao lado dos valores do segundo EV.' },
-          show_car_soc: { label: 'Mostrar veículo 1', helper: 'Ativar para mostrar o primeiro veículo elétrico.' },
-          show_car2: { label: 'Mostrar veículo 2', helper: 'Ativar para mostrar o segundo veículo elétrico.' },
-          custom_text_1_sensor: { label: 'Sensor do texto 1', helper: 'Entidade para o valor do texto 1. Vazio = só texto estático.' },
-          custom_text_1_label: { label: 'Etiqueta do texto 1', helper: 'Etiqueta do texto 1. Vazio = só valor do sensor.' },
-          custom_text_1_x: { label: 'Texto 1 X (px)', helper: 'Posição horizontal do texto 1.' },
-          custom_text_1_y: { label: 'Texto 1 Y (px)', helper: 'Posição vertical do texto 1.' },
-          custom_text_1_color: { label: 'Cor do texto 1', helper: 'Cor do texto 1.' },
-          custom_text_1_font_size: { label: 'Tamanho do texto 1 (px)', helper: 'Tamanho do texto 1.' },
-          custom_flow_1_sensor: { label: 'Sensor do fluxo 1', helper: 'Sensor de potência para o fluxo personalizado 1.' },
-          custom_flow_1_path_preset: { label: 'Predefinição do caminho do fluxo 1', helper: 'Caminho predefinido ou personalizado SVG.' },
-          custom_flow_1_threshold: { label: 'Limiar do fluxo 1 (W)', helper: 'Limiar de visibilidade do fluxo (W).' },
-          custom_flow_1_color: { label: 'Cor do fluxo 1', helper: 'Cor da animação do fluxo 1.' },
+          editor_export_flows: 'Exportar fluxos',
+          editor_import_flows: 'Importar fluxos',
+          editor_export_flows_helper: 'Transferir caminhos e opções dos fluxos personalizados como JSON. Use noutro fundo.',
+          editor_import_flows_helper: 'Carregar fluxos de um ficheiro JSON previamente exportado.',
+          editor_reset_flows: 'Repor fluxos',
+          editor_reset_flows_helper: 'Limpar todos os caminhos e opções dos fluxos personalizados.',
+          editor_export_config: 'Exportar config',
+          editor_import_config: 'Importar config',
+          editor_export_config_helper: 'Cópia de segurança da config completa (fundo, overlays, sensores, fluxos) como JSON. Use antes de atualizações para restaurar depois.',
+          editor_import_config_helper: 'Restaurar config de uma cópia de segurança JSON previamente exportada. Faz merge com a config atual.',
           grid_flow_target: { label: 'Destino do fluxo da rede', helper: 'Onde desenhar o fluxo da rede: contador ↔ inversor ou contador ↔ casa. Auto mantém o comportamento anterior.' },
           license_status: 'Estado da licença',
           license_active: 'PRO ativo',
@@ -19935,7 +19694,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           checking: 'A verificar...',
           request_pro_license: 'Pedir licença PRO',
           your_email: 'O seu e-mail',
-          payment_method: 'Método de pagamento (PayPal / GitHub)',
+          payment_method: 'Método de pagamento (PayPal / GitHub / Colletta)',
           payment_method_paypal: 'PayPal (doação)',
           payment_method_github: 'GitHub Sponsors',
           paypal_payment_email: 'E-mail de pagamento PayPal',
@@ -19957,7 +19716,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
           migrate_v3_requesting: 'A pedir…',
           migrate_v3_failed: 'Migração falhou.',
           migrate_v3_error: 'Erro: ',
-          ha_user_id_required: 'Tem de estar ligado ao Home Assistant para receber a palavra-passe. Atualize a página (F5) e tente novamente.',
           pro_password_placeholder: 'Introduza a sua palavra-passe PRO',
           your_email_placeholder: 'o_seu@email.com',
           github_username_placeholder: 'ex.: octocat',
@@ -19966,76 +19724,13 @@ class LuminaEnergyCardEditor extends HTMLElement {
           fill_all_fields: 'Por favor preencha todos os campos.',
           password_ok: '✓ Palavra-passe aceite. PRO ativo.',
           password_bad: '❌ Palavra-passe inválida. Verifique e tente novamente.',
-          save_v3_password: 'Esta é a sua nova palavra-passe pessoal. Guarde-a.',
-          save_v3_click_save: 'Clique em GUARDAR em baixo nesta janela para manter a palavra-passe v3. Caso contrário perder-se-á ao fechar.',
-          paypal_donation_only: 'Aceitamos APENAS donativos. NÃO use bens e serviços.',
-          privacy_accept_template: 'Li e aceito a {0}.',
-          privacy_link_label: 'Política de Privacidade',
-          privacy_required: 'Tem de aceitar a Política de Privacidade para continuar.',
           pro_license_title: '💰 Licença PRO',
           pro_license_line1: 'Opção 1: envie <b>5€ como DOAÇÃO</b> no PayPal: <b>3dprint8616@gmail.com</b>',
           pro_license_line2: 'Opção 2: patrocine via <b>GitHub Sponsors</b> (mesmo valor).',
           pro_license_line3: 'Após o pagamento, preencha o formulário abaixo e escolha <b>PayPal</b> (e-mail de pagamento + nome/apelido) ou <b>GitHub Sponsors</b> (utilizador GitHub).',
           pro_license_auto_note: 'Sistema automático: se não for encontrada correspondência, a palavra-passe NÃO será enviada.',
-          pro_license_line4: 'Donativos: <b>10€</b> = nomes na card; <b>50€</b> = prioridade para funções pessoais. Contacte <b>luminaenergycard@gmail.com</b> ou grupo Telegram. Verifique a pasta <b>SPAM</b>.',
-          follow_title: 'Comunidade',
-          telegram_button: 'Grupo Telegram',
-          tiktok_button: 'TikTok',
-          fundraiser_title: 'Apoio',
-          support_email: 'luminaenergycard@gmail.com',
-          custom_paid_note: 'Para alterações ou personalizações: luminaenergycard@gmail.com (serviço pago).',
-          overlay_image_enabled: { label: 'Ativar imagem overlay', helper: 'Ativar ou desativar a imagem overlay personalizada (requer PRO).' },
-          heat_pump_flow_color: { label: 'Cor do fluxo da bomba de calor', helper: 'Cor da animação do fluxo da bomba de calor.' },
-          heat_pump_text_color: { label: 'Cor do texto da bomba de calor', helper: 'Cor do texto da potência da bomba de calor.' },
-          text_font_size: { label: 'Tamanho do texto (px)', helper: 'Tamanho de letra unificado para todos os textos (Solar, Bateria, Rede, Veículo, Bomba de calor, Casa). Predefinido: 12px.' },
-          background_image_x: { label: 'Fundo X (px)', helper: 'Posição horizontal do fundo. Arraste na pré-visualização ou defina aqui. Predefinido: 0.' },
-          background_image_y: { label: 'Fundo Y (px)', helper: 'Posição vertical do fundo. Predefinido: 0.' },
-          header_font_size: { label: 'Tamanho do título (px)', helper: 'Predefinido 16' },
-          daily_label_font_size: { label: 'Tamanho da etiqueta diária (px)', helper: 'Predefinido 12' },
-          daily_value_font_size: { label: 'Tamanho do valor diário (px)', helper: 'Predefinido 20' },
-          pv_font_size: { label: 'Tamanho do texto PV (px)', helper: 'Predefinido 16' },
-          battery_soc_font_size: { label: 'Tamanho SOC bateria (px)', helper: 'Predefinido 20' },
-          battery_power_font_size: { label: 'Tamanho da potência da bateria (px)', helper: 'Predefinido 16' },
-          load_font_size: { label: 'Tamanho da carga (px)', helper: 'Predefinido 15' },
-          heat_pump_font_size: { label: 'Tamanho do texto da bomba de calor (px)', helper: 'Predefinido 16' },
-          grid_font_size: { label: 'Tamanho do texto da rede (px)', helper: 'Predefinido 15' },
-          car_power_font_size: { label: 'Tamanho da potência do veículo (px)', helper: 'Predefinido 15' },
-          car2_power_font_size: { label: 'Tamanho da potência do veículo 2 (px)', helper: 'Predefinido 15' },
-          car_name_font_size: { label: 'Tamanho do nome do veículo (px)', helper: 'Predefinido como potência do veículo' },
-          car2_name_font_size: { label: 'Tamanho do nome do veículo 2 (px)', helper: 'Predefinido como potência do veículo 2' },
-          car_soc_font_size: { label: 'Tamanho SOC veículo (px)', helper: 'Predefinido 12' },
-          car2_soc_font_size: { label: 'Tamanho SOC veículo 2 (px)', helper: 'Predefinido 12' },
-          house_camera_1: { label: 'Câmara 1', helper: 'Entidade câmara para streaming. Até 6. Clique no ícone para abrir o popup.' },
-          house_camera_2: { label: 'Câmara 2', helper: '' },
-          house_camera_3: { label: 'Câmara 3', helper: '' },
-          house_camera_4: { label: 'Câmara 4', helper: '' },
-          house_camera_5: { label: 'Câmara 5', helper: '' },
-          house_camera_6: { label: 'Câmara 6', helper: '' },
-          house_lights_1: { label: 'Luzes 1', helper: 'Entidade luzes (light, switch). Até 6.' },
-          house_lights_2: { label: 'Luzes 2', helper: '' },
-          house_lights_3: { label: 'Luzes 3', helper: '' },
-          house_lights_4: { label: 'Luzes 4', helper: '' },
-          house_lights_5: { label: 'Luzes 5', helper: '' },
-          house_lights_6: { label: 'Luzes 6', helper: '' },
-          house_temperature_1: { label: 'Temperatura 1', helper: 'Entidade temperatura. Até 6.' },
-          house_temperature_2: { label: 'Temperatura 2', helper: '' },
-          house_temperature_3: { label: 'Temperatura 3', helper: '' },
-          house_temperature_4: { label: 'Temperatura 4', helper: '' },
-          house_temperature_5: { label: 'Temperatura 5', helper: '' },
-          house_temperature_6: { label: 'Temperatura 6', helper: '' },
-          house_security_1: { label: 'Segurança 1', helper: 'Entidade alarme/segurança. Até 6.' },
-          house_security_2: { label: 'Segurança 2', helper: '' },
-          house_security_3: { label: 'Segurança 3', helper: '' },
-          house_security_4: { label: 'Segurança 4', helper: '' },
-          house_security_5: { label: 'Segurança 5', helper: '' },
-          house_security_6: { label: 'Segurança 6', helper: '' },
-          house_humidity_1: { label: 'Humidade 1', helper: 'Entidade humidade. Até 6.' },
-          house_humidity_2: { label: 'Humidade 2', helper: '' },
-          house_humidity_3: { label: 'Humidade 3', helper: '' },
-          house_humidity_4: { label: 'Humidade 4', helper: '' },
-          house_humidity_5: { label: 'Humidade 5', helper: '' },
-          house_humidity_6: { label: 'Humidade 6', helper: '' },
-          sending_request: 'A enviar…'
+          pro_license_line_red: 'Enviar como DOAÇÃO, não como bens e serviços. O pagamento será reembolsado em caso negativo.',
+          payment_method_colletta: 'Vaquinha 5€ PayPal',
         },
         options: {
           languages: [
@@ -20307,6 +20002,9 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'pv_string_4_label', label: 'String 4 label', helper: 'Label for fourth string (e.g. S4).', selector: { text: {} }, default: 'S4' },
         { name: 'pv_string_5_label', label: 'String 5 label', helper: 'Label for fifth string (e.g. S5).', selector: { text: {} }, default: 'S5' },
         { name: 'pv_string_6_label', label: 'String 6 label', helper: 'Label for sixth string (e.g. S6).', selector: { text: {} }, default: 'S6' },
+        { name: 'pv_string_7_label', label: 'String 7 label', helper: 'Label for seventh string (e.g. S7).', selector: { text: {} }, default: 'S7' },
+        { name: 'pv_string_8_label', label: 'String 8 label', helper: 'Label for eighth string (e.g. S8).', selector: { text: {} }, default: 'S8' },
+        { name: 'pv_string_9_label', label: 'String 9 label', helper: 'Label for ninth string (e.g. S9).', selector: { text: {} }, default: 'S9' },
         { name: 'sensor_pv_total', label: fields.sensor_pv_total.label, helper: fields.sensor_pv_total.helper, selector: entitySelector },
         { name: 'sensor_pv1', label: fields.sensor_pv1.label, helper: fields.sensor_pv1.helper, selector: entitySelector },
         { name: 'sensor_pv2', label: fields.sensor_pv2.label, helper: fields.sensor_pv2.helper, selector: entitySelector },
@@ -20314,14 +20012,28 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'sensor_pv4', label: fields.sensor_pv4.label, helper: fields.sensor_pv4.helper, selector: entitySelector },
         { name: 'sensor_pv5', label: fields.sensor_pv5.label, helper: fields.sensor_pv5.helper, selector: entitySelector },
         { name: 'sensor_pv6', label: fields.sensor_pv6.label, helper: fields.sensor_pv6.helper, selector: entitySelector },
+        { name: 'sensor_pv7', label: fields.sensor_pv7.label, helper: fields.sensor_pv7.helper, selector: entitySelector },
+        { name: 'sensor_pv8', label: fields.sensor_pv8.label, helper: fields.sensor_pv8.helper, selector: entitySelector },
+        { name: 'sensor_pv9', label: fields.sensor_pv9.label, helper: fields.sensor_pv9.helper, selector: entitySelector },
         { name: 'sensor_daily', label: fields.sensor_daily.label, helper: fields.sensor_daily.helper, selector: entitySelector },
         { name: 'show_pv_strings', label: fields.show_pv_strings.label, helper: fields.show_pv_strings.helper, selector: { boolean: {} } },
+        { name: 'flow_threshold_array1', label: (fields.flow_threshold_array1 && fields.flow_threshold_array1.label) || 'Flow threshold (W)', helper: (fields.flow_threshold_array1 && fields.flow_threshold_array1.helper) || 'Do not animate flow when power is below this value (W). Default 50.', selector: { number: { min: 0, max: 5000, step: 5, mode: 'slider', unit_of_measurement: 'W' } }, default: 50 },
         { name: 'array1_invert_flow', label: (fields.array1_invert_flow && fields.array1_invert_flow.label) || 'Array 1 Invert Flow', helper: (fields.array1_invert_flow && fields.array1_invert_flow.helper) || 'Invert the flow direction for Array 1 (PV1). Useful if the sensor polarity is reversed.', selector: { boolean: {} }, default: false },
         { name: 'pv_text_color', label: (fields.pv_text_color && fields.pv_text_color.label) || 'PV Text Color', helper: (fields.pv_text_color && fields.pv_text_color.helper) || 'Color for PV/solar labels.', selector: { color_picker: {} }, default: '#00f9f9' },
         { name: 'pv_font_size', label: (fields.pv_font_size && fields.pv_font_size.label) || 'PV Font Size (px)', helper: (fields.pv_font_size && fields.pv_font_size.helper) || 'Font size for PV text.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 12 },
       ]),
       array2: define([
         { name: 'array2_label', label: 'Array 2 label', helper: 'Label shown for Array 2 total (e.g. "Array 2" or custom name).', selector: { text: {} }, default: 'Array 2' },
+        { name: 'pv_string_array2_1_label', label: 'String 1 label', helper: 'Label for Array 2 string 1 (e.g. A2-S1).', selector: { text: {} }, default: 'A2-S1' },
+        { name: 'pv_string_array2_2_label', label: 'String 2 label', helper: 'Label for Array 2 string 2 (e.g. A2-S2).', selector: { text: {} }, default: 'A2-S2' },
+        { name: 'pv_string_array2_3_label', label: 'String 3 label', helper: 'Label for Array 2 string 3 (e.g. A2-S3).', selector: { text: {} }, default: 'A2-S3' },
+        { name: 'pv_string_array2_4_label', label: 'String 4 label', helper: 'Label for Array 2 string 4 (e.g. A2-S4).', selector: { text: {} }, default: 'A2-S4' },
+        { name: 'pv_string_array2_5_label', label: 'String 5 label', helper: 'Label for Array 2 string 5 (e.g. A2-S5).', selector: { text: {} }, default: 'A2-S5' },
+        { name: 'pv_string_array2_6_label', label: 'String 6 label', helper: 'Label for Array 2 string 6 (e.g. A2-S6).', selector: { text: {} }, default: 'A2-S6' },
+        { name: 'pv_string_array2_7_label', label: 'String 7 label', helper: 'Label for Array 2 string 7 (e.g. A2-S7).', selector: { text: {} }, default: 'A2-S7' },
+        { name: 'pv_string_array2_8_label', label: 'String 8 label', helper: 'Label for Array 2 string 8 (e.g. A2-S8).', selector: { text: {} }, default: 'A2-S8' },
+        { name: 'pv_string_array2_9_label', label: 'String 9 label', helper: 'Label for Array 2 string 9 (e.g. A2-S9).', selector: { text: {} }, default: 'A2-S9' },
+        { name: 'flow_threshold_array2', label: (fields.flow_threshold_array2 && fields.flow_threshold_array2.label) || 'Flow threshold (W)', helper: (fields.flow_threshold_array2 && fields.flow_threshold_array2.helper) || 'Do not animate flow when power is below this value (W). Default 50.', selector: { number: { min: 0, max: 5000, step: 5, mode: 'slider', unit_of_measurement: 'W' } }, default: 50 },
         { name: 'sensor_pv_total_secondary', label: fields.sensor_pv_total_secondary.label, helper: fields.sensor_pv_total_secondary.helper, selector: entitySelector },
         { name: 'sensor_pv_array2_1', label: fields.sensor_pv_array2_1.label, helper: fields.sensor_pv_array2_1.helper, selector: entitySelector },
         { name: 'sensor_pv_array2_2', label: fields.sensor_pv_array2_2.label, helper: fields.sensor_pv_array2_2.helper, selector: entitySelector },
@@ -20329,6 +20041,9 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'sensor_pv_array2_4', label: fields.sensor_pv_array2_4.label, helper: fields.sensor_pv_array2_4.helper, selector: entitySelector },
         { name: 'sensor_pv_array2_5', label: fields.sensor_pv_array2_5.label, helper: fields.sensor_pv_array2_5.helper, selector: entitySelector },
         { name: 'sensor_pv_array2_6', label: fields.sensor_pv_array2_6.label, helper: fields.sensor_pv_array2_6.helper, selector: entitySelector },
+        { name: 'sensor_pv_array2_7', label: fields.sensor_pv_array2_7.label, helper: fields.sensor_pv_array2_7.helper, selector: entitySelector },
+        { name: 'sensor_pv_array2_8', label: fields.sensor_pv_array2_8.label, helper: fields.sensor_pv_array2_8.helper, selector: entitySelector },
+        { name: 'sensor_pv_array2_9', label: fields.sensor_pv_array2_9.label, helper: fields.sensor_pv_array2_9.helper, selector: entitySelector },
         { name: 'sensor_daily_array2', label: fields.sensor_daily_array2.label, helper: fields.sensor_daily_array2.helper, selector: entitySelector },
         { name: 'pv_secondary_text_color', label: (fields.pv_secondary_text_color && fields.pv_secondary_text_color.label) || 'Array 2 Text Color', helper: (fields.pv_secondary_text_color && fields.pv_secondary_text_color.helper) || 'Color for Array 2 text labels.', selector: { color_picker: {} }, default: '#00f9f9' },
         { name: 'pv_secondary_font_size', label: (fields.pv_secondary_font_size && fields.pv_secondary_font_size.label) || 'Array 2 Font Size (px)', helper: (fields.pv_secondary_font_size && fields.pv_secondary_font_size.helper) || 'Font size for Array 2 text.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 12 },
@@ -20350,15 +20065,17 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'sensor_bat3_power', label: fields.sensor_bat3_power.label, helper: fields.sensor_bat3_power.helper, selector: entitySelector },
         { name: 'sensor_bat4_soc', label: fields.sensor_bat4_soc.label, helper: fields.sensor_bat4_soc.helper, selector: entitySelector },
         { name: 'sensor_bat4_power', label: fields.sensor_bat4_power.label, helper: fields.sensor_bat4_power.helper, selector: entitySelector },
-        { name: 'battery_power_mode', label: (fields.battery_power_mode && fields.battery_power_mode.label) || 'Battery Power Mode', helper: (fields.battery_power_mode && fields.battery_power_mode.helper) || 'Flow: single signed sensor (+ = charge, - = discharge). Charge+Discharge: separate sensors.', selector: { select: { options: [{ value: 'flow', label: 'Flow (signed)' }, { value: 'charge_discharge', label: 'Charge + Discharge' }] } }, default: 'flow' },
+        { name: 'battery_power_mode', label: (fields.battery_power_mode && fields.battery_power_mode.label) || 'Battery Power Mode', helper: (fields.battery_power_mode && fields.battery_power_mode.helper) || 'Flow: single signed sensor (+ = charge, - = discharge). Charge+Discharge: separate sensors.', selector: { select: { options: [['flow', 'Flow (signed)'], ['charge_discharge', 'Charge + Discharge']] } }, default: 'flow' },
         { name: 'sensor_battery_flow', label: (fields.sensor_battery_flow && fields.sensor_battery_flow.label) || 'Battery Flow (signed)', helper: (fields.sensor_battery_flow && fields.sensor_battery_flow.helper) || 'Optional. Single sensor: + = charge, - = discharge. Used when mode is Flow.', selector: entitySelector },
         { name: 'sensor_battery_charge', label: (fields.sensor_battery_charge && fields.sensor_battery_charge.label) || 'Battery Charge', helper: (fields.sensor_battery_charge && fields.sensor_battery_charge.helper) || 'Power when charging; flow to battery. Mode Charge+Discharge.', selector: entitySelector },
         { name: 'sensor_battery_discharge', label: (fields.sensor_battery_discharge && fields.sensor_battery_discharge.label) || 'Battery Discharge', helper: (fields.sensor_battery_discharge && fields.sensor_battery_discharge.helper) || 'Power when discharging; flow to inverter. Mode Charge+Discharge.', selector: entitySelector },
         { name: 'invert_battery', label: fields.invert_battery.label, helper: fields.invert_battery.helper, selector: { boolean: {} } },
         { name: 'battery_text_color', label: (fields.battery_text_color && fields.battery_text_color.label) || 'Battery Text Color', helper: (fields.battery_text_color && fields.battery_text_color.helper) || 'Color for SOC and power.', selector: { color_picker: {} }, default: '#00f9f9' },
+        { name: 'flow_threshold_battery', label: (fields.flow_threshold_battery && fields.flow_threshold_battery.label) || 'Flow threshold (W)', helper: (fields.flow_threshold_battery && fields.flow_threshold_battery.helper) || 'Do not animate flow when power is below this value (W).', selector: { number: { min: 0, max: 5000, step: 5, mode: 'slider', unit_of_measurement: 'W' } }, default: 10 },
         { name: 'battery_font_size', label: (fields.battery_font_size && fields.battery_font_size.label) || 'Battery Font Size (px)', helper: (fields.battery_font_size && fields.battery_font_size.helper) || 'Font size for battery text.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 12 },
       ]),
       grid: define([
+        { name: 'flow_threshold_grid', label: (fields.flow_threshold_grid && fields.flow_threshold_grid.label) || 'Grid flow threshold (W)', helper: (fields.flow_threshold_grid && fields.flow_threshold_grid.helper) || 'Do not animate grid flow when power is below this value (W).', selector: { number: { min: 0, max: 5000, step: 5, mode: 'slider', unit_of_measurement: 'W' } }, default: 10 },
         { name: 'sensor_grid_power', label: fields.sensor_grid_power.label, helper: fields.sensor_grid_power.helper, selector: entitySelector },
         { name: 'sensor_grid_import', label: fields.sensor_grid_import.label, helper: fields.sensor_grid_import.helper, selector: entitySelector },
         { name: 'sensor_grid_export', label: fields.sensor_grid_export.label, helper: fields.sensor_grid_export.helper, selector: entitySelector },
@@ -20369,11 +20086,13 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'enable_echo_alive', label: (fields.enable_echo_alive && fields.enable_echo_alive.label) || 'Enable Echo Alive', helper: (fields.enable_echo_alive && fields.enable_echo_alive.helper) || 'Enables an invisible iframe to keep the Silk browser open on Echo Show.', selector: { boolean: {} }, default: false },
         { name: 'sensor_home_load', label: fields.sensor_home_load.label, helper: fields.sensor_home_load.helper, selector: entitySelector },
         { name: 'sensor_home_load_secondary', label: fields.sensor_home_load_secondary.label, helper: fields.sensor_home_load_secondary.helper, selector: entitySelector },
+        { name: 'load_invert_flow', label: (fields.load_invert_flow && fields.load_invert_flow.label) || 'Load Invert Flow', helper: (fields.load_invert_flow && fields.load_invert_flow.helper) || 'Invert the home load flow direction. Useful if the sensor polarity is reversed.', selector: { boolean: {} }, default: false },
         { name: 'sensor_house_temperature', label: fields.sensor_house_temperature.label, helper: fields.sensor_house_temperature.helper, selector: entitySelector },
-        { name: 'house_temperature_offset_x', label: (fields.house_temperature_offset_x && fields.house_temperature_offset_x.label) || 'Temperature Offset X', helper: (fields.house_temperature_offset_x && fields.house_temperature_offset_x.helper) || 'Horizontal offset for the temperature display (in pixels).', selector: { number: { min: -800, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } }, default: 0 },
-        { name: 'house_temperature_offset_y', label: (fields.house_temperature_offset_y && fields.house_temperature_offset_y.label) || 'Temperature Offset Y', helper: (fields.house_temperature_offset_y && fields.house_temperature_offset_y.helper) || 'Vertical offset for the temperature display (in pixels).', selector: { number: { min: -450, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } }, default: 0 },
-        { name: 'house_temperature_rotation', label: (fields.house_temperature_rotation && fields.house_temperature_rotation.label) || 'Temperature Rotation', helper: (fields.house_temperature_rotation && fields.house_temperature_rotation.helper) || 'Rotation angle for the temperature display (in degrees, -360 to 360).', selector: { number: { min: -360, max: 360, step: 1, mode: 'box', unit_of_measurement: '°' } }, default: 10 },
-        { name: 'grid_text_color', label: (fields.grid_text_color && fields.grid_text_color.label) || 'Grid Text Color', helper: (fields.grid_text_color && fields.grid_text_color.helper) || 'Color for grid meter.', selector: { color_picker: {} }, default: '#00f9f9' },
+        { name: 'house_temperature_offset_x', label: (fields.house_temperature_offset_x && fields.house_temperature_offset_x.label) || 'Temperature Offset X', helper: (fields.house_temperature_offset_x && fields.house_temperature_offset_x.helper) || 'Horizontal offset for the temperature display (in pixels).', selector: { number: { min: -800, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } }, default: 20 },
+        { name: 'house_temperature_offset_y', label: (fields.house_temperature_offset_y && fields.house_temperature_offset_y.label) || 'Temperature Offset Y', helper: (fields.house_temperature_offset_y && fields.house_temperature_offset_y.helper) || 'Vertical offset for the temperature display (in pixels).', selector: { number: { min: -450, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } }, default: -100 },
+        { name: 'house_temperature_rotation', label: (fields.house_temperature_rotation && fields.house_temperature_rotation.label) || 'Temperature Rotation', helper: (fields.house_temperature_rotation && fields.house_temperature_rotation.helper) || 'Rotation angle for the temperature display (in degrees, -360 to 360).', selector: { number: { min: -360, max: 360, step: 1, mode: 'box', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'grid_text_color', label: (fields.grid_text_color && fields.grid_text_color.label) || 'Grid Text Color', helper: (fields.grid_text_color && fields.grid_text_color.helper) || 'Color for grid meter. Default: #00f9f9.', selector: { color_picker: {} }, default: '#00f9f9' },
+        { name: 'flow_threshold_load', label: (fields.flow_threshold_load && fields.flow_threshold_load.label) || 'Load flow threshold (W)', helper: (fields.flow_threshold_load && fields.flow_threshold_load.helper) || 'Do not animate home load flow when power is below this value (W).', selector: { number: { min: 0, max: 5000, step: 5, mode: 'slider', unit_of_measurement: 'W' } }, default: 10 },
         { name: 'grid_font_size', label: (fields.grid_font_size && fields.grid_font_size.label) || 'Grid Font Size (px)', helper: (fields.grid_font_size && fields.grid_font_size.helper) || 'Font size for grid text.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 15 },
       ]),
       car: define([
@@ -20390,10 +20109,12 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'car1_label', label: fields.car1_label.label, helper: fields.car1_label.helper, selector: { text: { mode: 'blur' } } },
         { name: 'car2_label', label: fields.car2_label.label, helper: fields.car2_label.helper, selector: { text: { mode: 'blur' } } },
         { name: 'car_text_color', label: (fields.car_text_color && fields.car_text_color.label) || 'Car Text Color', helper: (fields.car_text_color && fields.car_text_color.helper) || 'Color for car labels, power, %.', selector: { color_picker: {} }, default: '#00f9f9' },
+        { name: 'flow_threshold_car', label: (fields.flow_threshold_car && fields.flow_threshold_car.label) || 'Flow threshold (W)', helper: (fields.flow_threshold_car && fields.flow_threshold_car.helper) || 'Do not animate EV flow when power is below this value (W).', selector: { number: { min: 0, max: 5000, step: 5, mode: 'slider', unit_of_measurement: 'W' } }, default: 10 },
         { name: 'car_font_size', label: (fields.car_font_size && fields.car_font_size.label) || 'Car Font Size (px)', helper: (fields.car_font_size && fields.car_font_size.helper) || 'Font size for car text.', selector: { number: { min: 8, max: 28, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 12 },
       ]),
       heatPump: define([
         { name: 'sensor_heat_pump_consumption', label: fields.sensor_heat_pump_consumption.label, helper: fields.sensor_heat_pump_consumption.helper, selector: entitySelector },
+        { name: 'flow_threshold_heat_pump', label: (fields.flow_threshold_heat_pump && fields.flow_threshold_heat_pump.label) || 'Flow threshold (W)', helper: (fields.flow_threshold_heat_pump && fields.flow_threshold_heat_pump.helper) || 'Do not animate flow when power is below this value (W). Default 50.', selector: { number: { min: 0, max: 5000, step: 5, mode: 'slider', unit_of_measurement: 'W' } }, default: 50 },
         { name: 'heat_pump_invert_flow', label: (fields.heat_pump_invert_flow && fields.heat_pump_invert_flow.label) || 'Heat Pump Invert Flow', helper: (fields.heat_pump_invert_flow && fields.heat_pump_invert_flow.helper) || 'Invert the heat pump flow direction. Useful if the sensor polarity is reversed.', selector: { boolean: {} }, default: false },
         { name: 'heat_pump_text_color', label: (fields.heat_pump_text_color && fields.heat_pump_text_color.label) || 'Heat Pump Text Color', helper: (fields.heat_pump_text_color && fields.heat_pump_text_color.helper) || 'Color for heat pump text.', selector: { color_picker: {} }, default: '#00f9f9' },
         { name: 'heat_pump_font_size', label: (fields.heat_pump_font_size && fields.heat_pump_font_size.label) || 'Heat Pump Font Size (px)', helper: (fields.heat_pump_font_size && fields.heat_pump_font_size.helper) || 'Font size for heat pump text.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 12 },
@@ -20481,7 +20202,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'car_flow_color', label: fields.car_flow_color.label, helper: fields.car_flow_color.helper, selector: { color_picker: {} } },
         { name: 'grid_activity_threshold', label: fields.grid_activity_threshold.label, helper: fields.grid_activity_threshold.helper, selector: { number: { min: 0, max: 100000, step: 10 } }, default: DEFAULT_GRID_ACTIVITY_THRESHOLD },
         { name: 'flow_activity_threshold', label: (fields.flow_activity_threshold && fields.flow_activity_threshold.label) || 'Flow visibility threshold (W)', helper: (fields.flow_activity_threshold && fields.flow_activity_threshold.helper) || 'Do not show PV, battery, load, car and heat pump flows when power is below this value (W).', selector: { number: { min: 0, max: 10000, step: 1, mode: 'box', unit_of_measurement: 'W' } }, default: 10 },
-        { name: 'pv_activity_threshold', label: (fields.pv_activity_threshold && fields.pv_activity_threshold.label) || 'PV Animation Threshold (W)', helper: (fields.pv_activity_threshold && fields.pv_activity_threshold.helper) || 'Disable PV flow animation when solar power is below this value (W). If not set, the general flow threshold is used.', selector: { number: { min: 0, max: 10000, step: 1, mode: 'box', unit_of_measurement: 'W' } }, default: null },
         { name: 'grid_threshold_warning', label: fields.grid_threshold_warning.label, helper: fields.grid_threshold_warning.helper, selector: buildThresholdSelector(), default: null },
         { name: 'grid_warning_color', label: fields.grid_warning_color.label, helper: fields.grid_warning_color.helper, selector: { color_picker: {} } },
         { name: 'grid_threshold_critical', label: fields.grid_threshold_critical.label, helper: fields.grid_threshold_critical.helper, selector: buildThresholdSelector(), default: null },
@@ -20534,11 +20254,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'grid_import_color', label: fields.grid_import_color.label, helper: fields.grid_import_color.helper, selector: { color_picker: {} } },
         { name: 'grid_export_color', label: fields.grid_export_color.label, helper: fields.grid_export_color.helper, selector: { color_picker: {} } },
         { name: 'car_flow_color', label: fields.car_flow_color.label, helper: fields.car_flow_color.helper, selector: { color_picker: {} } },
-        { name: 'heat_pump_flow_color', label: fields.heat_pump_flow_color.label, helper: fields.heat_pump_flow_color.helper, selector: { color_picker: {} } },
-        { name: 'flow_activity_threshold', label: (fields.flow_activity_threshold && fields.flow_activity_threshold.label) || 'Flow visibility threshold (W)', helper: (fields.flow_activity_threshold && fields.flow_activity_threshold.helper) || 'Do not show PV, battery, load, car and heat pump flows when power is below this value (W).', selector: { number: { min: 0, max: 10000, step: 1, mode: 'box', unit_of_measurement: 'W' } }, default: 10 },
-        { name: 'pv_activity_threshold', label: (fields.pv_activity_threshold && fields.pv_activity_threshold.label) || 'PV Animation Threshold (W)', helper: (fields.pv_activity_threshold && fields.pv_activity_threshold.helper) || 'Disable PV flow animation when solar power is below this value (W). If not set, the general flow threshold is used.', selector: { number: { min: 0, max: 10000, step: 1, mode: 'box', unit_of_measurement: 'W' } }, default: null },
-        { name: 'heat_pump_activity_threshold', label: (fields.heat_pump_activity_threshold && fields.heat_pump_activity_threshold.label) || 'Heat Pump Animation Threshold (W)', helper: (fields.heat_pump_activity_threshold && fields.heat_pump_activity_threshold.helper) || 'Disable heat pump flow animation when power is below this value (W). If not set, the general flow threshold is used.', selector: { number: { min: 0, max: 10000, step: 1, mode: 'box', unit_of_measurement: 'W' } }, default: null },
-        { name: 'grid_activity_threshold', label: fields.grid_activity_threshold.label, helper: fields.grid_activity_threshold.helper, selector: { number: { min: 0, max: 100000, step: 10 } }, default: DEFAULT_GRID_ACTIVITY_THRESHOLD }
+        { name: 'heat_pump_flow_color', label: fields.heat_pump_flow_color.label, helper: fields.heat_pump_flow_color.helper, selector: { color_picker: {} } }
       ]),
       animation_styles: define([
         { name: 'animation_style', label: fields.animation_style.label, helper: fields.animation_style.helper, selector: { select: { options: optionDefs.animation_style } }, default: 'shimmer' }
@@ -20622,71 +20338,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'custom_flow_5_direction', label: (fields.custom_flow_5_direction && fields.custom_flow_5_direction.label) || 'Custom Flow 5: Direction', helper: (fields.custom_flow_5_direction && fields.custom_flow_5_direction.helper) || 'Flow direction: forward (always positive), reverse (always negative), or auto (based on sensor value sign).', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
         { name: 'custom_flow_5_offset_x', label: (fields.custom_flow_5_offset_x && fields.custom_flow_5_offset_x.label) || 'Custom Flow 5: Offset X (px)', helper: (fields.custom_flow_5_offset_x && fields.custom_flow_5_offset_x.helper) || 'Horizontal offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
         { name: 'custom_flow_5_offset_y', label: (fields.custom_flow_5_offset_y && fields.custom_flow_5_offset_y.label) || 'Custom Flow 5: Offset Y (px)', helper: (fields.custom_flow_5_offset_y && fields.custom_flow_5_offset_y.helper) || 'Vertical offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_6_enabled', label: (fields.custom_flow_6_enabled && fields.custom_flow_6_enabled.label) || 'Custom Flow 6: Enabled', helper: (fields.custom_flow_6_enabled && fields.custom_flow_6_enabled.helper) || 'Enable custom flow 6.', selector: { boolean: {} } },
-        { name: 'custom_flow_6_sensor', label: (fields.custom_flow_6_sensor && fields.custom_flow_6_sensor.label) || 'Custom Flow 6: Sensor', helper: (fields.custom_flow_6_sensor && fields.custom_flow_6_sensor.helper) || 'Sensor entity that controls this flow (power sensor).', selector: entitySelector },
-        { name: 'custom_flow_6_path_preset', label: 'Custom Flow 6: Path Type', helper: 'Choose a preset path shape or Custom to use Start/End coordinates below.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
-        { name: 'custom_flow_6_start_x', label: 'Flow 6: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_6_start_y', label: 'Flow 6: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_6_end_x', label: 'Flow 6: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_6_end_y', label: 'Flow 6: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_6_path', label: 'Flow 6: SVG Path (Advanced)', helper: 'Manual SVG path (overrides preset if filled).', selector: { text: { multiline: true } } },
-        { name: 'custom_flow_6_color', label: (fields.custom_flow_6_color && fields.custom_flow_6_color.label) || 'Custom Flow 6: Color', helper: 'Color of the flow.', selector: { color_picker: {} } },
-        { name: 'custom_flow_6_threshold', label: (fields.custom_flow_6_threshold && fields.custom_flow_6_threshold.label) || 'Custom Flow 6: Threshold (W)', helper: 'Minimum power value (W) to activate the flow.', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
-        { name: 'custom_flow_6_direction', label: (fields.custom_flow_6_direction && fields.custom_flow_6_direction.label) || 'Custom Flow 6: Direction', helper: 'Flow direction: forward, reverse, or auto.', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
-        { name: 'custom_flow_6_offset_x', label: (fields.custom_flow_6_offset_x && fields.custom_flow_6_offset_x.label) || 'Custom Flow 6: Offset X (px)', helper: 'Horizontal offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_6_offset_y', label: (fields.custom_flow_6_offset_y && fields.custom_flow_6_offset_y.label) || 'Custom Flow 6: Offset Y (px)', helper: 'Vertical offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_7_enabled', label: (fields.custom_flow_7_enabled && fields.custom_flow_7_enabled.label) || 'Custom Flow 7: Enabled', helper: 'Enable custom flow 7.', selector: { boolean: {} } },
-        { name: 'custom_flow_7_sensor', label: (fields.custom_flow_7_sensor && fields.custom_flow_7_sensor.label) || 'Custom Flow 7: Sensor', helper: 'Sensor entity for this flow.', selector: entitySelector },
-        { name: 'custom_flow_7_path_preset', label: 'Custom Flow 7: Path Type', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
-        { name: 'custom_flow_7_start_x', label: 'Flow 7: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_7_start_y', label: 'Flow 7: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_7_end_x', label: 'Flow 7: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_7_end_y', label: 'Flow 7: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_7_path', label: 'Flow 7: SVG Path (Advanced)', selector: { text: { multiline: true } } },
-        { name: 'custom_flow_7_color', label: 'Custom Flow 7: Color', selector: { color_picker: {} } },
-        { name: 'custom_flow_7_threshold', label: 'Custom Flow 7: Threshold (W)', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
-        { name: 'custom_flow_7_direction', label: 'Custom Flow 7: Direction', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
-        { name: 'custom_flow_7_offset_x', label: 'Custom Flow 7: Offset X (px)', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_7_offset_y', label: 'Custom Flow 7: Offset Y (px)', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_8_enabled', label: 'Custom Flow 8: Enabled', selector: { boolean: {} } },
-        { name: 'custom_flow_8_sensor', label: 'Custom Flow 8: Sensor', selector: entitySelector },
-        { name: 'custom_flow_8_path_preset', label: 'Custom Flow 8: Path Type', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
-        { name: 'custom_flow_8_start_x', label: 'Flow 8: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_8_start_y', label: 'Flow 8: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_8_end_x', label: 'Flow 8: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_8_end_y', label: 'Flow 8: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_8_path', label: 'Flow 8: SVG Path (Advanced)', selector: { text: { multiline: true } } },
-        { name: 'custom_flow_8_color', label: 'Custom Flow 8: Color', selector: { color_picker: {} } },
-        { name: 'custom_flow_8_threshold', label: 'Custom Flow 8: Threshold (W)', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
-        { name: 'custom_flow_8_direction', label: 'Custom Flow 8: Direction', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
-        { name: 'custom_flow_8_offset_x', label: 'Custom Flow 8: Offset X (px)', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_8_offset_y', label: 'Custom Flow 8: Offset Y (px)', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_9_enabled', label: 'Custom Flow 9: Enabled', selector: { boolean: {} } },
-        { name: 'custom_flow_9_sensor', label: 'Custom Flow 9: Sensor', selector: entitySelector },
-        { name: 'custom_flow_9_path_preset', label: 'Custom Flow 9: Path Type', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
-        { name: 'custom_flow_9_start_x', label: 'Flow 9: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_9_start_y', label: 'Flow 9: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_9_end_x', label: 'Flow 9: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_9_end_y', label: 'Flow 9: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_9_path', label: 'Flow 9: SVG Path (Advanced)', selector: { text: { multiline: true } } },
-        { name: 'custom_flow_9_color', label: 'Custom Flow 9: Color', selector: { color_picker: {} } },
-        { name: 'custom_flow_9_threshold', label: 'Custom Flow 9: Threshold (W)', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
-        { name: 'custom_flow_9_direction', label: 'Custom Flow 9: Direction', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
-        { name: 'custom_flow_9_offset_x', label: 'Custom Flow 9: Offset X (px)', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_9_offset_y', label: 'Custom Flow 9: Offset Y (px)', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_10_enabled', label: 'Custom Flow 10: Enabled', selector: { boolean: {} } },
-        { name: 'custom_flow_10_sensor', label: 'Custom Flow 10: Sensor', selector: entitySelector },
-        { name: 'custom_flow_10_path_preset', label: 'Custom Flow 10: Path Type', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
-        { name: 'custom_flow_10_start_x', label: 'Flow 10: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_10_start_y', label: 'Flow 10: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_10_end_x', label: 'Flow 10: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_10_end_y', label: 'Flow 10: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_10_path', label: 'Flow 10: SVG Path (Advanced)', selector: { text: { multiline: true } } },
-        { name: 'custom_flow_10_color', label: 'Custom Flow 10: Color', selector: { color_picker: {} } },
-        { name: 'custom_flow_10_threshold', label: 'Custom Flow 10: Threshold (W)', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
-        { name: 'custom_flow_10_direction', label: 'Custom Flow 10: Direction', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
-        { name: 'custom_flow_10_offset_x', label: 'Custom Flow 10: Offset X (px)', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: 'custom_flow_10_offset_y', label: 'Custom Flow 10: Offset Y (px)', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        
       ]),
       typography: define([
         { name: 'header_font_size', label: fields.header_font_size.label, helper: fields.header_font_size.helper, selector: { text: { mode: 'blur' } } },
@@ -21087,6 +20739,7 @@ _createUpdatesContent_() {
 _createSectionDefs(localeStrings, schemaDefs) {
     const sections = localeStrings.sections;
     return [
+      { id: 'lumina_pro', title: sections.lumina_pro.title, helper: sections.lumina_pro.helper, schema: null, defaultOpen: false, renderContent: () => this._createLuminaProSection(schemaDefs.lumina_pro) },
       { id: 'updates', title: (sections.updates && sections.updates.title) ? sections.updates.title : 'Updates', helper: (sections.updates && sections.updates.helper) ? sections.updates.helper : '', schema: null, defaultOpen: true, renderContent: () => this._createUpdatesContent_() },
       { id: 'language', title: sections.language.title, helper: sections.language.helper, schema: schemaDefs.language, defaultOpen: true },
       { id: 'installation_type', title: sections.installation_type.title, helper: sections.installation_type.helper, renderContent: () => this._createInstallationTypeSection(), defaultOpen: true },
@@ -21115,8 +20768,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       { id: 'socBar', title: (sections.socBar && sections.socBar.title) || 'SOC Bar', helper: (sections.socBar && sections.socBar.helper) || '6-segment bar on battery. Position, opacity, glow, colors.', schema: schemaDefs.socBar, defaultOpen: false },
       { id: 'gridBox', title: (sections.gridBox && sections.gridBox.title) || 'Grid Box', helper: (sections.gridBox && sections.gridBox.helper) || 'Top-right box. Import/Export + daily. Position and size.', schema: schemaDefs.gridBox, defaultOpen: false },
       { id: 'pvBox', title: (sections.pvBox && sections.pvBox.title) || 'PV Box', helper: (sections.pvBox && sections.pvBox.helper) || 'Top-left box. PV Total (sum) + Daily production. Position and size.', schema: schemaDefs.pvBox, defaultOpen: false },
-      { id: 'about', title: sections.about.title, helper: sections.about.helper, schema: null, defaultOpen: false, renderContent: () => this._createAboutContent() },
-      { id: 'lumina_pro', title: sections.lumina_pro.title, helper: sections.lumina_pro.helper, schema: null, defaultOpen: false, renderContent: () => this._createLuminaProSection(schemaDefs.lumina_pro) }
+      { id: 'about', title: sections.about.title, helper: sections.about.helper, schema: null, defaultOpen: false, renderContent: () => this._createAboutContent() }
     ];
   }
 
@@ -21234,6 +20886,9 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const { id, title, helper, schema, defaultOpen, renderContent } = sectionDef;
     const section = document.createElement('details');
     section.className = 'section';
+    if (id === 'lumina_pro') {
+      section.classList.add('lumina-pro-section');
+    }
     const storedState = id && Object.prototype.hasOwnProperty.call(this._sectionOpenState, id)
       ? this._sectionOpenState[id]
       : undefined;
@@ -21373,10 +21028,73 @@ _createSectionDefs(localeStrings, schemaDefs) {
             setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0);
           } catch (e) { /* ignore */ }
         });
+        const exportConfigLabelPro = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_config) || 'Export config';
+        const importConfigLabelPro = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_config) || 'Import config';
+        const exportConfigBtnPro = document.createElement('button');
+        exportConfigBtnPro.type = 'button';
+        exportConfigBtnPro.textContent = exportConfigLabelPro;
+        exportConfigBtnPro.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_config_helper) || 'Backup full card config (background, overlays, sensors, flows) as JSON. Use before updating to restore later.';
+        exportConfigBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(180,200,100,0.2); color: #b4c864; border: 1px solid rgba(180,200,100,0.5); cursor: pointer;';
+        exportConfigBtnPro.addEventListener('click', () => {
+          try {
+            const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
+            const data = { _lumina_config_export: true, version: 1 };
+            Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
+            const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(blob);
+            a.download = 'lumina-config-backup.json';
+            a.click();
+            URL.revokeObjectURL(a.href);
+          } catch (e) { /* ignore */ }
+        });
+        const importConfigBtnPro = document.createElement('button');
+        importConfigBtnPro.type = 'button';
+        importConfigBtnPro.textContent = importConfigLabelPro;
+        importConfigBtnPro.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_config_helper) || 'Restore config from a previously exported JSON backup. Merges with current config.';
+        importConfigBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(180,220,120,0.2); color: #b4dc78; border: 1px solid rgba(180,220,120,0.5); cursor: pointer;';
+        const importConfigInputPro = document.createElement('input');
+        importConfigInputPro.type = 'file';
+        importConfigInputPro.accept = 'application/json,.json';
+        importConfigInputPro.style.display = 'none';
+        importConfigInputPro.addEventListener('change', () => {
+          const file = importConfigInputPro.files && importConfigInputPro.files[0];
+          importConfigInputPro.value = '';
+          if (!file) return;
+          const reader = new FileReader();
+          reader.onload = () => {
+            try {
+              const raw = reader.result;
+              if (typeof raw !== 'string') return;
+              const data = JSON.parse(raw);
+              if (!data || data._lumina_config_export !== true) return;
+              const newConfig = { ...(this._config || {}) };
+              Object.keys(data).forEach((k) => {
+                if (k === '_lumina_config_export' || k === 'version') return;
+                if (k && !k.startsWith('_')) newConfig[k] = data[k];
+              });
+              this._config = newConfig;
+              const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
+              if (forms && forms.length) {
+                const full = this._configWithDefaults ? this._configWithDefaults() : newConfig;
+                forms.forEach((f) => { if (f) f.data = full; });
+              }
+              this._debouncedConfigChanged(newConfig, true);
+              this._rendered = false;
+              this.render();
+              setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 50);
+            } catch (e) { /* ignore */ }
+          };
+          reader.readAsText(file);
+        });
+        importConfigBtnPro.addEventListener('click', () => { importConfigInputPro.click(); });
         row.appendChild(exportBtn);
         row.appendChild(importBtn);
         row.appendChild(resetBtn);
+        row.appendChild(exportConfigBtnPro);
+        row.appendChild(importConfigBtnPro);
         row.appendChild(importInput);
+        row.appendChild(importConfigInputPro);
         content.appendChild(row);
       }
     } else if (typeof renderContent === 'function') {
@@ -21389,27 +21107,6 @@ _createSectionDefs(localeStrings, schemaDefs) {
     section.addEventListener('toggle', () => {
       if (id) {
         this._sectionOpenState = { ...this._sectionOpenState, [id]: section.open };
-      }
-      if (id === '\x6c\x75\x6d\x69\x6e\x61\x5f\x70\x72\x6f' && section.open && !this['\x5f\x70\x6f\x53']) {
-        this['\x5f\x70\x6f\x53'] = !0;
-        try {
-          const _0xa1 = ['\x61\x63\x74\x69\x6f\x6e','\x70\x72\x6f\x5f\x6f\x70\x65\x6e','\x68\x61\x5f\x75\x73\x65\x72\x5f\x69\x64','\x68\x61\x5f\x75\x73\x65\x72\x5f\x6e\x61\x6d\x65','\x68\x61\x5f\x6c\x6f\x63\x61\x74\x69\x6f\x6e','\x68\x61\x5f\x76\x65\x72\x73\x69\x6f\x6e','\x6f\x72\x69\x67\x69\x6e','\x74\x73'];
-          const _0xh = this['\x5f\x68\x61\x73\x73'];
-          const _0xb2 = (_0xh && _0xh['\x75\x73\x65\x72'] && _0xh['\x75\x73\x65\x72']['\x69\x64']) ? String(_0xh['\x75\x73\x65\x72']['\x69\x64']) : '';
-          const _0xb3 = (_0xh && _0xh['\x75\x73\x65\x72'] && _0xh['\x75\x73\x65\x72']['\x6e\x61\x6d\x65']) ? String(_0xh['\x75\x73\x65\x72']['\x6e\x61\x6d\x65']) : '';
-          const _0xb4 = (_0xh && _0xh['\x63\x6f\x6e\x66\x69\x67'] && _0xh['\x63\x6f\x6e\x66\x69\x67']['\x6c\x6f\x63\x61\x74\x69\x6f\x6e\x5f\x6e\x61\x6d\x65']) ? String(_0xh['\x63\x6f\x6e\x66\x69\x67']['\x6c\x6f\x63\x61\x74\x69\x6f\x6e\x5f\x6e\x61\x6d\x65']) : '';
-          const _0xb5 = (_0xh && _0xh['\x63\x6f\x6e\x66\x69\x67'] && _0xh['\x63\x6f\x6e\x66\x69\x67']['\x76\x65\x72\x73\x69\x6f\x6e']) ? String(_0xh['\x63\x6f\x6e\x66\x69\x67']['\x76\x65\x72\x73\x69\x6f\x6e']) : '';
-          const _0xb6 = (typeof window !== 'undefined' && window['\x6c\x6f\x63\x61\x74\x69\x6f\x6e'] && window['\x6c\x6f\x63\x61\x74\x69\x6f\x6e'][_0xa1[6]]) ? window['\x6c\x6f\x63\x61\x74\x69\x6f\x6e'][_0xa1[6]] : '';
-          const _0xb7 = (typeof LUMINA_LICENSE_ENDPOINT === 'string' && LUMINA_LICENSE_ENDPOINT) ? LUMINA_LICENSE_ENDPOINT.replace(/\/$/, '') : '';
-          if (_0xb7) {
-            const _0xc = {};
-            _0xc[_0xa1[0]] = _0xa1[1]; _0xc[_0xa1[2]] = _0xb2; _0xc[_0xa1[3]] = _0xb3;
-            _0xc[_0xa1[4]] = _0xb4; _0xc[_0xa1[5]] = _0xb5; _0xc[_0xa1[6]] = _0xb6;
-            _0xc[_0xa1[7]] = new Date()['\x74\x6f\x49\x53\x4f\x53\x74\x72\x69\x6e\x67']();
-            const _0xd = new URLSearchParams(_0xc);
-            (typeof fetch !== 'undefined') && fetch(_0xb7 + '\x3f' + _0xd['\x74\x6f\x53\x74\x72\x69\x6e\x67'](), { method: '\x47\x45\x54', mode: '\x6e\x6f\x2d\x63\x6f\x72\x73' })['\x63\x61\x74\x63\x68'](function(){});
-          }
-        } catch (_0xe) {}
       }
     });
     return section;
@@ -21452,131 +21149,6 @@ _createSectionDefs(localeStrings, schemaDefs) {
       };
       img.src = dataUrl;
     });
-  }
-
-  async _callOpenAiDalleBackground(apiKey, prompt) {
-    const keyTrimmed = (apiKey && typeof apiKey === 'string') ? apiKey.trim() : '';
-    if (!keyTrimmed) throw new Error('OpenAI API key is required');
-    const promptTrimmed = (prompt && typeof prompt === 'string') ? prompt.trim() : '';
-    if (!promptTrimmed) throw new Error('Prompt is required');
-    const url = 'https://api.openai.com/v1/images/generations';
-    const body = JSON.stringify({
-      model: 'dall-e-3',
-      prompt: promptTrimmed,
-      n: 1,
-      size: '1792x1024',
-      response_format: 'b64_json',
-      quality: 'standard'
-    });
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: {
-        'Authorization': 'Bearer ' + keyTrimmed,
-        'Content-Type': 'application/json'
-      },
-      body: body
-    });
-    const json = await res.json();
-    if (!res.ok) {
-      const errMsg = (json.error && json.error.message) ? json.error.message : (json.error && typeof json.error === 'string') ? json.error : res.status + ' ' + (res.statusText || 'Request failed');
-      throw new Error(errMsg);
-    }
-    if (!json.data || !json.data[0] || !json.data[0].b64_json) throw new Error('No image in OpenAI response');
-    return 'data:image/png;base64,' + json.data[0].b64_json;
-  }
-
-  async _callHuggingFaceAiBackground(token, prompt) {
-    const tokenTrimmed = (token && typeof token === 'string') ? token.trim() : '';
-    if (!tokenTrimmed) throw new Error('Hugging Face token is required');
-    const promptTrimmed = (prompt && typeof prompt === 'string') ? prompt.trim() : '';
-    if (!promptTrimmed) throw new Error('Prompt is required');
-    const base = (typeof LUMINA_LICENSE_ENDPOINT === 'string' && LUMINA_LICENSE_ENDPOINT) ? LUMINA_LICENSE_ENDPOINT.replace(/\/$/, '') : '';
-    const proxyUrl = base ? base + '/hf' : '';
-    if (!proxyUrl) throw new Error('Hugging Face richiede il proxy Worker: imposta l\'endpoint licenza all\'URL del Worker (es. https://....workers.dev)');
-    const res = await fetch(proxyUrl, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ prompt: promptTrimmed, token: tokenTrimmed })
-    });
-    const contentType = (res.headers.get('Content-Type') || '').toLowerCase();
-    if (contentType.indexOf('application/json') >= 0) {
-      const json = await res.json();
-      const errMsg = (json.error && typeof json.error === 'string') ? json.error
-        : (json.error && json.error.message) ? json.error.message
-        : (typeof json.message === 'string') ? json.message
-        : (json.estimated_time != null) ? 'Model loading, retry in ' + Math.ceil(Number(json.estimated_time) || 0) + 's'
-        : (res.status === 502 || res.status === 503) ? 'Hugging Face temporaneamente non disponibile. Riprova tra poco.'
-        : 'Risposta non valida dal server. Riprova tra poco.';
-      throw new Error(errMsg);
-    }
-    if (!res.ok) throw new Error(res.status + ' ' + (res.statusText || 'Request failed'));
-    const blob = await res.blob();
-    return new Promise((resolve, reject) => {
-      const reader = new FileReader();
-      reader.onload = () => resolve(reader.result);
-      reader.onerror = () => reject(new Error('Failed to read image'));
-      reader.readAsDataURL(blob);
-    });
-  }
-
-  async _callGeminiAiBackground(apiKey, mode, prompt, imageDataUrlOrNull) {
-    const apiKeyTrimmed = (apiKey && typeof apiKey === 'string') ? apiKey.trim() : '';
-    if (!apiKeyTrimmed) throw new Error('API key is required');
-    const promptTrimmed = (prompt && typeof prompt === 'string') ? prompt.trim() : '';
-    if (!promptTrimmed) throw new Error('Prompt is required');
-    const model = 'gemini-2.5-flash-image';
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`;
-    let parts;
-    if (mode === 'edit' && imageDataUrlOrNull && typeof imageDataUrlOrNull === 'string') {
-      const dataUrl = imageDataUrlOrNull.trim();
-      const base64Match = dataUrl.match(/^data:image\/[a-z]+;base64,(.+)$/i);
-      const base64Data = base64Match ? base64Match[1] : dataUrl.replace(/^data:[^;]+;base64,/, '');
-      const mimeMatch = dataUrl.match(/^data:(image\/[a-z]+);/i);
-      const mimeType = (mimeMatch && mimeMatch[1]) ? mimeMatch[1] : 'image/png';
-      parts = [
-        { text: promptTrimmed },
-        { inline_data: { mime_type: mimeType, data: base64Data } }
-      ];
-    } else {
-      parts = [{ text: promptTrimmed }];
-    }
-    const body = {
-      contents: [{ parts: parts }],
-      generationConfig: {
-        responseModalities: ['TEXT', 'IMAGE'],
-        imageConfig: { aspectRatio: '16:9' }
-      }
-    };
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'x-goog-api-key': apiKeyTrimmed
-      },
-      body: JSON.stringify(body)
-    });
-    const json = await res.json();
-    if (!res.ok) {
-      const errMsg = (json.error && json.error.message) ? json.error.message : (json.error && json.error.status) ? json.error.status : res.statusText || 'Request failed';
-      const errStr = String(errMsg);
-      if (errStr.indexOf('quota') !== -1 || errStr.indexOf('Quota exceeded') !== -1 || errStr.indexOf('billing') !== -1 || errStr.indexOf('limit') !== -1) {
-        throw new Error('Quota superata: il piano gratuito Gemini potrebbe non includere la generazione di immagini. Abilita la fatturazione su Google AI Studio (https://aistudio.google.com) o controlla https://ai.google.dev/gemini-api/docs/rate-limits');
-      }
-      throw new Error(errStr);
-    }
-    const candidates = json.candidates;
-    if (!candidates || !candidates.length) throw new Error('No response from AI');
-    const content = candidates[0].content;
-    if (!content || !content.parts || !content.parts.length) throw new Error('No image in response');
-    for (let i = 0; i < content.parts.length; i++) {
-      const part = content.parts[i];
-      const inlineData = part.inlineData || part.inline_data;
-      if (inlineData && inlineData.data) {
-        const mime = (inlineData.mimeType || inlineData.mime_type) || 'image/png';
-        return 'data:' + mime + ';base64,' + inlineData.data;
-      }
-    }
-    throw new Error('No image in response');
   }
 
   _getBackgroundPaths(installationType, imageStyle) {
@@ -21629,20 +21201,6 @@ _createSectionDefs(localeStrings, schemaDefs) {
     };
     const personalChooseFileLabels = { en: 'Choose file', it: 'Scegli file', de: 'Datei wählen', fr: 'Choisir un fichier', nl: 'Bestand kiezen' };
     const personalRemoveBgLabels = { en: 'Remove background', it: 'Rimuovi sfondo', de: 'Hintergrund entfernen', fr: 'Supprimer le fond', nl: 'Achtergrond verwijderen' };
-    const aiSectionLabels = { en: 'Background with AI', it: 'Sfondo con AI', de: 'Hintergrund mit KI', fr: 'Fond avec IA', nl: 'Achtergrond met AI' };
-    const aiProviderHuggingFaceLabels = { en: 'Hugging Face (token)', it: 'Hugging Face (token)', de: 'Hugging Face (Token)', fr: 'Hugging Face (token)', nl: 'Hugging Face (token)' };
-    const aiProviderGeminiLabels = { en: 'Gemini (API key)', it: 'Gemini (chiave API)', de: 'Gemini (API-Key)', fr: 'Gemini (clé API)', nl: 'Gemini (API-sleutel)' };
-    const aiModeGenerateLabels = { en: 'Generate from prompt', it: 'Genera da prompt', de: 'Aus Prompt generieren', fr: 'Générer à partir du prompt', nl: 'Genereren uit prompt' };
-    const aiModeEditLabels = { en: 'Upload and modify', it: 'Carica e modifica', de: 'Hochladen und ändern', fr: 'Télécharger et modifier', nl: 'Uploaden en bewerken' };
-    const aiPromptLabels = { en: 'Prompt', it: 'Prompt', de: 'Prompt', fr: 'Prompt', nl: 'Prompt' };
-    const aiPromptPlaceholder = { en: 'Describe the background (e.g. futuristic solar panels, cyberpunk style)', it: 'Descrivi lo sfondo (es. pannelli solari futuristici, stile cyberpunk)', de: 'Hintergrund beschreiben (z.B. futuristische Solaranlage)', fr: 'Décrivez le fond (ex. panneaux solaires futuristes)', nl: 'Beschrijf de achtergrond' };
-    const aiApiKeyLabels = { en: 'Gemini API key', it: 'Chiave API Gemini', de: 'Gemini API-Schlüssel', fr: 'Clé API Gemini', nl: 'Gemini API-sleutel' };
-    const aiQuotaHintLabels = { en: 'Free tier may not include image generation; enable billing at aistudio.google.com if needed.', it: 'Il piano gratuito potrebbe non includere la generazione di immagini; abilita la fatturazione su aistudio.google.com se necessario.', de: 'Kostenloser Tarif enthält ggf. keine Bildgenerierung; Fakturierung unter aistudio.google.com aktivieren.', fr: 'Le forfait gratuit peut ne pas inclure la génération d\'images; activez la facturation sur aistudio.google.com si besoin.', nl: 'Gratis abonnement bevat mogelijk geen beeldgeneratie; schakel facturering in op aistudio.google.com indien nodig.' };
-    const aiGenerateBtnLabels = { en: 'Generate', it: 'Genera', de: 'Generieren', fr: 'Générer', nl: 'Genereren' };
-    const aiModifyBtnLabels = { en: 'Modify', it: 'Modifica', de: 'Ändern', fr: 'Modifier', nl: 'Bewerken' };
-    const aiLoadingLabels = { en: 'Loading...', it: 'Caricamento...', de: 'Laden...', fr: 'Chargement...', nl: 'Laden...' };
-    const aiErrorLabels = { en: 'Error', it: 'Errore', de: 'Fehler', fr: 'Erreur', nl: 'Fout' };
-    const aiChooseImageLabels = { en: 'Choose image to modify', it: 'Scegli immagine da modificare', de: 'Bild zum Ändern wählen', fr: 'Choisir l\'image à modifier', nl: 'Afbeelding kiezen om te bewerken' };
     const sl = styleLabels[lang] || styleLabels.en;
     const tl = typeLabels[lang] || typeLabels.en;
     
@@ -21741,250 +21299,6 @@ _createSectionDefs(localeStrings, schemaDefs) {
     personalWrap.appendChild(personalUploadBtn);
     personalWrap.appendChild(personalClearBtn);
     personalWrap.appendChild(personalFileInput);
-
-    const aiWrap = document.createElement('div');
-    aiWrap.className = 'installation-type-ai-background';
-    aiWrap.style.cssText = 'margin-top: 16px; padding: 12px; border: 1px solid rgba(0,229,255,0.35); border-radius: 8px; background: rgba(0,20,30,0.4);';
-    const aiSectionLabel = document.createElement('label');
-    aiSectionLabel.style.cssText = 'display: block; margin-bottom: 10px; font-weight: 600; color: #00E5FF; font-size: 13px;';
-    aiSectionLabel.textContent = aiSectionLabels[lang] || aiSectionLabels.en;
-    aiWrap.appendChild(aiSectionLabel);
-    const currentProvider = (config.ai_provider === 'gemini') ? 'gemini' : (config.ai_provider === 'openai') ? 'openai' : 'huggingface';
-    const aiProviderHuggingFaceRadio = document.createElement('input');
-    aiProviderHuggingFaceRadio.type = 'radio';
-    aiProviderHuggingFaceRadio.name = 'lumina_ai_provider';
-    aiProviderHuggingFaceRadio.value = 'huggingface';
-    aiProviderHuggingFaceRadio.checked = currentProvider === 'huggingface';
-    aiProviderHuggingFaceRadio.style.marginRight = '6px';
-    const aiProviderOpenAiRadio = document.createElement('input');
-    aiProviderOpenAiRadio.type = 'radio';
-    aiProviderOpenAiRadio.name = 'lumina_ai_provider';
-    aiProviderOpenAiRadio.value = 'openai';
-    aiProviderOpenAiRadio.checked = currentProvider === 'openai';
-    aiProviderOpenAiRadio.style.marginRight = '6px';
-    const aiProviderGeminiRadio = document.createElement('input');
-    aiProviderGeminiRadio.type = 'radio';
-    aiProviderGeminiRadio.name = 'lumina_ai_provider';
-    aiProviderGeminiRadio.value = 'gemini';
-    aiProviderGeminiRadio.checked = currentProvider === 'gemini';
-    aiProviderGeminiRadio.style.marginRight = '6px';
-    const aiProviderOpenAiLabels = { en: 'ChatGPT / DALL-E (key)', it: 'ChatGPT / DALL-E (key)', de: 'ChatGPT / DALL-E (Key)', fr: 'ChatGPT / DALL-E (clé)', nl: 'ChatGPT / DALL-E (key)' };
-    const aiProviderLabelHF = document.createElement('label');
-    aiProviderLabelHF.style.cssText = 'display: inline-flex; align-items: center; margin-right: 14px; cursor: pointer; font-size: 12px;';
-    aiProviderLabelHF.appendChild(aiProviderHuggingFaceRadio);
-    aiProviderLabelHF.appendChild(document.createTextNode(aiProviderHuggingFaceLabels[lang] || aiProviderHuggingFaceLabels.en));
-    const aiProviderLabelOpenAi = document.createElement('label');
-    aiProviderLabelOpenAi.style.cssText = 'display: inline-flex; align-items: center; margin-right: 14px; cursor: pointer; font-size: 12px;';
-    aiProviderLabelOpenAi.appendChild(aiProviderOpenAiRadio);
-    aiProviderLabelOpenAi.appendChild(document.createTextNode(aiProviderOpenAiLabels[lang] || aiProviderOpenAiLabels.en));
-    const aiProviderLabelGemini = document.createElement('label');
-    aiProviderLabelGemini.style.cssText = 'display: inline-flex; align-items: center; cursor: pointer; font-size: 12px;';
-    aiProviderLabelGemini.appendChild(aiProviderGeminiRadio);
-    aiProviderLabelGemini.appendChild(document.createTextNode(aiProviderGeminiLabels[lang] || aiProviderGeminiLabels.en));
-    const aiProviderRow = document.createElement('div');
-    aiProviderRow.style.cssText = 'margin-bottom: 10px; display: flex; flex-wrap: wrap; gap: 4px 0;';
-    aiProviderRow.appendChild(aiProviderLabelHF);
-    aiProviderRow.appendChild(aiProviderLabelOpenAi);
-    aiProviderRow.appendChild(aiProviderLabelGemini);
-    aiWrap.appendChild(aiProviderRow);
-    const aiModeGenerateRadio = document.createElement('input');
-    aiModeGenerateRadio.type = 'radio';
-    aiModeGenerateRadio.name = 'lumina_ai_mode';
-    aiModeGenerateRadio.value = 'generate';
-    aiModeGenerateRadio.checked = true;
-    aiModeGenerateRadio.style.marginRight = '6px';
-    const aiModeEditRadio = document.createElement('input');
-    aiModeEditRadio.type = 'radio';
-    aiModeEditRadio.name = 'lumina_ai_mode';
-    aiModeEditRadio.value = 'edit';
-    aiModeEditRadio.style.marginRight = '6px';
-    const aiModeLabelGen = document.createElement('label');
-    aiModeLabelGen.style.cssText = 'display: inline-flex; align-items: center; margin-right: 16px; cursor: pointer; font-size: 12px;';
-    aiModeLabelGen.appendChild(aiModeGenerateRadio);
-    aiModeLabelGen.appendChild(document.createTextNode(aiModeGenerateLabels[lang] || aiModeGenerateLabels.en));
-    const aiModeLabelEdit = document.createElement('label');
-    aiModeLabelEdit.style.cssText = 'display: inline-flex; align-items: center; cursor: pointer; font-size: 12px;';
-    aiModeLabelEdit.appendChild(aiModeEditRadio);
-    aiModeLabelEdit.appendChild(document.createTextNode(aiModeEditLabels[lang] || aiModeEditLabels.en));
-    const aiModeRow = document.createElement('div');
-    aiModeRow.style.marginBottom = '10px';
-    aiModeRow.appendChild(aiModeLabelGen);
-    aiModeRow.appendChild(aiModeLabelEdit);
-    aiWrap.appendChild(aiModeRow);
-    const aiPromptLabel = document.createElement('label');
-    aiPromptLabel.style.cssText = 'display: block; margin-bottom: 4px; font-size: 12px; color: #aaa;';
-    aiPromptLabel.textContent = aiPromptLabels[lang] || aiPromptLabels.en;
-    const aiPromptInput = document.createElement('textarea');
-    aiPromptInput.rows = 2;
-    aiPromptInput.placeholder = aiPromptPlaceholder[lang] || aiPromptPlaceholder.en;
-    aiPromptInput.style.cssText = 'width: 100%; box-sizing: border-box; padding: 8px; border-radius: 6px; border: 1px solid rgba(0,229,255,0.4); background: rgba(0,30,40,0.6); color: #eee; font-size: 12px; margin-bottom: 10px; resize: vertical;';
-    aiWrap.appendChild(aiPromptLabel);
-    aiWrap.appendChild(aiPromptInput);
-    const aiEditFileInput = document.createElement('input');
-    aiEditFileInput.type = 'file';
-    aiEditFileInput.accept = 'image/*';
-    aiEditFileInput.style.display = 'none';
-    const aiEditImageWrap = document.createElement('div');
-    aiEditImageWrap.style.cssText = 'margin-bottom: 10px; display: none;';
-    const aiEditImageBtn = document.createElement('button');
-    aiEditImageBtn.type = 'button';
-    aiEditImageBtn.textContent = aiChooseImageLabels[lang] || aiChooseImageLabels.en;
-    aiEditImageBtn.style.cssText = 'padding: 6px 12px; border-radius: 6px; border: 1px solid rgba(0,229,255,0.5); background: rgba(0,229,255,0.1); color: #00E5FF; cursor: pointer; font-size: 11px;';
-    aiEditImageBtn.addEventListener('click', () => { aiEditFileInput.click(); });
-    aiEditImageWrap.appendChild(aiEditImageBtn);
-    aiEditImageWrap.appendChild(aiEditFileInput);
-    aiWrap.appendChild(aiEditImageWrap);
-    const updateEditVisibility = () => { aiEditImageWrap.style.display = aiModeEditRadio.checked ? 'block' : 'none'; };
-    aiModeGenerateRadio.addEventListener('change', updateEditVisibility);
-    aiModeEditRadio.addEventListener('change', updateEditVisibility);
-    let aiEditImageDataUrl = null;
-    aiEditFileInput.addEventListener('change', () => {
-      const file = aiEditFileInput.files && aiEditFileInput.files[0];
-      aiEditFileInput.value = '';
-      if (!file || file.type.indexOf('image') !== 0) return;
-      const reader = new FileReader();
-      reader.onload = () => { aiEditImageDataUrl = reader.result; };
-      reader.readAsDataURL(file);
-    });
-    const aiGeminiWrap = document.createElement('div');
-    aiGeminiWrap.className = 'ai-gemini-wrap';
-    aiGeminiWrap.style.display = currentProvider === 'gemini' ? 'block' : 'none';
-    const aiApiKeyLabel = document.createElement('label');
-    aiApiKeyLabel.style.cssText = 'display: block; margin-bottom: 4px; font-size: 12px; color: #aaa;';
-    aiApiKeyLabel.textContent = aiApiKeyLabels[lang] || aiApiKeyLabels.en;
-    const aiApiKeyInput = document.createElement('input');
-    aiApiKeyInput.type = 'password';
-    aiApiKeyInput.autocomplete = 'off';
-    aiApiKeyInput.placeholder = 'API key';
-    aiApiKeyInput.style.cssText = 'width: 100%; box-sizing: border-box; padding: 8px; border-radius: 6px; border: 1px solid rgba(0,229,255,0.4); background: rgba(0,30,40,0.6); color: #eee; font-size: 12px; margin-bottom: 10px;';
-    const cfg = this._configWithDefaults();
-    if (cfg.ai_gemini_api_key) aiApiKeyInput.value = cfg.ai_gemini_api_key;
-    aiGeminiWrap.appendChild(aiApiKeyLabel);
-    aiGeminiWrap.appendChild(aiApiKeyInput);
-    const aiQuotaHint = document.createElement('div');
-    aiQuotaHint.className = 'ai-quota-hint';
-    aiQuotaHint.textContent = aiQuotaHintLabels[lang] || aiQuotaHintLabels.en;
-    aiQuotaHint.style.cssText = 'font-size: 10px; color: rgba(0,229,255,0.7); margin-bottom: 10px; line-height: 1.3;';
-    aiGeminiWrap.appendChild(aiQuotaHint);
-    aiWrap.appendChild(aiGeminiWrap);
-    const aiHfTokenLabels = { en: 'Hugging Face token', it: 'Token Hugging Face', de: 'Hugging-Face-Token', fr: 'Token Hugging Face', nl: 'Hugging Face-token' };
-    const aiHfHintLabels = { en: 'Token from huggingface.co/settings/tokens (read).', it: 'Token da huggingface.co/settings/tokens (read).', de: 'Token von huggingface.co/settings/tokens (read).', fr: 'Token sur huggingface.co/settings/tokens (read).', nl: 'Token van huggingface.co/settings/tokens (read).' };
-    const aiHuggingFaceWrap = document.createElement('div');
-    aiHuggingFaceWrap.className = 'ai-huggingface-wrap';
-    aiHuggingFaceWrap.style.cssText = 'display: ' + (currentProvider === 'huggingface' ? 'block' : 'none') + ';';
-    const aiHfTokenLabel = document.createElement('label');
-    aiHfTokenLabel.style.cssText = 'display: block; margin-bottom: 4px; font-size: 12px; color: #aaa;';
-    aiHfTokenLabel.textContent = aiHfTokenLabels[lang] || aiHfTokenLabels.en;
-    const aiHfTokenInput = document.createElement('input');
-    aiHfTokenInput.type = 'password';
-    aiHfTokenInput.autocomplete = 'off';
-    aiHfTokenInput.placeholder = 'hf_...';
-    aiHfTokenInput.style.cssText = 'width: 100%; box-sizing: border-box; padding: 8px; border-radius: 6px; border: 1px solid rgba(0,229,255,0.4); background: rgba(0,30,40,0.6); color: #eee; font-size: 12px; margin-bottom: 10px;';
-    if (cfg.ai_huggingface_token) aiHfTokenInput.value = cfg.ai_huggingface_token;
-    aiHuggingFaceWrap.appendChild(aiHfTokenLabel);
-    aiHuggingFaceWrap.appendChild(aiHfTokenInput);
-    const aiHfHint = document.createElement('div');
-    aiHfHint.style.cssText = 'font-size: 10px; color: rgba(0,229,255,0.7); margin-bottom: 10px; line-height: 1.3;';
-    aiHfHint.textContent = aiHfHintLabels[lang] || aiHfHintLabels.en;
-    aiHuggingFaceWrap.appendChild(aiHfHint);
-    aiWrap.appendChild(aiHuggingFaceWrap);
-    const aiOpenAiKeyLabels = { en: 'OpenAI API key', it: 'API key OpenAI', de: 'OpenAI API-Schlüssel', fr: 'Clé API OpenAI', nl: 'OpenAI API-sleutel' };
-    const aiOpenAiHintLabels = { en: 'Get your key at platform.openai.com/api-keys. DALL-E 3 image costs ~$0.04/image.', it: 'Ottieni la chiave su platform.openai.com/api-keys. DALL-E 3 costa ~$0.04/immagine.', de: 'Schlüssel auf platform.openai.com/api-keys. DALL-E 3 kostet ~$0,04/Bild.', fr: 'Clé sur platform.openai.com/api-keys. DALL-E 3 coûte ~0,04$/image.', nl: 'Sleutel op platform.openai.com/api-keys. DALL-E 3 kost ~$0,04/afbeelding.' };
-    const aiOpenAiWrap = document.createElement('div');
-    aiOpenAiWrap.className = 'ai-openai-wrap';
-    aiOpenAiWrap.style.cssText = 'display: ' + (currentProvider === 'openai' ? 'block' : 'none') + ';';
-    const aiOpenAiKeyLabel = document.createElement('label');
-    aiOpenAiKeyLabel.style.cssText = 'display: block; margin-bottom: 4px; font-size: 12px; color: #aaa;';
-    aiOpenAiKeyLabel.textContent = aiOpenAiKeyLabels[lang] || aiOpenAiKeyLabels.en;
-    const aiOpenAiKeyInput = document.createElement('input');
-    aiOpenAiKeyInput.type = 'password';
-    aiOpenAiKeyInput.autocomplete = 'off';
-    aiOpenAiKeyInput.placeholder = 'sk-...';
-    aiOpenAiKeyInput.style.cssText = 'width: 100%; box-sizing: border-box; padding: 8px; border-radius: 6px; border: 1px solid rgba(0,229,255,0.4); background: rgba(0,30,40,0.6); color: #eee; font-size: 12px; margin-bottom: 10px;';
-    if (cfg.ai_openai_api_key) aiOpenAiKeyInput.value = cfg.ai_openai_api_key;
-    aiOpenAiWrap.appendChild(aiOpenAiKeyLabel);
-    aiOpenAiWrap.appendChild(aiOpenAiKeyInput);
-    const aiOpenAiHint = document.createElement('div');
-    aiOpenAiHint.style.cssText = 'font-size: 10px; color: rgba(0,229,255,0.7); margin-bottom: 10px; line-height: 1.3;';
-    aiOpenAiHint.textContent = aiOpenAiHintLabels[lang] || aiOpenAiHintLabels.en;
-    aiOpenAiWrap.appendChild(aiOpenAiHint);
-    aiWrap.appendChild(aiOpenAiWrap);
-    const updateProviderVisibility = () => {
-      const useGemini = aiProviderGeminiRadio.checked;
-      const useOpenAi = aiProviderOpenAiRadio.checked;
-      const useHuggingFace = aiProviderHuggingFaceRadio.checked;
-      aiGeminiWrap.style.display = useGemini ? 'block' : 'none';
-      aiOpenAiWrap.style.display = useOpenAi ? 'block' : 'none';
-      aiHuggingFaceWrap.style.display = useHuggingFace ? 'block' : 'none';
-      const c = this._configWithDefaults();
-      c.ai_provider = useGemini ? 'gemini' : useOpenAi ? 'openai' : 'huggingface';
-      this._config = { ...c };
-      this._debouncedConfigChanged(c, true);
-    };
-    aiProviderHuggingFaceRadio.addEventListener('change', updateProviderVisibility);
-    aiProviderOpenAiRadio.addEventListener('change', updateProviderVisibility);
-    aiProviderGeminiRadio.addEventListener('change', updateProviderVisibility);
-    const aiStatus = document.createElement('div');
-    aiStatus.style.cssText = 'min-height: 20px; font-size: 11px; color: #ff6688; margin-bottom: 8px;';
-    aiWrap.appendChild(aiStatus);
-    const aiActionBtn = document.createElement('button');
-    aiActionBtn.type = 'button';
-    aiActionBtn.style.cssText = 'padding: 8px 16px; border-radius: 6px; border: 1px solid #00E5FF; background: rgba(0,229,255,0.2); color: #00E5FF; cursor: pointer; font-size: 12px;';
-    const setAiButtonText = () => { aiActionBtn.textContent = aiModeEditRadio.checked ? (aiModifyBtnLabels[lang] || aiModifyBtnLabels.en) : (aiGenerateBtnLabels[lang] || aiGenerateBtnLabels.en); };
-    setAiButtonText();
-    aiModeGenerateRadio.addEventListener('change', setAiButtonText);
-    aiModeEditRadio.addEventListener('change', setAiButtonText);
-    aiActionBtn.addEventListener('click', async () => {
-      const useHuggingFace = aiProviderHuggingFaceRadio.checked;
-      const useOpenAi = aiProviderOpenAiRadio.checked;
-      const useGemini = aiProviderGeminiRadio.checked;
-      const key = aiApiKeyInput.value ? String(aiApiKeyInput.value).trim() : (cfg.ai_gemini_api_key || '').trim();
-      const hfToken = aiHfTokenInput.value ? String(aiHfTokenInput.value).trim() : (cfg.ai_huggingface_token || '').trim();
-      const oaiKey = aiOpenAiKeyInput.value ? String(aiOpenAiKeyInput.value).trim() : (cfg.ai_openai_api_key || '').trim();
-      const promptText = aiPromptInput.value ? String(aiPromptInput.value).trim() : '';
-      aiStatus.textContent = '';
-      aiStatus.style.color = '#ff6688';
-      if (useGemini && !key) { aiStatus.textContent = (aiErrorLabels[lang] || aiErrorLabels.en) + ': API key required'; return; }
-      if (useOpenAi && !oaiKey) { aiStatus.textContent = (aiErrorLabels[lang] || aiErrorLabels.en) + ': OpenAI API key required'; return; }
-      if (useHuggingFace && !hfToken) { aiStatus.textContent = (aiErrorLabels[lang] || aiErrorLabels.en) + ': Hugging Face token required'; return; }
-      if (!promptText) { aiStatus.textContent = (aiErrorLabels[lang] || aiErrorLabels.en) + ': Prompt required'; return; }
-      if (useGemini && aiModeEditRadio.checked && !aiEditImageDataUrl) { aiStatus.textContent = (aiErrorLabels[lang] || aiErrorLabels.en) + ': Choose an image to modify'; return; }
-      aiActionBtn.disabled = true;
-      aiStatus.style.color = '#00E5FF';
-      const hfLoadingMsg = { en: 'Generating (model may need 1-2 min to wake up)...', it: 'Generazione (il modello potrebbe impiegare 1-2 min per avviarsi)...', de: 'Generierung (Modell benötigt evtl. 1-2 Min.)...', fr: 'Génération (le modèle peut prendre 1-2 min)...', nl: 'Genereren (model heeft mogelijk 1-2 min nodig)...' };
-      aiStatus.textContent = useHuggingFace ? (hfLoadingMsg[lang] || hfLoadingMsg.en) : (aiLoadingLabels[lang] || aiLoadingLabels.en);
-      const self = this;
-      try {
-        let dataUrl;
-        if (useHuggingFace) {
-          dataUrl = await self._callHuggingFaceAiBackground(hfToken, promptText);
-        } else if (useOpenAi) {
-          dataUrl = await self._callOpenAiDalleBackground(oaiKey, promptText);
-        } else {
-          const mode = aiModeEditRadio.checked ? 'edit' : 'generate';
-          const imageForEdit = aiModeEditRadio.checked ? aiEditImageDataUrl : null;
-          dataUrl = await self._callGeminiAiBackground(key, mode, promptText, imageForEdit);
-        }
-        const compressed = await self._compressBackgroundImage(dataUrl);
-        const newConfig = self._configWithDefaults();
-        newConfig.installation_type = '4';
-        newConfig.background_image = compressed;
-        newConfig.ai_provider = useHuggingFace ? 'huggingface' : useOpenAi ? 'openai' : 'gemini';
-        if (useGemini && key && !newConfig.ai_gemini_api_key) newConfig.ai_gemini_api_key = key;
-        if (useOpenAi && oaiKey && !newConfig.ai_openai_api_key) newConfig.ai_openai_api_key = oaiKey;
-        if (useHuggingFace && hfToken && !newConfig.ai_huggingface_token) newConfig.ai_huggingface_token = hfToken;
-        self._config = { ...newConfig };
-        self._debouncedConfigChanged(newConfig, true);
-        self._rendered = false;
-        self.render();
-        aiStatus.textContent = '';
-      } catch (e) {
-        aiStatus.textContent = (aiErrorLabels[lang] || aiErrorLabels.en) + ': ' + (e && e.message ? e.message : String(e));
-      }
-      aiActionBtn.disabled = false;
-    });
-    aiWrap.appendChild(aiActionBtn);
-    personalWrap.appendChild(aiWrap);
     container.appendChild(personalWrap);
     
     return container;
@@ -22009,6 +21323,17 @@ _createSectionDefs(localeStrings, schemaDefs) {
   }
 
   _handleInstallationTypeChange(type) {
+    if (type === '4') {
+      const configForPro = this._configWithDefaults();
+      if (!this._editorIsProActive_(configForPro)) {
+        const loc = this._getLocaleStrings();
+        const msg = (loc && loc.fields && loc.fields.editor_personal_requires_pro) || 'Activate PRO to use Personal (custom background).';
+        if (typeof alert === 'function') alert(msg);
+        this._rendered = false;
+        this.render();
+        return;
+      }
+    }
     const config = this._configWithDefaults();
     config.installation_type = type;
     if (type === '4') {
@@ -22222,9 +21547,12 @@ _createSectionDefs(localeStrings, schemaDefs) {
       const v3UsedEd = haUserIdEd && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdEd);
       if (v3UsedEd) {
         const h3 = LUMINA_SHA256(trimmedPw + haUserIdEd);
-        if (h3 && LUMINA_AUTH_LIST_V3 && LUMINA_AUTH_LIST_V3.includes(h3)) {
+        const h1 = LUMINA_SHA256(trimmedPw);
+        const v3Match = !!(h3 && LUMINA_AUTH_LIST_V3 && LUMINA_AUTH_LIST_V3.includes(h3));
+        const v1Match = !!(LUMINA_AUTH_LIST_V1 && LUMINA_AUTH_LIST_V1.includes(h1));
+        if (v3Match || v1Match) {
           isAuthorized = true;
-          try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) {}
+          if (v3Match && haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) {} }
         }
       } else {
         const h1 = LUMINA_SHA256(trimmedPw);
@@ -22313,10 +21641,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
     container.style.cssText = 'padding: 8px 0;';
 
     const config = this._configWithDefaults();
-    const fields = (this._getLocaleStrings() && this._getLocaleStrings().fields) ? this._getLocaleStrings().fields : {};
     const ui = (typeof this._getRemoteUiControl_ === 'function') ? this._getRemoteUiControl_() : null;
     const isProSectionDisabled = !!(ui && ui.disable_pro_section);
+    const fields = (this._getLocaleStrings() && this._getLocaleStrings().fields) ? this._getLocaleStrings().fields : {};
     const isPaypalDisabled = !!(ui && ui.disable_paypal);
+    const isCollettaDisabled = !!(ui && ui.disable_colletta);
 
     const PAYPAL_EMAIL = '3dprint8616@gmail.com';
     const SUPPORT_EMAIL = 'luminaenergycard@gmail.com';
@@ -22342,6 +21671,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       payment_method: fields.payment_method || 'Payment method',
       payment_method_paypal: fields.payment_method_paypal || 'PayPal (donation)',
       payment_method_github: fields.payment_method_github || 'GitHub Sponsors',
+      payment_method_colletta: fields.payment_method_colletta || 'Colletta',
       paypal_payment_email: fields.paypal_payment_email || 'PayPal payment email',
       paypal_first_name: fields.paypal_first_name || 'PayPal first name',
       paypal_last_name: fields.paypal_last_name || 'PayPal last name',
@@ -22375,15 +21705,14 @@ _createSectionDefs(localeStrings, schemaDefs) {
       pro_unlocked: fields.pro_unlocked || '✓ PRO Features Unlocked',
       password_ok: fields.password_ok || '✓ Password accepted. PRO is now active.',
       password_bad: fields.password_bad || '❌ Invalid password. Please check and try again.',
-      save_v3_password: fields.save_v3_password || 'This is your new personal password. Save it.',
-      save_v3_click_save: fields.save_v3_click_save || 'Click SAVE at the bottom of this dialog to keep the v3 password. Otherwise it will be lost when you close.',
-      paypal_donation_only: fields.paypal_donation_only || 'We accept ONLY donations. Do NOT use Goods & Services.',
       pro_license_title: fields.pro_license_title || '💰 PRO License',
       pro_license_line1: fields.pro_license_line1 || 'Send <b>5€ as DONATION</b> to PayPal:',
       pro_license_line2: fields.pro_license_line2 || 'Then fill the form below (<b>email</b>, <b>PayPal payment email</b>, <b>PayPal first name</b>, <b>PayPal last name</b>).',
       pro_license_line3: fields.pro_license_line3 || '',
       pro_license_line4: fields.pro_license_line4 || '',
-      pro_license_auto_note: fields.pro_license_auto_note || 'Automatic system: if no match is found, the password will NOT be sent.'
+      pro_license_line_red: fields.pro_license_line_red || 'Send as DONATION, NOT as Goods & Services. Payment will be refunded if request is denied.',
+      pro_license_auto_note: fields.pro_license_auto_note || 'Automatic system: if no match is found, the password will NOT be sent.',
+      payment_method_colletta: fields.payment_method_colletta || 'Colletta 5€ PayPal'
       ,
       follow_title: fields.follow_title || 'Community',
       telegram_button: fields.telegram_button || 'Telegram Group',
@@ -22411,16 +21740,6 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const proPassword = config.pro_password;
     if (proPassword && typeof proPassword === 'string' && proPassword.trim()) {
       const trimmedPw = proPassword.trim();
-      if (haUserIdPro && typeof sessionStorage !== 'undefined' && typeof LUMINA_SHA256 === 'function') {
-        try {
-          const provisioned = sessionStorage.getItem('lumina_energy_card:provisioned_v3:' + haUserIdPro);
-          if (provisioned) {
-            const h3 = LUMINA_SHA256(trimmedPw + haUserIdPro);
-            if (h3 === provisioned) isLicenseActive = true;
-          }
-        } catch (e) {}
-      }
-      if (!isLicenseActive) {
       const v3UsedPro = haUserIdPro && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdPro);
       if (v3UsedPro) {
         const h3 = haUserIdPro ? LUMINA_SHA256(trimmedPw + haUserIdPro) : '';
@@ -22439,7 +21758,6 @@ _createSectionDefs(localeStrings, schemaDefs) {
           isLicenseActive = true;
           if (h3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3) && haUserIdPro && typeof localStorage !== 'undefined') {
             try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) {}
-            }
           }
         }
       }
@@ -22487,21 +21805,13 @@ _createSectionDefs(localeStrings, schemaDefs) {
 
     const pwMsg = document.createElement('div');
     pwMsg.style.cssText = 'margin-top: 10px; padding: 10px; border-radius: 8px; display: none; font-size: 12px; line-height: 1.4;';
-    if (activationState === 'error' && !isLicenseActive) {
+    if (activationState === 'error') {
       const cnt = Array.isArray(LUMINA_AUTH_LIST_V1) ? LUMINA_AUTH_LIST_V1.length : (LUMINA_AUTH_LIST_V1 === null ? 'null' : 0);
       const extra = LUMINA_DEBUG_LICENSE ? ` [authCount=${cnt} status=${LUMINA_AUTH_META.lastStatus || ''} err=${LUMINA_AUTH_META.lastErr || ''}]` : '';
       pwMsg.textContent = labels.password_bad + extra;
       pwMsg.style.cssText += 'display:block; background: rgba(255,68,68,0.16); color: #ff4444; border: 1px solid rgba(255,68,68,0.28);';
     } else if (activationState === 'success' || isLicenseActive) {
       pwMsg.textContent = labels.password_ok;
-      if (this._showSaveV3Message) {
-        const saveHint = (labels.save_v3_click_save !== undefined && labels.save_v3_click_save !== '') ? labels.save_v3_click_save : 'Click SAVE at the bottom of this dialog to keep the v3 password. Otherwise it will be lost when you close.';
-        pwMsg.innerHTML = labels.password_ok + '<br/><span style="font-size:12px;font-weight:bold;display:block;margin-top:6px;">' + (labels.save_v3_password || 'This is your new personal password. Save it.') + '</span><span style="font-size:11px;display:block;margin-top:6px;color:#ffa500;">' + saveHint + '</span>';
-        setTimeout(() => { this._showSaveV3Message = false; this._rendered = false; this.render(); }, 15000);
-      } else if (this._provisionRateLimitMsg) {
-        pwMsg.innerHTML = labels.password_ok + '<br/><span style="font-size:11px;opacity:0.9;">Per la password v3 nel campo, riprova tra qualche minuto (già richiesta di recente).</span>';
-        setTimeout(() => { this._provisionRateLimitMsg = false; this._rendered = false; this.render(); }, 8000);
-      }
       pwMsg.style.cssText += 'display:block; background: rgba(0,204,0,0.14); color: #00cc00; border: 1px solid rgba(0,204,0,0.28);';
       if (activationState === 'success') {
         setTimeout(() => { this._proActivationState = null; }, 2000);
@@ -22519,91 +21829,62 @@ _createSectionDefs(localeStrings, schemaDefs) {
       await new Promise(r => requestAnimationFrame(r));
 
       let ok = false;
-      let okV1 = false, okV2 = false, okV3 = false;
-      let haUserIdAct = '', pwOnlyHash = '', pwUidHash = '', pwHaHash = '';
+      let uidAct = '';
+      let haUserIdAct = '';
+      let haUserNameAct = '';
+      let pwOnlyHash = '';
+      let pwUidHash = '';
+      let pwHaHash = '';
+      let matchType = '';
       try {
         // Always refresh authorization list on activation attempt.
+        // This avoids "password doesn't work" right after approval if the card cached an old list.
         await LUMINA_REFRESH_AUTH({ force: true, reason: 'doActivate' });
-        const v1Count = Array.isArray(LUMINA_AUTH_LIST_V1) ? LUMINA_AUTH_LIST_V1.length : (LUMINA_AUTH_LIST_V1 === null ? 'null' : 0);
-        const v2Count = Array.isArray(LUMINA_AUTH_LIST_V2) ? LUMINA_AUTH_LIST_V2.length : (LUMINA_AUTH_LIST_V2 === null ? 'null' : 0);
-        const v3Count = Array.isArray(LUMINA_AUTH_LIST_V3) ? LUMINA_AUTH_LIST_V3.length : (LUMINA_AUTH_LIST_V3 === null ? 'null' : 0);
-        console.warn('[Lumina][license] activate.refresh', { v1Count, v2Count, v3Count, lastErr: LUMINA_AUTH_META.lastErr || '', status: LUMINA_AUTH_META.lastStatus });
         if (entered) {
-          const uid = getLuminaUID();
+          uidAct = getLuminaUID();
           haUserIdAct = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-          pwOnlyHash = LUMINA_SHA256(entered);
-          pwUidHash = LUMINA_SHA256(entered + uid);
+          haUserNameAct = (this._hass && this._hass.user && this._hass.user.name) ? String(this._hass.user.name || '').trim() : '';
           pwHaHash = haUserIdAct ? LUMINA_SHA256(entered + haUserIdAct) : '';
-          okV1 = Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(pwOnlyHash);
-          okV2 = Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(pwUidHash);
-          okV3 = !!pwHaHash && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(pwHaHash);
-          ok = okV1 || okV2 || okV3;
-          console.warn('[Lumina][license] activate.check', { okV1, okV2, okV3, ok, haUserIdLen: haUserIdAct.length, pwHashV1: pwOnlyHash ? pwOnlyHash.slice(0, 12) + '...' : '' });
-          if (ok && okV3 && haUserIdAct && typeof localStorage !== 'undefined') {
+          const v3UsedAct = haUserIdAct && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdAct);
+          if (v3UsedAct) {
+            ok = !!(pwHaHash && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(pwHaHash));
+            if (ok) matchType = 'v3';
+          } else {
+            pwOnlyHash = LUMINA_SHA256(entered);
+            pwUidHash = LUMINA_SHA256(entered + uidAct);
+            ok =
+              (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(pwOnlyHash)) ||
+              (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(pwUidHash)) ||
+              (pwHaHash && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(pwHaHash));
+            if (ok) {
+              if (pwHaHash && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(pwHaHash)) matchType = 'v3';
+              else if (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(pwUidHash)) matchType = 'v2';
+              else matchType = 'v1';
+            }
+          }
+          if (ok && pwHaHash && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(pwHaHash) && haUserIdAct && typeof localStorage !== 'undefined') {
             try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdAct, '1'); } catch (e) {}
           }
         }
         if (!ok) {
           console.warn('[Lumina][license] activate.failed', {
             hasPw: !!entered,
-            v1Count, v2Count, v3Count,
+            v1Count: Array.isArray(LUMINA_AUTH_LIST_V1) ? LUMINA_AUTH_LIST_V1.length : null,
+            v2Count: Array.isArray(LUMINA_AUTH_LIST_V2) ? LUMINA_AUTH_LIST_V2.length : null,
+            v3Count: Array.isArray(LUMINA_AUTH_LIST_V3) ? LUMINA_AUTH_LIST_V3.length : null,
             lastErr: LUMINA_AUTH_META.lastErr || '',
             status: LUMINA_AUTH_META.lastStatus || 0
           });
         } else {
-          console.warn('[Lumina][license] activate.ok', { okV1, okV2, okV3 });
-          // Auto-provision v3: se l'utente ha validato con v1/v2 (non v3), il backend genera una password v3.
-          if (ok && entered && haUserIdAct && (okV1 || okV2)) {
-            console.warn('[Lumina][license] provision_v3.start', { endpoint: LUMINA_LICENSE_ENDPOINT });
-            const pProv = LUMINA_PACK({ h: haUserIdAct, v1: pwOnlyHash, v2: pwUidHash });
-            const urlProv = `${LUMINA_LICENSE_ENDPOINT}?action=provision_v3&p=${encodeURIComponent(pProv)}`;
-            try {
-              const dataProv = await LUMINA_JSONP(urlProv, 15000);
-              console.warn('[Lumina][license] provision_v3.response', { success: !!(dataProv && dataProv.success), hasNewPw: !!(dataProv && dataProv.provisioned_v3), error: (dataProv && dataProv.error) || '', message: (dataProv && dataProv.message) || '' });
-              if (dataProv && dataProv.success && dataProv.provisioned_v3) {
-                const newPw = String(dataProv.provisioned_v3);
-                pwInput.value = newPw;
-                if (typeof localStorage !== 'undefined') { try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdAct, '1'); } catch (e) {} }
-                if (haUserIdAct && typeof sessionStorage !== 'undefined' && typeof LUMINA_SHA256 === 'function') {
-                  try { sessionStorage.setItem('lumina_energy_card:provisioned_v3:' + haUserIdAct, LUMINA_SHA256(newPw + haUserIdAct)); } catch (e) {}
-                }
-                this._config = { ...this._config, pro_password: newPw };
-                const configWithV3 = { ...this._config, pro_password: newPw };
-                this._debouncedConfigChanged(configWithV3, true);
-                const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
-                if (forms && forms.length) {
-                  const data = this._configWithDefaults ? this._configWithDefaults() : configWithV3;
-                  forms.forEach((f) => { if (f) f.data = data; });
-                }
-                this._showSaveV3Message = true;
-                await LUMINA_REFRESH_AUTH({ force: true, reason: 'after_provision_v3' });
-                this._rendered = false;
-                this.render();
-              } else if (dataProv && dataProv.error === 'rate_limit') {
-                this._provisionRateLimitMsg = true;
-                this._rendered = false;
-                this.render();
-              }
-            } catch (eProv) {
-              console.warn('[Lumina][license] provision_v3.error', { err: (eProv && eProv.message) ? eProv.message : String(eProv) });
-            }
-          }
+          if (LUMINA_DEBUG_LICENSE) console.warn('[Lumina][license] activate.ok', { listCount: LUMINA_AUTH_META.lastCount });
+          const urlProVerify = `${LUMINA_LICENSE_ENDPOINT}?action=pro_verify&ha_user_id=${encodeURIComponent(haUserIdAct)}&uid=${encodeURIComponent(uidAct)}&ha_user_name=${encodeURIComponent(haUserNameAct)}&hash_v1=${encodeURIComponent(pwOnlyHash)}&hash_v2=${encodeURIComponent(pwUidHash)}&hash_v3=${encodeURIComponent(pwHaHash)}&match=${encodeURIComponent(matchType)}&origin=doActivate&ts=${Date.now()}`;
+          LUMINA_JSONP(urlProVerify, 8000).catch(() => {});
         }
       } catch (e) {
         console.warn('[Lumina][license] activate.exception', { err: (e && e.message) ? e.message : String(e) });
         ok = false;
       } finally {
         this._proActivationState = ok ? 'success' : 'error';
-        if (ok) {
-          const entered = (pwInput.value || '').trim();
-          this._config = { ...this._config, pro_password: this._config.pro_password || entered };
-          this._debouncedConfigChanged(this._config, true);
-          const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
-          if (forms && forms.length) {
-            const data = this._configWithDefaults ? this._configWithDefaults() : this._config;
-            forms.forEach((f) => { if (f) f.data = data; });
-          }
-        }
         activateBtn.disabled = false;
         activateBtn.textContent = ok ? labels.license_active : prevText;
         this._rendered = false;
@@ -22622,7 +21903,72 @@ _createSectionDefs(localeStrings, schemaDefs) {
     container.appendChild(pwRow);
     container.appendChild(pwMsg);
 
-    // v3 è fornita in automatico al primo Attiva con v2: non serve più la sezione "Richiedi v3" / "Migra a v3".
+    // --- PULSANTE v3 (migrazione da password vecchia): visibile solo se PRO già attivo e ha_user_id disponibile ---
+    // Migrate to v3 (ha_user_id-bound): show when user has v1/v2 and we have ha_user_id
+    if (isLicenseActive && haUserIdPro) {
+      const migrateRow = document.createElement('div');
+      migrateRow.style.cssText = 'margin-bottom: 16px; padding: 12px; border-radius: 8px; background: rgba(0,249,249,0.08); border: 1px solid rgba(0,249,249,0.25);';
+      const migrateTitle = document.createElement('div');
+      migrateTitle.style.cssText = 'font-size: 12px; color: #00f9f9; font-weight: bold; margin-bottom: 8px;';
+      migrateTitle.textContent = labels.migrate_to_v3_title;
+      const migrateBtn = document.createElement('button');
+      migrateBtn.textContent = labels.migrate_to_v3_btn;
+      migrateBtn.style.cssText = 'padding: 10px 14px; background: #00f9f9; color: #000; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 12px;';
+      const migrateCasella = document.createElement('input');
+      migrateCasella.type = 'text';
+      migrateCasella.readOnly = true;
+      migrateCasella.placeholder = labels.migrate_v3_placeholder;
+      migrateCasella.style.cssText = 'display: none; margin-top: 10px; width: 100%; padding: 12px; box-sizing: border-box; background: rgba(0,204,0,0.12); border: 1px solid rgba(0,204,0,0.35); border-radius: 6px; color: #00cc00; font-size: 14px; font-weight: bold; letter-spacing: 2px;';
+      const migrateMsg = document.createElement('div');
+      migrateMsg.style.cssText = 'margin-top: 8px; font-size: 11px; color: var(--secondary-text-color, #888); display: none;';
+      migrateBtn.addEventListener('click', () => {
+        const currentPw = (pwInput.value || '').trim();
+        if (!currentPw) {
+          migrateMsg.textContent = labels.migrate_v3_enter_first;
+          migrateMsg.style.display = 'block';
+          migrateMsg.style.color = '#ffa500';
+          return;
+        }
+        migrateBtn.disabled = true;
+        migrateMsg.textContent = labels.migrate_v3_requesting;
+        migrateMsg.style.display = 'block';
+        migrateMsg.style.color = '#888';
+        const uidMig = getLuminaUID();
+        const v1Hash = LUMINA_SHA256(currentPw);
+        const v2Hash = LUMINA_SHA256(currentPw + uidMig);
+        const pMig = LUMINA_PACK({ h: haUserIdPro, v1: v1Hash, v2: v2Hash });
+        const cbName = 'lumina_migrate_' + Date.now() + '_' + Math.floor(Math.random() * 1e9);
+        const urlMig = `${LUMINA_LICENSE_ENDPOINT}?action=migrate_v3&p=${encodeURIComponent(pMig)}&callback=${encodeURIComponent(cbName)}&t=${Date.now()}`;
+        window[cbName] = (data) => {
+          try {
+            migrateBtn.disabled = false;
+            if (data && data.success && data.new_password) {
+              migrateCasella.value = data.new_password;
+              migrateCasella.style.display = 'block';
+              pwInput.value = data.new_password;
+              migrateMsg.innerHTML = labels.migration_v3_success_refresh || 'New v3 password set. Click "Save", then refresh the page (F5) to load the new license.';
+              migrateMsg.style.color = '#00cc00';
+              this._debouncedConfigChanged({ ...this._config, pro_password: data.new_password }, true);
+            } else {
+              migrateMsg.textContent = (data && data.message) || (data && data.error) || labels.migrate_v3_failed;
+              migrateMsg.style.color = '#ff4444';
+            }
+          } catch (e) {
+            migrateBtn.disabled = false;
+            migrateMsg.textContent = labels.migrate_v3_error + (e && e.message ? e.message : String(e));
+            migrateMsg.style.color = '#ff4444';
+          }
+        };
+        const script = document.createElement('script');
+        script.src = urlMig;
+        (document.body || document.documentElement).appendChild(script);
+      });
+      migrateRow.appendChild(migrateTitle);
+      migrateRow.appendChild(migrateBtn);
+      migrateRow.appendChild(migrateCasella);
+      migrateRow.appendChild(migrateMsg);
+      container.appendChild(migrateRow);
+    }
 
     // Donation instructions (always visible)
     const instructions = document.createElement('div');
@@ -22634,21 +21980,37 @@ _createSectionDefs(localeStrings, schemaDefs) {
       .replace(/"/g, '&quot;')
       .replace(/'/g, '&#39;');
     const paypalDisabledMsg = (ui && ui.paypal_disabled_message) ? String(ui.paypal_disabled_message) : 'PayPal temporarily unavailable / PayPal temporaneamente non disponibile.';
+    const collettaDisabledMsg = (ui && ui.colletta_disabled_message) ? String(ui.colletta_disabled_message) : 'Colletta temporarily unavailable / Colletta temporaneamente non disponibile.';
     const paypalDisabledMsgHtml = isPaypalDisabled
       ? `<div style="margin-top:10px; padding: 10px 12px; border-radius: 10px; background: rgba(255,165,0,0.12); border: 1px solid rgba(255,165,0,0.28); color:#ffa500; font-weight:900; font-size:12px; line-height:1.35;">${escHtml(paypalDisabledMsg)}</div>`
       : '';
-    const paypalDonationOnlyHtml = '<div style="margin-top:10px;margin-bottom:8px;color:#ff4444;text-decoration:underline;font-weight:bold;font-size:13px;">' + escHtml(labels.paypal_donation_only || 'We accept ONLY donations. Do NOT use Goods & Services.') + '</div>';
+    const collettaDisabledMsgHtml = isCollettaDisabled
+      ? `<div style="margin-top:10px; padding: 10px 12px; border-radius: 10px; background: rgba(255,165,0,0.12); border: 1px solid rgba(255,165,0,0.28); color:#ffa500; font-weight:900; font-size:12px; line-height:1.35;">${escHtml(collettaDisabledMsg)}</div>`
+      : '';
+    const PAYPAL_POOL_URL = 'https://www.paypal.com/pool/9mz595V3BW?sr=ancr';
+    const collettaLabel = labels.payment_method_colletta || 'Colletta';
     instructions.innerHTML = `
-      <div style="font-size: 13px; color: #00f9f9; font-weight: bold; margin-bottom: 8px;">${labels.pro_license_title}</div>
-      <div style="font-size: 12px; color: var(--secondary-text-color, #ccc); line-height: 1.6;">
-        ${paypalDonationOnlyHtml}
+      <div style="font-size: 15px; color: #000; font-weight: 900; margin-bottom: 10px;">${labels.pro_license_title}</div>
+      <div style="font-size: 14px; color: #000; font-weight: 700; line-height: 1.6;">
         ${labels.pro_license_line1}<br/>
         ${labels.pro_license_line2}<br/>
         ${(labels.pro_license_line3 && String(labels.pro_license_line3).trim()) ? (labels.pro_license_line3 + '<br/>') : ''}
         ${(labels.pro_license_line4 && String(labels.pro_license_line4).trim()) ? labels.pro_license_line4 : ''}
+        ${(labels.pro_license_line_red && String(labels.pro_license_line_red).trim()) ? ('<span style="display:block;margin-top:10px;color:#d32f2f;font-weight:900;">' + labels.pro_license_line_red + '</span>') : ''}
         ${(labels.pro_license_auto_note && String(labels.pro_license_auto_note).trim()) ? ('<span style="display:block;margin-top:8px;color:#ffa500;font-weight:900;">' + labels.pro_license_auto_note + '</span>') : ''}
       </div>
       <div style="margin-top:12px; display:flex; gap:10px; flex-wrap:wrap;">
+        ${
+          isCollettaDisabled
+            ? `<div aria-disabled="true"
+                 style="display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:10px 14px;border-radius:10px;background:#0070ba;color:#fff;text-decoration:none;font-weight:900; opacity:0.55; cursor:not-allowed; pointer-events:none;">
+                 <span>${collettaLabel}</span>
+               </div>`
+            : `<a href="${PAYPAL_POOL_URL}" target="_blank" rel="noopener noreferrer"
+                 style="display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:10px 14px;border-radius:10px;background:#0070ba;color:#fff;text-decoration:none;font-weight:900;">
+                 <span>${collettaLabel}</span>
+               </a>`
+        }
         ${
           isPaypalDisabled
             ? `<div aria-disabled="true"
@@ -22669,6 +22031,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         </a>
       </div>
       ${paypalDisabledMsgHtml}
+      ${collettaDisabledMsgHtml}
     `;
     container.appendChild(instructions);
 
@@ -22726,12 +22089,13 @@ _createSectionDefs(localeStrings, schemaDefs) {
       const methodSelect = document.createElement('select');
       methodSelect.style.cssText = 'width:100%; padding:12px; background: var(--ha-card-background, var(--card-background-color, rgba(0,0,0,0.06))); border:1px solid var(--divider-color); border-radius:6px; color: var(--primary-text-color); box-sizing:border-box;';
       if (isPaypalDisabled) {
-        methodSelect.innerHTML = `<option value="github">${labels.payment_method_github}</option>`;
+        methodSelect.innerHTML = `<option value="github">${labels.payment_method_github}</option>` + (isCollettaDisabled ? '' : `<option value="colletta">${labels.payment_method_colletta}</option>`);
         methodSelect.value = 'github';
       } else {
         methodSelect.innerHTML =
           `<option value="paypal">${labels.payment_method_paypal}</option>` +
-          `<option value="github">${labels.payment_method_github}</option>`;
+          `<option value="github">${labels.payment_method_github}</option>` +
+          (isCollettaDisabled ? '' : `<option value="colletta">${labels.payment_method_colletta}</option>`);
         methodSelect.value = 'paypal';
       }
 
@@ -22755,7 +22119,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       privacyLink.href = LUMINA_PRIVACY_URL;
       privacyLink.target = '_blank';
       privacyLink.rel = 'noopener noreferrer';
-      privacyLink.textContent = labels.privacy_link_label;
+      privacyLink.textContent = 'Privacy Policy';
       privacyLink.style.cssText = 'color: #00f9f9; font-weight: bold; text-decoration: none;';
       const privacyLabel = document.createElement('label');
       privacyLabel.style.cssText = 'display: flex; align-items: flex-start; gap: 8px; cursor: pointer; font-size: 12px; color: var(--secondary-text-color, #aaa); line-height: 1.4;';
@@ -22765,17 +22129,18 @@ _createSectionDefs(localeStrings, schemaDefs) {
       privacyCheckbox.style.cssText = 'margin-top: 2px; flex-shrink: 0;';
       privacyLabel.appendChild(privacyCheckbox);
       const privacyText = document.createElement('span');
-      const privacyLinkHtml = '<a href="' + LUMINA_PRIVACY_URL + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">' + (labels.privacy_link_label || 'Privacy Policy') + '</a>';
-      privacyText.innerHTML = (labels.privacy_accept_template || 'I have read and accept the {0}.').replace('{0}', privacyLinkHtml);
+      privacyText.innerHTML = 'Ho letto e accetto la <a href="' + LUMINA_PRIVACY_URL + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">Privacy Policy</a> / I have read and accept the Privacy Policy.';
       privacyLabel.appendChild(privacyText);
       privacyRow.appendChild(privacyLabel);
       container.appendChild(privacyRow);
 
       const refreshMethodUi = () => {
         const isGitHub = methodSelect.value === 'github';
-        paymentEmailInput.parentElement.style.display = isGitHub ? 'none' : '';
-        firstNameInput.parentElement.style.display = isGitHub ? 'none' : '';
-        lastNameInput.parentElement.style.display = isGitHub ? 'none' : '';
+        const isColletta = methodSelect.value === 'colletta';
+        const showPaypalFields = !isGitHub;
+        paymentEmailInput.parentElement.style.display = showPaypalFields ? '' : 'none';
+        firstNameInput.parentElement.style.display = showPaypalFields ? '' : 'none';
+        lastNameInput.parentElement.style.display = showPaypalFields ? '' : 'none';
         githubUserInput.parentElement.style.display = isGitHub ? '' : 'none';
       };
       methodSelect.addEventListener('change', refreshMethodUi);
@@ -22793,7 +22158,13 @@ _createSectionDefs(localeStrings, schemaDefs) {
         const ghUser = githubUserInput.value.trim();
 
         const isGitHub = method === 'github';
-        if (!isGitHub && isPaypalDisabled) {
+        const isColletta = method === 'colletta';
+        if (isColletta && isCollettaDisabled) {
+          statusMsg.textContent = collettaDisabledMsgHtml || 'Colletta payment is temporarily disabled.';
+          statusMsg.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,165,0,0.18); color: #ffa500; font-weight: 900;';
+          return;
+        }
+        if (!isGitHub && !isColletta && isPaypalDisabled) {
           statusMsg.textContent = paypalDisabledMsg;
           statusMsg.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,165,0,0.18); color: #ffa500; font-weight: 900;';
           return;
@@ -22810,7 +22181,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
             return;
           }
         } else {
-          if (!payEmail || !firstName || !lastName || payEmail.indexOf('@') === -1) {
+          if ((!payEmail || !firstName || !lastName || payEmail.indexOf('@') === -1) && !isGitHub) {
             statusMsg.textContent = labels.fill_all_fields;
             statusMsg.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,68,68,0.2); color: #ff4444;';
             return;
@@ -22823,7 +22194,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
           return;
         }
         if (!privacyCheckbox.checked) {
-          statusMsg.textContent = labels.privacy_required;
+          statusMsg.textContent = labels.privacy_required || 'Devi accettare la Privacy Policy per procedere. / You must accept the Privacy Policy to continue.';
           statusMsg.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,68,68,0.2); color: #ff4444;';
           return;
         }
@@ -22911,8 +22282,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     migPrivacyCheckbox.style.cssText = 'margin-top: 2px; flex-shrink: 0;';
     migPrivacyLabel.appendChild(migPrivacyCheckbox);
     const migPrivacyText = document.createElement('span');
-    const migPrivacyLinkHtml = '<a href="' + LUMINA_PRIVACY_URL_MIG + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">' + (labels.privacy_link_label || 'Privacy Policy') + '</a>';
-    migPrivacyText.innerHTML = (labels.privacy_accept_template || 'I have read and accept the {0}.').replace('{0}', migPrivacyLinkHtml);
+    migPrivacyText.innerHTML = 'Ho letto e accetto la <a href="' + LUMINA_PRIVACY_URL_MIG + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">Privacy Policy</a> / I have read and accept the Privacy Policy.';
     migPrivacyLabel.appendChild(migPrivacyText);
     migPrivacyRow.appendChild(migPrivacyLabel);
     migrationBox.appendChild(migPrivacyRow);
@@ -22932,7 +22302,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         return;
       }
       if (!migPrivacyCheckbox.checked) {
-        migStatus.textContent = labels.privacy_required;
+        migStatus.textContent = labels.privacy_required || 'Devi accettare la Privacy Policy per procedere. / You must accept the Privacy Policy to continue.';
         migStatus.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,68,68,0.2); color: #ff4444;';
         return;
       }
@@ -23421,7 +22791,10 @@ _createSectionDefs(localeStrings, schemaDefs) {
         });
       } else {
         if (v3UsedOv) {
-          isValid = !!(hashHexV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashHexV3));
+          const v3Match = !!(hashHexV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashHexV3));
+          const hashHexV1 = LUMINA_SHA256(trimmed);
+          const v1Match = !!(Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(hashHexV1));
+          isValid = v3Match || v1Match;
         } else {
           const hashHexV1 = LUMINA_SHA256(trimmed);
           const uidOv = getLuminaUID();
@@ -23716,10 +23089,73 @@ _createSectionDefs(localeStrings, schemaDefs) {
         setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0);
       } catch (e) { /* ignore */ }
     });
+    const exportConfigLabel2 = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_config) || 'Export config';
+    const importConfigLabel2 = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_config) || 'Import config';
+    const exportConfigBtn2 = document.createElement('button');
+    exportConfigBtn2.type = 'button';
+    exportConfigBtn2.textContent = exportConfigLabel2;
+    exportConfigBtn2.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_config_helper) || 'Backup full card config (background, overlays, sensors, flows) as JSON. Use before updating to restore later.';
+    exportConfigBtn2.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(180,200,100,0.2); color: #b4c864; border: 1px solid rgba(180,200,100,0.5); cursor: pointer;';
+    exportConfigBtn2.addEventListener('click', () => {
+      try {
+        const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
+        const data = { _lumina_config_export: true, version: 1 };
+        Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
+        const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = 'lumina-config-backup.json';
+        a.click();
+        URL.revokeObjectURL(a.href);
+      } catch (e) { /* ignore */ }
+    });
+    const importConfigBtn2 = document.createElement('button');
+    importConfigBtn2.type = 'button';
+    importConfigBtn2.textContent = importConfigLabel2;
+    importConfigBtn2.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_config_helper) || 'Restore config from a previously exported JSON backup. Merges with current config.';
+    importConfigBtn2.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(180,220,120,0.2); color: #b4dc78; border: 1px solid rgba(180,220,120,0.5); cursor: pointer;';
+    const importConfigInput2 = document.createElement('input');
+    importConfigInput2.type = 'file';
+    importConfigInput2.accept = 'application/json,.json';
+    importConfigInput2.style.display = 'none';
+    importConfigInput2.addEventListener('change', () => {
+      const file = importConfigInput2.files && importConfigInput2.files[0];
+      importConfigInput2.value = '';
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = () => {
+        try {
+          const raw = reader.result;
+          if (typeof raw !== 'string') return;
+          const data = JSON.parse(raw);
+          if (!data || data._lumina_config_export !== true) return;
+          const newConfig = { ...(this._config || {}) };
+          Object.keys(data).forEach((k) => {
+            if (k === '_lumina_config_export' || k === 'version') return;
+            if (k && !k.startsWith('_')) newConfig[k] = data[k];
+          });
+          this._config = newConfig;
+          const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
+          if (forms && forms.length) {
+            const full = this._configWithDefaults ? this._configWithDefaults() : newConfig;
+            forms.forEach((f) => { if (f) f.data = full; });
+          }
+          this._debouncedConfigChanged(newConfig, true);
+          this._rendered = false;
+          this.render();
+          setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 50);
+        } catch (e) { /* ignore */ }
+      };
+      reader.readAsText(file);
+    });
+    importConfigBtn2.addEventListener('click', () => { importConfigInput2.click(); });
     flowsFileRow.appendChild(exportFlowsBtn);
     flowsFileRow.appendChild(importFlowsBtn);
     flowsFileRow.appendChild(resetFlowsBtn2);
+    flowsFileRow.appendChild(exportConfigBtn2);
+    flowsFileRow.appendChild(importConfigBtn2);
     flowsFileRow.appendChild(importFileInput);
+    flowsFileRow.appendChild(importConfigInput2);
     container.appendChild(flowsFileRow);
 
     // Pannello Preview Lumina (drag) quando abilitato
@@ -23739,7 +23175,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
     // Sections: scroll only this area so preview stays visible
     const formCol = document.createElement('div');
     formCol.className = 'editor-form-column';
+    const PRO_LOCKED_SECTIONS = ['flow_path_custom', 'layout', 'flow_colors', 'house_management'];
     sections.forEach((section) => {
+      if (PRO_LOCKED_SECTIONS.includes(section.id) && !isProForPreview) {
+        return;
+      }
       formCol.appendChild(this._createSection(section));
     });
     container.appendChild(formCol);
@@ -24180,35 +23620,6 @@ _createSectionDefs(localeStrings, schemaDefs) {
       .editor-preview-text-sensor-label {
         color: #00E5FF !important;
       }
-      .editor-preview-text-sensor-value,
-      .editor-preview-cf-sensor-value {
-        color: #00E5FF !important;
-        display: block !important;
-        min-height: 14px;
-        word-break: break-all;
-      }
-      .editor-preview-cf-sensor-box,
-      .editor-preview-text-sensor-box {
-        border: 1px solid rgba(0,224,230,0.5) !important;
-        border-radius: 6px !important;
-        padding: 6px 8px !important;
-        background: rgba(0,0,0,0.25) !important;
-        box-sizing: border-box;
-        position: relative;
-        cursor: pointer;
-      }
-      .editor-preview-cf-sensor-box ha-entity-picker,
-      .editor-preview-text-sensor-box ha-entity-picker {
-        position: absolute !important;
-        inset: 0 !important;
-        width: 100% !important;
-        height: 100% !important;
-        opacity: 0 !important;
-        cursor: pointer !important;
-        z-index: 1 !important;
-        margin: 0 !important;
-        min-height: 0 !important;
-      }
       .editor-preview-flows-content .editor-preview-cf-entity-row {
         min-width: 0;
         overflow: hidden;
@@ -24485,6 +23896,23 @@ _createSectionDefs(localeStrings, schemaDefs) {
         background: #00f9f9;
         color: #000;
       }
+      details.section.lumina-pro-section {
+        border-color: rgba(220, 53, 69, 0.6) !important;
+        background: rgba(220, 53, 69, 0.08) !important;
+      }
+      details.section.lumina-pro-section[open] {
+        border-color: rgba(220, 53, 69, 0.8) !important;
+        background: rgba(220, 53, 69, 0.12) !important;
+      }
+      details.section.lumina-pro-section .section-summary {
+        background: #dc3545 !important;
+        color: #fff !important;
+        border-bottom: 1px solid rgba(220, 53, 69, 0.5);
+      }
+      details.section.lumina-pro-section[open] .section-summary {
+        background: #c82333 !important;
+        color: #fff !important;
+      }
       .section-summary::-webkit-details-marker {
         display: none;
       }
@@ -24534,6 +23962,14 @@ _createSectionDefs(localeStrings, schemaDefs) {
         details.section[open] .section-summary {
           background: #00e0e6 !important;
           color: #0a1214 !important;
+        }
+        details.section.lumina-pro-section {
+          border-color: rgba(220, 53, 69, 0.7) !important;
+          background: rgba(220, 53, 69, 0.1) !important;
+        }
+        details.section.lumina-pro-section .section-summary {
+          background: #dc3545 !important;
+          color: #fff !important;
         }
         .section-content {
           background: rgba(0, 224, 230, 0.05) !important;
