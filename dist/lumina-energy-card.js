@@ -2056,6 +2056,10 @@ class LuminaEnergyCard extends HTMLElement {
       background_image_heat_pump: '/local/community/lumina-energy-card/lumina-energy-card-hp.png',
       background_image_x: 0,
       background_image_y: 0,
+      ai_gemini_api_key: '',
+      ai_huggingface_token: '',
+      ai_openai_api_key: '',
+      ai_provider: 'huggingface',
       pro_password: null,
       overlay_image_enabled: false,
       overlay_image: '/local/community/lumina-energy-card/car.png',
@@ -12985,7 +12989,7 @@ class LuminaEnergyCard extends HTMLElement {
 
   static get version() {
     // Build marker (helps verify HA loaded the updated JS)
-    return '3.1.0';
+    return '3.1.2';
   }
 }
 
@@ -14399,7 +14403,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
     groups.forEach((g) => {
       if (!g || !g.getAttribute) return;
       const i = parseGroupIndex(g);
-      if (!i || i < 1 || i > 5) return;
+      if (!i || i < 1 || i > 10) return;
 
       // Only bind if enabled (avoid confusing interactions on hidden flows).
       const enabled = Boolean(cfg && cfg[`custom_flow_${i}_enabled`]);
@@ -14531,7 +14535,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
   _safePreviewDrawFlowIndex_() {
     const n = Number(this._previewDrawFlowIndex);
     if (!Number.isFinite(n)) return 1;
-    return Math.max(1, Math.min(5, Math.round(n)));
+    return Math.max(1, Math.min(10, Math.round(n)));
   }
 
   _safePreviewDrawStyle_() {
@@ -15224,7 +15228,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
     drawSelect.addEventListener('change', (ev) => {
       try {
         const v = Number(ev && ev.target ? ev.target.value : 1);
-        const n = Number.isFinite(v) ? Math.max(1, Math.min(5, Math.round(v))) : 1;
+        const n = Number.isFinite(v) ? Math.max(1, Math.min(10, Math.round(v))) : 1;
         this._previewDrawFlowIndex = n;
         this._updatePreviewDrawUi_();
       } catch (e) { /* ignore */ }
@@ -15367,12 +15371,15 @@ class LuminaEnergyCardEditor extends HTMLElement {
     textSensorLabel.style.cssText = 'font-size: 10px; color: var(--secondary-text-color, #888); min-width: 36px;';
     const textSensorWrap = document.createElement('div');
     textSensorWrap.className = 'editor-preview-text-sensor-wrap';
-    textSensorWrap.style.cssText = 'flex: 1; min-width: 0; min-height: 28px;';
+    textSensorWrap.style.cssText = 'flex: 1; min-width: 0; min-height: 44px;';
+    const textSensorBox = document.createElement('div');
+    textSensorBox.className = 'editor-preview-text-sensor-box';
+    textSensorBox.style.cssText = 'position: relative; min-width: 120px; flex: 1; min-width: 0;';
     const textSensorInput = document.createElement('input');
     textSensorInput.type = 'text';
     textSensorInput.className = 'editor-preview-text-sensor-input';
     textSensorInput.placeholder = 'sensor.entity_id';
-    textSensorInput.style.cssText = 'width: 100%; padding: 3px 6px; font-size: 10px; border-radius: 4px; background: #0a1214; border: 1px solid rgba(0,224,230,0.5); color: #00e0e6; box-sizing: border-box;';
+    textSensorInput.style.cssText = 'width: 100%; min-width: 120px; padding: 8px 10px; font-size: 12px; font-weight: 600; border-radius: 8px; background: #0a1214; border: 2px solid #00E5FF; color: #fff; box-sizing: border-box; cursor: pointer;';
     const updateTextCustomUi = () => {
       const n = parseInt(textSlotSelect.value, 10) || 1;
       const txt = (this._config && this._config[`custom_text_${n}_text`]) ? String(this._config[`custom_text_${n}_text`]) : '';
@@ -15411,7 +15418,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
         this._debouncedConfigChanged(newConfig, true);
       } catch (e) { /* ignore */ }
     });
-    textSensorWrap.appendChild(textSensorInput);
+    textSensorBox.appendChild(textSensorInput);
+    textSensorWrap.appendChild(textSensorBox);
     const openTextPicker = (ev) => {
       try {
         const t = ev && ev.target;
@@ -15441,7 +15449,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
         picker.hass = this._hass || { states: {} };
         const n = parseInt(textSlotSelect.value, 10) || 1;
         picker.value = (this._config && this._config[`custom_text_${n}_sensor`]) ? String(this._config[`custom_text_${n}_sensor`]).trim() : '';
-        picker.style.cssText = 'width: 100%; min-width: 0; display: block;';
+        picker.style.cssText = 'position: absolute !important; inset: 0 !important; width: 100% !important; height: 100% !important; opacity: 0 !important; cursor: pointer !important; z-index: 1 !important; margin: 0 !important; min-height: 0 !important;';
         picker.addEventListener('value-changed', (ev) => {
           try {
             const n = parseInt(textSlotSelect.value, 10) || 1;
@@ -15459,8 +15467,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
           } catch (e) { /* ignore */ }
         });
         this._previewTextSensorPickerEl = picker;
-        textSensorWrap.insertBefore(picker, textSensorInput);
-        textSensorInput.style.display = 'none';
+        textSensorBox.appendChild(picker);
+        textSensorInput.readOnly = true;
         if (typeof this._updatePreviewTextCustomUi_ === 'function') this._updatePreviewTextCustomUi_();
       } catch (e) { /* ignore */ }
     };
@@ -15587,11 +15595,14 @@ class LuminaEnergyCardEditor extends HTMLElement {
     const cfSensorWrap = document.createElement('div');
     cfSensorWrap.className = 'editor-preview-cf-sensor-wrap';
     cfSensorWrap.style.cssText = 'display: flex; align-items: center; width: 100%; min-width: 0;';
+    const cfSensorBox = document.createElement('div');
+    cfSensorBox.className = 'editor-preview-cf-sensor-box';
+    cfSensorBox.style.cssText = 'position: relative; min-width: 120px; flex: 1; min-width: 0;';
     const cfSensorInput = document.createElement('input');
     cfSensorInput.type = 'text';
     cfSensorInput.className = 'editor-preview-cf-sensor-input';
     cfSensorInput.placeholder = 'sensor.entity_id';
-    cfSensorInput.style.cssText = 'width: 140px; padding: 4px 8px; font-size: 11px; border-radius: 4px; background: rgba(0,0,0,0.2); border: 1px solid rgba(255,255,255,0.2); color: inherit;';
+    cfSensorInput.style.cssText = 'width: 100%; min-width: 120px; padding: 8px 10px; font-size: 12px; font-weight: 600; border-radius: 8px; background: #0a1214; border: 2px solid #00E5FF; color: #fff; box-sizing: border-box; cursor: pointer;';
     const updateCfSensorInput = () => {
       const n = this._previewDrawFlowIndex || 1;
       const val = (this._config && this._config[`custom_flow_${n}_sensor`]) ? String(this._config[`custom_flow_${n}_sensor`]).trim() : '';
@@ -15618,7 +15629,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
         this._debouncedConfigChanged(newConfig, true);
       } catch (e) { /* ignore */ }
     });
-    cfSensorWrap.appendChild(cfSensorInput);
+    cfSensorBox.appendChild(cfSensorInput);
+    cfSensorWrap.appendChild(cfSensorBox);
     const openCfPicker = (ev) => {
       try {
         const t = ev && ev.target;
@@ -15647,7 +15659,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
         picker.className = 'editor-preview-cf-sensor-picker';
         picker.hass = this._hass || { states: {} };
         picker.value = (this._config && this._config[`custom_flow_${this._previewDrawFlowIndex || 1}_sensor`]) ? String(this._config[`custom_flow_${this._previewDrawFlowIndex || 1}_sensor`]).trim() : '';
-        picker.style.cssText = 'width: 100%; min-width: 120px; max-width: 100%; display: block; max-height: 32px;';
+        picker.style.cssText = 'position: absolute !important; inset: 0 !important; width: 100% !important; height: 100% !important; opacity: 0 !important; cursor: pointer !important; z-index: 1 !important; margin: 0 !important; min-height: 0 !important;';
         picker.addEventListener('value-changed', (ev) => {
           try {
             const n = this._previewDrawFlowIndex || 1;
@@ -15665,10 +15677,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
           } catch (e) { /* ignore */ }
         });
         this._previewCfSensorPickerEl = picker;
-        cfSensorWrap.insertBefore(picker, cfSensorInput);
-        cfSensorInput.style.display = 'none';
-        cfSensorInput.style.width = '0';
-        cfSensorInput.style.minWidth = '0';
+        cfSensorBox.appendChild(picker);
+        cfSensorInput.readOnly = true;
         if (typeof this._updatePreviewCfSensorInput_ === 'function') this._updatePreviewCfSensorInput_();
       } catch (e) { /* ignore */ }
     };
@@ -15967,8 +15977,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
 
     const hint = document.createElement('div');
     hint.className = 'editor-preview-draw-hint';
-    hint.style.fontSize = '12px';
-    hint.style.opacity = '0.85';
     hint.style.marginTop = '6px';
     this._previewDrawHintEl = hint;
 
@@ -21222,6 +21230,131 @@ _createSectionDefs(localeStrings, schemaDefs) {
     });
   }
 
+  async _callOpenAiDalleBackground(apiKey, prompt) {
+    const keyTrimmed = (apiKey && typeof apiKey === 'string') ? apiKey.trim() : '';
+    if (!keyTrimmed) throw new Error('OpenAI API key is required');
+    const promptTrimmed = (prompt && typeof prompt === 'string') ? prompt.trim() : '';
+    if (!promptTrimmed) throw new Error('Prompt is required');
+    const url = 'https://api.openai.com/v1/images/generations';
+    const body = JSON.stringify({
+      model: 'dall-e-3',
+      prompt: promptTrimmed,
+      n: 1,
+      size: '1792x1024',
+      response_format: 'b64_json',
+      quality: 'standard'
+    });
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: {
+        'Authorization': 'Bearer ' + keyTrimmed,
+        'Content-Type': 'application/json'
+      },
+      body: body
+    });
+    const json = await res.json();
+    if (!res.ok) {
+      const errMsg = (json.error && json.error.message) ? json.error.message : (json.error && typeof json.error === 'string') ? json.error : res.status + ' ' + (res.statusText || 'Request failed');
+      throw new Error(errMsg);
+    }
+    if (!json.data || !json.data[0] || !json.data[0].b64_json) throw new Error('No image in OpenAI response');
+    return 'data:image/png;base64,' + json.data[0].b64_json;
+  }
+
+  async _callHuggingFaceAiBackground(token, prompt) {
+    const tokenTrimmed = (token && typeof token === 'string') ? token.trim() : '';
+    if (!tokenTrimmed) throw new Error('Hugging Face token is required');
+    const promptTrimmed = (prompt && typeof prompt === 'string') ? prompt.trim() : '';
+    if (!promptTrimmed) throw new Error('Prompt is required');
+    const base = (typeof LUMINA_LICENSE_ENDPOINT === 'string' && LUMINA_LICENSE_ENDPOINT) ? LUMINA_LICENSE_ENDPOINT.replace(/\/$/, '') : '';
+    const proxyUrl = base ? base + '/hf' : '';
+    if (!proxyUrl) throw new Error('Hugging Face richiede il proxy Worker: imposta l\'endpoint licenza all\'URL del Worker (es. https://....workers.dev)');
+    const res = await fetch(proxyUrl, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ prompt: promptTrimmed, token: tokenTrimmed })
+    });
+    const contentType = (res.headers.get('Content-Type') || '').toLowerCase();
+    if (contentType.indexOf('application/json') >= 0) {
+      const json = await res.json();
+      const errMsg = (json.error && typeof json.error === 'string') ? json.error
+        : (json.error && json.error.message) ? json.error.message
+        : (typeof json.message === 'string') ? json.message
+        : (json.estimated_time != null) ? 'Model loading, retry in ' + Math.ceil(Number(json.estimated_time) || 0) + 's'
+        : (res.status === 502 || res.status === 503) ? 'Hugging Face temporaneamente non disponibile. Riprova tra poco.'
+        : 'Risposta non valida dal server. Riprova tra poco.';
+      throw new Error(errMsg);
+    }
+    if (!res.ok) throw new Error(res.status + ' ' + (res.statusText || 'Request failed'));
+    const blob = await res.blob();
+    return new Promise((resolve, reject) => {
+      const reader = new FileReader();
+      reader.onload = () => resolve(reader.result);
+      reader.onerror = () => reject(new Error('Failed to read image'));
+      reader.readAsDataURL(blob);
+    });
+  }
+
+  async _callGeminiAiBackground(apiKey, mode, prompt, imageDataUrlOrNull) {
+    const apiKeyTrimmed = (apiKey && typeof apiKey === 'string') ? apiKey.trim() : '';
+    if (!apiKeyTrimmed) throw new Error('API key is required');
+    const promptTrimmed = (prompt && typeof prompt === 'string') ? prompt.trim() : '';
+    if (!promptTrimmed) throw new Error('Prompt is required');
+    const model = 'gemini-2.5-flash-image';
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`;
+    let parts;
+    if (mode === 'edit' && imageDataUrlOrNull && typeof imageDataUrlOrNull === 'string') {
+      const dataUrl = imageDataUrlOrNull.trim();
+      const base64Match = dataUrl.match(/^data:image\/[a-z]+;base64,(.+)$/i);
+      const base64Data = base64Match ? base64Match[1] : dataUrl.replace(/^data:[^;]+;base64,/, '');
+      const mimeMatch = dataUrl.match(/^data:(image\/[a-z]+);/i);
+      const mimeType = (mimeMatch && mimeMatch[1]) ? mimeMatch[1] : 'image/png';
+      parts = [
+        { text: promptTrimmed },
+        { inline_data: { mime_type: mimeType, data: base64Data } }
+      ];
+    } else {
+      parts = [{ text: promptTrimmed }];
+    }
+    const body = {
+      contents: [{ parts: parts }],
+      generationConfig: {
+        responseModalities: ['TEXT', 'IMAGE'],
+        imageConfig: { aspectRatio: '16:9' }
+      }
+    };
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-goog-api-key': apiKeyTrimmed
+      },
+      body: JSON.stringify(body)
+    });
+    const json = await res.json();
+    if (!res.ok) {
+      const errMsg = (json.error && json.error.message) ? json.error.message : (json.error && json.error.status) ? json.error.status : res.statusText || 'Request failed';
+      const errStr = String(errMsg);
+      if (errStr.indexOf('quota') !== -1 || errStr.indexOf('Quota exceeded') !== -1 || errStr.indexOf('billing') !== -1 || errStr.indexOf('limit') !== -1) {
+        throw new Error('Quota superata: il piano gratuito Gemini potrebbe non includere la generazione di immagini. Abilita la fatturazione su Google AI Studio (https://aistudio.google.com) o controlla https://ai.google.dev/gemini-api/docs/rate-limits');
+      }
+      throw new Error(errStr);
+    }
+    const candidates = json.candidates;
+    if (!candidates || !candidates.length) throw new Error('No response from AI');
+    const content = candidates[0].content;
+    if (!content || !content.parts || !content.parts.length) throw new Error('No image in response');
+    for (let i = 0; i < content.parts.length; i++) {
+      const part = content.parts[i];
+      const inlineData = part.inlineData || part.inline_data;
+      if (inlineData && inlineData.data) {
+        const mime = (inlineData.mimeType || inlineData.mime_type) || 'image/png';
+        return 'data:' + mime + ';base64,' + inlineData.data;
+      }
+    }
+    throw new Error('No image in response');
+  }
+
   _getBackgroundPaths(installationType, imageStyle) {
     if (installationType === '4') {
       return { background_image: '', background_image_heat_pump: '' };
@@ -21272,6 +21405,20 @@ _createSectionDefs(localeStrings, schemaDefs) {
     };
     const personalChooseFileLabels = { en: 'Choose file', it: 'Scegli file', de: 'Datei wählen', fr: 'Choisir un fichier', nl: 'Bestand kiezen' };
     const personalRemoveBgLabels = { en: 'Remove background', it: 'Rimuovi sfondo', de: 'Hintergrund entfernen', fr: 'Supprimer le fond', nl: 'Achtergrond verwijderen' };
+    const aiSectionLabels = { en: 'Background with AI', it: 'Sfondo con AI', de: 'Hintergrund mit KI', fr: 'Fond avec IA', nl: 'Achtergrond met AI' };
+    const aiProviderHuggingFaceLabels = { en: 'Hugging Face (token)', it: 'Hugging Face (token)', de: 'Hugging Face (Token)', fr: 'Hugging Face (token)', nl: 'Hugging Face (token)' };
+    const aiProviderGeminiLabels = { en: 'Gemini (API key)', it: 'Gemini (chiave API)', de: 'Gemini (API-Key)', fr: 'Gemini (clé API)', nl: 'Gemini (API-sleutel)' };
+    const aiModeGenerateLabels = { en: 'Generate from prompt', it: 'Genera da prompt', de: 'Aus Prompt generieren', fr: 'Générer à partir du prompt', nl: 'Genereren uit prompt' };
+    const aiModeEditLabels = { en: 'Upload and modify', it: 'Carica e modifica', de: 'Hochladen und ändern', fr: 'Télécharger et modifier', nl: 'Uploaden en bewerken' };
+    const aiPromptLabels = { en: 'Prompt', it: 'Prompt', de: 'Prompt', fr: 'Prompt', nl: 'Prompt' };
+    const aiPromptPlaceholder = { en: 'Describe the background (e.g. futuristic solar panels, cyberpunk style)', it: 'Descrivi lo sfondo (es. pannelli solari futuristici, stile cyberpunk)', de: 'Hintergrund beschreiben (z.B. futuristische Solaranlage)', fr: 'Décrivez le fond (ex. panneaux solaires futuristes)', nl: 'Beschrijf de achtergrond' };
+    const aiApiKeyLabels = { en: 'Gemini API key', it: 'Chiave API Gemini', de: 'Gemini API-Schlüssel', fr: 'Clé API Gemini', nl: 'Gemini API-sleutel' };
+    const aiQuotaHintLabels = { en: 'Free tier may not include image generation; enable billing at aistudio.google.com if needed.', it: 'Il piano gratuito potrebbe non includere la generazione di immagini; abilita la fatturazione su aistudio.google.com se necessario.', de: 'Kostenloser Tarif enthält ggf. keine Bildgenerierung; Fakturierung unter aistudio.google.com aktivieren.', fr: 'Le forfait gratuit peut ne pas inclure la génération d\'images; activez la facturation sur aistudio.google.com si besoin.', nl: 'Gratis abonnement bevat mogelijk geen beeldgeneratie; schakel facturering in op aistudio.google.com indien nodig.' };
+    const aiGenerateBtnLabels = { en: 'Generate', it: 'Genera', de: 'Generieren', fr: 'Générer', nl: 'Genereren' };
+    const aiModifyBtnLabels = { en: 'Modify', it: 'Modifica', de: 'Ändern', fr: 'Modifier', nl: 'Bewerken' };
+    const aiLoadingLabels = { en: 'Loading...', it: 'Caricamento...', de: 'Laden...', fr: 'Chargement...', nl: 'Laden...' };
+    const aiErrorLabels = { en: 'Error', it: 'Errore', de: 'Fehler', fr: 'Erreur', nl: 'Fout' };
+    const aiChooseImageLabels = { en: 'Choose image to modify', it: 'Scegli immagine da modificare', de: 'Bild zum Ändern wählen', fr: 'Choisir l\'image à modifier', nl: 'Afbeelding kiezen om te bewerken' };
     const sl = styleLabels[lang] || styleLabels.en;
     const tl = typeLabels[lang] || typeLabels.en;
     
@@ -21370,6 +21517,254 @@ _createSectionDefs(localeStrings, schemaDefs) {
     personalWrap.appendChild(personalUploadBtn);
     personalWrap.appendChild(personalClearBtn);
     personalWrap.appendChild(personalFileInput);
+
+    const isLicenseActive = this._editorIsProActive_(config);
+    if (isLicenseActive) {
+      const aiWrap = document.createElement('div');
+      aiWrap.className = 'installation-type-ai-background';
+      aiWrap.style.cssText = 'margin-top: 16px; padding: 12px; border: 1px solid rgba(0,229,255,0.35); border-radius: 8px; background: rgba(0,20,30,0.4);';
+      const aiSectionLabel = document.createElement('label');
+      aiSectionLabel.style.cssText = 'display: block; margin-bottom: 10px; font-weight: 600; color: #00E5FF; font-size: 13px;';
+      aiSectionLabel.textContent = aiSectionLabels[lang] || aiSectionLabels.en;
+      aiWrap.appendChild(aiSectionLabel);
+      const currentProvider = (config.ai_provider === 'gemini') ? 'gemini' : (config.ai_provider === 'openai') ? 'openai' : 'huggingface';
+      const aiProviderHuggingFaceRadio = document.createElement('input');
+      aiProviderHuggingFaceRadio.type = 'radio';
+      aiProviderHuggingFaceRadio.name = 'lumina_ai_provider';
+      aiProviderHuggingFaceRadio.value = 'huggingface';
+      aiProviderHuggingFaceRadio.checked = currentProvider === 'huggingface';
+      aiProviderHuggingFaceRadio.style.marginRight = '6px';
+      const aiProviderOpenAiRadio = document.createElement('input');
+      aiProviderOpenAiRadio.type = 'radio';
+      aiProviderOpenAiRadio.name = 'lumina_ai_provider';
+      aiProviderOpenAiRadio.value = 'openai';
+      aiProviderOpenAiRadio.checked = currentProvider === 'openai';
+      aiProviderOpenAiRadio.style.marginRight = '6px';
+      const aiProviderGeminiRadio = document.createElement('input');
+      aiProviderGeminiRadio.type = 'radio';
+      aiProviderGeminiRadio.name = 'lumina_ai_provider';
+      aiProviderGeminiRadio.value = 'gemini';
+      aiProviderGeminiRadio.checked = currentProvider === 'gemini';
+      aiProviderGeminiRadio.style.marginRight = '6px';
+      const aiProviderOpenAiLabels = { en: 'ChatGPT / DALL-E (key)', it: 'ChatGPT / DALL-E (key)', de: 'ChatGPT / DALL-E (Key)', fr: 'ChatGPT / DALL-E (clé)', nl: 'ChatGPT / DALL-E (key)' };
+      const aiProviderLabelHF = document.createElement('label');
+      aiProviderLabelHF.style.cssText = 'display: inline-flex; align-items: center; margin-right: 14px; cursor: pointer; font-size: 12px;';
+      aiProviderLabelHF.appendChild(aiProviderHuggingFaceRadio);
+      aiProviderLabelHF.appendChild(document.createTextNode(aiProviderHuggingFaceLabels[lang] || aiProviderHuggingFaceLabels.en));
+      const aiProviderLabelOpenAi = document.createElement('label');
+      aiProviderLabelOpenAi.style.cssText = 'display: inline-flex; align-items: center; margin-right: 14px; cursor: pointer; font-size: 12px;';
+      aiProviderLabelOpenAi.appendChild(aiProviderOpenAiRadio);
+      aiProviderLabelOpenAi.appendChild(document.createTextNode(aiProviderOpenAiLabels[lang] || aiProviderOpenAiLabels.en));
+      const aiProviderLabelGemini = document.createElement('label');
+      aiProviderLabelGemini.style.cssText = 'display: inline-flex; align-items: center; cursor: pointer; font-size: 12px;';
+      aiProviderLabelGemini.appendChild(aiProviderGeminiRadio);
+      aiProviderLabelGemini.appendChild(document.createTextNode(aiProviderGeminiLabels[lang] || aiProviderGeminiLabels.en));
+      const aiProviderRow = document.createElement('div');
+      aiProviderRow.style.cssText = 'margin-bottom: 10px; display: flex; flex-wrap: wrap; gap: 4px 0;';
+      aiProviderRow.appendChild(aiProviderLabelHF);
+      aiProviderRow.appendChild(aiProviderLabelOpenAi);
+      aiProviderRow.appendChild(aiProviderLabelGemini);
+      aiWrap.appendChild(aiProviderRow);
+      const aiModeGenerateRadio = document.createElement('input');
+      aiModeGenerateRadio.type = 'radio';
+      aiModeGenerateRadio.name = 'lumina_ai_mode';
+      aiModeGenerateRadio.value = 'generate';
+      aiModeGenerateRadio.checked = true;
+      aiModeGenerateRadio.style.marginRight = '6px';
+      const aiModeEditRadio = document.createElement('input');
+      aiModeEditRadio.type = 'radio';
+      aiModeEditRadio.name = 'lumina_ai_mode';
+      aiModeEditRadio.value = 'edit';
+      aiModeEditRadio.style.marginRight = '6px';
+      const aiModeLabelGen = document.createElement('label');
+      aiModeLabelGen.style.cssText = 'display: inline-flex; align-items: center; margin-right: 16px; cursor: pointer; font-size: 12px;';
+      aiModeLabelGen.appendChild(aiModeGenerateRadio);
+      aiModeLabelGen.appendChild(document.createTextNode(aiModeGenerateLabels[lang] || aiModeGenerateLabels.en));
+      const aiModeLabelEdit = document.createElement('label');
+      aiModeLabelEdit.style.cssText = 'display: inline-flex; align-items: center; cursor: pointer; font-size: 12px;';
+      aiModeLabelEdit.appendChild(aiModeEditRadio);
+      aiModeLabelEdit.appendChild(document.createTextNode(aiModeEditLabels[lang] || aiModeEditLabels.en));
+      const aiModeRow = document.createElement('div');
+      aiModeRow.style.marginBottom = '10px';
+      aiModeRow.appendChild(aiModeLabelGen);
+      aiModeRow.appendChild(aiModeLabelEdit);
+      aiWrap.appendChild(aiModeRow);
+      const aiPromptLabel = document.createElement('label');
+      aiPromptLabel.style.cssText = 'display: block; margin-bottom: 4px; font-size: 12px; color: #aaa;';
+      aiPromptLabel.textContent = aiPromptLabels[lang] || aiPromptLabels.en;
+      const aiPromptInput = document.createElement('textarea');
+      aiPromptInput.rows = 2;
+      aiPromptInput.placeholder = aiPromptPlaceholder[lang] || aiPromptPlaceholder.en;
+      aiPromptInput.style.cssText = 'width: 100%; box-sizing: border-box; padding: 8px; border-radius: 6px; border: 1px solid rgba(0,229,255,0.4); background: rgba(0,30,40,0.6); color: #eee; font-size: 12px; margin-bottom: 10px; resize: vertical;';
+      aiWrap.appendChild(aiPromptLabel);
+      aiWrap.appendChild(aiPromptInput);
+      const aiEditFileInput = document.createElement('input');
+      aiEditFileInput.type = 'file';
+      aiEditFileInput.accept = 'image/*';
+      aiEditFileInput.style.display = 'none';
+      const aiEditImageWrap = document.createElement('div');
+      aiEditImageWrap.style.cssText = 'margin-bottom: 10px; display: none;';
+      const aiEditImageBtn = document.createElement('button');
+      aiEditImageBtn.type = 'button';
+      aiEditImageBtn.textContent = aiChooseImageLabels[lang] || aiChooseImageLabels.en;
+      aiEditImageBtn.style.cssText = 'padding: 6px 12px; border-radius: 6px; border: 1px solid rgba(0,229,255,0.5); background: rgba(0,229,255,0.1); color: #00E5FF; cursor: pointer; font-size: 11px;';
+      aiEditImageBtn.addEventListener('click', () => { aiEditFileInput.click(); });
+      aiEditImageWrap.appendChild(aiEditImageBtn);
+      aiEditImageWrap.appendChild(aiEditFileInput);
+      aiWrap.appendChild(aiEditImageWrap);
+      const updateEditVisibility = () => { aiEditImageWrap.style.display = aiModeEditRadio.checked ? 'block' : 'none'; };
+      aiModeGenerateRadio.addEventListener('change', updateEditVisibility);
+      aiModeEditRadio.addEventListener('change', updateEditVisibility);
+      let aiEditImageDataUrl = null;
+      aiEditFileInput.addEventListener('change', () => {
+        const file = aiEditFileInput.files && aiEditFileInput.files[0];
+        aiEditFileInput.value = '';
+        if (!file || file.type.indexOf('image') !== 0) return;
+        const reader = new FileReader();
+        reader.onload = () => { aiEditImageDataUrl = reader.result; };
+        reader.readAsDataURL(file);
+      });
+      const aiGeminiWrap = document.createElement('div');
+      aiGeminiWrap.className = 'ai-gemini-wrap';
+      aiGeminiWrap.style.display = currentProvider === 'gemini' ? 'block' : 'none';
+      const aiApiKeyLabel = document.createElement('label');
+      aiApiKeyLabel.style.cssText = 'display: block; margin-bottom: 4px; font-size: 12px; color: #aaa;';
+      aiApiKeyLabel.textContent = aiApiKeyLabels[lang] || aiApiKeyLabels.en;
+      const aiApiKeyInput = document.createElement('input');
+      aiApiKeyInput.type = 'password';
+      aiApiKeyInput.autocomplete = 'off';
+      aiApiKeyInput.placeholder = 'API key';
+      aiApiKeyInput.style.cssText = 'width: 100%; box-sizing: border-box; padding: 8px; border-radius: 6px; border: 1px solid rgba(0,229,255,0.4); background: rgba(0,30,40,0.6); color: #eee; font-size: 12px; margin-bottom: 10px;';
+      const cfg = this._configWithDefaults();
+      if (cfg.ai_gemini_api_key) aiApiKeyInput.value = cfg.ai_gemini_api_key;
+      aiGeminiWrap.appendChild(aiApiKeyLabel);
+      aiGeminiWrap.appendChild(aiApiKeyInput);
+      const aiQuotaHint = document.createElement('div');
+      aiQuotaHint.className = 'ai-quota-hint';
+      aiQuotaHint.textContent = aiQuotaHintLabels[lang] || aiQuotaHintLabels.en;
+      aiQuotaHint.style.cssText = 'font-size: 10px; color: rgba(0,229,255,0.7); margin-bottom: 10px; line-height: 1.3;';
+      aiGeminiWrap.appendChild(aiQuotaHint);
+      aiWrap.appendChild(aiGeminiWrap);
+      const aiHfTokenLabels = { en: 'Hugging Face token', it: 'Token Hugging Face', de: 'Hugging-Face-Token', fr: 'Token Hugging Face', nl: 'Hugging Face-token' };
+      const aiHfHintLabels = { en: 'Token from huggingface.co/settings/tokens (read).', it: 'Token da huggingface.co/settings/tokens (read).', de: 'Token von huggingface.co/settings/tokens (read).', fr: 'Token sur huggingface.co/settings/tokens (read).', nl: 'Token van huggingface.co/settings/tokens (read).' };
+      const aiHuggingFaceWrap = document.createElement('div');
+      aiHuggingFaceWrap.className = 'ai-huggingface-wrap';
+      aiHuggingFaceWrap.style.cssText = 'display: ' + (currentProvider === 'huggingface' ? 'block' : 'none') + ';';
+      const aiHfTokenLabel = document.createElement('label');
+      aiHfTokenLabel.style.cssText = 'display: block; margin-bottom: 4px; font-size: 12px; color: #aaa;';
+      aiHfTokenLabel.textContent = aiHfTokenLabels[lang] || aiHfTokenLabels.en;
+      const aiHfTokenInput = document.createElement('input');
+      aiHfTokenInput.type = 'password';
+      aiHfTokenInput.autocomplete = 'off';
+      aiHfTokenInput.placeholder = 'hf_...';
+      aiHfTokenInput.style.cssText = 'width: 100%; box-sizing: border-box; padding: 8px; border-radius: 6px; border: 1px solid rgba(0,229,255,0.4); background: rgba(0,30,40,0.6); color: #eee; font-size: 12px; margin-bottom: 10px;';
+      if (cfg.ai_huggingface_token) aiHfTokenInput.value = cfg.ai_huggingface_token;
+      aiHuggingFaceWrap.appendChild(aiHfTokenLabel);
+      aiHuggingFaceWrap.appendChild(aiHfTokenInput);
+      const aiHfHint = document.createElement('div');
+      aiHfHint.style.cssText = 'font-size: 10px; color: rgba(0,229,255,0.7); margin-bottom: 10px; line-height: 1.3;';
+      aiHfHint.textContent = aiHfHintLabels[lang] || aiHfHintLabels.en;
+      aiHuggingFaceWrap.appendChild(aiHfHint);
+      aiWrap.appendChild(aiHuggingFaceWrap);
+      const aiOpenAiKeyLabels = { en: 'OpenAI API key', it: 'API key OpenAI', de: 'OpenAI API-Schlüssel', fr: 'Clé API OpenAI', nl: 'OpenAI API-sleutel' };
+      const aiOpenAiHintLabels = { en: 'Get your key at platform.openai.com/api-keys. DALL-E 3 image costs ~$0.04/image.', it: 'Ottieni la chiave su platform.openai.com/api-keys. DALL-E 3 costa ~$0.04/immagine.', de: 'Schlüssel auf platform.openai.com/api-keys. DALL-E 3 kostet ~$0,04/Bild.', fr: 'Clé sur platform.openai.com/api-keys. DALL-E 3 coûte ~0,04$/image.', nl: 'Sleutel op platform.openai.com/api-keys. DALL-E 3 kost ~$0,04/afbeelding.' };
+      const aiOpenAiWrap = document.createElement('div');
+      aiOpenAiWrap.className = 'ai-openai-wrap';
+      aiOpenAiWrap.style.cssText = 'display: ' + (currentProvider === 'openai' ? 'block' : 'none') + ';';
+      const aiOpenAiKeyLabel = document.createElement('label');
+      aiOpenAiKeyLabel.style.cssText = 'display: block; margin-bottom: 4px; font-size: 12px; color: #aaa;';
+      aiOpenAiKeyLabel.textContent = aiOpenAiKeyLabels[lang] || aiOpenAiKeyLabels.en;
+      const aiOpenAiKeyInput = document.createElement('input');
+      aiOpenAiKeyInput.type = 'password';
+      aiOpenAiKeyInput.autocomplete = 'off';
+      aiOpenAiKeyInput.placeholder = 'sk-...';
+      aiOpenAiKeyInput.style.cssText = 'width: 100%; box-sizing: border-box; padding: 8px; border-radius: 6px; border: 1px solid rgba(0,229,255,0.4); background: rgba(0,30,40,0.6); color: #eee; font-size: 12px; margin-bottom: 10px;';
+      if (cfg.ai_openai_api_key) aiOpenAiKeyInput.value = cfg.ai_openai_api_key;
+      aiOpenAiWrap.appendChild(aiOpenAiKeyLabel);
+      aiOpenAiWrap.appendChild(aiOpenAiKeyInput);
+      const aiOpenAiHint = document.createElement('div');
+      aiOpenAiHint.style.cssText = 'font-size: 10px; color: rgba(0,229,255,0.7); margin-bottom: 10px; line-height: 1.3;';
+      aiOpenAiHint.textContent = aiOpenAiHintLabels[lang] || aiOpenAiHintLabels.en;
+      aiOpenAiWrap.appendChild(aiOpenAiHint);
+      aiWrap.appendChild(aiOpenAiWrap);
+      const updateProviderVisibility = () => {
+        const useGemini = aiProviderGeminiRadio.checked;
+        const useOpenAi = aiProviderOpenAiRadio.checked;
+        const useHuggingFace = aiProviderHuggingFaceRadio.checked;
+        aiGeminiWrap.style.display = useGemini ? 'block' : 'none';
+        aiOpenAiWrap.style.display = useOpenAi ? 'block' : 'none';
+        aiHuggingFaceWrap.style.display = useHuggingFace ? 'block' : 'none';
+        const c = this._configWithDefaults();
+        c.ai_provider = useGemini ? 'gemini' : useOpenAi ? 'openai' : 'huggingface';
+        this._config = { ...c };
+        this._debouncedConfigChanged(c, true);
+      };
+      aiProviderHuggingFaceRadio.addEventListener('change', updateProviderVisibility);
+      aiProviderOpenAiRadio.addEventListener('change', updateProviderVisibility);
+      aiProviderGeminiRadio.addEventListener('change', updateProviderVisibility);
+      const aiStatus = document.createElement('div');
+      aiStatus.style.cssText = 'min-height: 20px; font-size: 11px; color: #ff6688; margin-bottom: 8px;';
+      aiWrap.appendChild(aiStatus);
+      const aiActionBtn = document.createElement('button');
+      aiActionBtn.type = 'button';
+      aiActionBtn.style.cssText = 'padding: 8px 16px; border-radius: 6px; border: 1px solid #00E5FF; background: rgba(0,229,255,0.2); color: #00E5FF; cursor: pointer; font-size: 12px;';
+      const setAiButtonText = () => { aiActionBtn.textContent = aiModeEditRadio.checked ? (aiModifyBtnLabels[lang] || aiModifyBtnLabels.en) : (aiGenerateBtnLabels[lang] || aiGenerateBtnLabels.en); };
+      setAiButtonText();
+      aiModeGenerateRadio.addEventListener('change', setAiButtonText);
+      aiModeEditRadio.addEventListener('change', setAiButtonText);
+      aiActionBtn.addEventListener('click', async () => {
+        const useHuggingFace = aiProviderHuggingFaceRadio.checked;
+        const useOpenAi = aiProviderOpenAiRadio.checked;
+        const useGemini = aiProviderGeminiRadio.checked;
+        const key = aiApiKeyInput.value ? String(aiApiKeyInput.value).trim() : (cfg.ai_gemini_api_key || '').trim();
+        const hfToken = aiHfTokenInput.value ? String(aiHfTokenInput.value).trim() : (cfg.ai_huggingface_token || '').trim();
+        const oaiKey = aiOpenAiKeyInput.value ? String(aiOpenAiKeyInput.value).trim() : (cfg.ai_openai_api_key || '').trim();
+        const promptText = aiPromptInput.value ? String(aiPromptInput.value).trim() : '';
+        aiStatus.textContent = '';
+        aiStatus.style.color = '#ff6688';
+        if (useGemini && !key) { aiStatus.textContent = (aiErrorLabels[lang] || aiErrorLabels.en) + ': API key required'; return; }
+        if (useOpenAi && !oaiKey) { aiStatus.textContent = (aiErrorLabels[lang] || aiErrorLabels.en) + ': OpenAI API key required'; return; }
+        if (useHuggingFace && !hfToken) { aiStatus.textContent = (aiErrorLabels[lang] || aiErrorLabels.en) + ': Hugging Face token required'; return; }
+        if (!promptText) { aiStatus.textContent = (aiErrorLabels[lang] || aiErrorLabels.en) + ': Prompt required'; return; }
+        if (useGemini && aiModeEditRadio.checked && !aiEditImageDataUrl) { aiStatus.textContent = (aiErrorLabels[lang] || aiErrorLabels.en) + ': Choose an image to modify'; return; }
+        aiActionBtn.disabled = true;
+        aiStatus.style.color = '#00E5FF';
+        const hfLoadingMsg = { en: 'Generating (model may need 1-2 min to wake up)...', it: 'Generazione (il modello potrebbe impiegare 1-2 min per avviarsi)...', de: 'Generierung (Modell benötigt evtl. 1-2 Min.)...', fr: 'Génération (le modèle peut prendre 1-2 min)...', nl: 'Genereren (model heeft mogelijk 1-2 min nodig)...' };
+        aiStatus.textContent = useHuggingFace ? (hfLoadingMsg[lang] || hfLoadingMsg.en) : (aiLoadingLabels[lang] || aiLoadingLabels.en);
+        const self = this;
+        try {
+          let dataUrl;
+          if (useHuggingFace) {
+            dataUrl = await self._callHuggingFaceAiBackground(hfToken, promptText);
+          } else if (useOpenAi) {
+            dataUrl = await self._callOpenAiDalleBackground(oaiKey, promptText);
+          } else {
+            const mode = aiModeEditRadio.checked ? 'edit' : 'generate';
+            const imageForEdit = aiModeEditRadio.checked ? aiEditImageDataUrl : null;
+            dataUrl = await self._callGeminiAiBackground(key, mode, promptText, imageForEdit);
+          }
+          const compressed = await self._compressBackgroundImage(dataUrl);
+          const newConfig = self._configWithDefaults();
+          newConfig.installation_type = '4';
+          newConfig.background_image = compressed;
+          newConfig.ai_provider = useHuggingFace ? 'huggingface' : useOpenAi ? 'openai' : 'gemini';
+          if (useGemini && key && !newConfig.ai_gemini_api_key) newConfig.ai_gemini_api_key = key;
+          if (useOpenAi && oaiKey && !newConfig.ai_openai_api_key) newConfig.ai_openai_api_key = oaiKey;
+          if (useHuggingFace && hfToken && !newConfig.ai_huggingface_token) newConfig.ai_huggingface_token = hfToken;
+          self._config = { ...newConfig };
+          self._debouncedConfigChanged(newConfig, true);
+          self._rendered = false;
+          self.render();
+          aiStatus.textContent = '';
+        } catch (e) {
+          aiStatus.textContent = (aiErrorLabels[lang] || aiErrorLabels.en) + ': ' + (e && e.message ? e.message : String(e));
+        }
+        aiActionBtn.disabled = false;
+      });
+      aiWrap.appendChild(aiActionBtn);
+      personalWrap.appendChild(aiWrap);
+    }
+
     container.appendChild(personalWrap);
     
     return container;
@@ -23477,8 +23872,10 @@ _createSectionDefs(localeStrings, schemaDefs) {
       }
       .editor-preview-scale-label {
         font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-        font-size: 10px;
-        opacity: 0.9;
+        font-size: 12px;
+        font-weight: 600;
+        color: #00E5FF;
+        opacity: 1;
       }
       /* Sectioned layout - neon cyberpunk style */
       .editor-preview-section {
@@ -23498,7 +23895,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         box-shadow: 0 0 16px rgba(0, 229, 255, 0.4), 0 4px 24px rgba(0, 0, 0, 0.35);
       }
       .editor-preview-section-title {
-        font-size: clamp(8px, 1.7vw, 10px);
+        font-size: clamp(10px, 1.9vw, 12px);
         font-weight: 700;
         text-transform: uppercase;
         letter-spacing: 0.12em;
@@ -23516,6 +23913,8 @@ _createSectionDefs(localeStrings, schemaDefs) {
         padding: 1.25rem 1.25rem;
         display: flex;
         flex-wrap: wrap;
+        color: #e0e8f0;
+        font-size: clamp(10px, 1.6vw, 12px);
         align-items: center;
         justify-content: flex-start;
         gap: 16px;
@@ -23550,9 +23949,25 @@ _createSectionDefs(localeStrings, schemaDefs) {
       }
       .editor-preview-flows-content .editor-preview-draw { margin: 0; }
       .editor-preview-cf-sensor-label {
-        font-size: 9px;
+        font-size: 11px;
         color: #00E5FF;
         font-weight: 600;
+      }
+      .editor-preview-cf-direction label,
+      .editor-preview-cf-direction span {
+        font-size: 12px !important;
+        font-weight: 600 !important;
+        color: #00E5FF !important;
+        opacity: 1 !important;
+      }
+      .editor-preview-cf-color-label {
+        font-size: 12px !important;
+        font-weight: 600 !important;
+        color: #00E5FF !important;
+      }
+      .editor-preview-cf-sensor-box,
+      .editor-preview-text-sensor-box {
+        min-height: 44px;
       }
       .editor-preview-cf-sensor-wrap ha-entity-picker,
       .editor-preview-cf-sensor-wrap .editor-preview-cf-sensor-picker {
@@ -23565,7 +23980,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
         display: block;
         --mdc-text-field-height: 50px;
         --mdc-text-field-fill-color: #0a1214;
+        --mdc-text-field-ink-color: #fff;
+        --mdc-text-field-input-text-color: #fff;
         --mdc-theme-text-primary-on-background: #00E5FF;
+        --vaadin-input-field-value-color: #fff;
+        --paper-input-container-input-color: #fff;
         border: none !important;
         border-radius: 8px;
         box-sizing: border-box !important;
@@ -23575,6 +23994,19 @@ _createSectionDefs(localeStrings, schemaDefs) {
       .editor-preview-cf-sensor-wrap ha-entity-picker:focus-within,
       .editor-preview-cf-sensor-wrap .editor-preview-cf-sensor-picker:focus-within {
         box-shadow: inset 0 0 0 2px #00E5FF, 0 0 14px rgba(0, 229, 255, 0.5) !important;
+      }
+      .editor-preview-cf-sensor-wrap .editor-preview-cf-sensor-box ha-entity-picker,
+      .editor-preview-cf-sensor-wrap .editor-preview-cf-sensor-box .editor-preview-cf-sensor-picker {
+        position: absolute !important;
+        inset: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+        opacity: 0 !important;
+        cursor: pointer !important;
+        z-index: 1 !important;
+        margin: 0 !important;
+        min-height: 0 !important;
+        pointer-events: auto !important;
       }
       .editor-preview-cf-sensor-wrap {
         overflow: visible;
@@ -23606,10 +24038,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
         border-radius: 8px !important;
       }
       .editor-preview-text-custom-input,
-      .editor-preview-text-sensor-input {
+      .editor-preview-text-sensor-input,
+      .editor-preview-cf-sensor-input {
         background: #0a1214 !important;
         border: 2px solid #00E5FF !important;
-        color: #e0e8f0 !important;
+        color: #fff !important;
         box-shadow: 0 0 8px rgba(0, 229, 255, 0.2) !important;
       }
       .editor-preview-text-custom-input:focus,
@@ -23628,7 +24061,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
         display: block;
         --mdc-text-field-height: 50px;
         --mdc-text-field-fill-color: #0a1214;
+        --mdc-text-field-ink-color: #fff;
+        --mdc-text-field-input-text-color: #fff;
         --mdc-theme-text-primary-on-background: #00E5FF;
+        --vaadin-input-field-value-color: #fff;
+        --paper-input-container-input-color: #fff;
         border: none !important;
         border-radius: 8px;
         box-sizing: border-box !important;
@@ -23641,6 +24078,19 @@ _createSectionDefs(localeStrings, schemaDefs) {
       .editor-preview-text-sensor-wrap ha-entity-picker:focus-within,
       .editor-preview-text-sensor-wrap .editor-preview-text-sensor-picker:focus-within {
         box-shadow: inset 0 0 0 2px #00E5FF, 0 0 14px rgba(0, 229, 255, 0.5) !important;
+      }
+      .editor-preview-text-sensor-wrap .editor-preview-text-sensor-box ha-entity-picker,
+      .editor-preview-text-sensor-wrap .editor-preview-text-sensor-box .editor-preview-text-sensor-picker {
+        position: absolute !important;
+        inset: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+        opacity: 0 !important;
+        cursor: pointer !important;
+        z-index: 1 !important;
+        margin: 0 !important;
+        min-height: 0 !important;
+        pointer-events: auto !important;
       }
       .editor-preview-text-sensor-wrap {
         width: 100%;
@@ -23687,7 +24137,8 @@ _createSectionDefs(localeStrings, schemaDefs) {
         min-width: 0;
         overflow: hidden;
         text-overflow: ellipsis;
-        font-size: clamp(8px, 1.5vw, 10px);
+        font-size: clamp(10px, 1.7vw, 12px);
+        font-weight: 600;
         color: #00E5FF;
       }
       .editor-preview-text-rotate-label,
@@ -23720,12 +24171,12 @@ _createSectionDefs(localeStrings, schemaDefs) {
         box-sizing: border-box;
       }
       .editor-preview-overlay-slot-label {
-        font-size: 10px;
+        font-size: 12px;
         font-weight: 600;
         color: #00E5FF;
       }
       .editor-preview-overlay-scale-label {
-        font-size: 10px;
+        font-size: 12px;
         font-weight: 600;
         color: #00E5FF;
       }
@@ -23763,7 +24214,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
-        font-size: clamp(8px, 1.4vw, 10px);
+        font-size: clamp(10px, 1.6vw, 12px);
         font-weight: 600;
         color: #e0e8f0;
       }
@@ -23895,11 +24346,14 @@ _createSectionDefs(localeStrings, schemaDefs) {
         box-shadow: 0 0 16px rgba(0, 229, 255, 0.6), 0 0 28px rgba(0, 229, 255, 0.25) !important;
       }
       .editor-preview-draw-hint {
-        padding: 4px 6px;
+        padding: 6px 8px;
         border-radius: 6px;
         border: 1px solid #00E5FF;
         background: rgba(0, 30, 40, 0.5);
         color: #00E5FF;
+        font-size: 12px !important;
+        font-weight: 600;
+        opacity: 1 !important;
       }
       .editor-preview-locks input[type="checkbox"] {
         accent-color: #00E5FF;
