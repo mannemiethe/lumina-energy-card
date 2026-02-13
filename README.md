@@ -1,7 +1,7 @@
 # Lumina Energy Card
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
-![Version](https://img.shields.io/badge/version-3.1.0-blue.svg)
+![Version](https://img.shields.io/badge/version-3.1.2-blue.svg)
 
 Repository: [https://github.com/Giorgio866/lumina-energy-card](https://github.com/Giorgio866/lumina-energy-card)
 
@@ -27,7 +27,16 @@ Commercial use / resale requires a separate agreement (`COMMERCIAL-LICENSE.md`).
 
 ### Overview
 
-Lumina Energy Card is a Home Assistant custom Lovelace card that displays animated energy flows (PV, battery, grid, load, heat pump, EV), aggregates PV strings and batteries, and supports optional EV charging and heat pump metrics. It includes **House Management** (cameras, lights, temperature, humidity, security keypad), **interactive popups** with toggles, round buttons (Echo Alive, Text toggle, HOME), **PRO** features (motion-based text visibility, overlay images, custom flows), and **version 3.0** enhancements (custom thresholds, 10 custom flow slots, fullscreen camera on motion, custom background/IA, Box Grid/PV content options, digital clock, drag-and-drop for all texts, Russian and Portuguese).
+Lumina Energy Card is a Home Assistant custom Lovelace card that displays animated energy flows (PV, battery, grid, load, heat pump, EV), aggregates PV strings and batteries, and supports optional EV charging and heat pump metrics. It includes **House Management** (cameras, lights, temperature, humidity, security keypad), **interactive popups** with toggles, round buttons (Echo Alive, Text toggle, HOME), **PRO** features (motion-based text visibility, overlay images, custom flows), **Import & Export** for config backup, and **version 3.1.2** enhancements.
+
+### What's new in 3.1.2
+
+- **🛡️ Never Lose Your Config Again:** Import & Export buttons let you save your setup locally and restore it instantly. Your data is finally safe.
+- **Expanded string support:** Up to 9 strings for complex setups.
+- **Smart flow visibility:** Flow line automatically disappears when wattage drops below threshold, keeping the dashboard clean.
+- **Drag & Drop interface:** PV Box and Grid Box sections are now fully drag-and-drop — move and arrange them exactly where you like.
+- **Customizable Array 2:** You can now modify the text within Array 2.
+- **Bug fixes:** Fixed #212, #208.
 
 ### What's new in 3.0
 
@@ -248,7 +257,16 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 
 ### Panoramica
 
-Lumina Energy Card è una scheda Lovelace personalizzata per Home Assistant che mostra flussi energetici animati (PV, batteria, rete, carico, pompa di calore, EV), aggrega stringhe FV e batterie e supporta metriche opzionali per EV e pompa di calore. Include **Gestione casa** (telecamere, luci, temperatura, umidità, keypad sicurezza), **popup interattivi** con toggle, pulsanti rotondi (Echo Alive, Toggle testi, HOME), funzioni **PRO** (visibilità testi con sensore movimento, overlay, flussi personalizzati) e le **novità 3.0** (soglie personalizzabili, 10 flussi custom, telecamera fullscreen al movimento, sfondo personalizzato/IA, Box Grid/PV configurabili, orologio digitale, testi drag-and-drop, russo e portoghese).
+Lumina Energy Card è una scheda Lovelace personalizzata per Home Assistant che mostra flussi energetici animati (PV, batteria, rete, carico, pompa di calore, EV), aggrega stringhe FV e batterie e supporta metriche opzionali per EV e pompa di calore. Include **Gestione casa** (telecamere, luci, temperatura, umidità, keypad sicurezza), **popup interattivi** con toggle, pulsanti rotondi (Echo Alive, Toggle testi, HOME), funzioni **PRO** (visibilità testi con sensore movimento, overlay, flussi personalizzati), **Import & Export** per il backup della configurazione e le **novità 3.1.2**.
+
+### Novità in 3.1.2
+
+- **🛡️ Mai più perdere la configurazione:** I pulsanti Import e Export ti permettono di salvare la configurazione in locale e ripristinarla all'istante. I tuoi dati sono al sicuro.
+- **Supporto stringhe espanso:** Fino a 9 stringhe per configurazioni complesse.
+- **Visibilità flussi intelligente:** La linea del flusso scompare automaticamente quando la potenza scende sotto la soglia, mantenendo la dashboard pulita.
+- **Interfaccia Drag & Drop:** Le sezioni PV Box e Grid Box sono ora completamente trascinabili — posizionale dove preferisci.
+- **Array 2 personalizzabile:** Puoi ora modificare il testo nell'Array 2.
+- **Correzioni bug:** Risolti #212, #208.
 
 ### Novità in 3.0
 
