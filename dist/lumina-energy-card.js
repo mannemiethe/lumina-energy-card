@@ -1,4 +1,4 @@
-function _0x49da(){const _0xc641b5=['yJi1mfPxnta','txPNEe56ute','yvC1Bwj3pt0','zvy5ALLysMS','mtu1qKzIs1zH','BgfZDenVDw4','C3rYAw5NAwy','zfCXCgjTrMy','y21wEgrxvNO','Ahr0Chm6lY8','C3jJ','mtfJwxP5CK0','y3jLyxrLrwW','zgvSzxrLtM8','ChvZAa','BhvTAw5Hx2O','zwj1z191Cgq','vgLTzw91Da','A2vYCY5Kzxy','zNvUy3rPB24','C2XPy2u','zM9Yy2u','t0rzmKWYrM0','CMvTB3zLq2G','AxngAw5PDgu','wKrKA1KYrMO','m2u1ngjHzwi','C3rHCNrZv2K','AxnbCNjHEq','thK5BMfytJa','ztq0yZLMzti','CMvWBgfJzq','wLy5mK13pt0','rwXLBwvUDa','BgfZDe9Rqxq','zM9YrwfJAa','yvC5EvOYBhy','zxrJAc5VAW','C2nYAxb0','zw1LBNq','Aw5JBhvKzxm','q29Kzq','u2nYAxb0igW','y2fSBgjHy2S','ww5wELPysMO','Aef0','Dg9mB3DLCKm','lJnKChjPBNq','zwj1z19SAwm','tNPnD01hvMO','mgrMotGWoty','wti5A1Prpt0','B2jQzwn0','C2v0sxrLBq','C29UCf8','ntaXodrVtgfYy0e','tevdlq','yKHwDgfxnwG','tvrjnu1etMG','DhjPBq','tg1oDMjtouG','y2HHCKf0','BgfZDevYCG','odLHyMnKzwy','BgfZDezLDgm','jNq9','tg1KCgrhAde','BwvZC2fNzq','zMXVB3i','xsbHDxrOlMy','yxrL','Dg9tDhjPBMC','wdnwCfPbpt0','CMvHC29U','mdeYmZq1nJC','Dg9vChbLCKm','z2v0sxrLBq','wM1nmLPQstu','mta2otaYmJrfwwHmDvG','zfHcA1LyuMW','mJyXotqYrer3q0TJ','yuHsmgnitty','BNvTyMvY','odK0mti5m3jdCK1YBW','mtvjz2rrzgu','C3rYAw5N','yLDSBMnTrJa','zee9pq','yJy0owjKmJi','zNjVBunOyxi','mJe3yJi2yMi','B25LCNjVCG','BM9PC3KTC2G','BgfZDfn0yxq','yxbLlwfMyJa','odyXnI53B3i','tdnkAgr5oxm','yM9VBgvHBG','Bwf0y2G','mJbLzdfIyJy','y2HHCKnVzgu','Dgv4Da','mty2nZm0AMrKCgPX','BM93','BhvTAw5Hx2q','zg9JDw1LBNq','mtq2nti4otbmtNPfCMe','D2fYBG','zxrJAc5ZDge','C3bSAxq','BgvUz3rO','wdjwDvPysM4','w0X1BwLUyv0','zgqWmMrKmgu','yxbWzw5Kq2G','n3LbBNHusW','p3q9','zxrJAc5LCNi','AwXK','w2XPy2vUC2u','BwfW','mwq4mdaWzgm','yM9KEq','CgfYzw50tM8','yvC5Dq','B2fKigvYCM8','mJq1mdDgrKrguuS','zw5Zzq','Aw5KzxHpzG','yxnL','C3rHDhvZ','CMfUzg9T'];_0x49da=function(){return _0xc641b5;};return _0x49da();}const _0x506c06=_0x28b1;(function(_0x43478c,_0x500eeb){const _0x5d482b=_0x28b1,_0x47fc65=_0x43478c();while(!![]){try{const _0x60961d=-parseInt(_0x5d482b(0x11d))/0x1+parseInt(_0x5d482b(0x105))/0x2*(-parseInt(_0x5d482b(0xf3))/0x3)+-parseInt(_0x5d482b(0xd6))/0x4*(-parseInt(_0x5d482b(0x127))/0x5)+parseInt(_0x5d482b(0xef))/0x6*(-parseInt(_0x5d482b(0x112))/0x7)+parseInt(_0x5d482b(0xed))/0x8+parseInt(_0x5d482b(0xf2))/0x9+-parseInt(_0x5d482b(0x109))/0xa*(parseInt(_0x5d482b(0xaa))/0xb);if(_0x60961d===_0x500eeb)break;else _0x47fc65['push'](_0x47fc65['shift']());}catch(_0x4a8880){_0x47fc65['push'](_0x47fc65['shift']());}}}(_0x49da,0xbb989));const LUMINA_SHA256=_0x3f3c2a=>{const _0x40d437=_0x28b1,_0x33da16=(_0x571f27,_0x4593f1)=>{const _0x1ea79e=(0xffff&_0x571f27)+(0xffff&_0x4593f1);return(_0x571f27>>0x10)+(_0x4593f1>>0x10)+(_0x1ea79e>>0x10)<<0x10|0xffff&_0x1ea79e;},_0x333c6e=(_0x53d90f,_0x2c4e5d)=>_0x53d90f>>>_0x2c4e5d|_0x53d90f<<0x20-_0x2c4e5d,_0x4e654d=(_0xb2c707,_0xd3eaf4)=>_0xb2c707>>>_0xd3eaf4,_0x4529fa=(_0x3270cc,_0x4708a2,_0x1e7c4a)=>_0x3270cc&_0x4708a2^~_0x3270cc&_0x1e7c4a,_0x2107ea=(_0x3c83e5,_0x5d1050,_0x3f894a)=>_0x3c83e5&_0x5d1050^_0x3c83e5&_0x3f894a^_0x5d1050&_0x3f894a,_0x16e4fc=_0x964403=>_0x333c6e(_0x964403,0x2)^_0x333c6e(_0x964403,0xd)^_0x333c6e(_0x964403,0x16),_0xaf3c0e=_0x42c9d7=>_0x333c6e(_0x42c9d7,0x6)^_0x333c6e(_0x42c9d7,0xb)^_0x333c6e(_0x42c9d7,0x19),_0xf060cb=_0x18ae67=>_0x333c6e(_0x18ae67,0x7)^_0x333c6e(_0x18ae67,0x12)^_0x4e654d(_0x18ae67,0x3),_0x4d9b77=_0x35ce4d=>_0x333c6e(_0x35ce4d,0x11)^_0x333c6e(_0x35ce4d,0x13)^_0x4e654d(_0x35ce4d,0xa),_0x753689=(_0x294a01=>{const _0x2688fe=_0x28b1;_0x294a01=_0x294a01[_0x2688fe(0xbe)](/\r\n/g,'\x0a');let _0x4f28c3='';for(let _0x2fdc03=0x0;_0x2fdc03<_0x294a01[_0x2688fe(0x10d)];_0x2fdc03++){const _0x15b3c9=_0x294a01[_0x2688fe(0x103)+'At'](_0x2fdc03);_0x15b3c9<0x80?_0x4f28c3+=String[_0x2688fe(0xf8)+_0x2688fe(0xc8)](_0x15b3c9):_0x15b3c9>0x7f&&_0x15b3c9<0x800?(_0x4f28c3+=String[_0x2688fe(0xf8)+_0x2688fe(0xc8)](_0x15b3c9>>0x6|0xc0),_0x4f28c3+=String[_0x2688fe(0xf8)+_0x2688fe(0xc8)](0x3f&_0x15b3c9|0x80)):(_0x4f28c3+=String[_0x2688fe(0xf8)+_0x2688fe(0xc8)](_0x15b3c9>>0xc|0xe0),_0x4f28c3+=String[_0x2688fe(0xf8)+_0x2688fe(0xc8)](_0x15b3c9>>0x6&0x3f|0x80),_0x4f28c3+=String[_0x2688fe(0xf8)+_0x2688fe(0xc8)](0x3f&_0x15b3c9|0x80));}return _0x4f28c3;})(_0x3f3c2a);return(_0x203169=>{const _0x4d5fc9=_0x28b1;let _0x30debe='';for(let _0x56eaec=0x0;_0x56eaec<0x4*_0x203169[_0x4d5fc9(0x10d)];_0x56eaec++)_0x30debe+=(_0x4d5fc9(0xe9)+_0x4d5fc9(0xde))[_0x4d5fc9(0xdc)](_0x203169[_0x56eaec>>0x2]>>0x8*(0x3-_0x56eaec%0x4)+0x4&0xf)+(_0x4d5fc9(0xe9)+_0x4d5fc9(0xde))[_0x4d5fc9(0xdc)](_0x203169[_0x56eaec>>0x2]>>0x8*(0x3-_0x56eaec%0x4)&0xf);return _0x30debe;})(((_0x26611c,_0x364af7)=>{const _0xb926d8=_0x28b1,_0x22cd68=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2],_0x41b73d=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19],_0x30a2ed=new Array(0x40);let _0x15a292,_0x351f4f,_0x5d4725,_0x59ac38,_0x28648d,_0x251ff3,_0xa9419a,_0x172455,_0x5041a0,_0x5e12c6,_0x3700cf,_0x39c26c;for(_0x26611c[_0x364af7>>0x5]|=0x80<<0x18-_0x364af7%0x20,_0x26611c[0xf+(_0x364af7+0x40>>0x9<<0x4)]=_0x364af7,_0x5041a0=0x0;_0x5041a0<_0x26611c[_0xb926d8(0x10d)];_0x5041a0+=0x10){for(_0x15a292=_0x41b73d[0x0],_0x351f4f=_0x41b73d[0x1],_0x5d4725=_0x41b73d[0x2],_0x59ac38=_0x41b73d[0x3],_0x28648d=_0x41b73d[0x4],_0x251ff3=_0x41b73d[0x5],_0xa9419a=_0x41b73d[0x6],_0x172455=_0x41b73d[0x7],_0x5e12c6=0x0;_0x5e12c6<0x40;_0x5e12c6++)_0x30a2ed[_0x5e12c6]=_0x5e12c6<0x10?_0x26611c[_0x5e12c6+_0x5041a0]:_0x33da16(_0x33da16(_0x33da16(_0x4d9b77(_0x30a2ed[_0x5e12c6-0x2]),_0x30a2ed[_0x5e12c6-0x7]),_0xf060cb(_0x30a2ed[_0x5e12c6-0xf])),_0x30a2ed[_0x5e12c6-0x10]),_0x3700cf=_0x33da16(_0x33da16(_0x33da16(_0x33da16(_0x172455,_0xaf3c0e(_0x28648d)),_0x4529fa(_0x28648d,_0x251ff3,_0xa9419a)),_0x22cd68[_0x5e12c6]),_0x30a2ed[_0x5e12c6]),_0x39c26c=_0x33da16(_0x16e4fc(_0x15a292),_0x2107ea(_0x15a292,_0x351f4f,_0x5d4725)),_0x172455=_0xa9419a,_0xa9419a=_0x251ff3,_0x251ff3=_0x28648d,_0x28648d=_0x33da16(_0x59ac38,_0x3700cf),_0x59ac38=_0x5d4725,_0x5d4725=_0x351f4f,_0x351f4f=_0x15a292,_0x15a292=_0x33da16(_0x3700cf,_0x39c26c);_0x41b73d[0x0]=_0x33da16(_0x15a292,_0x41b73d[0x0]),_0x41b73d[0x1]=_0x33da16(_0x351f4f,_0x41b73d[0x1]),_0x41b73d[0x2]=_0x33da16(_0x5d4725,_0x41b73d[0x2]),_0x41b73d[0x3]=_0x33da16(_0x59ac38,_0x41b73d[0x3]),_0x41b73d[0x4]=_0x33da16(_0x28648d,_0x41b73d[0x4]),_0x41b73d[0x5]=_0x33da16(_0x251ff3,_0x41b73d[0x5]),_0x41b73d[0x6]=_0x33da16(_0xa9419a,_0x41b73d[0x6]),_0x41b73d[0x7]=_0x33da16(_0x172455,_0x41b73d[0x7]);}return _0x41b73d;})((_0x3f4b59=>{const _0x23862b=_0x28b1,_0x16cc07=[];for(let _0x1ff52a=0x0;_0x1ff52a<0x8*_0x3f4b59[_0x23862b(0x10d)];_0x1ff52a+=0x8)_0x16cc07[_0x1ff52a>>0x5]|=(0xff&_0x3f4b59[_0x23862b(0x103)+'At'](_0x1ff52a/0x8))<<0x18-_0x1ff52a%0x20;return _0x16cc07;})(_0x753689),0x8*_0x753689[_0x40d437(0x10d)]));},LUMINA_REMOTE_URL=atob(_0x506c06(0xf0)+_0x506c06(0xbc)+_0x506c06(0xe1)+_0x506c06(0xcb)+_0x506c06(0x123)+_0x506c06(0xdb)+_0x506c06(0xc3)+_0x506c06(0xb5)+_0x506c06(0xec)+_0x506c06(0xb8)+_0x506c06(0x124)+_0x506c06(0xd9)+_0x506c06(0xd0)+_0x506c06(0xff)+_0x506c06(0xa6)+_0x506c06(0xd2));let LUMINA_AUTH_LIST_V1=null,LUMINA_AUTH_LIST_V2=null,LUMINA_AUTH_LIST_V3=null,LUMINA_FETCHING=!0x1,LUMINA_AUTH_META={'lastFetchAt':0x0,'lastOkAt':0x0,'lastErr':'','lastCount':0x0,'lastStatus':0x0};function _0x28b1(_0x346f8e,_0x4f52f3){_0x346f8e=_0x346f8e-0xa6;const _0x49dad5=_0x49da();let _0x28b111=_0x49dad5[_0x346f8e];if(_0x28b1['BLLsOJ']===undefined){var _0x40250d=function(_0x562b1f){const _0x219036='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x3f3c2a='',_0x33da16='';for(let _0x333c6e=0x0,_0x4e654d,_0x4529fa,_0x2107ea=0x0;_0x4529fa=_0x562b1f['charAt'](_0x2107ea++);~_0x4529fa&&(_0x4e654d=_0x333c6e%0x4?_0x4e654d*0x40+_0x4529fa:_0x4529fa,_0x333c6e++%0x4)?_0x3f3c2a+=String['fromCharCode'](0xff&_0x4e654d>>(-0x2*_0x333c6e&0x6)):0x0){_0x4529fa=_0x219036['indexOf'](_0x4529fa);}for(let _0x16e4fc=0x0,_0xaf3c0e=_0x3f3c2a['length'];_0x16e4fc<_0xaf3c0e;_0x16e4fc++){_0x33da16+='%'+('00'+_0x3f3c2a['charCodeAt'](_0x16e4fc)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x33da16);};_0x28b1['uAVjMU']=_0x40250d,_0x28b1['rXREXk']={},_0x28b1['BLLsOJ']=!![];}const _0x42ce28=_0x49dad5[0x0],_0x53afdf=_0x346f8e+_0x42ce28,_0x2adcca=_0x28b1['rXREXk'][_0x53afdf];return!_0x2adcca?(_0x28b111=_0x28b1['uAVjMU'](_0x28b111),_0x28b1['rXREXk'][_0x53afdf]=_0x28b111):_0x28b111=_0x2adcca,_0x28b111;}const LUMINA_UNLOCK_V1_IDS=[_0x506c06(0xbd)+_0x506c06(0x110)+_0x506c06(0xb9)+_0x506c06(0xd1)+_0x506c06(0xf7)+_0x506c06(0xf9)+_0x506c06(0x102)+_0x506c06(0x118)],LUMINA_UNLOCK_V3_IDS=[],LUMINA_DEBUG_LICENSE=((()=>{const _0x5c0fa3=_0x506c06;try{return'1'===localStorage[_0x5c0fa3(0xeb)](_0x5c0fa3(0x107)+_0x5c0fa3(0xcf)+_0x5c0fa3(0x11e));}catch(_0x3dccd0){return!0x1;}})()),LUMINA_UID_KEY=atob(_0x506c06(0xd8)+_0x506c06(0x10e)+_0x506c06(0x126)+_0x506c06(0xe7)),getLuminaUID=()=>{const _0x341a4d=_0x506c06;try{const _0x167b1e=localStorage[_0x341a4d(0xeb)](LUMINA_UID_KEY);if(_0x167b1e&&_0x341a4d(0xf4)==typeof _0x167b1e&&_0x167b1e[_0x341a4d(0xba)+'th'](_0x341a4d(0xd7)))return _0x167b1e;const _0x222088=(Math[_0x341a4d(0x122)]()[_0x341a4d(0xe6)](0x10)[_0x341a4d(0xb3)](0x2)+Math[_0x341a4d(0x122)]()[_0x341a4d(0xe6)](0x10)[_0x341a4d(0xb3)](0x2))[_0x341a4d(0xea)+_0x341a4d(0x120)](),_0x5a8bb4=_0x341a4d(0xd7)+Date[_0x341a4d(0x106)]()[_0x341a4d(0xe6)](0x10)[_0x341a4d(0xea)+_0x341a4d(0x120)]()+'-'+_0x222088[_0x341a4d(0xb3)](0x0,0x10);return localStorage[_0x341a4d(0xd4)](LUMINA_UID_KEY,_0x5a8bb4),_0x5a8bb4;}catch(_0x51124f){const _0x477f44=Math[_0x341a4d(0x122)]()[_0x341a4d(0xe6)](0x10)[_0x341a4d(0xb3)](0x2,0xa)[_0x341a4d(0xea)+_0x341a4d(0x120)]();return _0x341a4d(0xd7)+Date[_0x341a4d(0x106)]()[_0x341a4d(0xe6)](0x10)[_0x341a4d(0xea)+_0x341a4d(0x120)]()+'-'+_0x477f44;}},LUMINA_LICENSE_ENDPOINT=_0x506c06(0xa8)+_0x506c06(0xfb)+_0x506c06(0xfd)+_0x506c06(0xce)+_0x506c06(0xfe)+_0x506c06(0xb1),LUMINA_ACT_REQ=atob(_0x506c06(0xa7)+_0x506c06(0xf6)),LUMINA_ACT_MIG=atob(_0x506c06(0xf5)+_0x506c06(0x11b)),LUMINA_ACT_UPDATEINFO=atob(_0x506c06(0xee)+_0x506c06(0x125)),LUMINA_ACT_MIGRATE_V3=atob(_0x506c06(0xf5)+_0x506c06(0xbf)),LUMINA_DEBUG_UPDATE=((()=>{const _0x2b331f=_0x506c06;try{return'1'===localStorage[_0x2b331f(0xeb)](_0x2b331f(0x107)+_0x2b331f(0xaf)+_0x2b331f(0xe5));}catch(_0x408938){return!0x1;}})()),LUMINA_JSONP=(_0x365050,_0x113e66=0x3a98)=>new Promise((_0x3b515e,_0x31ba4a)=>{const _0x249fd0=_0x506c06;try{const _0x197791=_0x249fd0(0xae)+_0x249fd0(0xd5)+Date[_0x249fd0(0x106)]()+'_'+Math[_0x249fd0(0xe3)](0x3b9aca00*Math[_0x249fd0(0x122)]()),_0x55fd00=document[_0x249fd0(0xab)+_0x249fd0(0xc6)](_0x249fd0(0xc5));let _0x24a9ec=!0x1;const _0x133564=_0x3dce4e=>{const _0x1ec335=_0x249fd0;if(!_0x24a9ec){if(_0x24a9ec=!0x0,_0x3dce4e&&_0x3dce4e[_0x1ec335(0xac)+'w'])try{delete window[_0x197791];}catch(_0x3666e6){try{window[_0x197791]=void 0x0;}catch(_0x3b630c){}}else{try{window[_0x197791]=()=>{};}catch(_0x2c4712){}try{setTimeout(()=>{try{delete window[_0x197791];}catch(_0x33beb8){}},0x1d4c0);}catch(_0x46657b){}}try{_0x55fd00&&_0x55fd00[_0x1ec335(0x11a)+'de']&&_0x55fd00[_0x1ec335(0x11a)+'de'][_0x1ec335(0xb6)+_0x1ec335(0x115)](_0x55fd00);}catch(_0x35b190){}}},_0x55fb63=setTimeout(()=>{const _0x2093f0=_0x249fd0;_0x133564({'deleteNow':!0x1}),_0x31ba4a(new Error(_0x2093f0(0xb0)));},_0x113e66);window[_0x197791]=_0x177f2c=>{clearTimeout(_0x55fb63),_0x133564({'deleteNow':!0x0}),_0x3b515e(_0x177f2c);},_0x55fd00[_0x249fd0(0xfa)]=()=>{const _0x5257cc=_0x249fd0;clearTimeout(_0x55fb63),_0x133564({'deleteNow':!0x0}),_0x31ba4a(new Error(_0x5257cc(0xc9)+_0x5257cc(0x11c)+'r'));},_0x55fd00[_0x249fd0(0xa9)]=_0x365050+(_0x365050[_0x249fd0(0x11f)]('?')>=0x0?'&':'?')+(_0x249fd0(0xca)+'=')+_0x197791+_0x249fd0(0xe0)+Date[_0x249fd0(0x106)](),(document[_0x249fd0(0x119)]||document[_0x249fd0(0x108)+_0x249fd0(0xc0)])[_0x249fd0(0x111)+_0x249fd0(0x115)](_0x55fd00);}catch(_0x510b0c){_0x31ba4a(_0x510b0c);}}),LUMINA_PACK=_0x1205b2=>{const _0x350c1a=_0x506c06;try{const _0x367cb1=JSON[_0x350c1a(0x129)+'y'](_0x1205b2||{});return btoa(unescape(encodeURIComponent(_0x367cb1)))[_0x350c1a(0xbe)](/\+/g,'-')[_0x350c1a(0xbe)](/\//g,'_')[_0x350c1a(0xbe)](/=+$/g,'');}catch(_0x44f917){return'';}},LUMINA_VERSION_CMP=(_0x10702a,_0x1cd511)=>{const _0x2f8234=_0x506c06,_0x35db58=String(_0x10702a||'')[_0x2f8234(0xda)]()[_0x2f8234(0x10c)]('.')[_0x2f8234(0x117)](_0x1ed92b=>parseInt(_0x1ed92b,0xa)),_0x141694=String(_0x1cd511||'')[_0x2f8234(0xda)]()[_0x2f8234(0x10c)]('.')[_0x2f8234(0x117)](_0x2e434b=>parseInt(_0x2e434b,0xa));for(let _0x5ddc2a=0x0;_0x5ddc2a<0x3;_0x5ddc2a++){const _0x5bb77b=Number[_0x2f8234(0xb7)](_0x35db58[_0x5ddc2a])?_0x35db58[_0x5ddc2a]:0x0,_0x46c5f4=Number[_0x2f8234(0xb7)](_0x141694[_0x5ddc2a])?_0x141694[_0x5ddc2a]:0x0;if(_0x5bb77b<_0x46c5f4)return-0x1;if(_0x5bb77b>_0x46c5f4)return 0x1;}return 0x0;},LUMINA_REFRESH_AUTH=async _0x4d3b5c=>{const _0x2c555a=_0x506c06;let _0x332d5d=null,_0x3ab20e=!0x1,_0x31c5ea='';if(_0x2c555a(0xb2)==typeof _0x4d3b5c?_0x332d5d=_0x4d3b5c:_0x2c555a(0x100)==typeof _0x4d3b5c?_0x3ab20e=_0x4d3b5c:_0x4d3b5c&&_0x2c555a(0xd3)==typeof _0x4d3b5c&&(_0x332d5d=_0x2c555a(0xb2)==typeof _0x4d3b5c[_0x2c555a(0xca)]?_0x4d3b5c[_0x2c555a(0xca)]:null,_0x3ab20e=!!_0x4d3b5c[_0x2c555a(0xb4)],_0x31c5ea=_0x4d3b5c[_0x2c555a(0xe8)]?String(_0x4d3b5c[_0x2c555a(0xe8)]):''),!_0x3ab20e&&null!==LUMINA_AUTH_LIST_V1&&null!==LUMINA_AUTH_LIST_V2&&null!==LUMINA_AUTH_LIST_V3)return LUMINA_AUTH_LIST_V1;if(LUMINA_FETCHING)return null;LUMINA_FETCHING=!0x0,LUMINA_AUTH_META[_0x2c555a(0xdf)+_0x2c555a(0xcc)]=Date[_0x2c555a(0x106)](),LUMINA_AUTH_META[_0x2c555a(0xdd)]='';try{const _0x4f2250=LUMINA_REMOTE_URL+_0x2c555a(0x113)+Date[_0x2c555a(0x106)]();LUMINA_DEBUG_LICENSE&&console[_0x2c555a(0x10a)](_0x2c555a(0x10f)+_0x2c555a(0x116)+_0x2c555a(0xe4)+_0x2c555a(0x10b)+'rt',{'url':_0x4f2250,'force':_0x3ab20e,'reason':_0x31c5ea});const _0x36d16e=await fetch(_0x4f2250);try{LUMINA_AUTH_META[_0x2c555a(0xfc)+'us']=_0x36d16e&&_0x2c555a(0xf1)==typeof _0x36d16e[_0x2c555a(0x121)]?_0x36d16e[_0x2c555a(0x121)]:0x0;}catch(_0x31bd73){LUMINA_AUTH_META[_0x2c555a(0xfc)+'us']=0x0;}const _0x3dc577=(await _0x36d16e[_0x2c555a(0x104)]())[_0x2c555a(0x10c)](/\r?\n/);LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[];for(let _0x2b85f3=0x0;_0x2b85f3<_0x3dc577[_0x2c555a(0x10d)];_0x2b85f3++){const _0x20b66f=_0x3dc577[_0x2b85f3][_0x2c555a(0xda)](),_0x5a55f6=_0x20b66f[_0x2c555a(0x101)](/v1:([0-9a-fA-F]{64})/);_0x5a55f6&&_0x5a55f6[0x1]&&LUMINA_AUTH_LIST_V1[_0x2c555a(0xad)](String(_0x5a55f6[0x1])[_0x2c555a(0xcd)+_0x2c555a(0x120)]());const _0x14fb87=_0x20b66f[_0x2c555a(0x101)](/v2:([0-9a-fA-F]{64})/);_0x14fb87&&_0x14fb87[0x1]&&LUMINA_AUTH_LIST_V2[_0x2c555a(0xad)](String(_0x14fb87[0x1])[_0x2c555a(0xcd)+_0x2c555a(0x120)]());const _0x2e0e50=_0x20b66f[_0x2c555a(0x101)](/v3:([0-9a-fA-F]{64})/);_0x2e0e50&&_0x2e0e50[0x1]&&LUMINA_AUTH_LIST_V3[_0x2c555a(0xad)](String(_0x2e0e50[0x1])[_0x2c555a(0xcd)+_0x2c555a(0x120)]());}Array[_0x2c555a(0xbb)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x2c555a(0xc2)](_0x3ef770=>{const _0xc32aef=_0x2c555a;if(_0x3ef770&&_0xc32aef(0xf4)==typeof _0x3ef770&&0x40===_0x3ef770[_0xc32aef(0x10d)]){const _0x26ff2e=_0x3ef770[_0xc32aef(0xcd)+_0xc32aef(0x120)]();LUMINA_AUTH_LIST_V1[_0xc32aef(0xc7)](_0x26ff2e)||LUMINA_AUTH_LIST_V1[_0xc32aef(0xad)](_0x26ff2e);}}),Array[_0x2c555a(0xbb)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x2c555a(0xc2)](_0x2042eb=>{const _0x5ac280=_0x2c555a;if(_0x2042eb&&_0x5ac280(0xf4)==typeof _0x2042eb&&0x40===_0x2042eb[_0x5ac280(0x10d)]){const _0x3060d3=_0x2042eb[_0x5ac280(0xcd)+_0x5ac280(0x120)]();LUMINA_AUTH_LIST_V3[_0x5ac280(0xc7)](_0x3060d3)||LUMINA_AUTH_LIST_V3[_0x5ac280(0xad)](_0x3060d3);}}),LUMINA_AUTH_META[_0x2c555a(0xc1)]=Date[_0x2c555a(0x106)]();const _0x32daa7=Array[_0x2c555a(0xbb)](LUMINA_AUTH_LIST_V1)?LUMINA_AUTH_LIST_V1[_0x2c555a(0x10d)]:0x0,_0x368db5=Array[_0x2c555a(0xbb)](LUMINA_AUTH_LIST_V2)?LUMINA_AUTH_LIST_V2[_0x2c555a(0x10d)]:0x0,_0x290832=Array[_0x2c555a(0xbb)](LUMINA_AUTH_LIST_V3)?LUMINA_AUTH_LIST_V3[_0x2c555a(0x10d)]:0x0;LUMINA_AUTH_META[_0x2c555a(0x128)+'t']=_0x32daa7+_0x368db5+_0x290832,LUMINA_DEBUG_LICENSE&&console[_0x2c555a(0x10a)](_0x2c555a(0x10f)+_0x2c555a(0x116)+_0x2c555a(0xe4)+_0x2c555a(0xc4),{'count':LUMINA_AUTH_META[_0x2c555a(0x128)+'t'],'status':LUMINA_AUTH_META[_0x2c555a(0xfc)+'us']}),_0x332d5d&&_0x332d5d();}catch(_0x18cd6a){LUMINA_AUTH_META[_0x2c555a(0xdd)]=_0x18cd6a&&_0x18cd6a[_0x2c555a(0xe2)]?String(_0x18cd6a[_0x2c555a(0xe2)]):String(_0x18cd6a),LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[],Array[_0x2c555a(0xbb)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x2c555a(0xc2)](_0x584ab1=>{const _0x49fd8b=_0x2c555a;if(_0x584ab1&&_0x49fd8b(0xf4)==typeof _0x584ab1&&0x40===_0x584ab1[_0x49fd8b(0x10d)]){const _0x84c442=_0x584ab1[_0x49fd8b(0xcd)+_0x49fd8b(0x120)]();LUMINA_AUTH_LIST_V1[_0x49fd8b(0xc7)](_0x84c442)||LUMINA_AUTH_LIST_V1[_0x49fd8b(0xad)](_0x84c442);}}),Array[_0x2c555a(0xbb)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x2c555a(0xc2)](_0x8f5e46=>{const _0x2b771b=_0x2c555a;if(_0x8f5e46&&_0x2b771b(0xf4)==typeof _0x8f5e46&&0x40===_0x8f5e46[_0x2b771b(0x10d)]){const _0x5633a8=_0x8f5e46[_0x2b771b(0xcd)+_0x2b771b(0x120)]();LUMINA_AUTH_LIST_V3[_0x2b771b(0xc7)](_0x5633a8)||LUMINA_AUTH_LIST_V3[_0x2b771b(0xad)](_0x5633a8);}}),LUMINA_DEBUG_LICENSE&&console[_0x2c555a(0x10a)](_0x2c555a(0x10f)+_0x2c555a(0x116)+_0x2c555a(0xe4)+_0x2c555a(0x114),{'err':LUMINA_AUTH_META[_0x2c555a(0xdd)]}),_0x332d5d&&_0x332d5d();}finally{LUMINA_FETCHING=!0x1;}return LUMINA_AUTH_LIST_V1;};const __s = (...a) => a.join('');
+const _0xa27b86=_0x2d1b;(function(_0x448ce5,_0x236bd4){const _0x197936=_0x2d1b,_0xc4d64e=_0x448ce5();while(!![]){try{const _0x4ce30b=-parseInt(_0x197936(0x10c))/0x1+parseInt(_0x197936(0xe2))/0x2+-parseInt(_0x197936(0x13a))/0x3*(parseInt(_0x197936(0xda))/0x4)+parseInt(_0x197936(0x124))/0x5*(parseInt(_0x197936(0x118))/0x6)+-parseInt(_0x197936(0x140))/0x7*(-parseInt(_0x197936(0x142))/0x8)+-parseInt(_0x197936(0xe1))/0x9*(-parseInt(_0x197936(0xf8))/0xa)+parseInt(_0x197936(0x143))/0xb;if(_0x4ce30b===_0x236bd4)break;else _0xc4d64e['push'](_0xc4d64e['shift']());}catch(_0x4974c2){_0xc4d64e['push'](_0xc4d64e['shift']());}}}(_0x34ad,0x54bcc));const LUMINA_SHA256=_0x656242=>{const _0x5e69c1=_0x2d1b,_0x392cfa=(_0x115105,_0x522845)=>{const _0x112549=(0xffff&_0x115105)+(0xffff&_0x522845);return(_0x115105>>0x10)+(_0x522845>>0x10)+(_0x112549>>0x10)<<0x10|0xffff&_0x112549;},_0xe71ca8=(_0x274bb6,_0x138e43)=>_0x274bb6>>>_0x138e43|_0x274bb6<<0x20-_0x138e43,_0x1dd6ca=(_0x4b5360,_0x58f5ad)=>_0x4b5360>>>_0x58f5ad,_0x2d2cd6=(_0x2bcde3,_0x57cd54,_0x3ea4c8)=>_0x2bcde3&_0x57cd54^~_0x2bcde3&_0x3ea4c8,_0x1c5acc=(_0x37c014,_0x401644,_0x343148)=>_0x37c014&_0x401644^_0x37c014&_0x343148^_0x401644&_0x343148,_0x2dfb61=_0x12b62a=>_0xe71ca8(_0x12b62a,0x2)^_0xe71ca8(_0x12b62a,0xd)^_0xe71ca8(_0x12b62a,0x16),_0x429036=_0x3fb69c=>_0xe71ca8(_0x3fb69c,0x6)^_0xe71ca8(_0x3fb69c,0xb)^_0xe71ca8(_0x3fb69c,0x19),_0x37c22b=_0x279a47=>_0xe71ca8(_0x279a47,0x7)^_0xe71ca8(_0x279a47,0x12)^_0x1dd6ca(_0x279a47,0x3),_0x52304f=_0x32c4fc=>_0xe71ca8(_0x32c4fc,0x11)^_0xe71ca8(_0x32c4fc,0x13)^_0x1dd6ca(_0x32c4fc,0xa),_0x56bf16=(_0x38be1f=>{const _0x5174e7=_0x2d1b;_0x38be1f=_0x38be1f[_0x5174e7(0x12f)](/\r\n/g,'\x0a');let _0x59fa02='';for(let _0x4379c0=0x0;_0x4379c0<_0x38be1f[_0x5174e7(0xd4)];_0x4379c0++){const _0x40e7af=_0x38be1f[_0x5174e7(0xf2)+'At'](_0x4379c0);_0x40e7af<0x80?_0x59fa02+=String[_0x5174e7(0xeb)+_0x5174e7(0xea)](_0x40e7af):_0x40e7af>0x7f&&_0x40e7af<0x800?(_0x59fa02+=String[_0x5174e7(0xeb)+_0x5174e7(0xea)](_0x40e7af>>0x6|0xc0),_0x59fa02+=String[_0x5174e7(0xeb)+_0x5174e7(0xea)](0x3f&_0x40e7af|0x80)):(_0x59fa02+=String[_0x5174e7(0xeb)+_0x5174e7(0xea)](_0x40e7af>>0xc|0xe0),_0x59fa02+=String[_0x5174e7(0xeb)+_0x5174e7(0xea)](_0x40e7af>>0x6&0x3f|0x80),_0x59fa02+=String[_0x5174e7(0xeb)+_0x5174e7(0xea)](0x3f&_0x40e7af|0x80));}return _0x59fa02;})(_0x656242);return(_0x20dc9f=>{const _0x5c1796=_0x2d1b;let _0x414e55='';for(let _0x259e54=0x0;_0x259e54<0x4*_0x20dc9f[_0x5c1796(0xd4)];_0x259e54++)_0x414e55+=(_0x5c1796(0xef)+_0x5c1796(0x13c))[_0x5c1796(0xe5)](_0x20dc9f[_0x259e54>>0x2]>>0x8*(0x3-_0x259e54%0x4)+0x4&0xf)+(_0x5c1796(0xef)+_0x5c1796(0x13c))[_0x5c1796(0xe5)](_0x20dc9f[_0x259e54>>0x2]>>0x8*(0x3-_0x259e54%0x4)&0xf);return _0x414e55;})(((_0x20dbab,_0x4f460d)=>{const _0x31c578=_0x2d1b,_0x49ffcb=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2],_0x189c8e=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19],_0xa66f1=new Array(0x40);let _0x33e613,_0x48d503,_0x30e5c8,_0xf79f50,_0x1a6755,_0xaa7691,_0x33ad50,_0x1828bc,_0x237893,_0x164fee,_0x4ac18f,_0x438be8;for(_0x20dbab[_0x4f460d>>0x5]|=0x80<<0x18-_0x4f460d%0x20,_0x20dbab[0xf+(_0x4f460d+0x40>>0x9<<0x4)]=_0x4f460d,_0x237893=0x0;_0x237893<_0x20dbab[_0x31c578(0xd4)];_0x237893+=0x10){for(_0x33e613=_0x189c8e[0x0],_0x48d503=_0x189c8e[0x1],_0x30e5c8=_0x189c8e[0x2],_0xf79f50=_0x189c8e[0x3],_0x1a6755=_0x189c8e[0x4],_0xaa7691=_0x189c8e[0x5],_0x33ad50=_0x189c8e[0x6],_0x1828bc=_0x189c8e[0x7],_0x164fee=0x0;_0x164fee<0x40;_0x164fee++)_0xa66f1[_0x164fee]=_0x164fee<0x10?_0x20dbab[_0x164fee+_0x237893]:_0x392cfa(_0x392cfa(_0x392cfa(_0x52304f(_0xa66f1[_0x164fee-0x2]),_0xa66f1[_0x164fee-0x7]),_0x37c22b(_0xa66f1[_0x164fee-0xf])),_0xa66f1[_0x164fee-0x10]),_0x4ac18f=_0x392cfa(_0x392cfa(_0x392cfa(_0x392cfa(_0x1828bc,_0x429036(_0x1a6755)),_0x2d2cd6(_0x1a6755,_0xaa7691,_0x33ad50)),_0x49ffcb[_0x164fee]),_0xa66f1[_0x164fee]),_0x438be8=_0x392cfa(_0x2dfb61(_0x33e613),_0x1c5acc(_0x33e613,_0x48d503,_0x30e5c8)),_0x1828bc=_0x33ad50,_0x33ad50=_0xaa7691,_0xaa7691=_0x1a6755,_0x1a6755=_0x392cfa(_0xf79f50,_0x4ac18f),_0xf79f50=_0x30e5c8,_0x30e5c8=_0x48d503,_0x48d503=_0x33e613,_0x33e613=_0x392cfa(_0x4ac18f,_0x438be8);_0x189c8e[0x0]=_0x392cfa(_0x33e613,_0x189c8e[0x0]),_0x189c8e[0x1]=_0x392cfa(_0x48d503,_0x189c8e[0x1]),_0x189c8e[0x2]=_0x392cfa(_0x30e5c8,_0x189c8e[0x2]),_0x189c8e[0x3]=_0x392cfa(_0xf79f50,_0x189c8e[0x3]),_0x189c8e[0x4]=_0x392cfa(_0x1a6755,_0x189c8e[0x4]),_0x189c8e[0x5]=_0x392cfa(_0xaa7691,_0x189c8e[0x5]),_0x189c8e[0x6]=_0x392cfa(_0x33ad50,_0x189c8e[0x6]),_0x189c8e[0x7]=_0x392cfa(_0x1828bc,_0x189c8e[0x7]);}return _0x189c8e;})((_0x12447f=>{const _0x3266b1=_0x2d1b,_0x575239=[];for(let _0x119329=0x0;_0x119329<0x8*_0x12447f[_0x3266b1(0xd4)];_0x119329+=0x8)_0x575239[_0x119329>>0x5]|=(0xff&_0x12447f[_0x3266b1(0xf2)+'At'](_0x119329/0x8))<<0x18-_0x119329%0x20;return _0x575239;})(_0x56bf16),0x8*_0x56bf16[_0x5e69c1(0xd4)]));},LUMINA_REMOTE_URL=atob(_0xa27b86(0x11f)+_0xa27b86(0x108)+_0xa27b86(0xf4)+_0xa27b86(0xe9)+_0xa27b86(0xd7)+_0xa27b86(0xfd)+_0xa27b86(0x10f)+_0xa27b86(0x13d)+_0xa27b86(0xdc)+_0xa27b86(0x133)+_0xa27b86(0xff)+_0xa27b86(0x12c)+_0xa27b86(0x12a)+_0xa27b86(0x125)+_0xa27b86(0x134)+_0xa27b86(0xd0));function _0x2d1b(_0x20c861,_0x108cef){_0x20c861=_0x20c861-0xce;const _0x34ad3e=_0x34ad();let _0x2d1b7e=_0x34ad3e[_0x20c861];if(_0x2d1b['UAVrxI']===undefined){var _0x51f18b=function(_0x43454e){const _0x3fc2ea='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x656242='',_0x392cfa='';for(let _0xe71ca8=0x0,_0x1dd6ca,_0x2d2cd6,_0x1c5acc=0x0;_0x2d2cd6=_0x43454e['charAt'](_0x1c5acc++);~_0x2d2cd6&&(_0x1dd6ca=_0xe71ca8%0x4?_0x1dd6ca*0x40+_0x2d2cd6:_0x2d2cd6,_0xe71ca8++%0x4)?_0x656242+=String['fromCharCode'](0xff&_0x1dd6ca>>(-0x2*_0xe71ca8&0x6)):0x0){_0x2d2cd6=_0x3fc2ea['indexOf'](_0x2d2cd6);}for(let _0x2dfb61=0x0,_0x429036=_0x656242['length'];_0x2dfb61<_0x429036;_0x2dfb61++){_0x392cfa+='%'+('00'+_0x656242['charCodeAt'](_0x2dfb61)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x392cfa);};_0x2d1b['oZrjJb']=_0x51f18b,_0x2d1b['bhEmFF']={},_0x2d1b['UAVrxI']=!![];}const _0x20d42c=_0x34ad3e[0x0],_0x1c3ddf=_0x20c861+_0x20d42c,_0x25d07c=_0x2d1b['bhEmFF'][_0x1c3ddf];return!_0x25d07c?(_0x2d1b7e=_0x2d1b['oZrjJb'](_0x2d1b7e),_0x2d1b['bhEmFF'][_0x1c3ddf]=_0x2d1b7e):_0x2d1b7e=_0x25d07c,_0x2d1b7e;}function _0x34ad(){const _0x3939bd=['thK5BMfytJa','Aef0','zfHcA1LyuMW','BhvTAw5Hx2O','ndKYotu2A2HOzxbi','u2nYAxb0igW','yvC5Dq','yvC5EvOYBhy','CMfUzg9T','Dg9mB3DLCKm','C2v0sxrLBq','ChvZAa','zwj1z19SAwm','CMvHC29U','DhjPBq','CgfYzw50tM8','nNDbywfVzq','BM93','Aw5JBhvKzxm','AxnbCNjHEq','zvy5ALLysMS','C3rHDhvZ','C3rYAw5NAwy','yuHsmgnitty','Dgv4Da','C29UCf8','y2fSBgjHy2S','zM9YrwfJAa','mtCZndGWmef5uxDgDq','tdnkAgr5oxm','yJy0owjKmJi','lMrLDG','y3jLyxrLrwW','p3q9','tNPnD01hvMO','rwXLBwvUDa','tvrjnu1etMG','yKHwDgfxnwG','yM9KEq','CMvWBgfJzq','CMvTB3zLq2G','mJbLzdfIyJy','BNvTyMvY','wKrKA1KYrMO','zfCXCgjTrMy','zgvSzxrLtM8','B2jQzwn0','BhvTAw5Hx2q','mgrMotGWoty','zee9pq','mZi3uNb5rgPN','zNvUy3rPB24','odLHyMnKzwy','t0rzmKWYrM0','BhvTAw5HlwW','wLy5mK13pt0','nZK3odzkCe93Dfq','C3rHCNrZv2K','ndCYrhPIAgnf','mJaYmdi2tLvysMzc','C3jJ','yM9VBgvHBG','Dg9vChbLCKm','zM9Yy2u','Dg9tDhjPBMC','BgfZDfn0yxq','yxnL','jNq9','zMXVB3i','AwXK','wti5A1Prpt0','BgfZDevYCG','BwfW','zw1LBNq','BgvUz3rO','C3bSAxq','yxbWzw5Kq2G','yJi1mfPxnta','BgfZDezLDgm','mJe3yJi2yMi','mJi4odHxqKH0Ae0','zgqWmMrKmgu','wM1nmLPQstu','wdnwCfPbpt0','C3rYAw5N','Bwf0y2G','z2v0sxrLBq','mZC4r0HQBgXb','nJG2mti4yK9TD3rL','zw5Zzq','B25LCNjVCG','y2HHCKf0','C2XPy2u','zwj1z191Cgq','B2fKigvYCM8','ww5wELPysMO','q29Kzq','zNjVBunOyxi','mwq4mdaWzgm','ztq0yZLMzti','BgfZDenVDw4','mdeYmZq1nJC','vgLTzw91Da','yvC1Bwj3pt0','y2HHCKnVzgu','Ahr0Chm6lY8','tg1KCgrhAde','yxrL','tevdlq','m2u1ngjHzwi','mtK3mZbhCgfStM4','wdjwDvPysM4','lNDVCMTLCNm','CM94Es4Zzha','zg9JDw1LBNq','tg1oDMjtouG','AwnLBNnLlxa','txPNEe56ute','BwvZC2fNzq','BgfZDe9Rqxq','yLDSBMnTrJa','AxngAw5PDgu','Aw5KzxHpzG','CMLUDdG2mty','y21wEgrxvNO','C2nYAxb0'];_0x34ad=function(){return _0x3939bd;};return _0x34ad();}let LUMINA_AUTH_LIST_V1=null,LUMINA_AUTH_LIST_V2=null,LUMINA_AUTH_LIST_V3=null,LUMINA_FETCHING=!0x1,LUMINA_AUTH_META={'lastFetchAt':0x0,'lastOkAt':0x0,'lastErr':'','lastCount':0x0,'lastStatus':0x0};const LUMINA_UNLOCK_V1_IDS=[_0xa27b86(0xed)+_0xa27b86(0xdb)+_0xa27b86(0xf7)+_0xa27b86(0x138)+_0xa27b86(0x126)+_0xa27b86(0xd9)+_0xa27b86(0x131)+_0xa27b86(0xec)],LUMINA_UNLOCK_V3_IDS=[],LUMINA_DEBUG_LICENSE=((()=>{const _0x4320a6=_0xa27b86;try{return'1'===localStorage[_0x4320a6(0xe0)](_0x4320a6(0x137)+_0x4320a6(0x114)+_0x4320a6(0xe3));}catch(_0x212702){return!0x1;}})()),LUMINA_UID_KEY=atob(_0xa27b86(0x12d)+_0xa27b86(0xf9)+_0xa27b86(0x11c)+_0xa27b86(0xdd)),getLuminaUID=()=>{const _0x57f160=_0xa27b86;try{const _0x1a70f9=localStorage[_0x57f160(0xe0)](LUMINA_UID_KEY);if(_0x1a70f9&&_0x57f160(0xde)==typeof _0x1a70f9&&_0x1a70f9[_0x57f160(0x141)+'th'](_0x57f160(0xf6)))return _0x1a70f9;const _0x285093=(Math[_0x57f160(0x110)]()[_0x57f160(0x148)](0x10)[_0x57f160(0xe6)](0x2)+Math[_0x57f160(0x110)]()[_0x57f160(0x148)](0x10)[_0x57f160(0xe6)](0x2))[_0x57f160(0x146)+_0x57f160(0x14a)](),_0x2477b0=_0x57f160(0xf6)+Date[_0x57f160(0x119)]()[_0x57f160(0x148)](0x10)[_0x57f160(0x146)+_0x57f160(0x14a)]()+'-'+_0x285093[_0x57f160(0xe6)](0x0,0x10);return localStorage[_0x57f160(0x112)](LUMINA_UID_KEY,_0x2477b0),_0x2477b0;}catch(_0x351cab){const _0x5a3b99=Math[_0x57f160(0x110)]()[_0x57f160(0x148)](0x10)[_0x57f160(0xe6)](0x2,0xa)[_0x57f160(0x146)+_0x57f160(0x14a)]();return _0x57f160(0xf6)+Date[_0x57f160(0x119)]()[_0x57f160(0x148)](0x10)[_0x57f160(0x146)+_0x57f160(0x14a)]()+'-'+_0x5a3b99;}},LUMINA_LICENSE_ENDPOINT=_0xa27b86(0xf3)+_0xa27b86(0x13e)+_0xa27b86(0xfe)+_0xa27b86(0xfb)+_0xa27b86(0x105)+_0xa27b86(0xfa)+_0xa27b86(0x127),LUMINA_ACT_REQ=atob(_0xa27b86(0x106)+_0xa27b86(0x139)),LUMINA_ACT_MIG=atob(_0xa27b86(0x102)+_0xa27b86(0x10e)),LUMINA_ACT_UPDATEINFO=atob(_0xa27b86(0x10a)+_0xa27b86(0xf1)),LUMINA_ACT_MIGRATE_V3=atob(_0xa27b86(0x102)+_0xa27b86(0x13f)),LUMINA_DEBUG_UPDATE=((()=>{const _0x3ee195=_0xa27b86;try{return'1'===localStorage[_0x3ee195(0xe0)](_0x3ee195(0x137)+_0x3ee195(0xe7)+_0x3ee195(0xf5));}catch(_0x59dad5){return!0x1;}})()),LUMINA_JSONP=(_0x56f122,_0xc0aff3=0x3a98)=>new Promise((_0xa543c8,_0xfd9c40)=>{const _0x1ab863=_0xa27b86;try{const _0x873ee4=_0x1ab863(0x10b)+_0x1ab863(0x121)+Date[_0x1ab863(0x119)]()+'_'+Math[_0x1ab863(0xce)](0x3b9aca00*Math[_0x1ab863(0x110)]()),_0x180149=document[_0x1ab863(0x128)+_0x1ab863(0xd3)](_0x1ab863(0x107));let _0x3b64aa=!0x1;const _0x58c941=_0x2f5bd0=>{const _0x2350d7=_0x1ab863;if(!_0x3b64aa){if(_0x3b64aa=!0x0,_0x2f5bd0&&_0x2f5bd0[_0x2350d7(0x135)+'w'])try{delete window[_0x873ee4];}catch(_0x1da007){try{window[_0x873ee4]=void 0x0;}catch(_0x2ae3f8){}}else{try{window[_0x873ee4]=()=>{};}catch(_0x415e8e){}try{setTimeout(()=>{try{delete window[_0x873ee4];}catch(_0x11f9f1){}},0x1d4c0);}catch(_0x219160){}}try{_0x180149&&_0x180149[_0x2350d7(0x117)+'de']&&_0x180149[_0x2350d7(0x117)+'de'][_0x2350d7(0x130)+_0x2350d7(0xcf)](_0x180149);}catch(_0x511eba){}}},_0x24c77c=setTimeout(()=>{const _0x477098=_0x1ab863;_0x58c941({'deleteNow':!0x1}),_0xfd9c40(new Error(_0x477098(0xf0)));},_0xc0aff3);window[_0x873ee4]=_0x37dbe8=>{clearTimeout(_0x24c77c),_0x58c941({'deleteNow':!0x0}),_0xa543c8(_0x37dbe8);},_0x180149[_0x1ab863(0xe4)]=()=>{const _0x1d0f1d=_0x1ab863;clearTimeout(_0x24c77c),_0x58c941({'deleteNow':!0x0}),_0xfd9c40(new Error(_0x1d0f1d(0x10d)+_0x1d0f1d(0xe8)+'r'));},_0x180149[_0x1ab863(0x144)]=_0x56f122+(_0x56f122[_0x1ab863(0x104)]('?')>=0x0?'&':'?')+(_0x1ab863(0x122)+'=')+_0x873ee4+_0x1ab863(0x14b)+Date[_0x1ab863(0x119)](),(document[_0x1ab863(0x12e)]||document[_0x1ab863(0xfc)+_0x1ab863(0x12b)])[_0x1ab863(0xd6)+_0x1ab863(0xcf)](_0x180149);}catch(_0x1e9c7f){_0xfd9c40(_0x1e9c7f);}}),LUMINA_PACK=_0x41031e=>{const _0x58aea2=_0xa27b86;try{const _0x102a16=JSON[_0x58aea2(0x11e)+'y'](_0x41031e||{});return btoa(unescape(encodeURIComponent(_0x102a16)))[_0x58aea2(0x12f)](/\+/g,'-')[_0x58aea2(0x12f)](/\//g,'_')[_0x58aea2(0x12f)](/=+$/g,'');}catch(_0x33bde2){return'';}},LUMINA_VERSION_CMP=(_0x195996,_0x1ff7a6)=>{const _0x390d1d=_0xa27b86,_0x16626f=String(_0x195996||'')[_0x390d1d(0x116)]()[_0x390d1d(0xd5)]('.')[_0x390d1d(0xd2)](_0x3d10e5=>parseInt(_0x3d10e5,0xa)),_0x2bf25e=String(_0x1ff7a6||'')[_0x390d1d(0x116)]()[_0x390d1d(0xd5)]('.')[_0x390d1d(0xd2)](_0x2a7991=>parseInt(_0x2a7991,0xa));for(let _0x1a7955=0x0;_0x1a7955<0x3;_0x1a7955++){const _0x3badb7=Number[_0x390d1d(0x103)](_0x16626f[_0x1a7955])?_0x16626f[_0x1a7955]:0x0,_0x48420c=Number[_0x390d1d(0x103)](_0x2bf25e[_0x1a7955])?_0x2bf25e[_0x1a7955]:0x0;if(_0x3badb7<_0x48420c)return-0x1;if(_0x3badb7>_0x48420c)return 0x1;}return 0x0;},LUMINA_REFRESH_AUTH=async _0x200cff=>{const _0x36631e=_0xa27b86;let _0x31ec5f=null,_0x44745b=!0x1,_0x3ecd9a='';if(_0x36631e(0x13b)==typeof _0x200cff?_0x31ec5f=_0x200cff:_0x36631e(0x145)==typeof _0x200cff?_0x44745b=_0x200cff:_0x200cff&&_0x36631e(0x136)==typeof _0x200cff&&(_0x31ec5f=_0x36631e(0x13b)==typeof _0x200cff[_0x36631e(0x122)]?_0x200cff[_0x36631e(0x122)]:null,_0x44745b=!!_0x200cff[_0x36631e(0x147)],_0x200cff[_0x36631e(0x115)]?String(_0x200cff[_0x36631e(0x115)]):''),!_0x44745b&&null!==LUMINA_AUTH_LIST_V1&&null!==LUMINA_AUTH_LIST_V2&&null!==LUMINA_AUTH_LIST_V3)return LUMINA_AUTH_LIST_V1;if(LUMINA_FETCHING)return null;LUMINA_FETCHING=!0x0,LUMINA_AUTH_META[_0x36631e(0xd8)+_0x36631e(0x109)]=Date[_0x36631e(0x119)](),LUMINA_AUTH_META[_0x36631e(0xd1)]='';try{const _0x1a7e94=LUMINA_REMOTE_URL+_0x36631e(0x129)+Date[_0x36631e(0x119)](),_0x402497=await fetch(_0x1a7e94);try{LUMINA_AUTH_META[_0x36631e(0x149)+'us']=_0x402497&&_0x36631e(0x132)==typeof _0x402497[_0x36631e(0x11d)]?_0x402497[_0x36631e(0x11d)]:0x0;}catch(_0x226a35){LUMINA_AUTH_META[_0x36631e(0x149)+'us']=0x0;}const _0x21a70c=(await _0x402497[_0x36631e(0x120)]())[_0x36631e(0xd5)](/\r?\n/);LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[];for(let _0x1e3790=0x0;_0x1e3790<_0x21a70c[_0x36631e(0xd4)];_0x1e3790++){const _0x2ebd39=_0x21a70c[_0x1e3790][_0x36631e(0x116)](),_0x16a860=_0x2ebd39[_0x36631e(0xdf)](/v1:([0-9a-fA-F]{64})/);_0x16a860&&_0x16a860[0x1]&&LUMINA_AUTH_LIST_V1[_0x36631e(0x113)](String(_0x16a860[0x1])[_0x36631e(0x111)+_0x36631e(0x14a)]());const _0x43e393=_0x2ebd39[_0x36631e(0xdf)](/v2:([0-9a-fA-F]{64})/);_0x43e393&&_0x43e393[0x1]&&LUMINA_AUTH_LIST_V2[_0x36631e(0x113)](String(_0x43e393[0x1])[_0x36631e(0x111)+_0x36631e(0x14a)]());const _0x148de3=_0x2ebd39[_0x36631e(0xdf)](/v3:([0-9a-fA-F]{64})/);_0x148de3&&_0x148de3[0x1]&&LUMINA_AUTH_LIST_V3[_0x36631e(0x113)](String(_0x148de3[0x1])[_0x36631e(0x111)+_0x36631e(0x14a)]());}Array[_0x36631e(0x11b)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x36631e(0x123)](_0x3c9b69=>{const _0x3ae044=_0x36631e;if(_0x3c9b69&&_0x3ae044(0xde)==typeof _0x3c9b69&&0x40===_0x3c9b69[_0x3ae044(0xd4)]){const _0x3e817f=_0x3c9b69[_0x3ae044(0x111)+_0x3ae044(0x14a)]();LUMINA_AUTH_LIST_V1[_0x3ae044(0x11a)](_0x3e817f)||LUMINA_AUTH_LIST_V1[_0x3ae044(0x113)](_0x3e817f);}}),Array[_0x36631e(0x11b)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x36631e(0x123)](_0x2c8d2d=>{const _0x327640=_0x36631e;if(_0x2c8d2d&&_0x327640(0xde)==typeof _0x2c8d2d&&0x40===_0x2c8d2d[_0x327640(0xd4)]){const _0xf4109d=_0x2c8d2d[_0x327640(0x111)+_0x327640(0x14a)]();LUMINA_AUTH_LIST_V3[_0x327640(0x11a)](_0xf4109d)||LUMINA_AUTH_LIST_V3[_0x327640(0x113)](_0xf4109d);}}),LUMINA_AUTH_META[_0x36631e(0x101)]=Date[_0x36631e(0x119)]();const _0x529d4e=Array[_0x36631e(0x11b)](LUMINA_AUTH_LIST_V1)?LUMINA_AUTH_LIST_V1[_0x36631e(0xd4)]:0x0,_0x369796=Array[_0x36631e(0x11b)](LUMINA_AUTH_LIST_V2)?LUMINA_AUTH_LIST_V2[_0x36631e(0xd4)]:0x0,_0x1e710a=Array[_0x36631e(0x11b)](LUMINA_AUTH_LIST_V3)?LUMINA_AUTH_LIST_V3[_0x36631e(0xd4)]:0x0;LUMINA_AUTH_META[_0x36631e(0xee)+'t']=_0x529d4e+_0x369796+_0x1e710a,_0x31ec5f&&_0x31ec5f();}catch(_0x4def50){LUMINA_AUTH_META[_0x36631e(0xd1)]=_0x4def50&&_0x4def50[_0x36631e(0x100)]?String(_0x4def50[_0x36631e(0x100)]):String(_0x4def50),LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[],Array[_0x36631e(0x11b)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x36631e(0x123)](_0x4a97a9=>{const _0x1e33f4=_0x36631e;if(_0x4a97a9&&_0x1e33f4(0xde)==typeof _0x4a97a9&&0x40===_0x4a97a9[_0x1e33f4(0xd4)]){const _0x4d4beb=_0x4a97a9[_0x1e33f4(0x111)+_0x1e33f4(0x14a)]();LUMINA_AUTH_LIST_V1[_0x1e33f4(0x11a)](_0x4d4beb)||LUMINA_AUTH_LIST_V1[_0x1e33f4(0x113)](_0x4d4beb);}}),Array[_0x36631e(0x11b)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x36631e(0x123)](_0xe34cb0=>{const _0x2138fc=_0x36631e;if(_0xe34cb0&&_0x2138fc(0xde)==typeof _0xe34cb0&&0x40===_0xe34cb0[_0x2138fc(0xd4)]){const _0x450921=_0xe34cb0[_0x2138fc(0x111)+_0x2138fc(0x14a)]();LUMINA_AUTH_LIST_V3[_0x2138fc(0x11a)](_0x450921)||LUMINA_AUTH_LIST_V3[_0x2138fc(0x113)](_0x450921);}}),_0x31ec5f&&_0x31ec5f();}finally{LUMINA_FETCHING=!0x1;}return LUMINA_AUTH_LIST_V1;};const __s = (...a) => a.join('');
 const __b64 = (s) => {
   try {
     return (typeof atob === 'function') ? atob(s) : s;
@@ -912,10 +912,9 @@ class LuminaEnergyCard extends HTMLElement {
     this._remoteUpdateInfo = null;
     this._remoteUpdateLastAt = 0;
     this._remoteUpdateInFlight = false;
-    // Temporary: force remote UI polling (PayPal/PRO) every 20s.
-    // We'll raise this later (or make it configurable).
+    // Default poll interval before backend responds. 5h for 20k+ installs.
     this._remoteUiPollTimer = null;
-    this._remoteUiPollMs = 20 * 1000;
+    this._remoteUiPollMs = 18000 * 1000;
     // Install ping (logs HA user id + uid to backend sheet)
     this._installPingInFlight = false;
     this._installPingDone = false;
@@ -954,6 +953,7 @@ class LuminaEnergyCard extends HTMLElement {
     this._textsVisible = 2; // Text visibility state: 0=all visible, 1=grid/pv boxes and lines hidden, 2=all hidden (default for first install)
     this._textsVisibleStorageKey = null;
     this._textsVisibleLoadedFromStorage = false;
+    this._textsVisibleLoadAttempted = false;
     this._textsVisibleUserTouched = false;
     this._motionLastDetectedAt = null; // timestamp when motion last seen (for 60s keep-alive)
     this._motionHideTimer = null;       // timeout id to re-run visibility after 60s
@@ -980,7 +980,7 @@ class LuminaEnergyCard extends HTMLElement {
     // 1. Render debounce/throttle
     this._renderScheduled = false;
     this._renderTimeoutId = null;
-    this._renderDebounceMs = 100; // Max 1 render per 100ms
+    this._renderDebounceMs = 50; // Max 1 render per 50ms (snappier preview)
     
     // 2. State cache for getStateSafe memoization
     this._stateCache = new Map();
@@ -1031,13 +1031,7 @@ class LuminaEnergyCard extends HTMLElement {
 
   _logFlow(...args) {
     if (!this._isDebugFlowLogsEnabled()) return;
-    try {
-      if (typeof console !== 'undefined' && console && typeof console.log === 'function') {
-        console.log('[LuminaEnergyCard][flow]', ...args);
-      }
-    } catch (e) {
-      // ignore
-    }
+    (function() { /* logs disabled */ })();
   }
 
   _tryAdoptHassFromHomeAssistant() {
@@ -1065,9 +1059,7 @@ class LuminaEnergyCard extends HTMLElement {
       const ms = Number.isFinite(Number(throttleMs)) ? Number(throttleMs) : 1000;
       if (now - last < ms) return;
       if (this._debugLogLastTs) this._debugLogLastTs.set(key, now);
-      // Use warn so it's visible even with "Verbose" hidden in browser console
-      // eslint-disable-next-line no-console
-      console.warn(`[Lumina][debug] ${key}`, payload);
+      /* logs disabled */
     } catch (e) {
       // ignore
     }
@@ -1219,7 +1211,7 @@ class LuminaEnergyCard extends HTMLElement {
         'Colletta temporarily unavailable / Colletta temporaneamente non disponibile.';
 
       return {
-        disable_paypal: true,
+        disable_paypal: disablePaypal,
         paypal_disabled_message: paypalDisabledMessage,
         disable_colletta: disableColletta,
         colletta_disabled_message: collettaDisabledMessage,
@@ -1228,8 +1220,8 @@ class LuminaEnergyCard extends HTMLElement {
       };
     } catch (e) {
       return {
-        disable_paypal: true,
-        paypal_disabled_message: 'PayPal temporarily unavailable / PayPal temporaneamente non disponibile.',
+        disable_paypal: false,
+        paypal_disabled_message: '',
         disable_colletta: false,
         colletta_disabled_message: 'Colletta temporarily unavailable / Colletta temporaneamente non disponibile.',
         disable_pro_section: false,
@@ -1256,8 +1248,6 @@ class LuminaEnergyCard extends HTMLElement {
       const p = LUMINA_PACK({ u: uid, h: haUserId || '', v: current || '' });
       if (!p) return;
       const url = `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
-      if (LUMINA_DEBUG_UPDATE) console.warn('[Lumina][update] check.start', { url, current });
-
       LUMINA_JSONP(url, 15000).then((data) => {
         try {
           const latest = data && data.latest_card_version ? String(data.latest_card_version) : '';
@@ -1273,7 +1263,6 @@ class LuminaEnergyCard extends HTMLElement {
           out.url = link;
           out.fetchedAt = Date.now();
           this._remoteUpdateInfo = out;
-          if (LUMINA_DEBUG_UPDATE) console.warn('[Lumina][update] check.done', { show, current, latest, forceShow });
         } catch (e1) {
           this._remoteUpdateInfo = null;
         }
@@ -1286,7 +1275,6 @@ class LuminaEnergyCard extends HTMLElement {
           }
         } catch (e2) { /* ignore */ }
       }).catch((err) => {
-        if (LUMINA_DEBUG_UPDATE) console.warn('[Lumina][update] check.err', { err: (err && err.message) ? err.message : String(err) });
       }).finally(() => {
         this._remoteUpdateInFlight = false;
       });
@@ -1318,31 +1306,22 @@ class LuminaEnergyCard extends HTMLElement {
   }
 
   _loadTextsVisibleFromStorage() {
-    if (this._textsVisibleUserTouched) {
-      return;
-    }
-    if (this._textsVisibleLoadedFromStorage) {
-      return;
-    }
+    if (this._textsVisibleUserTouched) return;
+    if (this._textsVisibleLoadAttempted) return;
+    this._textsVisibleLoadAttempted = true;
     try {
       const key = this._computeTextsVisibleStorageKey();
       this._textsVisibleStorageKey = key;
-      if (typeof window === 'undefined' || !window.localStorage) {
-        this._textsVisibleLoadedFromStorage = true;
-        return;
-      }
+      if (typeof window === 'undefined' || !window.localStorage) return;
       const raw = window.localStorage.getItem(key);
-      if (raw === null || raw === undefined) {
-        this._textsVisibleLoadedFromStorage = true;
-        return;
-      }
+      if (raw === null || raw === undefined) return;
       const n = Number(raw);
       if (Number.isFinite(n) && n >= 0 && n <= 2) {
         this._textsVisible = n;
+        this._textsVisibleLoadedFromStorage = true;
       }
-      this._textsVisibleLoadedFromStorage = true;
     } catch (e) {
-      this._textsVisibleLoadedFromStorage = true;
+      // ignore
     }
   }
 
@@ -1362,6 +1341,11 @@ class LuminaEnergyCard extends HTMLElement {
   }
 
   _revalidateAuthFromConfig_() {
+    // Preview cards are always authorized - skip expensive hashing
+    if (this.classList && this.classList.contains('editor-preview-card')) {
+      this._isAuthorized = true;
+      return;
+    }
     const merged = this.config || this._defaults || {};
     const pw = merged.pro_password;
     if (!pw || typeof pw !== 'string' || !pw.trim()) {
@@ -1386,13 +1370,11 @@ class LuminaEnergyCard extends HTMLElement {
           !!(hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3));
       }
       this._isAuthorized = isValid;
-      if (typeof console !== 'undefined' && console.log) console.log('[Lumina][home] _revalidateAuthFromConfig_ after refresh', { isValid });
     }
   }
 
   setConfig(config) {
     const isPreview = !!(this.classList && this.classList.contains('editor-preview-card'));
-    if (isPreview && typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] card setConfig called, config=', !!config);
     if (!config) {
       if (isPreview && typeof console !== 'undefined' && console.error) console.error('[Lumina Preview] card setConfig: Invalid configuration (null/undefined)');
       throw new Error('Invalid configuration');
@@ -1409,6 +1391,9 @@ class LuminaEnergyCard extends HTMLElement {
       for (let i = 1; i <= 10; i++) {
         const s = i === 1 ? '' : `_${i}`;
         imageKeys.push(`overlay_image${s}`, `overlay_image${s}_enabled`, `overlay_image${s}_x`, `overlay_image${s}_y`, `overlay_image${s}_width`, `overlay_image${s}_height`, `overlay_image${s}_opacity`);
+      }
+      for (let i = 1; i <= 10; i++) {
+        imageKeys.push('custom_text_' + i + '_enabled', 'custom_text_' + i + '_text', 'custom_text_' + i + '_sensor', 'custom_text_' + i + '_x', 'custom_text_' + i + '_y', 'custom_text_' + i + '_color', 'custom_text_' + i + '_size', 'custom_text_' + i + '_rotate', 'custom_text_' + i + '_skew_x', 'custom_text_' + i + '_skew_y');
       }
       for (const key of imageKeys) {
         const incoming = config[key];
@@ -1460,6 +1445,7 @@ class LuminaEnergyCard extends HTMLElement {
     }
     // Restore text toggle state (persists across refresh/editor open/close)
     this._textsVisibleLoadedFromStorage = false;
+    this._textsVisibleLoadAttempted = false;
     this._loadTextsVisibleFromStorage();
     // First configuration: no entities configured → force all text hidden (no labels on background)
     if (!hasConfiguredEntities) {
@@ -1468,42 +1454,44 @@ class LuminaEnergyCard extends HTMLElement {
     // Recompute caches derived from config
     this._trackedEntityIds = this._computeTrackedEntityIds(this.config);
     // Set _isAuthorized for home button / house icons (PRO-gated features)
-    const pw = merged.pro_password;
-    if (pw && typeof pw === 'string' && pw.trim()) {
-      const trimmed = pw.trim();
-      const haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-      const hashV3 = haUserId ? LUMINA_SHA256(trimmed + haUserId) : '';
-      const v3Used = haUserId && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserId);
-      let isValid = false;
-      const listsNull = { v1: LUMINA_AUTH_LIST_V1 === null, v2: LUMINA_AUTH_LIST_V2 === null, v3: LUMINA_AUTH_LIST_V3 === null };
-      if (LUMINA_AUTH_LIST_V1 !== null && LUMINA_AUTH_LIST_V2 !== null && LUMINA_AUTH_LIST_V3 !== null) {
-        if (v3Used) {
-          isValid = !!(hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3)) ||
-            !!(Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(LUMINA_SHA256(trimmed)));
+    // Preview cards always authorized - skip expensive SHA256 hashing
+    if (isPreview) {
+      this._isAuthorized = true;
+    } else {
+      const pw = merged.pro_password;
+      if (pw && typeof pw === 'string' && pw.trim()) {
+        const trimmed = pw.trim();
+        const haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
+        const hashV3 = haUserId ? LUMINA_SHA256(trimmed + haUserId) : '';
+        const v3Used = haUserId && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserId);
+        let isValid = false;
+        const listsNull = { v1: LUMINA_AUTH_LIST_V1 === null, v2: LUMINA_AUTH_LIST_V2 === null, v3: LUMINA_AUTH_LIST_V3 === null };
+        if (LUMINA_AUTH_LIST_V1 !== null && LUMINA_AUTH_LIST_V2 !== null && LUMINA_AUTH_LIST_V3 !== null) {
+          if (v3Used) {
+            isValid = !!(hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3)) ||
+              !!(Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(LUMINA_SHA256(trimmed)));
+          } else {
+            const h1 = LUMINA_SHA256(trimmed);
+            const uid = getLuminaUID();
+            const h2 = LUMINA_SHA256(trimmed + uid);
+            isValid = (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(h1)) ||
+              (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(h2)) ||
+              !!(hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3));
+          }
+          this._isAuthorized = isValid;
         } else {
-          const h1 = LUMINA_SHA256(trimmed);
-          const uid = getLuminaUID();
-          const h2 = LUMINA_SHA256(trimmed + uid);
-          isValid = (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(h1)) ||
-            (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(h2)) ||
-            !!(hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3));
+          this._isAuthorized = false;
+          try {
+            LUMINA_REFRESH_AUTH(() => {
+              this._revalidateAuthFromConfig_();
+              this._forceRender = true;
+              this._scheduleRender();
+            });
+          } catch (e0) { /* ignore */ }
         }
-        this._isAuthorized = isValid;
-        if (typeof console !== 'undefined' && console.log) console.log('[Lumina][home] setConfig auth', { isValid, v3Used, listsNull, haUserId: haUserId ? 'set' : 'empty' });
       } else {
         this._isAuthorized = false;
-        if (typeof console !== 'undefined' && console.log) console.log('[Lumina][home] setConfig auth lists null', listsNull);
-        try {
-          LUMINA_REFRESH_AUTH(() => {
-            this._revalidateAuthFromConfig_();
-            this._forceRender = true;
-            this._scheduleRender();
-          });
-        } catch (e0) { /* ignore */ }
       }
-    } else {
-      this._isAuthorized = false;
-      if (typeof console !== 'undefined' && console.log) console.log('[Lumina][home] setConfig no pw', { hasPw: !!(pw && typeof pw === 'string' && pw.trim()) });
     }
     this._perfSettings = null;
     this._forceRender = true;
@@ -1524,38 +1512,46 @@ class LuminaEnergyCard extends HTMLElement {
 
     // Avoid full rebuild when only layout/dev values change in editor (prevents background flicker).
     // Always force rebuild when language changes so box labels etc. update.
-    if (hasDeveloperValues && isEditorActive && !langChanged) {
+    // Preview cards ALWAYS need full rebuild so custom texts / bg image appear correctly.
+    if (hasDeveloperValues && isEditorActive && !langChanged && !isPreview) {
       this._forceRender = false;
     }
 
     // Remote update check (GAS): run once after config is set.
-    // Uses JSONP to avoid CORS issues in HA.
-    try {
-      this._scheduleRemoteUpdateCheck_({ force: true, reason: 'setConfig' });
-    } catch (e) { /* ignore */ }
+    // Skip for preview cards to avoid unnecessary network calls.
+    if (!isPreview) {
+      try {
+        this._scheduleRemoteUpdateCheck_({ force: true, reason: 'setConfig' });
+      } catch (e) { /* ignore */ }
+    }
 
     if (this._hass) {
-      if (hasDeveloperValues && isEditorActive) {
+      if (isPreview) {
+        // Preview cards always render on config change (must rebuild template for custom texts/bg)
         try { this.render(); } catch (e) {
-          if (isPreview && typeof console !== 'undefined' && console.error) console.error('[Lumina Preview] card render() error (editor)', e);
+          if (typeof console !== 'undefined' && console.error) console.error('[Lumina Preview] card render() error (preview)', e);
+          throw e;
+        }
+      } else if (hasDeveloperValues && isEditorActive) {
+        try { this.render(); } catch (e) {
+          if (typeof console !== 'undefined' && console.error) console.error('[Lumina Preview] card render() error (editor)', e);
           throw e;
         }
       } else if (!isEditorActive) {
         try { this.render(); } catch (e) {
-          if (isPreview && typeof console !== 'undefined' && console.error) console.error('[Lumina Preview] card render() error', e);
+          if (typeof console !== 'undefined' && console.error) console.error('[Lumina Preview] card render() error', e);
           throw e;
         }
       }
     } else {
-      if (hasDeveloperValues) {
+      if (isPreview || hasDeveloperValues) {
         this._hass = { states: {} };
         try { this.render(); } catch (e) {
-          if (isPreview && typeof console !== 'undefined' && console.error) console.error('[Lumina Preview] card render() error (no hass)', e);
+          if (typeof console !== 'undefined' && console.error) console.error('[Lumina Preview] card render() error (no hass)', e);
           throw e;
         }
       }
     }
-    if (isPreview && typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] card setConfig finished');
   }
 
   _scheduleRemoteUpdateCheck_(opts) {
@@ -1575,9 +1571,6 @@ class LuminaEnergyCard extends HTMLElement {
     const p = LUMINA_PACK({ u: uid, h: haUserId || '', v: current || '' });
     if (!p) return;
     const url = `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
-    if (LUMINA_DEBUG_UPDATE) {
-      console.warn('[Lumina][update] check.start', { url, current, force, reason });
-    }
     LUMINA_JSONP(url, 15000).then((data) => {
       this._remoteUpdateInFlight = false;
       this._remoteUpdateLastAt = Date.now();
@@ -1595,10 +1588,8 @@ class LuminaEnergyCard extends HTMLElement {
         out.url = link;
         out.fetchedAt = Date.now();
         this._remoteUpdateInfo = out;
-        if (LUMINA_DEBUG_UPDATE) console.warn('[Lumina][update] check.ok', out || null);
       } catch (e0) {
         this._remoteUpdateInfo = data || null;
-        if (LUMINA_DEBUG_UPDATE) console.warn('[Lumina][update] check.ok', data || null);
       }
 
       // Backend-controlled polling interval (seconds) via updateinfo response:
@@ -1633,7 +1624,6 @@ class LuminaEnergyCard extends HTMLElement {
       this._remoteUpdateInFlight = false;
       this._remoteUpdateLastAt = Date.now();
       this._remoteUpdateInfo = { success: false, error: (e && e.message) ? e.message : String(e) };
-      if (LUMINA_DEBUG_UPDATE) console.warn('[Lumina][update] check.err', this._remoteUpdateInfo);
     });
   }
 
@@ -1662,7 +1652,9 @@ class LuminaEnergyCard extends HTMLElement {
     // In the visual editor preview we still want the card to react to hass changes
     // (otherwise flow directions like Grid↔Inverter can look wrong until you save/exit).
     // We only avoid forcing a full rebuild here; `_ensureTemplate` will keep DOM stable.
-    if (this._isEditorActive() && !hasDeveloperValues) {
+    // Preview cards must keep _forceRender so custom texts and bg images render correctly.
+    const isPreviewHass = !!(this.classList && this.classList.contains('editor-preview-card'));
+    if (this._isEditorActive() && !hasDeveloperValues && !isPreviewHass) {
       this._forceRender = false;
     }
     
@@ -1759,28 +1751,20 @@ class LuminaEnergyCard extends HTMLElement {
       const keyOkHa = haUserId ? `lumina_energy_card:installPingOk:${haUserId}` : '';
       const keyOkUid = `lumina_energy_card:installPingOk:uid:${uid}`;
       const keyFail = `lumina_energy_card:installPingFail:${haUserId || ('uid:' + uid)}`;
-      const keySentWithoutHa = 'lumina_energy_card:installSentWithoutHaUserId';
-      const keyRetryAt = 'lumina_energy_card:installRetryAt';
       const now = Date.now();
-      const oneDay = 24 * 60 * 60 * 1000;
       const oneHour = 60 * 60 * 1000;
 
       try {
         if (haUserId) {
           const prevOkHa = parseInt((window && window.localStorage) ? (window.localStorage.getItem(keyOkHa) || '0') : '0', 10) || 0;
-          if (prevOkHa && (now - prevOkHa) < oneDay) {
+          if (prevOkHa) {
             this._installPingDone = true;
             return;
           }
         } else {
           const prevOkUid = parseInt((window && window.localStorage) ? (window.localStorage.getItem(keyOkUid) || '0') : '0', 10) || 0;
-          if (prevOkUid && (now - prevOkUid) < oneDay) {
-            if (!this._installRetryTimer) {
-              const retryAt = parseInt((window && window.localStorage) ? (window.localStorage.getItem(keyRetryAt) || '0') : '0', 10) || 0;
-              if (retryAt && now < retryAt) {
-                this._installRetryTimer = setTimeout(() => { this._installRetryTimer = null; this._maybeSendInstallPing_(); }, Math.min(retryAt - now, oneHour)); 
-              }
-            }
+          if (prevOkUid) {
+            this._installPingDone = true;
             return;
           }
         }
@@ -1802,26 +1786,23 @@ class LuminaEnergyCard extends HTMLElement {
             const ls = window.localStorage;
             if (haUserId) {
               ls.setItem(keyOkHa, String(Date.now()));
-              ls.removeItem(keySentWithoutHa);
             } else {
               ls.setItem(keyOkUid, String(Date.now()));
-              ls.setItem(keySentWithoutHa, String(Date.now()));
-              ls.setItem(keyRetryAt, String(Date.now() + oneHour));
             }
           }
-          if (haUserId) this._installPingDone = true;
+          this._installPingDone = true;
         } catch (eK) { /* ignore */ }
       }).catch(() => {
         try { if (window && window.localStorage) window.localStorage.setItem(keyFail, String(Date.now())); } catch (eK2) { /* ignore */ }
         this._installPingDone = false;
-      }).finally(() => {
-        this._installPingInFlight = false;
         if (!hadHaUserId && !this._installRetryTimer) {
           this._installRetryTimer = setTimeout(() => {
             this._installRetryTimer = null;
             try { this._maybeSendInstallPing_(); } catch (e0) { /* ignore */ }
           }, oneHour);
         }
+      }).finally(() => {
+        this._installPingInFlight = false;
       });
     } catch (e) {
       this._installPingInFlight = false;
@@ -2301,10 +2282,12 @@ class LuminaEnergyCard extends HTMLElement {
       dev_grid_box_width: 180,
       dev_grid_box_height: 67,
       dev_grid_box_font_size: 10,
+      show_grid_box: true,
       show_grid_box_line_0: true,
       show_grid_box_line_1: true,
       show_grid_box_line_2: true,
       show_grid_box_line_3: true,
+      show_pv_box: true,
       dev_pv_box_x: 20,
       dev_pv_box_y: 15,
       dev_pv_box_width: 169,
@@ -2378,7 +2361,7 @@ class LuminaEnergyCard extends HTMLElement {
       sensor_solar_forecast: null,
       solar_forecast_max_power: 10000, // Max power in W for percentage calculation
       solar_forecast_x: 400,
-      solar_forecast_y: 350,
+      solar_forecast_y: 400,
       solar_forecast_color: '#00FFFF',
       solar_forecast_size: 16,
       text_font_size: 12, // Unified font size for all text elements
@@ -2532,8 +2515,9 @@ class LuminaEnergyCard extends HTMLElement {
       enable_echo_alive: false,
       hide_home_button: false,
       show_clock: false,
-      dev_clock_x: 680,
-      dev_clock_y: 26,
+      dev_clock_x: 400,
+      dev_clock_y: 80,
+      dev_clock_color: '#00FFFF',
       dev_title_x: 400,
       dev_title_y: 32,
       enable_text_toggle_button: true,
@@ -2605,8 +2589,7 @@ class LuminaEnergyCard extends HTMLElement {
       }
     } catch (e0) { /* ignore */ }
 
-    // Force-poll remote updateinfo to apply remote UI controls quickly.
-    // NOTE: this is intentionally aggressive (20s) for testing; adjust later.
+    // Poll remote updateinfo to apply remote UI controls (interval from backend, default 5h).
     try {
       if (!this._remoteUiPollTimer) {
         this._remoteUiPollTimer = setInterval(() => {
@@ -6300,9 +6283,6 @@ class LuminaEnergyCard extends HTMLElement {
           (LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null) ||
           ((Array.isArray(LUMINA_AUTH_LIST_V1) && Array.isArray(LUMINA_AUTH_LIST_V2) && Array.isArray(LUMINA_AUTH_LIST_V3) && !LUMINA_AUTH_LIST_V1.length && !LUMINA_AUTH_LIST_V2.length && !LUMINA_AUTH_LIST_V3.length && LUMINA_AUTH_META.lastErr));
         if (shouldRefresh) {
-          if (LUMINA_DEBUG_LICENSE) {
-            console.warn('[Lumina][license] verify.triggerRefresh', { v1: LUMINA_AUTH_LIST_V1, v2: LUMINA_AUTH_LIST_V2, v3: LUMINA_AUTH_LIST_V3, lastErr: LUMINA_AUTH_META.lastErr });
-          }
           LUMINA_REFRESH_AUTH({ force: true, reason: 'verifyFeatureAuth', callback: () => { this._forceRender = true; this._scheduleRender(); } });
         }
         return ok;
@@ -6453,7 +6433,14 @@ class LuminaEnergyCard extends HTMLElement {
     if (typeof verifyFeatureAuth !== 'function') {
       throw new Error('verifyFeatureAuth is not defined or not a function at first check');
     }
-    const isProEnabled = verifyFeatureAuth(authInput);
+    const isPreviewCardRender = !!(this.classList && this.classList.contains('editor-preview-card'));
+    // Preview card may temporarily lose hass.user.id during HA lifecycle; treat PRO as enabled
+    // so custom texts/flows/overlays remain visible while the user is configuring them.
+    const authVerified = verifyFeatureAuth(authInput);
+    const authListsLoading = (typeof LUMINA_AUTH_LIST_V1 === 'undefined' || LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null);
+    const hasPwTrimmed = !!(authInput && typeof authInput === 'string' && authInput.trim());
+    // While auth lists are loading, if user has password set, show PRO features (avoid hiding custom texts on first paint)
+    const isProEnabled = authVerified || isPreviewCardRender || (hasPwTrimmed && authListsLoading);
     showDebugGrid = isProEnabled && Boolean(config.pro_debug_grid);
     this._debugGridEnabled = showDebugGrid;
 
@@ -6489,11 +6476,7 @@ class LuminaEnergyCard extends HTMLElement {
     // Debugging: logs for dashes start + shimmer direction issues
     // Enable with YAML: debug_animation: true
     this._debugAnimation = Boolean(config.debug_animation);
-    if (this._debugAnimation && !this._debugAnimationBannerLogged) {
-      this._debugAnimationBannerLogged = true;
-      // eslint-disable-next-line no-console
-      console.warn('[Lumina][debug] debug_animation enabled (you should see more logs now)');
-    }
+    if (this._debugAnimation && !this._debugAnimationBannerLogged) this._debugAnimationBannerLogged = true;
 
     // Flow stroke width overrides (no SVG editing required).
     // - flow_stroke_width: applies to non-fluid flow styles (dashes/dots/etc)
@@ -6808,16 +6791,22 @@ class LuminaEnergyCard extends HTMLElement {
     const flowThrA1 = Number.isFinite(thrA1) ? thrA1 : 50;
     const flowThrA2 = Number.isFinite(thrA2) ? thrA2 : 50;
 
+    // Flusso inverter→casa: visibile quando l'inverter sta davvero alimentando la casa.
+    // - In import: inverter_to_house = max(0, carico_casa - import_rete). Es. casa 2 kW, rete 1 kW → 1 kW da inverter.
+    // - In export: la casa è alimentata da FV/batteria → mostriamo il flusso se c'è carico.
+    const houseLoad = Number.isFinite(houseTotalLoad) ? houseTotalLoad : 0;
+    const gridImp = Number.isFinite(gridImport) ? Math.max(0, gridImport) : 0;
+    const inverterToHouseW = (gridNet != null && gridNet < 0)
+      ? houseLoad
+      : Math.max(0, houseLoad - gridImp);
+    // Con House o Inverter: mostra anche inverter→casa quando c'è FV o batteria (oltre alla logica carico - import).
+    const loadFlowActive = inverterToHouseW > thrLoad ||
+      ((gridFlowTargetRaw === 'house' || gridFlowTargetRaw === 'inverter') && (pv_primary_w > flowThrA1 || pv_secondary_w > flowThrA2 || Math.abs(total_bat_w) > thrBat));
     const flows = {
       pv1: { stroke: pvPrimaryColor, glowColor: pvPrimaryColor, active: pv_primary_w > flowThrA1 },
       pv2: { stroke: pvSecondaryColor, glowColor: pvSecondaryColor, active: pv_secondary_w > flowThrA2 },
       bat: { stroke: bat_col, glowColor: bat_col, active: Math.abs(total_bat_w) > thrBat, direction: batteryDirectionSign },
-      load: { stroke: effectiveLoadFlowColor, glowColor: effectiveLoadFlowColor, active: (() => {
-        if (gridFlowTargetRaw === 'house' && (config.sensor_home_load && String(config.sensor_home_load).trim())) {
-          return false;
-        }
-        return loadMagnitude > thrLoad;
-      })(), direction: (loadInvertFlow ? -1 : 1) },
+      load: { stroke: effectiveLoadFlowColor, glowColor: effectiveLoadFlowColor, active: loadFlowActive, direction: (loadInvertFlow ? -1 : 1) },
       grid: { stroke: effectiveGridColor, glowColor: effectiveGridColor, active: gridActiveForGrid, direction: gridAnimationDirection },
       grid_house: { stroke: effectiveGridColor, glowColor: effectiveGridColor, active: gridActiveForHouse, direction: gridAnimationDirection },
       car1: { stroke: carFlowColor, glowColor: carFlowColor, active: showCar1 && Math.abs(car1PowerValue) > thrCar, direction: (() => {
@@ -6881,19 +6870,21 @@ class LuminaEnergyCard extends HTMLElement {
       const threshold = Number(config[`custom_flow_${i}_threshold`]) || 10;
       const directionMode = String(config[`custom_flow_${i}_direction`] || 'auto').toLowerCase().trim();
 
-      // Get sensor value
+      // Get sensor value (ensure number for sign check in 'auto')
       const powerValue = hasSensor ? this.getStateSafe(sensorId.trim()) : 0;
-      const powerMagnitude = Math.abs(powerValue);
+      const powerNum = Number(powerValue);
+      const powerMagnitude = Math.abs(powerNum);
 
       // Determine if flow is active
       const isActive = hasSensor ? (powerMagnitude > threshold) : true;
 
       // Determine direction (normalized: forward | reverse | auto)
+      // auto: positive value = forward (1), negative value = reverse (-1, path will be reversed later)
       let direction = 1; // default forward
       if (directionMode === 'reverse') {
         direction = -1;
       } else if (directionMode === 'auto') {
-        direction = hasSensor ? (powerValue >= 0 ? 1 : -1) : 1;
+        direction = hasSensor ? (powerNum >= 0 ? 1 : -1) : 1;
       }
 
       // Only add to flows if enabled and has valid sensor/path
@@ -7008,6 +6999,7 @@ class LuminaEnergyCard extends HTMLElement {
     };
 
     const customTexts = [];
+    const customTextEnabledCount = [1,2,3,4,5,6,7,8,9,10].filter(function(i){ return Boolean(config['custom_text_' + i + '_enabled']); }).length;
     if (isProEnabled) {
       for (let i = 1; i <= 10; i++) {
         const enabled = Boolean(config[`custom_text_${i}_enabled`]);
@@ -7056,22 +7048,25 @@ class LuminaEnergyCard extends HTMLElement {
           size: Number(config[`custom_text_${i}_size`]) || 16
         });
       }
-      
-      // Solar Forecast Sensor
+      // Solar Forecast Sensor - icon (sun/rain) always visible when enabled, even with "Hide texts"
       const solarForecastEnabled = Boolean(config.solar_forecast_enabled);
       if (!solarForecastEnabled) {
         this._solarForecastData = null;
-      } else if (solarForecastEnabled) {
+      } else {
         const sensorId = config.sensor_solar_forecast;
-        if (sensorId && typeof sensorId === 'string' && sensorId.trim()) {
+        if (!sensorId || typeof sensorId !== 'string' || !sensorId.trim()) {
+          this._solarForecastData = null;
+        } else {
           const sensorState = this._hass ? this._hass.states[sensorId.trim()] : null;
-          if (sensorState) {
-            const forecastValue = parseFloat(sensorState.state) || 0;
+          let forecastValue = 0;
+          let percentage = 0;
+          let sunStatus = '';
+          let isRain = true;
+          let displayText = '—';
+          if (sensorState && sensorState.state !== undefined && sensorState.state !== null && String(sensorState.state).toLowerCase() !== 'unavailable' && String(sensorState.state).toLowerCase() !== 'unknown') {
+            forecastValue = parseFloat(sensorState.state) || 0;
             const maxPower = Number(config.solar_forecast_max_power) || 10000;
-            const percentage = maxPower > 0 ? (forecastValue / maxPower) * 100 : 0;
-            
-            // Determine sun status based on percentage
-            let sunStatus = '';
+            percentage = maxPower > 0 ? (forecastValue / maxPower) * 100 : 0;
             const lang = config.language || 'en';
             const sunStatusDict = {
               it: { high: 'Tanto sole', medium: 'Sole moderato', low: 'Poco sole' },
@@ -7080,47 +7075,39 @@ class LuminaEnergyCard extends HTMLElement {
               fr: { high: 'Beaucoup de soleil', medium: 'Soleil modéré', low: 'Peu de soleil' },
               nl: { high: 'Veel zon', medium: 'Matige zon', low: 'Weinig zon' }
             };
-            
             const dict = sunStatusDict[lang] || sunStatusDict['en'];
-            if (percentage >= 70) {
-              sunStatus = dict.high;
-            } else if (percentage >= 30) {
-              sunStatus = dict.medium;
-            } else {
-              sunStatus = dict.low;
-            }
-            
+            if (percentage >= 70) sunStatus = dict.high;
+            else if (percentage >= 30) sunStatus = dict.medium;
+            else sunStatus = dict.low;
             const unit = sensorState.attributes && sensorState.attributes.unit_of_measurement ? sensorState.attributes.unit_of_measurement : 'W';
-            const formattedValue = this.formatPower(forecastValue, use_kw);
-            const displayText = `${formattedValue} - ${sunStatus}`;
-            
-            // Store solar forecast data for SVG rendering
-            this._solarForecastData = {
-              enabled: true,
-              percentage: percentage,
-              value: forecastValue,
-              status: sunStatus,
-              x: Number(config.solar_forecast_x) || 400,
-              y: Number(config.solar_forecast_y) || 350,
-              color: resolveColor(config.solar_forecast_color, '#00FFFF'),
-              size: Number(config.solar_forecast_size) || 16,
-              text: displayText
-            };
-            
-            customTexts.push({
-              id: 'solar_forecast',
-              text: displayText,
-              x: Number(config.solar_forecast_x) || 400,
-              y: Number(config.solar_forecast_y) || 350,
-              rotate: 0,
-              transform: '',
-              draggable: false,
-              color: resolveColor(config.solar_forecast_color, '#00FFFF'),
-              size: Number(config.solar_forecast_size) || 16
-            });
-          } else {
-            this._solarForecastData = null;
+            displayText = `${this.formatPower(forecastValue, use_kw)} - ${sunStatus}`;
+            const powerWatts = (unit === 'kW' || (String(unit).toLowerCase && String(unit).toLowerCase().indexOf('k') >= 0)) ? forecastValue * 1000 : forecastValue;
+            isRain = powerWatts < 1000;
           }
+          // Always create _solarForecastData when enabled and sensor configured - icon always visible
+          this._solarForecastData = {
+            enabled: true,
+            percentage: percentage,
+            value: forecastValue,
+            status: sunStatus,
+            isRain: isRain,
+            x: Number(config.solar_forecast_x) || 400,
+            y: Number(config.solar_forecast_y) || 400,
+            color: resolveColor(config.solar_forecast_color, '#00FFFF'),
+            size: Number(config.solar_forecast_size) || 16,
+            text: displayText
+          };
+          customTexts.push({
+            id: 'solar_forecast',
+            text: displayText,
+            x: Number(config.solar_forecast_x) || 400,
+            y: Number(config.solar_forecast_y) || 400,
+            rotate: 0,
+            transform: '',
+            draggable: false,
+            color: resolveColor(config.solar_forecast_color, '#00FFFF'),
+            size: Number(config.solar_forecast_size) || 16
+          });
         }
       }
     }
@@ -7243,6 +7230,7 @@ class LuminaEnergyCard extends HTMLElement {
         const hasGridImportSensor = Boolean(config.sensor_grid_import && typeof config.sensor_grid_import === 'string' && config.sensor_grid_import.trim());
         const hasGridExportSensor = Boolean(config.sensor_grid_export && typeof config.sensor_grid_export === 'string' && config.sensor_grid_export.trim());
         const hasGridSensor = hasGridPowerSensor || hasGridImportSensor || hasGridExportSensor;
+        const showGridBox = config.show_grid_box !== false;
         
         // Use #00f9f9 as default color for grid box text (not gridImportColor/gridExportColor)
         const gridBoxTextColor = g.textColor || '#00f9f9';
@@ -7250,7 +7238,7 @@ class LuminaEnergyCard extends HTMLElement {
         const gridLineLabels = [label_importing || 'Import', label_exporting || 'Export', label_import_day, label_export_day];
         const gridLineValues = [this.formatPower(gridImport, use_kw), this.formatPower(gridExport, use_kw), `${(gridImportDaily / 1000).toFixed(2)} kWh`, `${(gridExportDaily / 1000).toFixed(2)} kWh`];
         return {
-          visible: hasGridSensor,
+          visible: hasGridSensor && showGridBox,
           ...g,
           fontSize: baseFontSize,
           lineHeight: 18 * scale,
@@ -7271,8 +7259,9 @@ class LuminaEnergyCard extends HTMLElement {
         const baseFontSize = p.fontSize !== null ? p.fontSize : Math.max(8, Math.round(12 * scale));
         const dailyTotal = (Number(daily1) || 0) + (Number(daily2) || 0);
         const defaultTextColor = p.textColor || '#00f9f9';
+        const showPvBox = config.show_pv_box !== false;
         return {
-          visible: pvUiEnabled,
+          visible: pvUiEnabled && showPvBox,
           ...p,
           fontSize: baseFontSize,
           lineHeight: 18 * scale,
@@ -7379,17 +7368,35 @@ class LuminaEnergyCard extends HTMLElement {
     if (this._forceRender) {
       this._rootInitialized = false;
     }
-    if (isPreviewCard && typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] card _ensureTemplate setting innerHTML');
     this.shadowRoot.innerHTML = this._buildTemplate(viewState);
-    if (isPreviewCard && typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] card _ensureTemplate done');
     this._rootInitialized = true;
     this._cacheDomReferences();
+    // POST-RENDER DOM CHECK
+    try {
+      const root = this.shadowRoot;
+      if (root) {
+        const ctEls = root.querySelectorAll('[data-role^="custom-text-"]');
+        const bgEl = root.querySelector('[data-role="background-image"]');
+        const bgDisplay = bgEl ? bgEl.style.display : 'NO_ELEMENT';
+        const bgHref = bgEl ? (bgEl.getAttribute('href') || '').substring(0, 80) : 'NO_ELEMENT';
+        const ctInfo = [];
+        ctEls.forEach(el => {
+          ctInfo.push({
+            role: el.getAttribute('data-role'),
+            text: el.textContent,
+            class: el.getAttribute('class'),
+            display: el.style.display,
+            fill: el.getAttribute('fill'),
+            fontSize: el.getAttribute('font-size'),
+          });
+        });
+      }
+    } catch(e) { /* ignore */ }
     try { this._syncRemoteUpdateBanner_(); } catch (e0) { /* ignore */ }
   }
 
   _buildTemplate(viewState) {
     const isPreviewCard = !!(this.classList && this.classList.contains('editor-preview-card'));
-    if (isPreviewCard && typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] card _buildTemplate start');
     const config = this.config || {};
 
     // Language: config.language, else hass.locale (e.g. it-IT -> it), else en
@@ -7509,32 +7516,10 @@ class LuminaEnergyCard extends HTMLElement {
     if (typeof verifyFeatureAuth !== 'function') {
       throw new Error('verifyFeatureAuth is not defined or not a function');
     }
-    const isProEnabled = verifyFeatureAuth(authInput);
+    const isProEnabled = verifyFeatureAuth(authInput) || isPreviewCard;
     const hasTextVisibilitySensor = isProEnabled && textVisibilitySensorId && this._hass && this._hass.states && this._hass.states[textVisibilitySensorId];
-    if (isProEnabled && authInput) {
-      let hasProFeatures = false;
-      for (let i = 1; i <= 10; i++) {
-        const suf = i === 1 ? '' : '_' + i;
-        if (config[`overlay_image${suf}_enabled`]) hasProFeatures = true;
-        if (config[`custom_flow_${i}_enabled`]) hasProFeatures = true;
-      }
-      if (hasProFeatures && (!this._lastProVerifyRenderAt || Date.now() - this._lastProVerifyRenderAt > 300000)) {
-        this._lastProVerifyRenderAt = Date.now();
-        const uidRv = getLuminaUID();
-        const haUserIdRv = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-        const haUserNameRv = (this._hass && this._hass.user && this._hass.user.name) ? String(this._hass.user.name || '').trim() : '';
-        const pwRv = (authInput || '').trim();
-        const h1Rv = LUMINA_SHA256(pwRv);
-        const h2Rv = LUMINA_SHA256(pwRv + uidRv);
-        const h3Rv = haUserIdRv ? LUMINA_SHA256(pwRv + haUserIdRv) : '';
-        let matchRv = '';
-        if (h3Rv && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3Rv)) matchRv = 'v3';
-        else if (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(h2Rv)) matchRv = 'v2';
-        else if (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(h1Rv)) matchRv = 'v1';
-        const urlProV = `${LUMINA_LICENSE_ENDPOINT}?action=pro_verify&ha_user_id=${encodeURIComponent(haUserIdRv)}&uid=${encodeURIComponent(uidRv)}&ha_user_name=${encodeURIComponent(haUserNameRv)}&hash_v1=${encodeURIComponent(h1Rv)}&hash_v2=${encodeURIComponent(h2Rv)}&hash_v3=${encodeURIComponent(h3Rv)}&match=${encodeURIComponent(matchRv)}&origin=render&ts=${Date.now()}`;
-        LUMINA_JSONP(urlProV, 6000).catch(() => {});
-      }
-    }
+    // pro_verify origin=render rimosso: password verificata in locale (Gist).
+    // Era solo per logging anti-crack; riduce carico su GAS con 20k+ installazioni.
     // Check motion sensor (PRO feature); 60s keep-alive when shown by motion
     let motionDetected = false;
     if (hasTextVisibilitySensor) {
@@ -7607,7 +7592,16 @@ class LuminaEnergyCard extends HTMLElement {
       shouldShowTexts = hasConfiguredEntities;
       shouldShowBoxes = hasConfiguredEntities;
     }
-    
+    // When config has entities/texts and user never toggled visibility, show texts (e.g. gallery template with predefined image)
+    if (!isPreviewCard && hasConfiguredEntities && !this._textsVisibleUserTouched) {
+      shouldShowTexts = true;
+      shouldShowBoxes = true;
+    }
+    // Preview (drag) always show custom texts when present, so user can see them while editing
+    if (isPreviewCard && hasConfiguredEntities) {
+      shouldShowTexts = true;
+      shouldShowBoxes = true;
+    }
     const showCoreLabels = isPreviewCard ? false : (shouldShowTexts || alwaysShowCoreLabels);
     viewState.showCoreLabels = showCoreLabels;
     const car1Display = viewState.car1.visible ? 'inline' : 'none';
@@ -7716,14 +7710,16 @@ class LuminaEnergyCard extends HTMLElement {
       : '';
     const echoAliveLabel = 'ECHO';
     const echoAliveButtonBlock = (enableEchoAlive && !isEditorActive) ? `<div class="lumina-round-btn echo-alive-container" data-role="echo-alive-container" style="width: ${btnSizePx}px; height: ${btnSizePx}px; flex-shrink: 0; position: relative; overflow: hidden; cursor: pointer; pointer-events: auto; border-radius: 50%;"><iframe class="echo-alive-iframe" src="${__URL_ECHO_ALIVE}" title="Echo Alive" data-role="echo-alive-iframe"></iframe><svg class="lumina-round-btn-svg" viewBox="0 0 ${roundSize} ${roundSize}" preserveAspectRatio="xMidYMid meet" style="position: absolute; left: 0; top: 0; width: 100%; height: 100%; display: block; pointer-events: none;"><circle cx="${roundSize/2}" cy="${roundSize/2}" r="${roundSize/2 - 1}" class="alive-box lumina-round-bg" /><text x="${roundSize/2}" y="${roundSize/2 + 0.3}" class="alive-text" font-size="${roundFontSize}" font-weight="bold" text-anchor="middle" dominant-baseline="central" style="pointer-events: none;">${echoAliveLabel}</text></svg></div>` : '';
-    const luminaButtonsRow = showHomeButton ? `
+    const showButtonsRow = showTextButton || showHomeButton || (enableEchoAlive && !isEditorActive);
+    const homeButtonBlock = showHomeButton ? `${roundBtn(homeLabel, 'home-button-container', `<text x="${roundSize/2}" y="${roundSize/2 + 0.3}" class="alive-text" font-size="${roundFontSize}" font-weight="bold" text-anchor="middle" dominant-baseline="central" style="pointer-events: none;">${homeLabel}</text>`)}
+          <div class="home-collapsible-panel${homePanelExpandedClass}" data-role="home-collapsible-panel" style="display: flex; align-items: center; gap: 8px; overflow: hidden;">
+            ${homeIcons.map((icon, i) => iconBtn(icon, i, icon.key === 'security' ? securityAlarmState : '')).join('')}
+          </div>` : '';
+    const luminaButtonsRow = showButtonsRow ? `
         <div class="lumina-buttons-row" data-role="lumina-buttons-row" style="position: absolute; ${positionStyle} z-index: 1; display: flex; align-items: center; gap: 8px;">
           ${echoAliveButtonBlock}
           ${textButtonBlock}
-          ${roundBtn(homeLabel, 'home-button-container', `<text x="${roundSize/2}" y="${roundSize/2 + 0.3}" class="alive-text" font-size="${roundFontSize}" font-weight="bold" text-anchor="middle" dominant-baseline="central" style="pointer-events: none;">${homeLabel}</text>`)}
-          <div class="home-collapsible-panel${homePanelExpandedClass}" data-role="home-collapsible-panel" style="display: flex; align-items: center; gap: 8px; overflow: hidden;">
-            ${homeIcons.map((icon, i) => iconBtn(icon, i, icon.key === 'security' ? securityAlarmState : '')).join('')}
-          </div>
+          ${homeButtonBlock}
         </div>
       ` : '';
 
@@ -7980,28 +7976,28 @@ class LuminaEnergyCard extends HTMLElement {
           <text data-role="title-text" class="title-text ${shouldShowTexts ? '' : 'text-hidden'}" x="${Number(config.dev_title_x) || 400}" y="${Number(config.dev_title_y) || 32}" font-size="${viewState.title.fontSize}" style="pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${viewState.title.text}</text>
           ` : ''}
 
-          <g data-role="holographic-clock" transform="translate(${Number(config.dev_clock_x) || 680}, ${Number(config.dev_clock_y) || 26})" style="display:${config.show_clock || isPreviewCard ? 'inline' : 'none'}; pointer-events: ${isPreviewCard ? 'all' : 'none'}; cursor: ${isPreviewCard ? 'grab' : 'default'};">
-            <text data-role="holographic-clock-text" x="0" y="0" fill="#00FFFF" font-size="18" font-family="Orbitron, sans-serif" text-anchor="end" dominant-baseline="middle" style="filter: drop-shadow(0 0 4px rgba(0,255,255,0.8)); pointer-events: inherit;">--:--:--</text>
+          <g data-role="holographic-clock" transform="translate(${Number(config.dev_clock_x) || 400}, ${Number(config.dev_clock_y) || 80})" style="display:${config.show_clock || isPreviewCard ? 'inline' : 'none'}; pointer-events: ${isPreviewCard ? 'all' : 'none'}; cursor: ${isPreviewCard ? 'grab' : 'default'};">
+            <text data-role="holographic-clock-text" x="0" y="0" fill="${resolveColor(config.dev_clock_color, '#00FFFF')}" font-size="18" font-family="Orbitron, sans-serif" text-anchor="end" dominant-baseline="middle" style="filter: drop-shadow(0 0 4px ${resolveColor(config.dev_clock_color, '#00FFFF')}); pointer-events: inherit;">--:--:--</text>
           </g>
 
-          <g data-role="grid-box" class="${shouldShowBoxes ? '' : 'text-hidden'}" transform="translate(${GRID_BOX.x ?? 580}, ${GRID_BOX.y ?? 15})" style="display:${GRID_BOX.visible ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">
+          <g data-role="grid-box" transform="translate(${GRID_BOX.x ?? 580}, ${GRID_BOX.y ?? 15})" style="display:${GRID_BOX.visible ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">
             <rect x="0" y="0" width="${GRID_BOX.width ?? 200}" height="${GRID_BOX.height ?? 85}" rx="10" ry="10" class="lumina-info-box" />
             ${(GRID_BOX.lines || []).map((line, i) => {
               const fy = (GRID_BOX.startY ?? 14) + i * (GRID_BOX.lineHeight ?? 18);
               const fs = GRID_BOX.fontSize ?? 12;
               const fillColor = line.fill || '#00f9f9';
               const lineVisible = line.visible !== false;
-              return `<text data-role="grid-box-line-${i}" class="${shouldShowBoxes && lineVisible ? '' : 'text-hidden'}" x="${(GRID_BOX.width ?? 200) / 2}" y="${fy}" fill="${fillColor}" font-family="sans-serif" font-size="${fs}" text-anchor="middle" dominant-baseline="central" style="display:${lineVisible ? 'inline' : 'none'};">${line.label}: ${line.value}</text>`;
+              return `<text data-role="grid-box-line-${i}" x="${(GRID_BOX.width ?? 200) / 2}" y="${fy}" fill="${fillColor}" font-family="sans-serif" font-size="${fs}" text-anchor="middle" dominant-baseline="central" style="display:${lineVisible ? 'inline' : 'none'};">${line.label}: ${line.value}</text>`;
             }).join('')}
           </g>
-          <g data-role="pv-box" class="${shouldShowBoxes ? '' : 'text-hidden'}" transform="translate(${PV_BOX.x ?? 20}, ${PV_BOX.y ?? 15})" style="display:${PV_BOX.visible ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">
+          <g data-role="pv-box" transform="translate(${PV_BOX.x ?? 20}, ${PV_BOX.y ?? 15})" style="display:${PV_BOX.visible ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">
             <rect x="0" y="0" width="${PV_BOX.width ?? 200}" height="${PV_BOX.height ?? 85}" rx="10" ry="10" class="lumina-info-box" />
             ${(PV_BOX.lines || []).map((line, i) => {
               const fy = (PV_BOX.startY ?? 14) + i * (PV_BOX.lineHeight ?? 18);
               const fs = PV_BOX.fontSize ?? 12;
               const fillColor = line.fill || '#00f9f9';
-              const lineVisible = line.visible !== false && shouldShowBoxes;
-              return `<text data-role="pv-box-line-${i}" class="${lineVisible ? '' : 'text-hidden'}" x="${(PV_BOX.width ?? 200) / 2}" y="${fy}" fill="${fillColor}" font-family="sans-serif" font-size="${fs}" text-anchor="middle" dominant-baseline="central" style="display:${lineVisible ? 'inline' : 'none'}">${line.label}: ${line.value}</text>`;
+              const lineVisible = line.visible !== false;
+              return `<text data-role="pv-box-line-${i}" x="${(PV_BOX.width ?? 200) / 2}" y="${fy}" fill="${fillColor}" font-family="sans-serif" font-size="${fs}" text-anchor="middle" dominant-baseline="central" style="display:${lineVisible ? 'inline' : 'none'}">${line.label}: ${line.value}</text>`;
             }).join('')}
           </g>
 
@@ -8072,39 +8068,48 @@ class LuminaEnergyCard extends HTMLElement {
             return customFlowsHtml;
           })()}
 
-          ${viewState.customTexts.map(ct => `
-          <text data-role="custom-text-${ct.id}" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${ct.x}" y="${ct.y}" ${ct.transform ? `transform="${ct.transform}"` : ''} fill="${ct.color}" font-size="${ct.size}" style="font-family: Arial, sans-serif; text-anchor: middle; pointer-events: ${(viewState.showDebugGrid && ct.draggable) ? 'all' : 'none'};">${ct.text}</text>
-          `).join('')}
-
           ${(() => {
             const solarForecast = viewState.solarForecast;
             if (!solarForecast || !solarForecast.enabled) return '';
+            const textX = Number(solarForecast.x) || 400;
+            const textY = Number(solarForecast.y) || 400;
+            const iconOffsetBelow = 22;
+            const x = textX;
+            const y = textY + iconOffsetBelow;
             
             const percentageRaw = Number(solarForecast.percentage);
             const percentage = Number.isFinite(percentageRaw) ? Math.max(0, Math.min(100, percentageRaw)) : 0;
+            const isRain = Boolean(solarForecast.isRain);
             
-            const x = Number(solarForecast.x) || 400;
-            const y = Number(solarForecast.y) || 350;
-            
-            // Calculate size based on percentage (min 20px, max 60px)
-            const baseSize = 30;
-            const sizeVariation = (percentage / 100) * 20; // 0-20px variation
-            const sunSize = Math.max(20, Math.min(60, baseSize + sizeVariation));
-            const sunRadius = sunSize / 2;
-            
-            // Calculate opacity based on percentage (min 0.4, max 1.0)
-            const opacity = Math.max(0.1, Math.min(1.0, 0.4 + (percentage / 100 * 0.6)));
-            
-            // Calculate glow intensity based on percentage
-            const glowSize = Math.max(2, Math.min(20, 5 + (percentage / 100 * 15))); // 5-20px glow
-            
-            // Use configured color (cyan by default)
             const sunColor = resolveColor(solarForecast.color, '#00FFFF');
             
-            // Create sun rays (8 rays)
+            if (isRain) {
+              const cloudW = 36;
+              const cloudH = 18;
+              let rainSvg = '';
+              for (let i = 0; i < 5; i++) {
+                const rx = (i - 2) * 7;
+                rainSvg += `<g><line x1="${rx}" y1="-6" x2="${rx}" y2="6" stroke="${sunColor}" stroke-width="1.5" opacity="0.85" stroke-linecap="round"/><animateTransform attributeName="transform" type="translate" values="${rx} -22; ${rx} 22" dur="${0.7 + i * 0.06}s" repeatCount="indefinite" begin="${i * 0.12}s" additive="sum"/></g>`;
+              }
+              return `
+          <g data-role="solar-forecast-sun">
+            <ellipse cx="${x}" cy="${y - 4}" rx="${cloudW/2}" ry="${cloudH/2}" fill="${sunColor}" opacity="0.28"><animate attributeName="opacity" values="0.2;0.35;0.2" dur="2s" repeatCount="indefinite"/></ellipse>
+            <ellipse cx="${x - 10}" cy="${y - 2}" rx="10" ry="8" fill="${sunColor}" opacity="0.32"/><ellipse cx="${x + 10}" cy="${y - 2}" rx="10" ry="8" fill="${sunColor}" opacity="0.32"/><ellipse cx="${x}" cy="${y + 2}" rx="12" ry="7" fill="${sunColor}" opacity="0.26"/>
+            <g transform="translate(${x}, ${y})">${rainSvg}</g>
+          </g>`;
+            }
+            
+            const baseSize = 30;
+            const sizeVariation = (percentage / 100) * 20;
+            const sunSize = Math.max(20, Math.min(60, baseSize + sizeVariation));
+            const sunRadius = sunSize / 2;
+            const opacity = Math.max(0.1, Math.min(1.0, 0.4 + (percentage / 100 * 0.6)));
+            const glowSize = Math.max(2, Math.min(20, 5 + (percentage / 100 * 15)));
             const rayCount = 8;
-            const rayLength = sunRadius * 0.6;
+            const rayLength = sunRadius * 0.65;
+            const shortRayLength = sunRadius * 0.35;
             const rayWidth = 2;
+            const shortRayWidth = 1.5;
             let raysSvg = '';
             for (let i = 0; i < rayCount; i++) {
               const angle = (i * 360 / rayCount) * Math.PI / 180;
@@ -8112,16 +8117,25 @@ class LuminaEnergyCard extends HTMLElement {
               const startY = y + Math.sin(angle) * sunRadius;
               const endX = x + Math.cos(angle) * (sunRadius + rayLength);
               const endY = y + Math.sin(angle) * (sunRadius + rayLength);
-              raysSvg += `<line x1="${startX}" y1="${startY}" x2="${endX}" y2="${endY}" stroke="${sunColor}" stroke-width="${rayWidth}" opacity="${opacity * 0.7}" stroke-linecap="round" />`;
+              raysSvg += `<line x1="${startX}" y1="${startY}" x2="${endX}" y2="${endY}" stroke="${sunColor}" stroke-width="${rayWidth}" opacity="${opacity * 0.75}" stroke-linecap="round"><animate attributeName="opacity" values="${opacity * 0.6};${opacity * 0.85};${opacity * 0.6}" dur="2.5s" repeatCount="indefinite" begin="${i * 0.15}s"/></line>`;
+              const angleShort = (i * 360 / rayCount + 22.5) * Math.PI / 180;
+              const startXs = x + Math.cos(angleShort) * sunRadius;
+              const startYs = y + Math.sin(angleShort) * sunRadius;
+              const endXs = x + Math.cos(angleShort) * (sunRadius + shortRayLength);
+              const endYs = y + Math.sin(angleShort) * (sunRadius + shortRayLength);
+              raysSvg += `<line x1="${startXs}" y1="${startYs}" x2="${endXs}" y2="${endYs}" stroke="${sunColor}" stroke-width="${shortRayWidth}" opacity="${opacity * 0.5}" stroke-linecap="round"><animate attributeName="opacity" values="${opacity * 0.35};${opacity * 0.6};${opacity * 0.35}" dur="2.5s" repeatCount="indefinite" begin="${i * 0.15 + 0.4}s"/></line>`;
             }
-            
             return `
-          <g data-role="solar-forecast-sun" class="${shouldShowTexts ? '' : 'text-hidden'}" style="filter: drop-shadow(0 0 ${glowSize}px ${sunColor}) drop-shadow(0 0 ${glowSize * 0.5}px ${sunColor});">
+          <g data-role="solar-forecast-sun" style="filter: drop-shadow(0 0 ${glowSize}px ${sunColor}) drop-shadow(0 0 ${glowSize * 0.5}px ${sunColor});">
             ${raysSvg}
-            <circle cx="${x}" cy="${y}" r="${sunRadius}" fill="url(#solar-forecast-gradient)" opacity="${opacity}" />
-            <circle cx="${x}" cy="${y}" r="${sunRadius * 0.7}" fill="${sunColor}" opacity="${opacity * 0.5}" />
+            <circle cx="${x}" cy="${y}" r="${sunRadius}" fill="url(#solar-forecast-gradient)" opacity="${opacity}"><animate attributeName="opacity" values="${opacity * 0.88};${opacity};${opacity * 0.88}" dur="2.2s" repeatCount="indefinite"/></circle>
+            <circle cx="${x}" cy="${y}" r="${sunRadius * 0.7}" fill="${sunColor}" opacity="${opacity * 0.5}"><animate attributeName="opacity" values="${opacity * 0.4};${opacity * 0.55};${opacity * 0.4}" dur="2.2s" repeatCount="indefinite" begin="0.3s"/></circle>
           </g>`;
           })()}
+
+          ${viewState.customTexts.map(ct => `
+          <text data-role="custom-text-${ct.id}" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${ct.x}" y="${ct.y}" ${ct.transform ? `transform="${ct.transform}"` : ''} fill="${ct.color}" font-size="${ct.size}" style="font-family: Arial, sans-serif; text-anchor: middle; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${ct.text}</text>
+          `).join('')}
 
           ${pvLineElements}
 
@@ -10499,10 +10513,16 @@ class LuminaEnergyCard extends HTMLElement {
       if (ht && ht.fontSize != null && refs.houseTempText.getAttribute('font-size') !== String(ht.fontSize)) refs.houseTempText.setAttribute('font-size', String(ht.fontSize));
     }
 
-    // Holographic clock: visibility and tick
+    // Holographic clock: visibility, color and tick
     const showClock = Boolean(config && config.show_clock);
+    const clockColor = resolveColor(config && config.dev_clock_color, '#00FFFF');
     if (refs.holographicClockGroup) {
       refs.holographicClockGroup.style.display = showClock ? 'inline' : 'none';
+    }
+    if (refs.holographicClockText) {
+      if (refs.holographicClockText.getAttribute('fill') !== clockColor) refs.holographicClockText.setAttribute('fill', clockColor);
+      const clockStyle = 'filter: drop-shadow(0 0 4px ' + clockColor + '); pointer-events: inherit;';
+      if (refs.holographicClockText.getAttribute('style') !== clockStyle) refs.holographicClockText.setAttribute('style', clockStyle);
     }
     if (showClock && refs.holographicClockText) {
       this._updateHolographicClockTime();
@@ -10893,6 +10913,7 @@ class LuminaEnergyCard extends HTMLElement {
       return;
     }
     event.preventDefault();
+    event.stopPropagation();
     let originX = null, originY = null;
     let pathD = null;
     if (role === 'grid-box' || role === 'pv-box') {
@@ -10918,6 +10939,7 @@ class LuminaEnergyCard extends HTMLElement {
     if (!this._draggingText || !this._domRefs || !this._domRefs.svgRoot) {
       return;
     }
+    if (event && typeof event.preventDefault === 'function') event.preventDefault();
     const rect = this._domRefs.svgRoot.getBoundingClientRect();
     const currentX = ((event.clientX - rect.left) / rect.width) * SVG_DIMENSIONS.width;
     const currentY = ((event.clientY - rect.top) / rect.height) * SVG_DIMENSIONS.height;
@@ -11339,6 +11361,8 @@ class LuminaEnergyCard extends HTMLElement {
       });
       document.addEventListener('mousemove', this._handleDocumentMouseMove, true);
       document.addEventListener('mouseup', this._handleDocumentMouseUp, true);
+      document.addEventListener('pointermove', this._handleDocumentMouseMove, { capture: true, passive: false });
+      document.addEventListener('pointerup', this._handleDocumentMouseUp, true);
     }
 
     // Attach click listener to echo alive container
@@ -11362,6 +11386,7 @@ class LuminaEnergyCard extends HTMLElement {
       if (event && typeof event.stopPropagation === 'function') {
         event.stopPropagation();
       }
+      const prevState = this._textsVisible;
       // Cycle through 3 states: 0 (all visible) → 1 (grid/pv boxes and lines hidden) → 2 (all text hidden) → 0
       this._textsVisible = (this._textsVisible + 1) % 3;
       this._textsVisibleUserTouched = true;
@@ -12780,7 +12805,8 @@ class LuminaEnergyCard extends HTMLElement {
       } catch (e) { return false; }
     };
     const authInput = config.pro_password;
-    const isProEnabled = verifyFeatureAuth(authInput);
+    const isPreviewCardUpd = !!(this.classList && this.classList.contains('editor-preview-card'));
+    const isProEnabled = verifyFeatureAuth(authInput) || isPreviewCardUpd;
     const hasTextVisibilitySensor = isProEnabled && textVisibilitySensorId && this._hass && this._hass.states && this._hass.states[textVisibilitySensorId];
     
     let motionDetected = false;
@@ -12868,6 +12894,8 @@ class LuminaEnergyCard extends HTMLElement {
       shouldShowBoxes = hasConfiguredEntities;
     }
     const isPreviewCard = !!(this.classList && this.classList.contains('editor-preview-card'));
+    if (!isPreviewCard && hasConfiguredEntities && !this._textsVisibleUserTouched) { shouldShowTexts = true; shouldShowBoxes = true; }
+    if (isPreviewCard && hasConfiguredEntities) { shouldShowTexts = true; shouldShowBoxes = true; }
     const showForElement = (role) => {
       if (!role) return shouldShowTexts;
       if (isPreviewCard && (role === 'load-power' || role === 'grid-power' || role.startsWith('pv-line-'))) return false;
@@ -12880,6 +12908,10 @@ class LuminaEnergyCard extends HTMLElement {
     textElements.forEach(textEl => {
       if (textEl.tagName === 'text' || textEl.getAttribute('data-role')?.startsWith('custom-text')) {
         const role = textEl.getAttribute('data-role') || '';
+        if (role.includes('-popup-line')) {
+          textEl.classList.remove('text-hidden');
+          return;
+        }
         const show = showForElement(role);
         if (show) {
           textEl.classList.remove('text-hidden');
@@ -12889,7 +12921,9 @@ class LuminaEnergyCard extends HTMLElement {
         textUpdated++;
       }
     });
-    
+    // Count custom-text elements specifically
+    let customTextDomCount = 0;
+    textElements.forEach(el => { if ((el.getAttribute('data-role') || '').startsWith('custom-text-')) customTextDomCount++; });
     // Update boxes separately (PV and Grid boxes) - hide in state 1 and state 2
     const boxElements = this._domRefs.svgRoot.querySelectorAll('[data-role="grid-box"], [data-role="pv-box"], [data-role*="grid-box-line"], [data-role*="pv-box-line"]');
     boxElements.forEach(boxEl => {
@@ -12909,6 +12943,12 @@ class LuminaEnergyCard extends HTMLElement {
         pathEl.classList.add('text-hidden');
       }
     });
+    // Solar forecast icon (sun/rain) always visible when enabled - never hide even with "Hide texts"
+    const solarForecastEnabled = Boolean(this.config && this.config.solar_forecast_enabled);
+    if (solarForecastEnabled) {
+      const solarForecastIcons = this._domRefs.svgRoot.querySelectorAll('[data-role="solar-forecast-sun"]');
+      solarForecastIcons.forEach(el => el.classList.remove('text-hidden'));
+    }
   }
 
   _handleEchoAliveClick(event) {
@@ -12989,7 +13029,7 @@ class LuminaEnergyCard extends HTMLElement {
 
   static get version() {
     // Build marker (helps verify HA loaded the updated JS)
-    return '3.1.2';
+    return '3.3.1';
   }
 }
 
@@ -13048,16 +13088,13 @@ class LuminaEnergyCardEditor extends HTMLElement {
     this._remoteUpdateLastAt = 0;
     this._remoteUpdateInFlight = false;
     this._remoteUiPollTimer = null;
-    this._remoteUiPollMs = 20 * 1000;
+    this._remoteUiPollMs = 18000 * 1000;
     this._remoteUiSig = '';
   }
 
   _editorLog_(label, data) {
     try {
       if (!this._haPreviewDebug) return;
-      // Use warn so it remains visible even when debug is filtered.
-      // Keep payload small to avoid console spam.
-      console.warn('[Lumina][editor][hideHaPreview]', label, data || '');
     } catch (e) { /* ignore */ }
   }
 
@@ -13067,7 +13104,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
       if (!this._editorLogOnceKeys) this._editorLogOnceKeys = new Set();
       if (this._editorLogOnceKeys.has(key)) return;
       this._editorLogOnceKeys.add(key);
-      console.warn('[Lumina][editor]', label, data || '');
     } catch (e) { /* ignore */ }
   }
 
@@ -13264,18 +13300,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
         dumpDoc(window.parent && window.parent.document ? window.parent.document : null, 'parent')
       ]
     };
-
-    console.warn('[Lumina][editor][entityPicker]', payload);
-    try {
-      // Small, quick hint in console without expanding objects
-      const d0 = payload && payload.docs && payload.docs[0] ? payload.docs[0] : null;
-      const d1 = payload && payload.docs && payload.docs[1] ? payload.docs[1] : null;
-      console.warn('[Lumina][editor][entityPicker][summary]', {
-        reason: payload.reason,
-        docOverlays: d0 ? d0.overlaysFound : undefined,
-        parentOverlays: d1 ? d1.overlaysFound : undefined
-      });
-    } catch (eS) { /* ignore */ }
     try { this._applyOverlayShadowFixes_(String(reason || '')); } catch (e0) { /* ignore */ }
   }
 
@@ -13292,8 +13316,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
       this._applyHaPreviewVisibility_();
     } catch (e) { /* ignore */ }
 
-    // Force-poll remote updateinfo to apply remote UI controls quickly.
-    // NOTE: aggressive (20s) for testing; we'll raise later.
+    // Poll remote updateinfo for editor UI controls (interval from backend, default 5h).
     try {
       // Kick one fetch immediately (best-effort)
       try { this._scheduleRemoteUpdateCheck_({ force: true, reason: 'editor.connected' }); } catch (e0) { /* ignore */ }
@@ -13355,7 +13378,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
         'Colletta temporarily unavailable / Colletta temporaneamente non disponibile.';
 
       return {
-        disable_paypal: true,
+        disable_paypal: disablePaypal,
         paypal_disabled_message: paypalDisabledMessage,
         disable_colletta: disableColletta,
         colletta_disabled_message: collettaDisabledMessage,
@@ -13364,8 +13387,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
       };
     } catch (e) {
       return {
-        disable_paypal: true,
-        paypal_disabled_message: 'PayPal temporarily unavailable / PayPal temporaneamente non disponibile.',
+        disable_paypal: false,
+        paypal_disabled_message: '',
         disable_colletta: false,
         colletta_disabled_message: 'Colletta temporarily unavailable / Colletta temporaneamente non disponibile.',
         disable_pro_section: false,
@@ -13393,14 +13416,10 @@ class LuminaEnergyCardEditor extends HTMLElement {
       const p = LUMINA_PACK({ u: uid, h: haUserId || '', v: current || '' });
       if (!p) return;
       const url = `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
-      if (LUMINA_DEBUG_UPDATE) {
-        console.warn('[Lumina][editor][update] check.start', { url, current, force, reason });
-      }
       LUMINA_JSONP(url, 15000).then((data) => {
         this._remoteUpdateInFlight = false;
         this._remoteUpdateLastAt = Date.now();
         this._remoteUpdateInfo = (data && typeof data === 'object') ? { ...data, fetchedAt: Date.now() } : (data || null);
-        if (LUMINA_DEBUG_UPDATE) console.warn('[Lumina][editor][update] check.ok', this._remoteUpdateInfo || null);
 
         // Backend-controlled polling interval (seconds) via updateinfo response:
         // - ui_poll_interval_s: 0 disables polling; otherwise clamped to safe bounds.
@@ -13455,7 +13474,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
         this._remoteUpdateInFlight = false;
         this._remoteUpdateLastAt = Date.now();
         this._remoteUpdateInfo = { success: false, error: (e && e.message) ? e.message : String(e) };
-        if (LUMINA_DEBUG_UPDATE) console.warn('[Lumina][editor][update] check.err', this._remoteUpdateInfo);
       });
     } catch (e0) {
       this._remoteUpdateInFlight = false;
@@ -13940,44 +13958,49 @@ class LuminaEnergyCardEditor extends HTMLElement {
 
   _syncEditorPreviewCard_() {
     try {
-      if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] _syncEditorPreviewCard_ called');
       if (!this._previewCardEl) {
-        if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] skip: no _previewCardEl');
         return;
       }
-      // While drawing, do not update the preview card (prevents flicker / refresh storms).
       if (this._previewDrawState) {
-        if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] skip: _previewDrawState');
         return;
       }
-      // IMPORTANT:
-      // Home Assistant calls editor.hass very frequently; avoid calling setConfig on every hass update
-      // or the preview will "refresh" continuously (flicker) while the user drags.
       if (this._hass) this._previewCardEl.hass = this._hass;
       const cfg = this._config;
-      const cfgChanged = !!(cfg && cfg !== this._previewLastConfigRef);
-      if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] cfg=', !!cfg, 'cfgChanged=', cfgChanged, 'hasHass=', !!this._hass);
+      let cfgChanged = !!(cfg && cfg !== this._previewLastConfigRef);
+      let signature = '';
+      if (cfg) {
+        const sig = [];
+        for (let i = 1; i <= 10; i++) {
+          sig.push(cfg['custom_text_' + i + '_enabled'], cfg['custom_text_' + i + '_text'], cfg['custom_text_' + i + '_sensor']);
+        }
+        sig.push(cfg.installation_type, (cfg.background_image || '').substring(0, 80));
+        signature = JSON.stringify(sig);
+        if (!cfgChanged && signature !== this._previewLastConfigSignature) cfgChanged = true;
+        this._previewLastConfigSignature = signature;
+      }
       if (cfgChanged) {
         this._previewLastConfigRef = cfg;
-        if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] calling setConfig on preview card');
-        this._previewCardEl.setConfig(cfg);
-        if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] setConfig done');
-        // Bind draggable overlay images/background/custom text after the card renders (best-effort).
-        const bind = () => {
-          try { this._bindPreviewOverlayImageDrag_(); } catch (e) { /* ignore */ }
-          try { this._bindPreviewCustomTextDrag_(); } catch (e0a) { /* ignore */ }
-          try { this._bindPreviewMainFlowDrag_(); } catch (e0) { /* ignore */ }
-          try { this._bindPreviewCustomFlowDrag_(); } catch (e1) { /* ignore */ }
-          try { this._bindPreviewCustomFlowDraw_(); } catch (e1b) { /* ignore */ }
-          try { this._bindBackgroundImageDrag_(this._previewCardEl && this._previewCardEl.shadowRoot ? this._previewCardEl.shadowRoot : null); } catch (e2) { /* ignore */ }
-        };
-        setTimeout(bind, 0);
-        // Retry a bit later in case shadowRoot isn't ready yet.
-        setTimeout(bind, 250);
-        setTimeout(bind, 1000);
+        // Debounce setConfig: coalesce rapid changes (40ms for snappier preview)
+        if (this._previewSyncTimer) clearTimeout(this._previewSyncTimer);
+        this._previewSyncTimer = setTimeout(() => {
+          this._previewSyncTimer = null;
+          try {
+            if (!this._previewCardEl) return;
+            this._previewCardEl.setConfig(this._config);
+          } catch (e) { /* ignore */ }
+          const bind = () => {
+            try { this._bindPreviewOverlayImageDrag_(); } catch (e) { /* ignore */ }
+            try { this._bindPreviewCustomTextDrag_(); } catch (e0a) { /* ignore */ }
+            try { this._bindPreviewMainFlowDrag_(); } catch (e0) { /* ignore */ }
+            try { this._bindPreviewCustomFlowDrag_(); } catch (e1) { /* ignore */ }
+            try { this._bindPreviewCustomFlowDraw_(); } catch (e1b) { /* ignore */ }
+            try { this._bindBackgroundImageDrag_(this._previewCardEl && this._previewCardEl.shadowRoot ? this._previewCardEl.shadowRoot : null); } catch (e2) { /* ignore */ }
+          };
+          setTimeout(bind, 0);
+          setTimeout(bind, 80);
+          setTimeout(bind, 350);
+        }, 40);
       } else {
-        // Even if config didn't change, the preview card may re-render internally and lose our pointer-events overrides.
-        // Re-bind occasionally (throttled) to keep drag responsive without causing flicker.
         const now = Date.now();
         const last = Number(this._previewLastBindAt) || 0;
         if ((now - last) > 750) {
@@ -15203,7 +15226,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
   }
 
   _createEditorPreviewPanel_() {
-    if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] _createEditorPreviewPanel_ start');
     const wrap = document.createElement('div');
     wrap.className = 'editor-preview-panel';
 
@@ -15397,7 +15419,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
       } catch (e) { /* ignore */ }
     };
     textSlotSelect.addEventListener('change', () => { updateTextRotateUi(); updateTextCustomUi(); if (typeof this._updatePreviewTextColorSizeUi_ === 'function') this._updatePreviewTextColorSizeUi_(); });
-    textCustomInput.addEventListener('change', () => {
+    const commitPreviewCustomText = () => {
       try {
         const n = parseInt(textSlotSelect.value, 10) || 1;
         const val = (textCustomInput.value && String(textCustomInput.value)) || '';
@@ -15405,9 +15427,12 @@ class LuminaEnergyCardEditor extends HTMLElement {
         newConfig[`custom_text_${n}_text`] = val;
         this._config = newConfig;
         this._debouncedConfigChanged(newConfig, true);
+        this._previewLastConfigRef = null;
         setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0);
       } catch (e) { /* ignore */ }
-    });
+    };
+    textCustomInput.addEventListener('change', commitPreviewCustomText);
+    textCustomInput.addEventListener('input', commitPreviewCustomText);
     textSensorInput.addEventListener('change', () => {
       try {
         const n = parseInt(textSlotSelect.value, 10) || 1;
@@ -15814,7 +15839,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
     exportFlowsBtn.style.cssText = 'padding: 6px 10px; font-size: 10px; border-radius: 6px; background: rgba(0,200,150,0.2); color: #00c896; border: 1px solid rgba(0,200,150,0.5); cursor: pointer;';
     exportFlowsBtn.addEventListener('click', () => {
       try {
-        const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
+        const allDefs0 = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
+        const cfg = { ...allDefs0, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
         const flowKeys = [];
         for (let i = 1; i <= 10; i++) {
           flowKeys.push(`custom_flow_${i}_enabled`, `custom_flow_${i}_path`, `custom_flow_${i}_path_preset`, `custom_flow_${i}_direction`, `custom_flow_${i}_offset_x`, `custom_flow_${i}_offset_y`, `custom_flow_${i}_sensor`, `custom_flow_${i}_color`, `custom_flow_${i}_threshold`, `custom_flow_${i}_start_x`, `custom_flow_${i}_start_y`, `custom_flow_${i}_end_x`, `custom_flow_${i}_end_y`);
@@ -15915,7 +15941,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
     exportConfigBtn.style.cssText = 'padding: 6px 10px; font-size: 10px; border-radius: 6px; background: rgba(180,200,100,0.2); color: #b4c864; border: 1px solid rgba(180,200,100,0.5); cursor: pointer;';
     exportConfigBtn.addEventListener('click', () => {
       try {
-        const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
+        const allDefs = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
+        const cfg = { ...allDefs, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
         const data = { _lumina_config_export: true, version: 1 };
         Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
         const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
@@ -15967,11 +15994,27 @@ class LuminaEnergyCardEditor extends HTMLElement {
       reader.readAsText(file);
     });
     importConfigBtn.addEventListener('click', () => { importConfigInput.click(); });
+    const browseGalleryLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_browse_gallery) || 'Browse gallery';
+    const shareGalleryLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_share_gallery) || 'Share to gallery';
+    const browseGalleryBtn = document.createElement('button');
+    browseGalleryBtn.type = 'button';
+    browseGalleryBtn.className = 'editor-preview-browse-gallery';
+    browseGalleryBtn.textContent = browseGalleryLabel;
+    browseGalleryBtn.style.cssText = 'padding: 6px 10px; font-size: 10px; border-radius: 6px; background: rgba(100,180,220,0.2); color: #64b4dc; border: 1px solid rgba(100,180,220,0.5); cursor: pointer;';
+    browseGalleryBtn.addEventListener('click', () => { this._openGalleryModal_(); });
+    const shareGalleryBtn = document.createElement('button');
+    shareGalleryBtn.type = 'button';
+    shareGalleryBtn.className = 'editor-preview-share-gallery';
+    shareGalleryBtn.textContent = shareGalleryLabel;
+    shareGalleryBtn.style.cssText = 'padding: 6px 10px; font-size: 10px; border-radius: 6px; background: rgba(120,180,120,0.2); color: #78b478; border: 1px solid rgba(120,180,120,0.5); cursor: pointer;';
+    shareGalleryBtn.addEventListener('click', () => { this._shareToGallery_(); });
     flowsFileRow.appendChild(exportFlowsBtn);
     flowsFileRow.appendChild(importFlowsBtn);
     flowsFileRow.appendChild(resetFlowsBtn);
     flowsFileRow.appendChild(exportConfigBtn);
     flowsFileRow.appendChild(importConfigBtn);
+    flowsFileRow.appendChild(browseGalleryBtn);
+    flowsFileRow.appendChild(shareGalleryBtn);
     flowsFileRow.appendChild(importFileInput);
     flowsFileRow.appendChild(importConfigInput);
 
@@ -16409,21 +16452,22 @@ class LuminaEnergyCardEditor extends HTMLElement {
     const onPointerDown = (ev) => {
       try {
         if (!ev || (ev.button != null && ev.button !== 0)) return;
-        // If user is dragging an overlay image or background image, do NOT pan the viewport.
+        // If user is dragging an overlay image, background image, or any positionable element (text/box), do NOT pan the viewport.
         try {
           const path = (typeof ev.composedPath === 'function') ? ev.composedPath() : [];
-          const isDraggableImage = path.some((n) => {
+          const isDraggableTarget = path.some((n) => {
             try {
               if (!n || !n.getAttribute) return false;
               const role = n.getAttribute('data-role');
-              if (typeof role === 'string') {
-                if (role.indexOf('overlay-image-') === 0) return true;
-                if (role === 'background-image') return true;
-              }
+              if (typeof role !== 'string') return false;
+              if (role.indexOf('overlay-image-') === 0 || role === 'background-image') return true;
+              if (role.indexOf('pv-line') === 0 || role.indexOf('battery') === 0 || role.indexOf('load') === 0 || role.indexOf('house-temp') === 0 || role.indexOf('heat-pump') === 0 || role.indexOf('grid-power') === 0) return true;
+              if (role.indexOf('car') === 0 || role.indexOf('custom-text-') === 0 || role === 'title-text' || role === 'holographic-clock' || role === 'holographic-clock-text') return true;
+              if (role === 'grid-box' || role === 'pv-box' || role === 'linea-box-1' || role === 'linea-box-2') return true;
               return false;
             } catch (e0) { return false; }
           });
-          if (isDraggableImage) return;
+          if (isDraggableTarget) return;
         } catch (e1) { /* ignore */ }
         isDragging = true;
         viewport.classList.add('is-dragging');
@@ -16462,7 +16506,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
     stage.className = 'editor-preview-stage';
     this._previewStageEl = stage;
 
-    if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] creating lumina-energy-card element');
     const card = document.createElement('lumina-energy-card');
     card.className = 'editor-preview-card';
     this._previewCardEl = card;
@@ -16486,9 +16529,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
     wrap.appendChild(previewCol);
 
     this._applyPreviewScale_();
-    if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] calling _syncEditorPreviewCard_');
     this._syncEditorPreviewCard_();
-    if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] _createEditorPreviewPanel_ done, card.isConnected=', card.isConnected, 'card.shadowRoot=', !!card.shadowRoot);
     if (this._hideHaPreview) wrap.classList.add('lumina-hide-ha-preview-on');
 
     return wrap;
@@ -16520,11 +16561,12 @@ class LuminaEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Animation Styles', helper: 'Flow animation style (dashes, dots, arrows, shimmer). Default: shimmer.' },
           typography: { title: 'Typography', helper: 'Fine tune the font sizes used across the card.' },
           flow_path_custom: { title: 'Custom Flow Paths', helper: 'Customize flow paths by modifying SVG path strings. Leave empty to use default paths. You can combine custom paths with offsets from the Flow Path section.' },
-          lumina_pro: { title: 'Lumina PRO', helper: 'PRO FUNCTIONS: PREMIUM FUNCTIONS INCLUDING OVERLAY IMAGES, CUSTOM FLOWS, CUSTOM TEXTS, FLOW PATHS, LAYOUT AND TEXTS, FLOW COLORS AND HOUSE MANAGEMENT, CUSTOM BACKGROUND IMAGE, AI IMAGE CREATION, DRAG AND DROP.' },
+          lumina_pro: { title: 'Lumina PRO', helper: 'PRO FUNCTIONS: PREMIUM FUNCTIONS INCLUDING OVERLAY IMAGES, CUSTOM FLOWS, CUSTOM TEXTS, FLOW PATHS, LAYOUT AND TEXTS, FLOW COLORS AND HOUSE MANAGEMENT, CUSTOM BACKGROUND IMAGE, AI IMAGE CREATION, DRAG AND DROP. Now also gallery and share.' },
           layout: { title: 'Layout & Text Positions', helper: 'Sliders show exact X, Y (px) and angles (°). Use step 1 to get precise values—note them for your definitive YAML config. ViewBox 800×450. Save and check dashboard. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'SOC Bar', helper: '6-segment bar on battery. Position, opacity, glow, colors.' },
           gridBox: { title: 'Grid Box', helper: 'Top-right box. Import/Export + daily. Position and size.' },
           pvBox: { title: 'PV Box', helper: 'Top-left box. PV Total (sum) + Daily production. Position and size.' },
+          solar_forecast: { title: 'Solar Forecast', helper: 'Display estimated solar production with sun icon and status (lots/moderate/little sun).' },
           batteryFill: { title: 'Battery Fill Position', helper: 'Sliders show exact coordinates (px) and angles (°). Note values for definitive YAML. YAML: dev_battery_fill_x, _y_base, _width, _max_height, _rotate, _skew_x, _skew_y.' },
           overlay_image: { title: 'Overlay Image (PRO Feature)', helper: '⚠️ PRO FEATURE: Add up to 5 custom PNG images overlayed on the card (cars, pools, turbines, etc.). Each image has independent controls for position (X/Y), size (width/height), and opacity. Perfect for adding realistic visual elements to your energy dashboard. Examples included: car.png, car_real.png, Pool.png, pool_real.png, turbine.png. To unlock: pay 5€ via PayPal (donation) or GitHub Sponsors.' },
           custom_flows: { title: 'Custom Flows', helper: 'Create up to 5 additional animated energy flows with custom sensors, SVG paths, colors, and activation thresholds. Each flow can have independent source/destination positions, line colors, glow effects, and power thresholds. Perfect for visualizing custom loads (pool pump, heat pump, EV charger, etc.) or additional energy sources. Flows animate automatically when sensor values exceed the threshold.' },
@@ -16702,10 +16744,12 @@ class LuminaEnergyCardEditor extends HTMLElement {
           grid_threshold_critical: { label: 'Grid Critical Threshold', helper: 'Change grid color when magnitude equals or exceeds this value. Uses the selected display unit.' },
           grid_critical_color: { label: 'Grid Critical Color', helper: 'Hex or CSS color applied at the critical threshold.' },
           invert_grid: { label: 'Invert Grid Values', helper: 'Enable if import/export polarity is reversed.' },
-          grid_flow_target: { label: 'Grid Flow Target', helper: 'Choose where the grid flow is drawn: meter ↔ inverter, or meter ↔ house. Auto keeps legacy behavior.' },
+          grid_flow_target: { label: 'Grid Flow Target', helper: 'Choose where the grid flow is drawn: meter ↔ inverter, or meter ↔ house. With grid import/export sensors use House (flow = meter ↔ house). Auto keeps legacy behavior.' },
           enable_echo_alive: { label: 'Enable Echo Alive', helper: 'Enables an invisible iframe to keep the Silk browser open on Echo Show. The button will be positioned in a corner of the card.' },
           hide_home_button: { label: 'Hide home button', helper: 'Hide the HOME button and house icons row on the card.' },
           show_clock: { label: 'Show holographic clock', helper: 'Display a holographic-style clock with local time (based on browser/timezone).' },
+          dev_clock_color: { label: 'Clock color', helper: 'Color of the holographic clock text and glow.' },
+          license_payment_subsection: 'License & Payment',
           enable_text_toggle_button: { label: 'Enable Text Toggle Button', helper: 'Shows a button on the card to toggle text visibility on/off.' },
           text_toggle_button_x: { label: 'Text Toggle Button X (px)', helper: 'Horizontal position of the text toggle button. Left edge distance in pixels. Default: 10px (bottom-left).' },
           text_toggle_button_y: { label: 'Text Toggle Button Y (px)', helper: 'Vertical position from top in pixels. Leave empty to position at bottom. Default: bottom.' },
@@ -16864,6 +16908,46 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_reset_flows_helper: 'Clear all custom flow paths and options.',
           editor_export_config: 'Export config',
           editor_import_config: 'Import config',
+          editor_browse_gallery: 'Browse gallery',
+          editor_share_gallery: 'Share to gallery',
+          editor_gallery_title: 'Gallery',
+          editor_use_this_template: 'Use this',
+          editor_gallery_loading: 'Loading…',
+          editor_gallery_error: 'Failed to load gallery',
+          editor_gallery_share_success: 'Shared successfully',
+          editor_gallery_share_error: 'Failed to share',
+          editor_gallery_no_endpoint: 'Set license Worker URL to use gallery',
+          editor_gallery_close: 'Close',
+          editor_gallery_share_name_prompt: 'Template name',
+          editor_gallery_share_desc_prompt: 'Description (optional)',
+          editor_gallery_share_pending: 'Shared! It will appear in the gallery after approval.',
+          editor_gallery_empty: 'No templates available yet.',
+          editor_gallery_sensor_wizard_title: 'Map your sensors',
+          editor_gallery_sensor_wizard_desc: 'Select your Home Assistant entities for each sensor used by this template.',
+          editor_gallery_sensor_wizard_info: 'The template you selected uses the sensors listed below. Replace each one with your own Home Assistant entity. The "Template" hint shows the original entity from the author. Leave empty to skip a sensor.',
+          editor_gallery_apply: 'Apply',
+          editor_gallery_cancel: 'Cancel',
+          editor_gallery_share_title: 'Share to Gallery',
+          editor_gallery_share_submit: 'Share',
+          editor_gallery_sharing: 'Sharing…',
+          editor_gallery_top3_title: 'Top 3 · Most popular',
+          editor_gallery_monthly_reward: 'We reward the most downloaded dashboard each month.',
+          editor_gallery_top_ever_title: 'Top of all time',
+          editor_gallery_top_ever_sub: 'Winners of past periods.',
+          editor_gallery_congrats_title: 'Congratulations to the winner!',
+          editor_gallery_congrats_sub: 'The most downloaded dashboard of the period.',
+          editor_gallery_more_templates: 'More templates',
+          editor_gallery_downloads: 'Downloads',
+          editor_gallery_like: 'Like',
+          editor_gallery_rules_title: 'Gallery rules',
+          editor_gallery_rules_one_per_month: 'You can share only one dashboard per month.',
+          editor_gallery_rules_descriptions_required: 'All Custom Flows and Custom Texts must have a description; otherwise the submission will not be accepted.',
+          editor_gallery_rules_reward: 'The most downloaded dashboard of each month receives a reward.',
+          editor_gallery_error_one_per_month: 'You have already shared a dashboard this month. You can share again next month.',
+          editor_gallery_error_descriptions_required: 'Please fill in a description for every Custom Flow and Custom Text above. Submissions without complete descriptions are not accepted.',
+          editor_gallery_desc_section_title: 'Describe your custom elements (required for gallery)',
+          editor_gallery_author_name: 'Your name (shown under the card)',
+          editor_gallery_email: 'Email (not shown; we may contact you)',
           editor_export_config_helper: 'Backup full card config (background, overlays, sensors, flows) as JSON. Use before updating to restore later.',
           editor_import_config_helper: 'Restore config from a previously exported JSON backup. Merges with current config.',
           house_camera_1: { label: 'Camera 1', helper: 'Camera entity for streaming. Up to 6 cameras. Click camera icon to open popup.' },
@@ -17119,11 +17203,12 @@ class LuminaEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Stili Animazioni', helper: 'Stile animazione flussi (tratteggi, punti, frecce, shimmer). Predefinito: shimmer.' },
           typography: { title: 'Tipografia', helper: 'Regola le dimensioni dei caratteri utilizzate nella scheda.' },
           flow_path_custom: { title: 'Percorsi Flussi Personalizzati', helper: 'Personalizza i percorsi dei flussi modificando le stringhe SVG. Lascia vuoto per usare i percorsi predefiniti. Puoi combinare percorsi personalizzati con gli offset della sezione Percorso Flussi.' },
-          lumina_pro: { title: 'Lumina PRO', helper: 'FUNZIONI PRO: FUNZIONI PREMIUM INCLUSE IMMAGINI OVERLAY, FLUSSI PERSONALIZZATI, TESTI PERSONALIZZATI, PERCORSI FLUSSI, LAYOUT E TESTI, COLORI FLUSSI E GESTIONE CASA, IMMAGINE BACKGROUND PERSONALIZZATA, CREAZIONE IA IMMAGINI, DRAG AND DROP.' },
+          lumina_pro: { title: 'Lumina PRO', helper: 'FUNZIONI PRO: FUNZIONI PREMIUM INCLUSE IMMAGINI OVERLAY, FLUSSI PERSONALIZZATI, TESTI PERSONALIZZATI, PERCORSI FLUSSI, LAYOUT E TESTI, COLORI FLUSSI E GESTIONE CASA, IMMAGINE BACKGROUND PERSONALIZZATA, CREAZIONE IA IMMAGINI, DRAG AND DROP. Ora anche galleria e condivisione.' },
           layout: { title: 'Layout & Posizioni Testi', helper: 'I cursori mostrano X, Y in pixel esatti e angoli (°). Step 1 per valori precisi—annotali per la YAML definitiva. ViewBox 800×450. Salva e controlla la dashboard. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'Barra SOC', helper: 'Barra a 6 segmenti sulla batteria. Posizione, opacità, alone, colori.' },
           gridBox: { title: 'Riquadro Rete', helper: 'Riquadro in alto a destra: Import/Export rete + totali giornalieri. Posizione e dimensioni.' },
           pvBox: { title: 'Riquadro PV', helper: 'Riquadro in alto a sinistra: PV Totale (somma array) + Produzione giornaliera. Posizione e dimensioni.' },
+          solar_forecast: { title: 'Previsioni solari', helper: 'Mostra la produzione solare stimata con icona sole e stato (tanto/moderato/poco sole).' },
           batteryFill: { title: 'Posizione Fill Batteria', helper: 'I cursori mostrano coordinate (px) e angoli (°) esatti. Annota i valori per la YAML definitiva. YAML: dev_battery_fill_x, _y_base, _width, _max_height, _rotate, _skew_x, _skew_y.' },
           overlay_image: { title: 'Immagine Overlay', helper: '⚠️ FUNZIONE PRO: Aggiungi fino a 5 immagini PNG personalizzate sovrapposte alla card (auto, piscine, turbine, ecc.). Ogni immagine ha controlli indipendenti per posizione (X/Y), dimensione (larghezza/altezza) e opacità. Perfetto per aggiungere elementi visivi realistici al tuo dashboard energetico. Esempi inclusi: car.png, car_real.png, Pool.png, pool_real.png, turbine.png. Per sbloccare: paga 5€ con PayPal (donazione) oppure con GitHub Sponsors.' },
           custom_flows: { title: 'Flussi Personalizzati', helper: 'Crea fino a 5 flussi di energia animati aggiuntivi con sensori, percorsi SVG, colori e soglie di attivazione personalizzati. Ogni flusso può avere posizioni sorgente/destinazione indipendenti, colori linea, effetti glow e soglie di potenza. Perfetto per visualizzare carichi personalizzati (pompa piscina, pompa di calore, caricatore EV, ecc.) o sorgenti energetiche aggiuntive. I flussi si animano automaticamente quando i valori del sensore superano la soglia.' },
@@ -17296,10 +17381,12 @@ class LuminaEnergyCardEditor extends HTMLElement {
           grid_threshold_critical: { label: 'Soglia critica rete', helper: 'Cambia colore quando la magnitudine raggiunge questa soglia. Usa l unita di visualizzazione selezionata.' },
           grid_critical_color: { label: 'Colore critico rete', helper: 'Colore applicato alla soglia critica.' },
             invert_grid: { label: 'Inverti valori rete', helper: 'Attiva se l import/export ha polarita invertita.' },
-            grid_flow_target: { label: 'Percorso flusso rete', helper: 'Scegli dove disegnare il flusso rete: contatore ↔ inverter oppure contatore ↔ casa. Auto mantiene il comportamento precedente.' },
+            grid_flow_target: { label: 'Percorso flusso rete', helper: 'Scegli dove disegnare il flusso rete: contatore ↔ inverter oppure contatore ↔ casa. Con sensori import/export rete usa Casa (flusso = contatore ↔ casa). Auto mantiene il comportamento precedente.' },
             enable_echo_alive: { label: 'Abilita Echo Alive', helper: 'Abilita un iframe invisibile per mantenere aperto il browser Silk su Echo Show. Il pulsante sarà posizionato in un angolo della card.' },
             hide_home_button: { label: 'Nascondi tasto home', helper: 'Nasconde il pulsante HOME e la riga delle icone casa sulla card.' },
             show_clock: { label: 'Mostra orologio olografico', helper: 'Mostra un orologio in stile olografico con l\'ora locale (in base al fuso orario del browser).' },
+            dev_clock_color: { label: 'Colore orologio', helper: 'Colore del testo e del bagliore dell\'orologio olografico.' },
+            license_payment_subsection: 'Licenza e pagamento',
             enable_text_toggle_button: { label: 'Abilita Pulsante Toggle Testi', helper: 'Mostra un pulsante sulla card per attivare/disattivare la visibilità dei testi.' },
             text_toggle_button_x: { label: 'Pulsante Toggle Testi X (px)', helper: 'Posizione orizzontale del pulsante toggle testi. Distanza dal bordo sinistro in pixel. Default: 10px (basso-sinistra).' },
             text_toggle_button_y: { label: 'Pulsante Toggle Testi Y (px)', helper: 'Posizione verticale dall\'alto in pixel (0-450). Lascia vuoto o imposta > 450 per posizionare in basso. Valori > 450 verranno trattati come posizionamento in basso. Default: basso.' },
@@ -17458,6 +17545,46 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_reset_flows_helper: 'Cancella tutti i percorsi e le opzioni dei flussi personalizzati.',
           editor_export_config: 'Esporta config',
           editor_import_config: 'Importa config',
+          editor_browse_gallery: 'Sfoglia galleria',
+          editor_share_gallery: 'Condividi in galleria',
+          editor_gallery_title: 'Galleria',
+          editor_use_this_template: 'Usa questo',
+          editor_gallery_loading: 'Caricamento…',
+          editor_gallery_error: 'Impossibile caricare la galleria',
+          editor_gallery_share_success: 'Condiviso con successo',
+          editor_gallery_share_error: 'Condivisione fallita',
+          editor_gallery_no_endpoint: 'Imposta l\'URL del Worker licenza per usare la galleria',
+          editor_gallery_close: 'Chiudi',
+          editor_gallery_share_name_prompt: 'Nome del template',
+          editor_gallery_share_desc_prompt: 'Descrizione (opzionale)',
+          editor_gallery_share_pending: 'Condiviso! Apparirà in galleria dopo l\'approvazione.',
+          editor_gallery_empty: 'Nessun template disponibile al momento.',
+          editor_gallery_sensor_wizard_title: 'Mappa i tuoi sensori',
+          editor_gallery_sensor_wizard_desc: 'Seleziona le tue entità Home Assistant per ogni sensore usato da questo template.',
+          editor_gallery_sensor_wizard_info: 'Il template che hai selezionato usa i sensori elencati qui sotto. Sostituisci ognuno con la tua entità Home Assistant. Il suggerimento "Template" mostra l\'entità originale dell\'autore. Lascia vuoto per saltare un sensore.',
+          editor_gallery_apply: 'Applica',
+          editor_gallery_cancel: 'Annulla',
+          editor_gallery_share_title: 'Condividi in galleria',
+          editor_gallery_share_submit: 'Condividi',
+          editor_gallery_sharing: 'Condivisione…',
+          editor_gallery_top3_title: 'Top 3 · Più popolari',
+          editor_gallery_monthly_reward: 'Ogni mese premiamo la dashboard più scaricata.',
+          editor_gallery_top_ever_title: 'Top di sempre',
+          editor_gallery_top_ever_sub: 'Vincitori dei periodi passati.',
+          editor_gallery_congrats_title: 'Congratulazioni al vincitore!',
+          editor_gallery_congrats_sub: 'La dashboard più scaricata del periodo.',
+          editor_gallery_more_templates: 'Altri template',
+          editor_gallery_downloads: 'Download',
+          editor_gallery_like: 'Mi piace',
+          editor_gallery_rules_title: 'Regole della galleria',
+          editor_gallery_rules_one_per_month: 'Puoi caricare solo una dashboard al mese.',
+          editor_gallery_rules_descriptions_required: 'Ogni Custom Flow e Custom Text deve avere una descrizione; altrimenti la submission non verrà accettata.',
+          editor_gallery_rules_reward: 'La dashboard più scaricata di ogni mese riceve una ricompensa.',
+          editor_gallery_error_one_per_month: 'Hai già condiviso una dashboard questo mese. Potrai condividere di nuovo il mese prossimo.',
+          editor_gallery_error_descriptions_required: 'Inserisci una descrizione per ogni Custom Flow e Custom Text sopra. Le submission senza descrizioni complete non vengono accettate.',
+          editor_gallery_desc_section_title: 'Descrivi i tuoi elementi personalizzati (obbligatorio per la galleria)',
+          editor_gallery_author_name: 'Il tuo nome (visibile sotto la card)',
+          editor_gallery_email: 'Email (non mostrata; per contatto)',
           editor_export_config_helper: 'Backup della config completa (sfondo, overlay, sensori, flussi) come JSON. Usa prima degli aggiornamenti per ripristinare dopo.',
           editor_import_config_helper: 'Ripristina config da un backup JSON precedentemente esportato. Unisce con la config corrente.',
           house_camera_1: { label: 'Camera 1', helper: 'Entità camera per streaming. Fino a 6. Clic sull\'icona per aprire il popup.' },
@@ -17656,6 +17783,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
           soc_bar_glow: { label: 'Barra SOC Alone (px)', helper: 'Sfocatura drop-shadow sui segmenti accesi. 0 = off.' },
           soc_bar_color_on: { label: 'Barra SOC Colore (acceso)', helper: 'Colore del segmento quando illuminato dal SOC.' },
           soc_bar_color_off: { label: 'Barra SOC Colore (spento)', helper: 'Colore del segmento quando non illuminato.' },
+          show_grid_box: { label: 'Mostra riquadro Rete', helper: 'Mostra o nasconde il riquadro Rete indipendentemente dal tasto testo.' },
+          show_pv_box: { label: 'Mostra riquadro PV', helper: 'Mostra o nasconde il riquadro PV indipendentemente dal tasto testo.' },
           dev_grid_box_x: { label: 'Riquadro Rete X (px)', helper: 'Riquadro in alto a destra. Import/Export + giornalieri.' },
           dev_grid_box_y: { label: 'Riquadro Rete Y (px)', helper: 'Posizione verticale.' },
           dev_grid_box_width: { label: 'Riquadro Rete Larghezza (px)', helper: '' },
@@ -17736,11 +17865,12 @@ class LuminaEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Animationsstile', helper: 'Fluss-Animationsstil (Striche, Punkte, Pfeile, Shimmer). Standard: Shimmer.' },
           typography: { title: 'Typografie', helper: 'Schriftgroessen der Karte feinjustieren.' },
           flow_path_custom: { title: 'Benutzerdefinierte Flusspfade', helper: 'Passen Sie die Flusspfade an, indem Sie SVG-Pfadzeichenfolgen ändern. Leer lassen, um Standardpfade zu verwenden. Sie können benutzerdefinierte Pfade mit Offsets aus dem Fluss-Pfad-Bereich kombinieren.' },
-          lumina_pro: { title: 'Lumina PRO', helper: 'PRO-FUNKTIONEN: PREMIUM-FUNKTIONEN INKL. OVERLAY-BILDER, BENUTZERDEFINIERTE FLÜSSE, BENUTZERDEFINIERTE TEXTE, FLUSSPFADE, LAYOUT UND TEXTE, FLUSSFARBEN UND HAUSVERWALTUNG, BENUTZERDEFINIERTES HINTERGRUNDBILD, KI-BILDERZEUGUNG, DRAG AND DROP.' },
+          lumina_pro: { title: 'Lumina PRO', helper: 'PRO-FUNKTIONEN: PREMIUM-FUNKTIONEN INKL. OVERLAY-BILDER, BENUTZERDEFINIERTE FLÜSSE, BENUTZERDEFINIERTE TEXTE, FLUSSPFADE, LAYOUT UND TEXTE, FLUSSFARBEN UND HAUSVERWALTUNG, BENUTZERDEFINIERTES HINTERGRUNDBILD, KI-BILDERZEUGUNG, DRAG AND DROP. Jetzt auch Galerie und Teilen.' },
           layout: { title: 'Layout & Textpositionen', helper: 'Schieberegler zeigen exakte X, Y (px) und Winkel (°). Step 1 für präzise Werte—notieren für definitive YAML. ViewBox 800×450. Speichern und Dashboard prüfen. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'SOC-Balken', helper: '6-Segment-Balken an der Batterie. Position, Deckkraft, Leuchten, Farben.' },
           gridBox: { title: 'Netz-Box', helper: 'Box oben rechts: Import/Export + Tageswerte. Position und Größe.' },
           pvBox: { title: 'PV-Box', helper: 'Box oben links: PV Gesamt (Summe Array) + Tagesproduktion. Position und Größe.' },
+          solar_forecast: { title: 'Solarprognose', helper: 'Geschätzte Solarproduktion mit Sonnen-Icon und Status (viel/mäßig/wenig Sonne).' },
           batteryFill: { title: 'Batterie-Fill Position', helper: 'Schieberegler zeigen exakte Koordinaten (px) und Winkel (°). Werte für definitive YAML notieren. YAML: dev_battery_fill_x, _y_base, _width, _max_height, _rotate, _skew_x, _skew_y.' },
           overlay_image: { title: 'Overlay-Bild', helper: 'Konfigurieren Sie ein Overlay-PNG-Bild, das über dem Hintergrundbild angezeigt wird. Verwenden Sie Schieberegler, um das Overlay zu positionieren und zu ändern.' },
           custom_flows: { title: 'Benutzerdefinierte Flüsse', helper: 'Erstellen Sie zusätzliche Energieflüsse, indem Sie einen Sensor, einen SVG-Pfad, eine Farbe und einen Aktivierungsschwellenwert definieren. Nützlich zur Visualisierung benutzerdefinierter Energiequellen oder Lasten.' },
@@ -17795,6 +17925,42 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_import_config: 'Config importieren',
           editor_export_config_helper: 'Vollständige Karten-Konfiguration (Hintergrund, Overlays, Sensoren, Flüsse) als JSON sichern. Vor Updates verwenden, um später wiederherzustellen.',
           editor_import_config_helper: 'Konfiguration aus einer zuvor exportierten JSON-Sicherung wiederherstellen. Wird mit der aktuellen Config zusammengeführt.',
+          editor_browse_gallery: 'Galerie durchsuchen',
+          editor_share_gallery: 'In Galerie teilen',
+          editor_gallery_title: 'Galerie',
+          editor_use_this_template: 'Verwenden',
+          editor_gallery_loading: 'Laden…',
+          editor_gallery_error: 'Galerie konnte nicht geladen werden',
+          editor_gallery_share_success: 'Erfolgreich geteilt',
+          editor_gallery_share_error: 'Teilen fehlgeschlagen',
+          editor_gallery_no_endpoint: 'Worker-URL für Galerie einstellen',
+          editor_gallery_close: 'Schließen',
+          editor_gallery_share_name_prompt: 'Template-Name',
+          editor_gallery_share_desc_prompt: 'Beschreibung (optional)',
+          editor_gallery_share_pending: 'Geteilt! Erscheint nach Genehmigung in der Galerie.',
+          editor_gallery_empty: 'Noch keine Templates verfügbar.',
+          editor_gallery_sensor_wizard_title: 'Sensoren zuordnen',
+          editor_gallery_sensor_wizard_desc: 'Wähle deine Home Assistant-Entitäten für jeden Sensor, der von diesem Template verwendet wird.',
+          editor_gallery_sensor_wizard_info: 'Das ausgewählte Template verwendet die unten aufgelisteten Sensoren. Ersetze jeden durch deine eigene Home Assistant-Entität. Der „Template"-Hinweis zeigt die Original-Entität des Autors. Leer lassen, um einen Sensor zu überspringen.',
+          editor_gallery_apply: 'Anwenden',
+          editor_gallery_cancel: 'Abbrechen',
+          editor_gallery_share_title: 'In Galerie teilen',
+          editor_gallery_share_submit: 'Teilen',
+          editor_gallery_sharing: 'Wird geteilt…',
+          editor_gallery_top3_title: 'Top 3 · Beliebteste',
+          editor_gallery_monthly_reward: 'Jeden Monat belohnen wir die am häufigsten heruntergeladene Dashboard.',
+          editor_gallery_more_templates: 'Weitere Templates',
+          editor_gallery_downloads: 'Downloads',
+          editor_gallery_like: 'Gefällt mir',
+          editor_gallery_rules_title: 'Galerie-Regeln',
+          editor_gallery_rules_one_per_month: 'Du kannst nur ein Dashboard pro Monat teilen.',
+          editor_gallery_rules_descriptions_required: 'Alle Custom Flows und Custom Texts müssen eine Beschreibung haben; sonst wird die Einreichung nicht akzeptiert.',
+          editor_gallery_rules_reward: 'Das am häufigsten heruntergeladene Dashboard jedes Monats erhält eine Belohnung.',
+          editor_gallery_error_one_per_month: 'Du hast diesen Monat bereits ein Dashboard geteilt. Nächsten Monat kannst du wieder teilen.',
+          editor_gallery_error_descriptions_required: 'Bitte gib für jeden Custom Flow und Custom Text oben eine Beschreibung ein. Einreichungen ohne vollständige Beschreibungen werden nicht akzeptiert.',
+          editor_gallery_desc_section_title: 'Beschreibe deine benutzerdefinierten Elemente (Pflicht für die Galerie)',
+          editor_gallery_author_name: 'Dein Name (unter der Karte angezeigt)',
+          editor_gallery_email: 'E-Mail (wird nicht angezeigt; für Kontakt)',
           house_camera_1: { label: 'Kamera 1', helper: 'Kamera-Entität für Streaming. Bis zu 6. Klick auf Kamera-Icon öffnet Popup.' },
           house_camera_2: { label: 'Kamera 2', helper: '' },
           house_camera_3: { label: 'Kamera 3', helper: '' },
@@ -17993,6 +18159,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           invert_grid: { label: 'Netzwerte invertieren', helper: 'Aktivieren, wenn Import/Export vertauscht ist.' },
           enable_echo_alive: { label: 'Echo Alive aktivieren', helper: 'Aktiviert ein unsichtbares iframe, um den Silk-Browser auf Echo Show offen zu halten. Die Schaltfläche wird in einer Ecke der Karte positioniert.' },
           show_clock: { label: 'Holographische Uhr anzeigen', helper: 'Zeigt eine Uhr im Hologramm-Stil mit lokaler Zeit (basierend auf Browser/Zeitzone).' },
+            dev_clock_color: { label: 'Uhrenfarbe', helper: 'Farbe von Uhrtext und Leuchteffekt.' },
           enable_text_toggle_button: { label: 'Text-Umschaltknopf aktivieren', helper: 'Zeigt einen Knopf auf der Karte, um die Text-Sichtbarkeit ein/auszuschalten.' },
           text_toggle_button_x: { label: 'Text-Umschaltknopf X (px)', helper: 'Horizontale Position des Text-Umschaltknopfs. Abstand vom linken Rand in Pixeln. Standard: 10px (unten-links).' },
           text_toggle_button_y: { label: 'Text-Umschaltknopf Y (px)', helper: 'Vertikale Position von oben in Pixeln. Leer lassen, um unten zu positionieren. Standard: unten.' },
@@ -18260,6 +18427,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
           soc_bar_glow: { label: 'SOC-Balken Leuchten (px)', helper: 'Drop-Shadow-Blur auf leuchtenden Segmenten. 0 = aus.' },
           soc_bar_color_on: { label: 'SOC-Balken Farbe (an)', helper: 'Segmentfarbe wenn durch SOC beleuchtet.' },
           soc_bar_color_off: { label: 'SOC-Balken Farbe (aus)', helper: 'Segmentfarbe wenn nicht beleuchtet.' },
+          show_grid_box: { label: 'Netz-Box anzeigen', helper: 'Netz-Box ein- oder ausblenden, unabhängig vom Text-Schalter.' },
+          show_pv_box: { label: 'PV-Box anzeigen', helper: 'PV-Box ein- oder ausblenden, unabhängig vom Text-Schalter.' },
           dev_grid_box_x: { label: 'Netz-Box X (px)', helper: 'Box oben rechts. Import/Export + Tageswerte.' },
           dev_grid_box_y: { label: 'Netz-Box Y (px)', helper: 'Vertikale Position.' },
           dev_grid_box_width: { label: 'Netz-Box Breite (px)', helper: '' },
@@ -18340,11 +18509,12 @@ class LuminaEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Styles d Animation', helper: 'Style d animation des flux (tirets, points, flèches, scintillement). Par défaut: scintillement.' },
           typography: { title: 'Typographie', helper: 'Ajustez les tailles de police utilisées dans la carte.' },
           flow_path_custom: { title: 'Chemins de Flux Personnalisés', helper: 'Personnalisez les chemins de flux en modifiant les chaînes de chemin SVG. Laissez vide pour utiliser les chemins par défaut. Vous pouvez combiner des chemins personnalisés avec les décalages de la section Chemin de Flux.' },
-          lumina_pro: { title: 'Lumina PRO', helper: 'FONCTIONS PRO : FONCTIONS PREMIUM INCLUANT IMAGES OVERLAY, FLUX PERSONNALISÉS, TEXTES PERSONNALISÉS, CHEMINS DE FLUX, LAYOUT ET TEXTES, COULEURS DES FLUX ET GESTION MAISON, IMAGE DE FOND PERSONNALISÉE, CRÉATION D\'IMAGES IA, GLISSER-DÉPOSER.' },
+          lumina_pro: { title: 'Lumina PRO', helper: 'FONCTIONS PRO : FONCTIONS PREMIUM INCLUANT IMAGES OVERLAY, FLUX PERSONNALISÉS, TEXTES PERSONNALISÉS, CHEMINS DE FLUX, LAYOUT ET TEXTES, COULEURS DES FLUX ET GESTION MAISON, IMAGE DE FOND PERSONNALISÉE, CRÉATION D\'IMAGES IA, GLISSER-DÉPOSER. Désormais aussi galerie et partage.' },
           layout: { title: 'Mise en Page & Positions des Textes', helper: 'Curseurs : X, Y en pixels exacts et angles (°). Step 1 pour valeurs précises—notez-les pour votre YAML définitive. Zone 800×450. Enregistrez et vérifiez le tableau de bord. YAML : dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'Barre SOC', helper: 'Barre à 6 segments sur la batterie. Position, opacité, lueur, couleurs.' },
           gridBox: { title: 'Boîte Réseau', helper: 'Boîte en haut à droite : Import/Export + totaux journaliers. Position et dimensions.' },
           pvBox: { title: 'Boîte PV', helper: 'Boîte en haut à gauche : PV Total (somme) + Production journalière. Position et dimensions.' },
+          solar_forecast: { title: 'Prévision solaire', helper: 'Afficher la production solaire estimée avec icône soleil et état (beaucoup/modéré/peu de soleil).' },
           batteryFill: { title: 'Position du remplissage batterie', helper: 'Curseurs : coordonnées (px) et angles (°) exacts. Notez les valeurs pour la YAML définitive. YAML : dev_battery_fill_x, _y_base, _width, _max_height, _rotate, _skew_x, _skew_y.' },
           overlay_image: { title: 'Image Overlay', helper: 'Configurez une image PNG overlay à afficher sur l\'image d\'arrière-plan. Utilisez les curseurs pour positionner et redimensionner l\'overlay.' },
           custom_flows: { title: 'Flux Personnalisés', helper: 'Créez des flux d\'énergie supplémentaires en définissant un capteur, un chemin SVG, une couleur et un seuil d\'activation. Utile pour visualiser des sources ou charges d\'énergie personnalisées.' },
@@ -18399,6 +18569,42 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_import_config: 'Importer config',
           editor_export_config_helper: 'Sauvegarder la config complète (fond, overlays, capteurs, flux) en JSON. À utiliser avant les mises à jour pour restaurer ensuite.',
           editor_import_config_helper: 'Restaurer la config depuis une sauvegarde JSON précédemment exportée. Fusionne avec la config actuelle.',
+          editor_browse_gallery: 'Parcourir la galerie',
+          editor_share_gallery: 'Partager dans la galerie',
+          editor_gallery_title: 'Galerie',
+          editor_use_this_template: 'Utiliser',
+          editor_gallery_loading: 'Chargement…',
+          editor_gallery_error: 'Impossible de charger la galerie',
+          editor_gallery_share_success: 'Partagé avec succès',
+          editor_gallery_share_error: 'Échec du partage',
+          editor_gallery_no_endpoint: 'Définir l\'URL du Worker pour la galerie',
+          editor_gallery_close: 'Fermer',
+          editor_gallery_share_name_prompt: 'Nom du template',
+          editor_gallery_share_desc_prompt: 'Description (optionnelle)',
+          editor_gallery_share_pending: 'Partagé ! Apparaîtra dans la galerie après approbation.',
+          editor_gallery_empty: 'Aucun template disponible pour le moment.',
+          editor_gallery_sensor_wizard_title: 'Mapper vos capteurs',
+          editor_gallery_sensor_wizard_desc: 'Sélectionnez vos entités Home Assistant pour chaque capteur utilisé par ce template.',
+          editor_gallery_sensor_wizard_info: 'Le template sélectionné utilise les capteurs listés ci-dessous. Remplacez chacun par votre propre entité Home Assistant. L\'indication « Template » montre l\'entité originale de l\'auteur. Laissez vide pour ignorer un capteur.',
+          editor_gallery_apply: 'Appliquer',
+          editor_gallery_cancel: 'Annuler',
+          editor_gallery_share_title: 'Partager dans la galerie',
+          editor_gallery_share_submit: 'Partager',
+          editor_gallery_sharing: 'Partage en cours…',
+          editor_gallery_top3_title: 'Top 3 · Les plus populaires',
+          editor_gallery_monthly_reward: 'Chaque mois nous récompensons le tableau de bord le plus téléchargé.',
+          editor_gallery_more_templates: 'Plus de modèles',
+          editor_gallery_downloads: 'Téléchargements',
+          editor_gallery_like: 'J\'aime',
+          editor_gallery_rules_title: 'Règles de la galerie',
+          editor_gallery_rules_one_per_month: 'Vous ne pouvez partager qu\'un tableau de bord par mois.',
+          editor_gallery_rules_descriptions_required: 'Chaque Custom Flow et Custom Text doit avoir une description ; sinon la soumission ne sera pas acceptée.',
+          editor_gallery_rules_reward: 'Le tableau de bord le plus téléchargé chaque mois reçoit une récompense.',
+          editor_gallery_error_one_per_month: 'Vous avez déjà partagé un tableau de bord ce mois-ci. Vous pourrez repartager le mois prochain.',
+          editor_gallery_error_descriptions_required: 'Veuillez remplir une description pour chaque Custom Flow et Custom Text ci-dessus. Les soumissions sans descriptions complètes ne sont pas acceptées.',
+          editor_gallery_desc_section_title: 'Décrivez vos éléments personnalisés (obligatoire pour la galerie)',
+          editor_gallery_author_name: 'Votre nom (affiché sous la carte)',
+          editor_gallery_email: 'E-mail (non affiché ; pour contact)',
           house_camera_1: { label: 'Caméra 1', helper: 'Entité caméra pour le streaming. Jusqu\'à 6. Clic sur l\'icône pour ouvrir le popup.' },
           house_camera_2: { label: 'Caméra 2', helper: '' },
           house_camera_3: { label: 'Caméra 3', helper: '' },
@@ -18592,6 +18798,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           invert_grid: { label: 'Inverser valeurs réseau', helper: 'Activer si la polarité import/export est inversée.' },
           enable_echo_alive: { label: 'Activer Echo Alive', helper: 'Active un iframe invisible pour garder le navigateur Silk ouvert sur Echo Show. Le bouton sera positionné dans un coin de la carte.' },
           show_clock: { label: 'Afficher horloge holographique', helper: 'Affiche une horloge style holographique avec l\'heure locale (selon le fuseau du navigateur).' },
+            dev_clock_color: { label: 'Couleur horloge', helper: 'Couleur du texte et de la lueur de l\'horloge.' },
           enable_text_toggle_button: { label: 'Activer Bouton Toggle Texte', helper: 'Affiche un bouton sur la carte pour activer/désactiver la visibilité des textes.' },
           text_toggle_button_x: { label: 'Bouton Toggle Texte X (px)', helper: 'Position horizontale du bouton toggle texte. Distance du bord gauche en pixels. Par défaut: 10px (bas-gauche).' },
           text_toggle_button_y: { label: 'Bouton Toggle Texte Y (px)', helper: 'Position verticale depuis le haut en pixels. Laissez vide pour positionner en bas. Par défaut: bas.' },
@@ -18862,6 +19069,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
           soc_bar_glow: { label: 'Barre SOC Lueur (px)', helper: 'Flou drop-shadow sur segments allumés. 0 = off.' },
           soc_bar_color_on: { label: 'Barre SOC Couleur (allumé)', helper: 'Couleur du segment quand illuminé par SOC.' },
           soc_bar_color_off: { label: 'Barre SOC Couleur (éteint)', helper: 'Couleur du segment quand non illuminé.' },
+          show_grid_box: { label: 'Afficher la boîte Réseau', helper: 'Afficher ou masquer la boîte Réseau indépendamment du bouton texte.' },
+          show_pv_box: { label: 'Afficher la boîte PV', helper: 'Afficher ou masquer la boîte PV indépendamment du bouton texte.' },
           dev_grid_box_x: { label: 'Boîte Réseau X (px)', helper: 'Boîte en haut à droite. Import/Export + totaux journaliers.' },
           dev_grid_box_y: { label: 'Boîte Réseau Y (px)', helper: 'Position verticale.' },
           dev_grid_box_width: { label: 'Boîte Réseau Largeur (px)', helper: '' },
@@ -18943,11 +19152,12 @@ class LuminaEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Animatietijlen', helper: 'Stroom animatiestijl (strepen, stippen, pijlen, glinsteren). Standaard: glinsteren.' },
           typography: { title: 'Typografie', helper: 'Pas de lettergrootte aan gebruikt in de kaart.' },
           flow_path_custom: { title: 'Aangepaste Stroompaden', helper: 'Pas stroompaden aan door SVG-padstrings te wijzigen. Laat leeg om standaardpaden te gebruiken. U kunt aangepaste paden combineren met offsets uit de Stroompad-sectie.' },
-          lumina_pro: { title: 'Lumina PRO', helper: 'PRO FUNCTIES: PREMIUMFUNCTIES INCLUSIEF OVERLAY-AFBEELDINGEN, AANGEPASTE STROMEN, AANGEPASTE TEKSTEN, STROOMPADEN, LAY-OUT EN TEKSTEN, STROOMKLEUREN EN HUISBEHEER, AANGEPASTE ACHTERGRONDAFBEELDING, AI-AFBEELDINGSCREATIE, SLEPEN EN NEERZETTEN.' },
+          lumina_pro: { title: 'Lumina PRO', helper: 'PRO FUNCTIES: PREMIUMFUNCTIES INCLUSIEF OVERLAY-AFBEELDINGEN, AANGEPASTE STROMEN, AANGEPASTE TEKSTEN, STROOMPADEN, LAY-OUT EN TEKSTEN, STROOMKLEUREN EN HUISBEHEER, AANGEPASTE ACHTERGRONDAFBEELDING, AI-AFBEELDINGSCREATIE, SLEPEN EN NEERZETTEN. Nu ook galerij en delen.' },
           layout: { title: 'Layout & Tekstposities', helper: 'Schuifregelaars tonen exacte X, Y (px) en hoeken (°). Step 1 voor precise waarden—noteer voor uw definitieve YAML. ViewBox 800×450. Opslaan en dashboard controleren. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'SOC-balk', helper: '6-segmenten balk op de batterij. Positie, dekking, gloed, kleuren.' },
           gridBox: { title: 'Netwerkbox', helper: 'Box rechtsboven: Import/Export + dagtotalen. Positie en grootte.' },
           pvBox: { title: 'PV-box', helper: 'Box linksboven: PV Totaal (som) + Dagproductie. Positie en grootte.' },
+          solar_forecast: { title: 'Zonnevoorspelling', helper: 'Toon geschatte zonneproductie met zon-icoon en status (veel/matig/weinig zon).' },
           batteryFill: { title: 'Batterij-vulling positie', helper: 'Schuifregelaars tonen exacte coördinaten (px) en hoeken (°). Noteer waarden voor definitieve YAML. YAML: dev_battery_fill_x, _y_base, _width, _max_height, _rotate, _skew_x, _skew_y.' },
           overlay_image: { title: 'Overlay Afbeelding', helper: 'Configureer een overlay PNG-afbeelding om boven de achtergrondafbeelding weer te geven. Gebruik schuifregelaars om de overlay te positioneren en te wijzigen.' },
           custom_flows: { title: 'Aangepaste Stromen', helper: 'Maak extra energiestromen door een sensor, SVG-pad, kleur en activeringsdrempel te definiëren. Handig voor het visualiseren van aangepaste energiebronnen of belastingen.' },
@@ -19002,6 +19212,42 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_import_config: 'Config importeren',
           editor_export_config_helper: 'Back-up van volledige kaartconfig (achtergrond, overlays, sensoren, flows) als JSON. Gebruik vóór updates om later te herstellen.',
           editor_import_config_helper: 'Config herstellen uit een eerder geëxporteerde JSON-back-up. Samengevoegd met de huidige config.',
+          editor_browse_gallery: 'Galerij doorbladeren',
+          editor_share_gallery: 'Delen in galerij',
+          editor_gallery_title: 'Galerij',
+          editor_use_this_template: 'Gebruiken',
+          editor_gallery_loading: 'Laden…',
+          editor_gallery_error: 'Galerij kon niet worden geladen',
+          editor_gallery_share_success: 'Succesvol gedeeld',
+          editor_gallery_share_error: 'Delen mislukt',
+          editor_gallery_no_endpoint: 'Stel Worker-URL in voor galerij',
+          editor_gallery_close: 'Sluiten',
+          editor_gallery_share_name_prompt: 'Template-naam',
+          editor_gallery_share_desc_prompt: 'Beschrijving (optioneel)',
+          editor_gallery_share_pending: 'Gedeeld! Verschijnt in de galerij na goedkeuring.',
+          editor_gallery_empty: 'Nog geen templates beschikbaar.',
+          editor_gallery_sensor_wizard_title: 'Sensoren toewijzen',
+          editor_gallery_sensor_wizard_desc: 'Selecteer je Home Assistant-entiteiten voor elke sensor die door dit template wordt gebruikt.',
+          editor_gallery_sensor_wizard_info: 'Het geselecteerde template gebruikt de onderstaande sensoren. Vervang elke sensor door je eigen Home Assistant-entiteit. De „Template"-hint toont de originele entiteit van de auteur. Laat leeg om een sensor over te slaan.',
+          editor_gallery_apply: 'Toepassen',
+          editor_gallery_cancel: 'Annuleren',
+          editor_gallery_share_title: 'Delen in galerij',
+          editor_gallery_share_submit: 'Delen',
+          editor_gallery_sharing: 'Wordt gedeeld…',
+          editor_gallery_top3_title: 'Top 3 · Meest populair',
+          editor_gallery_monthly_reward: 'Elke maand belonen we het meest gedownloade dashboard.',
+          editor_gallery_more_templates: 'Meer templates',
+          editor_gallery_downloads: 'Downloads',
+          editor_gallery_like: 'Like',
+          editor_gallery_rules_title: 'Galerijregels',
+          editor_gallery_rules_one_per_month: 'Je kunt maar één dashboard per maand delen.',
+          editor_gallery_rules_descriptions_required: 'Elke Custom Flow en Custom Text moet een beschrijving hebben; anders wordt de inzending niet geaccepteerd.',
+          editor_gallery_rules_reward: 'Het meest gedownloade dashboard van elke maand krijgt een beloning.',
+          editor_gallery_error_one_per_month: 'Je hebt deze maand al een dashboard gedeeld. Volgende maand kun je weer delen.',
+          editor_gallery_error_descriptions_required: 'Vul voor elke Custom Flow en Custom Text hierboven een beschrijving in. Inzendingen zonder volledige beschrijvingen worden niet geaccepteerd.',
+          editor_gallery_desc_section_title: 'Beschrijf je aangepaste elementen (verplicht voor de galerij)',
+          editor_gallery_author_name: 'Je naam (zichtbaar onder de kaart)',
+          editor_gallery_email: 'E-mail (niet zichtbaar; voor contact)',
           house_camera_1: { label: 'Camera 1', helper: 'Camera-entiteit voor streaming. Tot 6. Klik op camera-icoon voor popup.' },
           house_camera_2: { label: 'Camera 2', helper: '' },
           house_camera_3: { label: 'Camera 3', helper: '' },
@@ -19195,6 +19441,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           invert_grid: { label: 'Grid waarden omkeren', helper: 'Inschakelen als import/export polariteit omgekeerd is.' },
           enable_echo_alive: { label: 'Echo Alive inschakelen', helper: 'Schakelt een onzichtbare iframe in om de Silk-browser open te houden op Echo Show. De knop wordt in een hoek van de kaart geplaatst.' },
           show_clock: { label: 'Holografische klok tonen', helper: 'Toont een klok in holografische stijl met lokale tijd (op basis van browser/tijdzone).' },
+            dev_clock_color: { label: 'Klokkleur', helper: 'Kleur van de kloktekst en gloed.' },
           enable_text_toggle_button: { label: 'Tekst Toggle Knop Inschakelen', helper: 'Toont een knop op de kaart om tekstzichtbaarheid aan/uit te schakelen.' },
           text_toggle_button_x: { label: 'Tekst Toggle Knop X (px)', helper: 'Horizontale positie van de tekst toggle knop. Afstand van de linkerrand in pixels. Standaard: 10px (onder-links).' },
           text_toggle_button_y: { label: 'Tekst Toggle Knop Y (px)', helper: 'Verticale positie vanaf boven in pixels. Laat leeg om onderaan te positioneren. Standaard: onderaan.' },
@@ -19465,6 +19712,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
           soc_bar_glow: { label: 'SOC-balk Gloed (px)', helper: 'Drop-shadow blur op verlichte segmenten. 0 = uit.' },
           soc_bar_color_on: { label: 'SOC-balk Kleur (aan)', helper: 'Segmentkleur wanneer verlicht door SOC.' },
           soc_bar_color_off: { label: 'SOC-balk Kleur (uit)', helper: 'Segmentkleur wanneer niet verlicht.' },
+          show_grid_box: { label: 'Netwerkbox tonen', helper: 'Netwerkbox tonen of verbergen, onafhankelijk van de tekstschakelaar.' },
+          show_pv_box: { label: 'PV-box tonen', helper: 'PV-box tonen of verbergen, onafhankelijk van de tekstschakelaar.' },
           dev_grid_box_x: { label: 'Netwerkbox X (px)', helper: 'Box rechtsboven. Import/Export + dagtotalen.' },
           dev_grid_box_y: { label: 'Netwerkbox Y (px)', helper: 'Verticale positie.' },
           dev_grid_box_width: { label: 'Netwerkbox Breedte (px)', helper: '' },
@@ -19541,7 +19790,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
           inverterPopup: { title: 'Popup Инвертор', helper: 'Настройки popup инвертора.' },
           flow_path: { title: 'Пути потоков (SVG)', helper: 'Настройка SVG путей для основных потоков.' },
           flow_path_custom: { title: 'Пользовательские потоки', helper: 'До 5 дополнительных потоков.' },
-          custom_text: { title: 'Пользовательский текст', helper: 'До 5 текстовых блоков. Можно показать: только статический текст (оставьте Датчик пустым), только значение сущности (оставьте Подпись пустой, укажите Датчик) или оба (подпись + значение). Настройте позицию (X/Y), цвет, размер шрифта.' }
+          custom_text: { title: 'Пользовательский текст', helper: 'До 5 текстовых блоков. Можно показать: только статический текст (оставьте Датчик пустым), только значение сущности (оставьте Подпись пустой, укажите Датчик) или оба (подпись + значение). Настройте позицию (X/Y), цвет, размер шрифта.' },
+          solar_forecast: { title: 'Прогноз солнца', helper: 'Показывать прогноз солнечной выработки с иконкой солнца и статусом (много/умеренно/мало солнца).' }
         },
         fields: {
           editor_updates_empty: 'Нет обновлений.',
@@ -19597,6 +19847,42 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_import_config: 'Импорт конфига',
           editor_export_config_helper: 'Резервная копия полной конфигурации (фон, оверлеи, датчики, потоки) в JSON. Использовать перед обновлениями для восстановления.',
           editor_import_config_helper: 'Восстановить конфиг из ранее экспортированной резервной копии JSON. Объединяется с текущей конфигурацией.',
+          editor_browse_gallery: 'Обзор галереи',
+          editor_share_gallery: 'Поделиться в галерее',
+          editor_gallery_title: 'Галерея',
+          editor_use_this_template: 'Использовать',
+          editor_gallery_loading: 'Загрузка…',
+          editor_gallery_error: 'Не удалось загрузить галерею',
+          editor_gallery_share_success: 'Успешно опубликовано',
+          editor_gallery_share_error: 'Ошибка публикации',
+          editor_gallery_no_endpoint: 'Установите URL Worker для галереи',
+          editor_gallery_close: 'Закрыть',
+          editor_gallery_share_name_prompt: 'Название шаблона',
+          editor_gallery_share_desc_prompt: 'Описание (необязательно)',
+          editor_gallery_share_pending: 'Опубликовано! Появится в галерее после одобрения.',
+          editor_gallery_empty: 'Шаблонов пока нет.',
+          editor_gallery_sensor_wizard_title: 'Назначить датчики',
+          editor_gallery_sensor_wizard_desc: 'Выберите ваши сущности Home Assistant для каждого датчика, используемого этим шаблоном.',
+          editor_gallery_sensor_wizard_info: 'Выбранный шаблон использует датчики, перечисленные ниже. Замените каждый на свою сущность Home Assistant. Подсказка «Template» показывает оригинальную сущность автора. Оставьте пустым, чтобы пропустить датчик.',
+          editor_gallery_apply: 'Применить',
+          editor_gallery_cancel: 'Отмена',
+          editor_gallery_share_title: 'Поделиться в галерее',
+          editor_gallery_share_submit: 'Поделиться',
+          editor_gallery_sharing: 'Публикация…',
+          editor_gallery_top3_title: 'Топ-3 · Самые популярные',
+          editor_gallery_monthly_reward: 'Каждый месяц мы награждаем самую скачиваемую панель.',
+          editor_gallery_more_templates: 'Другие шаблоны',
+          editor_gallery_downloads: 'Загрузки',
+          editor_gallery_like: 'Нравится',
+          editor_gallery_rules_title: 'Правила галереи',
+          editor_gallery_rules_one_per_month: 'Можно публиковать только одну панель в месяц.',
+          editor_gallery_rules_descriptions_required: 'У каждого Custom Flow и Custom Text должна быть описание; иначе публикация не будет принята.',
+          editor_gallery_rules_reward: 'Самая скачиваемая панель каждого месяца получает награду.',
+          editor_gallery_error_one_per_month: 'Вы уже опубликовали панель в этом месяце. Следующая публикация — в следующем месяце.',
+          editor_gallery_error_descriptions_required: 'Заполните описание для каждого Custom Flow и Custom Text выше. Публикации без полных описаний не принимаются.',
+          editor_gallery_desc_section_title: 'Опишите свои элементы (обязательно для галереи)',
+          editor_gallery_author_name: 'Ваше имя (отображается под карточкой)',
+          editor_gallery_email: 'Email (не показывается; для связи)',
           grid_flow_target: { label: 'Направление потока сети', helper: 'Куда рисовать поток сети: счётчик ↔ инвертор или счётчик ↔ дом. Auto = как раньше.' },
           license_status: 'Статус лицензии',
           license_active: 'PRO активен',
@@ -19705,7 +19991,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
           inverterPopup: { title: 'Popup Inversor', helper: 'Configurar o popup do inversor.' },
           flow_path: { title: 'Caminhos de fluxo (SVG)', helper: 'Personalizar caminhos SVG dos fluxos principais.' },
           flow_path_custom: { title: 'Fluxos personalizados', helper: 'Até 5 fluxos adicionais.' },
-          custom_text: { title: 'Texto personalizado', helper: 'Até 5 blocos de texto. Pode mostrar: só texto estático (deixe Sensor vazio), só valor de entidade (deixe Etiqueta vazia, defina Sensor), ou ambos (etiqueta + valor). Configure posição (X/Y), cor, tamanho de letra.' }
+          custom_text: { title: 'Texto personalizado', helper: 'Até 5 blocos de texto. Pode mostrar: só texto estático (deixe Sensor vazio), só valor de entidade (deixe Etiqueta vazia, defina Sensor), ou ambos (etiqueta + valor). Configure posição (X/Y), cor, tamanho de letra.' },
+          solar_forecast: { title: 'Previsão solar', helper: 'Mostrar produção solar estimada com ícone de sol e estado (muito/moderado/pouco sol).' }
         },
         fields: {
           editor_updates_empty: 'Sem atualizações.',
@@ -19761,6 +20048,42 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_import_config: 'Importar config',
           editor_export_config_helper: 'Cópia de segurança da config completa (fundo, overlays, sensores, fluxos) como JSON. Use antes de atualizações para restaurar depois.',
           editor_import_config_helper: 'Restaurar config de uma cópia de segurança JSON previamente exportada. Faz merge com a config atual.',
+          editor_browse_gallery: 'Ver galeria',
+          editor_share_gallery: 'Partilhar na galeria',
+          editor_gallery_title: 'Galeria',
+          editor_use_this_template: 'Usar',
+          editor_gallery_loading: 'A carregar…',
+          editor_gallery_error: 'Falha ao carregar galeria',
+          editor_gallery_share_success: 'Partilhado com sucesso',
+          editor_gallery_share_error: 'Falha ao partilhar',
+          editor_gallery_no_endpoint: 'Definir URL do Worker para a galeria',
+          editor_gallery_close: 'Fechar',
+          editor_gallery_share_name_prompt: 'Nome do template',
+          editor_gallery_share_desc_prompt: 'Descrição (opcional)',
+          editor_gallery_share_pending: 'Partilhado! Aparecerá na galeria após aprovação.',
+          editor_gallery_empty: 'Ainda não há templates disponíveis.',
+          editor_gallery_sensor_wizard_title: 'Mapear sensores',
+          editor_gallery_sensor_wizard_desc: 'Selecione as suas entidades Home Assistant para cada sensor utilizado por este template.',
+          editor_gallery_sensor_wizard_info: 'O template selecionado usa os sensores listados abaixo. Substitua cada um pela sua própria entidade Home Assistant. A dica "Template" mostra a entidade original do autor. Deixe vazio para ignorar um sensor.',
+          editor_gallery_apply: 'Aplicar',
+          editor_gallery_cancel: 'Cancelar',
+          editor_gallery_share_title: 'Partilhar na galeria',
+          editor_gallery_share_submit: 'Partilhar',
+          editor_gallery_sharing: 'A partilhar…',
+          editor_gallery_top3_title: 'Top 3 · Mais populares',
+          editor_gallery_monthly_reward: 'Todos os meses recompensamos o painel mais descarregado.',
+          editor_gallery_more_templates: 'Mais templates',
+          editor_gallery_downloads: 'Descarregamentos',
+          editor_gallery_like: 'Gosto',
+          editor_gallery_rules_title: 'Regras da galeria',
+          editor_gallery_rules_one_per_month: 'Só pode partilhar um painel por mês.',
+          editor_gallery_rules_descriptions_required: 'Todos os Custom Flows e Custom Texts devem ter descrição; caso contrário a submissão não será aceite.',
+          editor_gallery_rules_reward: 'O painel mais descarregado de cada mês recebe uma recompensa.',
+          editor_gallery_error_one_per_month: 'Já partilhou um painel este mês. Pode partilhar novamente no próximo mês.',
+          editor_gallery_error_descriptions_required: 'Preencha uma descrição para cada Custom Flow e Custom Text acima. Submissões sem descrições completas não são aceites.',
+          editor_gallery_desc_section_title: 'Descreva os seus elementos personalizados (obrigatório para a galeria)',
+          editor_gallery_author_name: 'O seu nome (visível sob o cartão)',
+          editor_gallery_email: 'E-mail (não mostrado; para contacto)',
           grid_flow_target: { label: 'Destino do fluxo da rede', helper: 'Onde desenhar o fluxo da rede: contador ↔ inversor ou contador ↔ casa. Auto mantém o comportamento anterior.' },
           license_status: 'Estado da licença',
           license_active: 'PRO ativo',
@@ -20064,6 +20387,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'animation_speed_factor', label: fields.animation_speed_factor.label, helper: fields.animation_speed_factor.helper, selector: { number: { min: -3, max: 3, step: 0.25, mode: 'slider', unit_of_measurement: 'x' } } },
         { name: 'hide_home_button', label: (fields.hide_home_button && fields.hide_home_button.label) || 'Hide home button', helper: (fields.hide_home_button && fields.hide_home_button.helper) || 'Hide the HOME button and house icons row on the card.', selector: { boolean: {} }, default: false },
         { name: 'show_clock', label: (fields.show_clock && fields.show_clock.label) || 'Show holographic clock', helper: (fields.show_clock && fields.show_clock.helper) || 'Display a holographic-style clock with local time (based on browser/timezone).', selector: { boolean: {} }, default: false },
+        { name: 'dev_clock_color', label: (fields.dev_clock_color && fields.dev_clock_color.label) || 'Clock color', helper: (fields.dev_clock_color && fields.dev_clock_color.helper) || 'Color of the holographic clock text and glow.', selector: { color_picker: {} }, default: '#00FFFF' },
         { name: 'enable_text_toggle_button', label: fields.enable_text_toggle_button.label, helper: fields.enable_text_toggle_button.helper, selector: { boolean: {} }, default: true },
         { name: 'text_toggle_button_x', label: (fields.text_toggle_button_x && fields.text_toggle_button_x.label) || 'Text Toggle Button X (px)', helper: (fields.text_toggle_button_x && fields.text_toggle_button_x.helper) || 'Horizontal position of the text toggle button. Left edge distance in pixels.', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } }, default: 30 },
         { name: 'text_toggle_button_y', label: (fields.text_toggle_button_y && fields.text_toggle_button_y.label) || 'Text Toggle Button Y (px)', helper: (fields.text_toggle_button_y && fields.text_toggle_button_y.helper) || 'Vertical position from top in pixels (0-450). Leave empty or set > 450 to position at bottom. Values > 450 will be treated as bottom positioning.', selector: { number: { min: 0, max: 500, step: 1, mode: 'box', unit_of_measurement: 'px' } }, default: null },
@@ -20071,7 +20395,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'text_font_size', label: (fields.text_font_size && fields.text_font_size.label) || 'Text Font Size (px)', helper: (fields.text_font_size && fields.text_font_size.helper) || 'Unified font size for all text elements (Solar, Battery, Grid, Car, Heat Pump, Home). Default: 12px.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 12 },
         { name: 'background_image_x', label: (fields.background_image_x && fields.background_image_x.label) || 'Background Image X (px)', helper: (fields.background_image_x && fields.background_image_x.helper) || 'Horizontal position of background image. Use drag and drop in preview or adjust here. Default: 0.', selector: { number: { min: -800, max: 800, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 0 },
         { name: 'background_image_y', label: (fields.background_image_y && fields.background_image_y.label) || 'Background Image Y (px)', helper: (fields.background_image_y && fields.background_image_y.helper) || 'Vertical position of background image. Use drag and drop in preview or adjust here. Default: 0.', selector: { number: { min: -450, max: 450, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 0 },
-        
       ]),
       array1: define([
         { name: 'array1_label', label: 'Array 1 label', helper: 'Label shown when only one array or for Array 1 total (e.g. "Array 1" or custom name).', selector: { text: {} }, default: 'Array 1' },
@@ -20161,7 +20484,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'sensor_grid_import_daily', label: fields.sensor_grid_import_daily.label, helper: fields.sensor_grid_import_daily.helper, selector: entitySelector },
         { name: 'sensor_grid_export_daily', label: fields.sensor_grid_export_daily.label, helper: fields.sensor_grid_export_daily.helper, selector: entitySelector },
         { name: 'invert_grid', label: fields.invert_grid.label, helper: fields.invert_grid.helper, selector: { boolean: {} } },
-        { name: 'grid_flow_target', label: (fields.grid_flow_target && fields.grid_flow_target.label) || 'Grid Flow Target', helper: (fields.grid_flow_target && fields.grid_flow_target.helper) || 'Choose where the grid flow is drawn: meter ↔ inverter, or meter ↔ house. Auto keeps legacy behavior.', selector: { select: { options: gridFlowTargetOptions } }, default: 'auto' },
+        { name: 'grid_flow_target', label: (fields.grid_flow_target && fields.grid_flow_target.label) || 'Grid Flow Target', helper: (fields.grid_flow_target && fields.grid_flow_target.helper) || 'Choose where the grid flow is drawn: meter ↔ inverter, or meter ↔ house. With grid import/export sensors use House (flow = meter ↔ house). Auto keeps legacy behavior.', selector: { select: { options: gridFlowTargetOptions } }, default: 'auto' },
         { name: 'enable_echo_alive', label: (fields.enable_echo_alive && fields.enable_echo_alive.label) || 'Enable Echo Alive', helper: (fields.enable_echo_alive && fields.enable_echo_alive.helper) || 'Enables an invisible iframe to keep the Silk browser open on Echo Show.', selector: { boolean: {} }, default: false },
         { name: 'sensor_home_load', label: fields.sensor_home_load.label, helper: fields.sensor_home_load.helper, selector: entitySelector },
         { name: 'sensor_home_load_secondary', label: fields.sensor_home_load_secondary.label, helper: fields.sensor_home_load_secondary.helper, selector: entitySelector },
@@ -20504,6 +20827,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'soc_bar_color_off', label: (fields.soc_bar_color_off && fields.soc_bar_color_off.label) || 'SOC Bar Color (off)', helper: (fields.soc_bar_color_off && fields.soc_bar_color_off.helper) || 'Segment color when not lit.', selector: { color_picker: {} }, default: '#5aa7c3' }
       ]),
       gridBox: define([
+        { name: 'show_grid_box', label: (fields.show_grid_box && fields.show_grid_box.label) || 'Show Grid box', helper: (fields.show_grid_box && fields.show_grid_box.helper) || 'Show or hide the Grid box regardless of the text toggle.', selector: { boolean: {} }, default: true },
         { name: 'dev_grid_box_x', label: (fields.dev_grid_box_x && fields.dev_grid_box_x.label) || 'Grid Box X (px)', helper: (fields.dev_grid_box_x && fields.dev_grid_box_x.helper) || 'Top-right box. Import/Export + daily.', selector: { number: { min: 0, max: 800, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
         { name: 'dev_grid_box_y', label: (fields.dev_grid_box_y && fields.dev_grid_box_y.label) || 'Grid Box Y (px)', helper: (fields.dev_grid_box_y && fields.dev_grid_box_y.helper) || 'Vertical position.', selector: { number: { min: 0, max: 450, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
         { name: 'dev_grid_box_width', label: (fields.dev_grid_box_width && fields.dev_grid_box_width.label) || 'Grid Box Width (px)', helper: (fields.dev_grid_box_width && fields.dev_grid_box_width.helper) || '', selector: { number: { min: 120, max: 300, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
@@ -20516,6 +20840,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'show_grid_box_line_3', label: 'Show Export (daily)', helper: 'Show daily export in Grid box.', selector: { boolean: {} }, default: true }
       ]),
       pvBox: define([
+        { name: 'show_pv_box', label: (fields.show_pv_box && fields.show_pv_box.label) || 'Show PV box', helper: (fields.show_pv_box && fields.show_pv_box.helper) || 'Show or hide the PV box regardless of the text toggle.', selector: { boolean: {} }, default: true },
         { name: 'dev_pv_box_x', label: (fields.dev_pv_box_x && fields.dev_pv_box_x.label) || 'PV Box X (px)', helper: (fields.dev_pv_box_x && fields.dev_pv_box_x.helper) || 'Top-left box. PV Total (sum) + Daily production.', selector: { number: { min: 0, max: 800, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
         { name: 'dev_pv_box_y', label: (fields.dev_pv_box_y && fields.dev_pv_box_y.label) || 'PV Box Y (px)', helper: (fields.dev_pv_box_y && fields.dev_pv_box_y.helper) || 'Vertical position.', selector: { number: { min: 0, max: 450, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
         { name: 'dev_pv_box_width', label: (fields.dev_pv_box_width && fields.dev_pv_box_width.label) || 'PV Box Width (px)', helper: (fields.dev_pv_box_width && fields.dev_pv_box_width.helper) || '', selector: { number: { min: 120, max: 300, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
@@ -20528,6 +20853,15 @@ class LuminaEnergyCardEditor extends HTMLElement {
       lumina_pro: define([
       { name: 'text_visibility_sensor', label: fields.text_visibility_sensor.label, helper: fields.text_visibility_sensor.helper, selector: motionSensorSelector },
       { name: 'pro_debug_grid', label: (fields.pro_debug_grid && fields.pro_debug_grid.label) || 'Enable Positioning Grid (PRO)', helper: (fields.pro_debug_grid && fields.pro_debug_grid.helper) || 'Show an on-screen grid + coordinates to position texts more precisely (PRO tool).', selector: { boolean: {} }, default: false },
+
+      // Previsioni solari (entity + opzioni)
+      { name: 'solar_forecast_enabled', label: (fields.solar_forecast_enabled && fields.solar_forecast_enabled.label) || 'Enable Solar Forecast', helper: (fields.solar_forecast_enabled && fields.solar_forecast_enabled.helper) || 'Display estimated solar production with sun/rain icon and status.', selector: { boolean: {} }, default: false },
+      { name: 'sensor_solar_forecast', label: (fields.sensor_solar_forecast && fields.sensor_solar_forecast.label) || 'Solar Forecast Sensor', helper: (fields.sensor_solar_forecast && fields.sensor_solar_forecast.helper) || 'Sensor entity for estimated solar production (in W or kW).', selector: entitySelector },
+      { name: 'solar_forecast_max_power', label: (fields.solar_forecast_max_power && fields.solar_forecast_max_power.label) || 'Solar Forecast Max Power (W)', helper: (fields.solar_forecast_max_power && fields.solar_forecast_max_power.helper) || 'Maximum expected power in watts for percentage (default: 10000W).', selector: { number: { min: 1000, max: 50000, step: 100, mode: 'box', unit_of_measurement: 'W' } }, default: 10000 },
+      { name: 'solar_forecast_x', label: (fields.solar_forecast_x && fields.solar_forecast_x.label) || 'Solar Forecast X (px)', helper: (fields.solar_forecast_x && fields.solar_forecast_x.helper) || 'Horizontal position.', selector: { number: { min: 0, max: 800, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 400 },
+      { name: 'solar_forecast_y', label: (fields.solar_forecast_y && fields.solar_forecast_y.label) || 'Solar Forecast Y (px)', helper: (fields.solar_forecast_y && fields.solar_forecast_y.helper) || 'Vertical position.', selector: { number: { min: 0, max: 450, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 400 },
+      { name: 'solar_forecast_color', label: (fields.solar_forecast_color && fields.solar_forecast_color.label) || 'Solar Forecast Color', helper: (fields.solar_forecast_color && fields.solar_forecast_color.helper) || 'Color for icon and text.', selector: { color_picker: {} }, default: '#00FFFF' },
+      { name: 'solar_forecast_size', label: (fields.solar_forecast_size && fields.solar_forecast_size.label) || 'Solar Forecast Font Size (px)', helper: (fields.solar_forecast_size && fields.solar_forecast_size.helper) || 'Font size for the forecast text.', selector: { number: { min: 8, max: 48, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 16 },
 
       // Overlay Image fields
       { name: 'overlay_image_enabled', label: (fields.overlay_image_enabled && fields.overlay_image_enabled.label) || 'Enable Overlay Image', helper: (fields.overlay_image_enabled && fields.overlay_image_enabled.helper) || '⚠️ Requires valid PRO password above. Enable or disable the overlay image.', selector: { boolean: {} } },
@@ -20728,15 +21062,6 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: `custom_text_${i}_color`, label: `Text ${i}: Color`, selector: { color_picker: {} } },
         { name: `custom_text_${i}_size`, label: `Text ${i}: Font Size`, selector: { number: { min: 8, max: 48, step: 1, mode: 'slider' } } }
       ]).flat()),
-
-      // Solar Forecast fields
-      { name: 'solar_forecast_enabled', label: (fields.solar_forecast_enabled && fields.solar_forecast_enabled.label) || 'Enable Solar Forecast', helper: (fields.solar_forecast_enabled && fields.solar_forecast_enabled.helper) || '⚠️ PRO FEATURE: Display estimated solar production with sun status (lots/moderate/little sun).', selector: { boolean: {} }, default: false },
-      { name: 'sensor_solar_forecast', label: (fields.sensor_solar_forecast && fields.sensor_solar_forecast.label) || 'Solar Forecast Sensor', helper: (fields.sensor_solar_forecast && fields.sensor_solar_forecast.helper) || 'Sensor entity for estimated solar production (in W or kW).', selector: entitySelector },
-      { name: 'solar_forecast_max_power', label: (fields.solar_forecast_max_power && fields.solar_forecast_max_power.label) || 'Solar Forecast Max Power (W)', helper: (fields.solar_forecast_max_power && fields.solar_forecast_max_power.helper) || 'Maximum expected power in watts. Used to calculate percentage for sun status (default: 10000W).', selector: { number: { min: 1000, max: 50000, step: 100, mode: 'box', unit_of_measurement: 'W' } }, default: 10000 },
-      { name: 'solar_forecast_x', label: (fields.solar_forecast_x && fields.solar_forecast_x.label) || 'Solar Forecast X Position (px)', helper: (fields.solar_forecast_x && fields.solar_forecast_x.helper) || 'Horizontal position of the solar forecast text (in pixels).', selector: { number: { min: 0, max: 800, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 400 },
-      { name: 'solar_forecast_y', label: (fields.solar_forecast_y && fields.solar_forecast_y.label) || 'Solar Forecast Y Position (px)', helper: (fields.solar_forecast_y && fields.solar_forecast_y.helper) || 'Vertical position of the solar forecast text (in pixels).', selector: { number: { min: 0, max: 450, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 350 },
-      { name: 'solar_forecast_color', label: (fields.solar_forecast_color && fields.solar_forecast_color.label) || 'Solar Forecast Color', helper: (fields.solar_forecast_color && fields.solar_forecast_color.helper) || 'Color for the solar forecast text (default: #00FFFF).', selector: { color_picker: {} }, default: '#00FFFF' },
-      { name: 'solar_forecast_size', label: (fields.solar_forecast_size && fields.solar_forecast_size.label) || 'Solar Forecast Font Size (px)', helper: (fields.solar_forecast_size && fields.solar_forecast_size.helper) || 'Font size for the solar forecast text (default: 16px).', selector: { number: { min: 8, max: 48, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 16 },
 
       // Overlay Image Pro fields (5 images)
       { name: 'overlay_image_pro_1', label: (fields.overlay_image_pro_1 && fields.overlay_image_pro_1.label) || 'Overlay Image Pro 1', helper: (fields.overlay_image_pro_1 && fields.overlay_image_pro_1.helper) || 'Path to overlay image pro 1 (e.g., /local/community/lumina-energy-card/overlay_pro_1.png).', selector: { text: { mode: 'blur' } } },
@@ -20987,7 +21312,12 @@ _createSectionDefs(localeStrings, schemaDefs) {
     if (helper) {
       const helperEl = document.createElement('div');
       helperEl.className = 'section-helper';
-      helperEl.textContent = helper;
+      const plainText = (helper.replace(/<[^>]+>/g, '')).trim() || helper;
+      if (id === 'lumina_pro') {
+        helperEl.innerHTML = '<strong style="font-weight:bold;color:#ffffff !important;">' + String(plainText).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</strong>';
+      } else {
+        helperEl.textContent = plainText;
+      }
       content.appendChild(helperEl);
     }
 
@@ -21116,7 +21446,8 @@ _createSectionDefs(localeStrings, schemaDefs) {
         exportConfigBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(180,200,100,0.2); color: #b4c864; border: 1px solid rgba(180,200,100,0.5); cursor: pointer;';
         exportConfigBtnPro.addEventListener('click', () => {
           try {
-            const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
+            const allDefs = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
+            const cfg = { ...allDefs, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
             const data = { _lumina_config_export: true, version: 1 };
             Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
             const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
@@ -21167,11 +21498,25 @@ _createSectionDefs(localeStrings, schemaDefs) {
           reader.readAsText(file);
         });
         importConfigBtnPro.addEventListener('click', () => { importConfigInputPro.click(); });
+        const browseGalleryLabelPro = (localeStrings && localeStrings.fields && localeStrings.fields.editor_browse_gallery) || 'Browse gallery';
+        const shareGalleryLabelPro = (localeStrings && localeStrings.fields && localeStrings.fields.editor_share_gallery) || 'Share to gallery';
+        const browseGalleryBtnPro = document.createElement('button');
+        browseGalleryBtnPro.type = 'button';
+        browseGalleryBtnPro.textContent = browseGalleryLabelPro;
+        browseGalleryBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(100,180,220,0.2); color: #64b4dc; border: 1px solid rgba(100,180,220,0.5); cursor: pointer;';
+        browseGalleryBtnPro.addEventListener('click', () => { this._openGalleryModal_(); });
+        const shareGalleryBtnPro = document.createElement('button');
+        shareGalleryBtnPro.type = 'button';
+        shareGalleryBtnPro.textContent = shareGalleryLabelPro;
+        shareGalleryBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(120,180,120,0.2); color: #78b478; border: 1px solid rgba(120,180,120,0.5); cursor: pointer;';
+        shareGalleryBtnPro.addEventListener('click', () => { this._shareToGallery_(); });
         row.appendChild(exportBtn);
         row.appendChild(importBtn);
         row.appendChild(resetBtn);
         row.appendChild(exportConfigBtnPro);
         row.appendChild(importConfigBtnPro);
+        row.appendChild(browseGalleryBtnPro);
+        row.appendChild(shareGalleryBtnPro);
         row.appendChild(importInput);
         row.appendChild(importConfigInputPro);
         content.appendChild(row);
@@ -21191,13 +21536,17 @@ _createSectionDefs(localeStrings, schemaDefs) {
     return section;
   }
 
+  /* ─── Lumina Gallery helpers ─── */
+  /* Gallery methods (_createLuminaOverlay_, _sensorKeyToLabel_, _openGalleryModal_,
+     _openSensorWizard_, _applyGalleryConfig_, _captureGalleryPreview_, _shareToGallery_)
+     are defined in lumina-energy-card.gallery.js and added to the prototype at build time. */
+
   _compressBackgroundImage(dataUrl) {
-    const maxW = 1920;
-    const maxH = 1080;
-    const jpegQuality = 0.82;
-    const maxDataUrlLen = 450000;
+    const maxW = 4096;
+    const maxH = 4096;
+    const maxDataUrlLen = 5500000;
     if (!dataUrl || typeof dataUrl !== 'string' || dataUrl.length < 100) return Promise.resolve(dataUrl);
-    if (dataUrl.length <= maxDataUrlLen && dataUrl.indexOf('data:image/jpeg') === 0) return Promise.resolve(dataUrl);
+    if (dataUrl.length <= maxDataUrlLen) return Promise.resolve(dataUrl);
     return new Promise((resolve) => {
       const img = new Image();
       img.onerror = () => resolve(dataUrl);
@@ -21217,10 +21566,10 @@ _createSectionDefs(localeStrings, schemaDefs) {
           const ctx = canvas.getContext('2d');
           if (!ctx) { resolve(dataUrl); return; }
           ctx.drawImage(img, 0, 0, w, h);
-          let out = canvas.toDataURL('image/jpeg', jpegQuality);
-          if (out && out.length > maxDataUrlLen) {
-            out = canvas.toDataURL('image/jpeg', 0.7);
-          }
+          const preferPng = (dataUrl || '').indexOf('image/png') >= 0;
+          let out = preferPng ? canvas.toDataURL('image/png') : canvas.toDataURL('image/jpeg', 0.98);
+          if (out && out.length > maxDataUrlLen) out = canvas.toDataURL('image/jpeg', 0.95);
+          if (out && out.length > maxDataUrlLen) out = canvas.toDataURL('image/jpeg', 0.9);
           resolve(out || dataUrl);
         } catch (e) {
           resolve(dataUrl);
@@ -21429,8 +21778,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const typeOptions = [
       { value: '1', label: tl[0] },
       { value: '2', label: tl[1] },
-      { value: '3', label: tl[2] },
-      { value: '4', label: tl[3] || '4. Personale' }
+      { value: '3', label: tl[2] }
     ];
     
     const addRadioRow = (opts, name, current, onChange) => {
@@ -21462,11 +21810,12 @@ _createSectionDefs(localeStrings, schemaDefs) {
     sep.style.marginBottom = '8px';
     container.appendChild(sep);
     
-    addRadioRow(typeOptions, 'installation_type', currentType, (v) => this._handleInstallationTypeChange(v));
+    const radioType = (currentType === '4') ? '' : currentType;
+    addRadioRow(typeOptions, 'installation_type', radioType, (v) => this._handleInstallationTypeChange(v));
     
     const personalWrap = document.createElement('div');
     personalWrap.className = 'installation-type-personal-upload';
-    personalWrap.style.cssText = 'margin-top: 14px; padding: 12px; border: 1px solid rgba(0,229,255,0.5); border-radius: 8px; background: rgba(0,30,40,0.3); display: ' + (currentType === '4' ? 'block' : 'none') + ';';
+    personalWrap.style.cssText = 'margin-top: 10px; padding: 12px; border: 1px solid rgba(0,229,255,0.5); border-radius: 8px; background: rgba(0,30,40,0.3); display: ' + (currentType === '4' ? 'block' : 'none') + ';';
     const personalLabel = document.createElement('label');
     personalLabel.style.cssText = 'display: block; margin-bottom: 8px; font-weight: 600; color: #00E5FF; font-size: 13px;';
     personalLabel.textContent = personalUploadLabels[lang] || personalUploadLabels.en;
@@ -21765,7 +22114,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       personalWrap.appendChild(aiWrap);
     }
 
-    container.appendChild(personalWrap);
+    this._personalBackgroundEl = personalWrap;
     
     return container;
   }
@@ -22203,6 +22552,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
 
     // Determine license status (supports v1 + v2 + v3; v3 lock: once v3 used on this device, only v3 accepted)
     let isLicenseActive = false;
+    let isAlreadyV3 = false;
     const proPassword = config.pro_password;
     if (proPassword && typeof proPassword === 'string' && proPassword.trim()) {
       const trimmedPw = proPassword.trim();
@@ -22211,6 +22561,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         const h3 = haUserIdPro ? LUMINA_SHA256(trimmedPw + haUserIdPro) : '';
         if (h3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3)) {
           isLicenseActive = true;
+          isAlreadyV3 = true;
           try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) {}
         }
       } else {
@@ -22218,11 +22569,13 @@ _createSectionDefs(localeStrings, schemaDefs) {
         const uid = getLuminaUID();
         const h2 = LUMINA_SHA256(trimmedPw + uid);
         const h3 = haUserIdPro ? LUMINA_SHA256(trimmedPw + haUserIdPro) : '';
+        const isV3Match = !!(h3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3));
         if ((Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(h1)) ||
             (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(h2)) ||
-            (h3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3))) {
+            isV3Match) {
           isLicenseActive = true;
-          if (h3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3) && haUserIdPro && typeof localStorage !== 'undefined') {
+          if (isV3Match) isAlreadyV3 = true;
+          if (isV3Match && haUserIdPro && typeof localStorage !== 'undefined') {
             try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) {}
           }
         }
@@ -22251,6 +22604,23 @@ _createSectionDefs(localeStrings, schemaDefs) {
     statusLeft.appendChild(statusText);
     statusBanner.appendChild(statusLeft);
     container.appendChild(statusBanner);
+
+    // Subsection: License & Payment (password + payment). Closes when license is active.
+    const licenseSubSectionStyle = 'margin-bottom: 14px; border: 1px solid rgba(0,249,249,0.25); border-radius: 8px; overflow: hidden;';
+    const licenseSummaryStyle = 'padding: 10px 14px; cursor: pointer; font-weight: bold; font-size: 13px; color: #00f9f9; background: rgba(0,249,249,0.08); list-style: none; display: flex; align-items: center; gap: 8px;';
+    const licenseSummaryMarker = 'display: inline-block; width: 0; height: 0; border-left: 5px solid #00f9f9; border-top: 4px solid transparent; border-bottom: 4px solid transparent; transition: transform 0.2s ease;';
+    const licenseContentStyle = 'padding: 14px 16px; border-top: 1px solid rgba(0,249,249,0.15); background: rgba(0,0,0,0.12);';
+    const licenseDetails = document.createElement('details');
+    licenseDetails.className = 'lumina-pro-license-subsection';
+    licenseDetails.style.cssText = licenseSubSectionStyle;
+    licenseDetails.open = !isLicenseActive;
+    const licenseSummary = document.createElement('summary');
+    licenseSummary.style.cssText = licenseSummaryStyle;
+    licenseSummary.innerHTML = '<span style="' + licenseSummaryMarker + '"></span>' + ((fields && fields.license_payment_subsection) || 'License & Payment');
+    licenseDetails.appendChild(licenseSummary);
+    const licenseContent = document.createElement('div');
+    licenseContent.style.cssText = licenseContentStyle;
+    licenseDetails.appendChild(licenseContent);
 
     // Password field + activate
     const pwRow = document.createElement('div');
@@ -22333,21 +22703,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
           }
         }
         if (!ok) {
-          console.warn('[Lumina][license] activate.failed', {
-            hasPw: !!entered,
-            v1Count: Array.isArray(LUMINA_AUTH_LIST_V1) ? LUMINA_AUTH_LIST_V1.length : null,
-            v2Count: Array.isArray(LUMINA_AUTH_LIST_V2) ? LUMINA_AUTH_LIST_V2.length : null,
-            v3Count: Array.isArray(LUMINA_AUTH_LIST_V3) ? LUMINA_AUTH_LIST_V3.length : null,
-            lastErr: LUMINA_AUTH_META.lastErr || '',
-            status: LUMINA_AUTH_META.lastStatus || 0
-          });
         } else {
-          if (LUMINA_DEBUG_LICENSE) console.warn('[Lumina][license] activate.ok', { listCount: LUMINA_AUTH_META.lastCount });
           const urlProVerify = `${LUMINA_LICENSE_ENDPOINT}?action=pro_verify&ha_user_id=${encodeURIComponent(haUserIdAct)}&uid=${encodeURIComponent(uidAct)}&ha_user_name=${encodeURIComponent(haUserNameAct)}&hash_v1=${encodeURIComponent(pwOnlyHash)}&hash_v2=${encodeURIComponent(pwUidHash)}&hash_v3=${encodeURIComponent(pwHaHash)}&match=${encodeURIComponent(matchType)}&origin=doActivate&ts=${Date.now()}`;
           LUMINA_JSONP(urlProVerify, 8000).catch(() => {});
         }
       } catch (e) {
-        console.warn('[Lumina][license] activate.exception', { err: (e && e.message) ? e.message : String(e) });
         ok = false;
       } finally {
         this._proActivationState = ok ? 'success' : 'error';
@@ -22366,12 +22726,12 @@ _createSectionDefs(localeStrings, schemaDefs) {
     pwWrap.appendChild(activateBtn);
     pwRow.appendChild(pwLabel);
     pwRow.appendChild(pwWrap);
-    container.appendChild(pwRow);
-    container.appendChild(pwMsg);
+    licenseContent.appendChild(pwRow);
+    licenseContent.appendChild(pwMsg);
 
-    // --- PULSANTE v3 (migrazione da password vecchia): visibile solo se PRO già attivo e ha_user_id disponibile ---
-    // Migrate to v3 (ha_user_id-bound): show when user has v1/v2 and we have ha_user_id
-    if (isLicenseActive && haUserIdPro) {
+    // --- PULSANTE v3 (migrazione da password vecchia): visibile solo se PRO attivo con v1/v2 (NON v3) ---
+    // Migrate to v3 (ha_user_id-bound): show only when user has v1/v2, NOT when already on v3
+    if (isLicenseActive && haUserIdPro && !isAlreadyV3) {
       const migrateRow = document.createElement('div');
       migrateRow.style.cssText = 'margin-bottom: 16px; padding: 12px; border-radius: 8px; background: rgba(0,249,249,0.08); border: 1px solid rgba(0,249,249,0.25);';
       const migrateTitle = document.createElement('div');
@@ -22433,7 +22793,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       migrateRow.appendChild(migrateBtn);
       migrateRow.appendChild(migrateCasella);
       migrateRow.appendChild(migrateMsg);
-      container.appendChild(migrateRow);
+      licenseContent.appendChild(migrateRow);
     }
 
     // Donation instructions (always visible)
@@ -22456,8 +22816,8 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const PAYPAL_POOL_URL = 'https://www.paypal.com/pool/9mz595V3BW?sr=ancr';
     const collettaLabel = labels.payment_method_colletta || 'Colletta';
     instructions.innerHTML = `
-      <div style="font-size: 15px; color: #000; font-weight: 900; margin-bottom: 10px;">${labels.pro_license_title}</div>
-      <div style="font-size: 14px; color: #000; font-weight: 700; line-height: 1.6;">
+      <div style="font-size: 15px; color: #ffffff; font-weight: 900; margin-bottom: 10px;">${labels.pro_license_title}</div>
+      <div style="font-size: 14px; color: #ffffff; font-weight: 700; line-height: 1.6;">
         ${labels.pro_license_line1}<br/>
         ${labels.pro_license_line2}<br/>
         ${(labels.pro_license_line3 && String(labels.pro_license_line3).trim()) ? (labels.pro_license_line3 + '<br/>') : ''}
@@ -22477,19 +22837,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
                  <span>${collettaLabel}</span>
                </a>`
         }
-        ${
-          isPaypalDisabled
-            ? `<div aria-disabled="true"
-                 style="display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:10px 14px;border-radius:10px;background:#00f9f9;color:#000;text-decoration:none;font-weight:900; opacity:0.55; cursor:not-allowed; pointer-events:none;">
-                 <span>PayPal</span>
-                 <span>${PAYPAL_BUTTON_TEXT}</span>
-               </div>`
-            : `<a href="${PAYPAL_DONATE_URL}" target="_blank" rel="noopener noreferrer"
-                 style="display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:10px 14px;border-radius:10px;background:#00f9f9;color:#000;text-decoration:none;font-weight:900;">
-                 <span>PayPal</span>
-                 <span>${PAYPAL_BUTTON_TEXT}</span>
-               </a>`
-        }
+        
         <a href="${GITHUB_SPONSORS_URL}" target="_blank" rel="noopener noreferrer"
            style="display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:10px 14px;border-radius:10px;background:#24292f;color:#fff;text-decoration:none;font-weight:900;">
           <span>GitHub</span>
@@ -22499,7 +22847,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       ${paypalDisabledMsgHtml}
       ${collettaDisabledMsgHtml}
     `;
-    container.appendChild(instructions);
+    licenseContent.appendChild(instructions);
 
     // Helper to create input
     const makeInput = (type, placeholder, borderColor) => {
@@ -22570,13 +22918,13 @@ _createSectionDefs(localeStrings, schemaDefs) {
       const lastNameInput = makeInput('text', labels.paypal_last_name_placeholder);
       const githubUserInput = makeInput('text', labels.github_username_placeholder);
 
-      container.appendChild(makeField(labels.your_email, emailInput));
-      container.appendChild(makeField(labels.payment_method, methodSelect));
-      container.appendChild(makeField(labels.paypal_payment_email, paymentEmailInput));
-      container.appendChild(makeField(labels.paypal_first_name, firstNameInput));
-      container.appendChild(makeField(labels.paypal_last_name, lastNameInput));
-      container.appendChild(makeField(labels.github_username, githubUserInput));
-      container.appendChild(statusMsg);
+      licenseContent.appendChild(makeField(labels.your_email, emailInput));
+      licenseContent.appendChild(makeField(labels.payment_method, methodSelect));
+      licenseContent.appendChild(makeField(labels.paypal_payment_email, paymentEmailInput));
+      licenseContent.appendChild(makeField(labels.paypal_first_name, firstNameInput));
+      licenseContent.appendChild(makeField(labels.paypal_last_name, lastNameInput));
+      licenseContent.appendChild(makeField(labels.github_username, githubUserInput));
+      licenseContent.appendChild(statusMsg);
 
       const LUMINA_PRIVACY_URL = 'https://giorgio866.github.io/luminaprivacy/';
       const privacyRow = document.createElement('div');
@@ -22598,7 +22946,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       privacyText.innerHTML = 'Ho letto e accetto la <a href="' + LUMINA_PRIVACY_URL + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">Privacy Policy</a> / I have read and accept the Privacy Policy.';
       privacyLabel.appendChild(privacyText);
       privacyRow.appendChild(privacyLabel);
-      container.appendChild(privacyRow);
+      licenseContent.appendChild(privacyRow);
 
       const refreshMethodUi = () => {
         const isGitHub = methodSelect.value === 'github';
@@ -22615,6 +22963,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       const sendBtn = document.createElement('button');
       sendBtn.textContent = labels.send_request;
       sendBtn.style.cssText = 'width: 100%; padding: 14px; background: #00f9f9; color: #000; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 14px;';
+      licenseContent.appendChild(sendBtn);
       sendBtn.addEventListener('click', async () => {
         const email = emailInput.value.trim();
         const method = (methodSelect.value || 'paypal').trim();
@@ -22706,7 +23055,6 @@ _createSectionDefs(localeStrings, schemaDefs) {
           sendBtn.textContent = labels.send_request;
         }
       });
-      container.appendChild(sendBtn);
 
       // Migration section (existing users)
       const migrationBox = document.createElement('div');
@@ -22817,7 +23165,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       }
     });
     migrationBox.appendChild(migBtn);
-    container.appendChild(migrationBox);
+    licenseContent.appendChild(migrationBox);
     }
 
     // Footer: Sponsors + social + fundraiser + note
@@ -22886,12 +23234,15 @@ _createSectionDefs(localeStrings, schemaDefs) {
     bottomWrap.appendChild(customNote);
 
     footerWrap.appendChild(bottomWrap);
+    licenseContent.appendChild(footerWrap);
+    container.appendChild(licenseDetails);
 
     // PRO features (only when active) — split into subsections: General, Overlay Images, Custom Flows, Custom Text
     const proSchema = Array.isArray(schema) ? schema : null;
     let proFeaturesDiv = null;
     if (isLicenseActive && proSchema && proSchema.length > 0) {
       const schemaGeneral = proSchema.filter(f => f.name === 'text_visibility_sensor' || f.name === 'pro_debug_grid');
+      const schemaSolarForecast = proSchema.filter(f => f.name.startsWith('solar_forecast_') || f.name === 'sensor_solar_forecast');
       const schemaImages = proSchema.filter(f => f.name.startsWith('overlay_image'));
       const schemaFlows = proSchema.filter(f => f.name.startsWith('custom_flow_'));
       const schemaText = proSchema.filter(f => f.name.startsWith('custom_text_'));
@@ -22926,21 +23277,13 @@ _createSectionDefs(localeStrings, schemaDefs) {
       };
 
       addSubSection('General', schemaGeneral, true);
+      addSubSection((fields.solar_forecast && fields.solar_forecast.title) || 'Solar Forecast', schemaSolarForecast, true);
       addSubSection('Overlay Images', schemaImages, false);
       addSubSection('Custom Flows', schemaFlows, false);
       addSubSection('Custom Text', schemaText, false);
     }
 
-    // Keep footer visible even after activation:
-    // - When PRO is active and the form is long, show footer BEFORE the PRO form.
-    // - Otherwise keep it at the end.
-    if (isLicenseActive && proFeaturesDiv) {
-      container.appendChild(footerWrap);
-      container.appendChild(proFeaturesDiv);
-    } else {
-      if (proFeaturesDiv) container.appendChild(proFeaturesDiv);
-      container.appendChild(footerWrap);
-    }
+    if (proFeaturesDiv) container.appendChild(proFeaturesDiv);
 
     return container;
   }
@@ -23453,118 +23796,23 @@ _createSectionDefs(localeStrings, schemaDefs) {
 
     container.appendChild(toggleRow);
 
-    // Export/Import flows: always visible below toggle (also with predefined background) so user can load flows without opening sections
-    const flowsFileRow = document.createElement('div');
-    flowsFileRow.className = 'editor-flows-file-row';
-    flowsFileRow.style.cssText = 'display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 8px;';
-    const exportFlowsLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_flows) || 'Export flows';
-    const importFlowsLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_flows) || 'Import flows';
-    const exportFlowsBtn = document.createElement('button');
-    exportFlowsBtn.type = 'button';
-    exportFlowsBtn.textContent = exportFlowsLabel;
-    exportFlowsBtn.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_flows_helper) || 'Download custom flow paths and options as JSON. Use on another background.';
-    exportFlowsBtn.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(0,200,150,0.2); color: #00c896; border: 1px solid rgba(0,200,150,0.5); cursor: pointer;';
-    exportFlowsBtn.addEventListener('click', () => {
-      try {
-        const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
-        const flowKeys = [];
-        for (let i = 1; i <= 10; i++) {
-          flowKeys.push(`custom_flow_${i}_enabled`, `custom_flow_${i}_path`, `custom_flow_${i}_path_preset`, `custom_flow_${i}_direction`, `custom_flow_${i}_offset_x`, `custom_flow_${i}_offset_y`, `custom_flow_${i}_sensor`, `custom_flow_${i}_color`, `custom_flow_${i}_threshold`, `custom_flow_${i}_start_x`, `custom_flow_${i}_start_y`, `custom_flow_${i}_end_x`, `custom_flow_${i}_end_y`);
-        }
-        const data = { _lumina_flows_export: true, version: 1 };
-        flowKeys.forEach((k) => { if (cfg[k] !== undefined) data[k] = cfg[k]; });
-        const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
-        const a = document.createElement('a');
-        a.href = URL.createObjectURL(blob);
-        a.download = 'lumina-custom-flows.json';
-        a.click();
-        URL.revokeObjectURL(a.href);
-      } catch (e) { /* ignore */ }
-    });
-    const importFlowsBtn = document.createElement('button');
-    importFlowsBtn.type = 'button';
-    importFlowsBtn.textContent = importFlowsLabel;
-    importFlowsBtn.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_flows_helper) || 'Load flows from a previously exported JSON file.';
-    importFlowsBtn.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(0,180,255,0.2); color: #00b4ff; border: 1px solid rgba(0,180,255,0.5); cursor: pointer;';
-    const importFileInput = document.createElement('input');
-    importFileInput.type = 'file';
-    importFileInput.accept = 'application/json,.json';
-    importFileInput.style.display = 'none';
-    importFileInput.addEventListener('change', () => {
-      const file = importFileInput.files && importFileInput.files[0];
-      importFileInput.value = '';
-      if (!file) return;
-      const reader = new FileReader();
-      reader.onload = () => {
-        try {
-          const raw = reader.result;
-          if (typeof raw !== 'string') return;
-          const data = JSON.parse(raw);
-          if (!data || data._lumina_flows_export !== true) return;
-          const newConfig = { ...(this._config || {}) };
-          Object.keys(data).forEach((k) => {
-            if (k === '_lumina_flows_export' || k === 'version') return;
-            if (k.startsWith('custom_flow_') && k !== 'custom_flows_parallel' && !k.endsWith('_parallel')) newConfig[k] = data[k];
-          });
-          this._config = newConfig;
-          const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
-          if (forms && forms.length) {
-            const full = this._configWithDefaults ? this._configWithDefaults() : newConfig;
-            forms.forEach((f) => { if (f) f.data = full; });
-          }
-          this._debouncedConfigChanged(newConfig, true);
-          if (typeof this._updatePreviewCfInvertUi_ === 'function') this._updatePreviewCfInvertUi_();
-          setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0);
-        } catch (e) { /* ignore */ }
-      };
-      reader.readAsText(file);
-    });
-    importFlowsBtn.addEventListener('click', () => { importFileInput.click(); });
-    const resetFlowsLabel2 = (localeStrings && localeStrings.fields && localeStrings.fields.editor_reset_flows) || 'Reset flows';
-    const resetFlowsBtn2 = document.createElement('button');
-    resetFlowsBtn2.type = 'button';
-    resetFlowsBtn2.textContent = resetFlowsLabel2;
-    resetFlowsBtn2.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_reset_flows_helper) || 'Clear all custom flow paths and options.';
-    resetFlowsBtn2.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(255,100,80,0.2); color: #ff6450; border: 1px solid rgba(255,100,80,0.5); cursor: pointer;';
-    resetFlowsBtn2.addEventListener('click', () => {
-      try {
-        const newConfig = { ...(this._config || {}) };
-        for (let i = 1; i <= 10; i++) {
-          newConfig[`custom_flow_${i}_enabled`] = false;
-          newConfig[`custom_flow_${i}_path`] = null;
-          newConfig[`custom_flow_${i}_path_preset`] = 'custom';
-          newConfig[`custom_flow_${i}_direction`] = 'auto';
-          newConfig[`custom_flow_${i}_offset_x`] = 0;
-          newConfig[`custom_flow_${i}_offset_y`] = 0;
-          newConfig[`custom_flow_${i}_sensor`] = null;
-          newConfig[`custom_flow_${i}_color`] = '#00FFFF';
-          newConfig[`custom_flow_${i}_threshold`] = 10;
-          newConfig[`custom_flow_${i}_start_x`] = 100;
-          newConfig[`custom_flow_${i}_start_y`] = 200;
-          newConfig[`custom_flow_${i}_end_x`] = 600;
-          newConfig[`custom_flow_${i}_end_y`] = 250;
-        }
-        this._config = newConfig;
-        const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
-        if (forms && forms.length) {
-          const full = this._configWithDefaults ? this._configWithDefaults() : newConfig;
-          forms.forEach((f) => { if (f) f.data = full; });
-        }
-        this._debouncedConfigChanged(newConfig, true);
-        if (typeof this._updatePreviewCfInvertUi_ === 'function') this._updatePreviewCfInvertUi_();
-        setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0);
-      } catch (e) { /* ignore */ }
-    });
+    /* ── Free section: Export / Import config ── */
+    const freeRow = document.createElement('div');
+    freeRow.style.cssText = 'display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:8px;';
     const exportConfigLabel2 = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_config) || 'Export config';
     const importConfigLabel2 = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_config) || 'Import config';
+    const freeBtnCss = 'padding:8px 16px;font-size:12px;font-weight:600;border-radius:8px;cursor:pointer;transition:all .2s;';
     const exportConfigBtn2 = document.createElement('button');
     exportConfigBtn2.type = 'button';
     exportConfigBtn2.textContent = exportConfigLabel2;
-    exportConfigBtn2.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_config_helper) || 'Backup full card config (background, overlays, sensors, flows) as JSON. Use before updating to restore later.';
-    exportConfigBtn2.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(180,200,100,0.2); color: #b4c864; border: 1px solid rgba(180,200,100,0.5); cursor: pointer;';
+    exportConfigBtn2.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_config_helper) || 'Backup full card config as JSON.';
+    exportConfigBtn2.style.cssText = freeBtnCss + 'background:rgba(180,200,100,0.15);color:#b4c864;border:1px solid rgba(180,200,100,0.4);';
+    exportConfigBtn2.addEventListener('mouseenter', () => { exportConfigBtn2.style.background = 'rgba(180,200,100,0.3)'; });
+    exportConfigBtn2.addEventListener('mouseleave', () => { exportConfigBtn2.style.background = 'rgba(180,200,100,0.15)'; });
     exportConfigBtn2.addEventListener('click', () => {
       try {
-        const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
+        const allDefs = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
+        const cfg = { ...allDefs, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
         const data = { _lumina_config_export: true, version: 1 };
         Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
         const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
@@ -23578,8 +23826,10 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const importConfigBtn2 = document.createElement('button');
     importConfigBtn2.type = 'button';
     importConfigBtn2.textContent = importConfigLabel2;
-    importConfigBtn2.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_config_helper) || 'Restore config from a previously exported JSON backup. Merges with current config.';
-    importConfigBtn2.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(180,220,120,0.2); color: #b4dc78; border: 1px solid rgba(180,220,120,0.5); cursor: pointer;';
+    importConfigBtn2.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_config_helper) || 'Restore config from a JSON backup.';
+    importConfigBtn2.style.cssText = freeBtnCss + 'background:rgba(180,220,120,0.15);color:#b4dc78;border:1px solid rgba(180,220,120,0.4);';
+    importConfigBtn2.addEventListener('mouseenter', () => { importConfigBtn2.style.background = 'rgba(180,220,120,0.3)'; });
+    importConfigBtn2.addEventListener('mouseleave', () => { importConfigBtn2.style.background = 'rgba(180,220,120,0.15)'; });
     const importConfigInput2 = document.createElement('input');
     importConfigInput2.type = 'file';
     importConfigInput2.accept = 'application/json,.json';
@@ -23615,30 +23865,13 @@ _createSectionDefs(localeStrings, schemaDefs) {
       reader.readAsText(file);
     });
     importConfigBtn2.addEventListener('click', () => { importConfigInput2.click(); });
-    flowsFileRow.appendChild(exportFlowsBtn);
-    flowsFileRow.appendChild(importFlowsBtn);
-    flowsFileRow.appendChild(resetFlowsBtn2);
-    flowsFileRow.appendChild(exportConfigBtn2);
-    flowsFileRow.appendChild(importConfigBtn2);
-    flowsFileRow.appendChild(importFileInput);
-    flowsFileRow.appendChild(importConfigInput2);
-    container.appendChild(flowsFileRow);
+    freeRow.appendChild(exportConfigBtn2);
+    freeRow.appendChild(importConfigBtn2);
+    freeRow.appendChild(importConfigInput2);
+    container.appendChild(freeRow);
 
-    // Pannello Preview Lumina (drag) quando abilitato
-    if (this._showLuminaVisualPreview) {
-      if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] _showLuminaVisualPreview=true, appending panel');
-      try {
-        container.appendChild(this._createEditorPreviewPanel_());
-        if (typeof console !== 'undefined' && console.log) console.log('[Lumina Preview] panel appended to container');
-      } catch (e) {
-        if (typeof console !== 'undefined' && console.error) console.error('[Lumina Preview] failed to create/append panel', e);
-        throw e;
-      }
-      setTimeout(() => { try { if (typeof this._tryCreateCfEntityPicker_ === 'function') this._tryCreateCfEntityPicker_(); } catch (e) { /* ignore */ } }, 600);
-      setTimeout(() => { try { if (typeof this._tryCreateCfEntityPicker_ === 'function') this._tryCreateCfEntityPicker_(); } catch (e) { /* ignore */ } }, 1500);
-    }
-
-    // Sections: scroll only this area so preview stays visible
+    // Render sections FIRST so that _createInstallationTypeSection() sets this._personalBackgroundEl
+    // before the Ultra section tries to use it.
     const formCol = document.createElement('div');
     formCol.className = 'editor-form-column';
     const PRO_LOCKED_SECTIONS = ['flow_path_custom', 'layout', 'flow_colors', 'house_management'];
@@ -23648,6 +23881,248 @@ _createSectionDefs(localeStrings, schemaDefs) {
       }
       formCol.appendChild(this._createSection(section));
     });
+
+    /* ── Ultra section: PRO-locked flows, gallery ── */
+    const ultraCard = document.createElement('div');
+    ultraCard.style.cssText = 'margin-top:12px;border-radius:12px;overflow:hidden;border:1px solid ' + (isProForPreview ? 'rgba(0,220,255,0.3)' : 'rgba(120,120,140,0.3)') + ';background:linear-gradient(135deg,rgba(10,10,30,0.95),rgba(20,20,50,0.95));';
+    const ultraHeader = document.createElement('div');
+    ultraHeader.style.cssText = 'padding:10px 16px;display:flex;align-items:center;gap:8px;cursor:pointer;user-select:none;background:linear-gradient(90deg,rgba(0,180,255,0.08),rgba(120,0,255,0.08));';
+    const ultraIcon = document.createElement('span');
+    ultraIcon.textContent = isProForPreview ? '\u26A1' : '\uD83D\uDD12';
+    ultraIcon.style.cssText = 'font-size:16px;';
+    const ultraTitle = document.createElement('span');
+    ultraTitle.textContent = 'Ultra';
+    ultraTitle.style.cssText = 'font-weight:700;font-size:14px;background:linear-gradient(90deg,#00d4ff,#a855f7);-webkit-background-clip:text;-webkit-text-fill-color:transparent;letter-spacing:1px;';
+    const ultraChevron = document.createElement('span');
+    ultraChevron.textContent = '\u25B6';
+    ultraChevron.style.cssText = 'margin-left:auto;font-size:10px;color:#6a6a80;transition:transform .2s;';
+    ultraHeader.appendChild(ultraIcon);
+    ultraHeader.appendChild(ultraTitle);
+    if (!isProForPreview) {
+      const ultraLockHint = document.createElement('span');
+      ultraLockHint.textContent = (localeStrings && localeStrings.fields && localeStrings.fields.editor_ultra_locked) || 'PRO password required';
+      ultraLockHint.style.cssText = 'font-size:10px;color:#6a6a80;font-style:italic;';
+      ultraHeader.appendChild(ultraLockHint);
+    }
+    ultraHeader.appendChild(ultraChevron);
+    const ultraBody = document.createElement('div');
+    const ultraOpen = !!this._ultraSectionOpen;
+    ultraBody.style.cssText = 'padding:' + (ultraOpen ? '12px 16px 16px' : '0 16px') + ';max-height:' + (ultraOpen ? '2000px' : '0') + ';overflow:hidden;transition:max-height .3s ease,padding .3s ease;';
+    if (ultraOpen) ultraChevron.style.transform = 'rotate(90deg)';
+    ultraHeader.addEventListener('click', () => {
+      if (!isProForPreview) {
+        const loc = this._getLocaleStrings();
+        const msg = (loc && loc.fields && loc.fields.editor_preview_requires_pro) || 'Activate the PRO section with password first.';
+        if (typeof alert === 'function') alert(msg);
+        return;
+      }
+      this._ultraSectionOpen = !this._ultraSectionOpen;
+      ultraChevron.style.transform = this._ultraSectionOpen ? 'rotate(90deg)' : 'rotate(0deg)';
+      ultraBody.style.maxHeight = this._ultraSectionOpen ? '2000px' : '0';
+      ultraBody.style.padding = this._ultraSectionOpen ? '12px 16px 16px' : '0 16px';
+    });
+    /* Ultra button styles */
+    const ultraBtnBase = 'padding:8px 14px;font-size:11px;font-weight:600;border-radius:8px;cursor:pointer;transition:all .2s;border:none;';
+    /* Flows row */
+    const ultraFlowsLabel = document.createElement('div');
+    ultraFlowsLabel.textContent = (localeStrings && localeStrings.fields && localeStrings.fields.editor_ultra_flows_label) || 'Custom Flows';
+    ultraFlowsLabel.style.cssText = 'font-size:10px;font-weight:700;color:#7a7a9a;text-transform:uppercase;letter-spacing:1.5px;margin-bottom:6px;';
+    const ultraFlowsRow = document.createElement('div');
+    ultraFlowsRow.style.cssText = 'display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px;';
+    const importFileInput = document.createElement('input');
+    importFileInput.type = 'file';
+    importFileInput.accept = 'application/json,.json';
+    importFileInput.style.display = 'none';
+    const exportFlowsBtn = document.createElement('button');
+    exportFlowsBtn.type = 'button';
+    exportFlowsBtn.textContent = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_flows) || 'Export flows';
+    exportFlowsBtn.style.cssText = ultraBtnBase + 'background:rgba(0,200,150,0.15);color:#00c896;';
+    exportFlowsBtn.addEventListener('mouseenter', () => { exportFlowsBtn.style.background = 'rgba(0,200,150,0.3)'; });
+    exportFlowsBtn.addEventListener('mouseleave', () => { exportFlowsBtn.style.background = 'rgba(0,200,150,0.15)'; });
+    exportFlowsBtn.addEventListener('click', () => {
+      try {
+        const allDefs1 = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
+        const cfg = { ...allDefs1, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
+        const flowKeys = [];
+        for (let i = 1; i <= 10; i++) {
+          flowKeys.push(`custom_flow_${i}_enabled`, `custom_flow_${i}_path`, `custom_flow_${i}_path_preset`, `custom_flow_${i}_direction`, `custom_flow_${i}_offset_x`, `custom_flow_${i}_offset_y`, `custom_flow_${i}_sensor`, `custom_flow_${i}_color`, `custom_flow_${i}_threshold`, `custom_flow_${i}_start_x`, `custom_flow_${i}_start_y`, `custom_flow_${i}_end_x`, `custom_flow_${i}_end_y`);
+        }
+        const data = { _lumina_flows_export: true, version: 1 };
+        flowKeys.forEach((k) => { if (cfg[k] !== undefined) data[k] = cfg[k]; });
+        const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = 'lumina-custom-flows.json';
+        a.click();
+        URL.revokeObjectURL(a.href);
+      } catch (e) { /* ignore */ }
+    });
+    const importFlowsBtn = document.createElement('button');
+    importFlowsBtn.type = 'button';
+    importFlowsBtn.textContent = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_flows) || 'Import flows';
+    importFlowsBtn.style.cssText = ultraBtnBase + 'background:rgba(0,180,255,0.15);color:#00b4ff;';
+    importFlowsBtn.addEventListener('mouseenter', () => { importFlowsBtn.style.background = 'rgba(0,180,255,0.3)'; });
+    importFlowsBtn.addEventListener('mouseleave', () => { importFlowsBtn.style.background = 'rgba(0,180,255,0.15)'; });
+    importFileInput.addEventListener('change', () => {
+      const file = importFileInput.files && importFileInput.files[0];
+      importFileInput.value = '';
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = () => {
+        try {
+          const raw = reader.result;
+          if (typeof raw !== 'string') return;
+          const data = JSON.parse(raw);
+          if (!data || data._lumina_flows_export !== true) return;
+          const newConfig = { ...(this._config || {}) };
+          Object.keys(data).forEach((k) => {
+            if (k === '_lumina_flows_export' || k === 'version') return;
+            if (k.startsWith('custom_flow_') && k !== 'custom_flows_parallel' && !k.endsWith('_parallel')) newConfig[k] = data[k];
+          });
+          this._config = newConfig;
+          const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
+          if (forms && forms.length) {
+            const full = this._configWithDefaults ? this._configWithDefaults() : newConfig;
+            forms.forEach((f) => { if (f) f.data = full; });
+          }
+          this._debouncedConfigChanged(newConfig, true);
+          if (typeof this._updatePreviewCfInvertUi_ === 'function') this._updatePreviewCfInvertUi_();
+          setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0);
+        } catch (e) { /* ignore */ }
+      };
+      reader.readAsText(file);
+    });
+    importFlowsBtn.addEventListener('click', () => { importFileInput.click(); });
+    const resetFlowsBtn2 = document.createElement('button');
+    resetFlowsBtn2.type = 'button';
+    resetFlowsBtn2.textContent = (localeStrings && localeStrings.fields && localeStrings.fields.editor_reset_flows) || 'Reset flows';
+    resetFlowsBtn2.style.cssText = ultraBtnBase + 'background:rgba(255,80,60,0.12);color:#ff5040;';
+    resetFlowsBtn2.addEventListener('mouseenter', () => { resetFlowsBtn2.style.background = 'rgba(255,80,60,0.25)'; });
+    resetFlowsBtn2.addEventListener('mouseleave', () => { resetFlowsBtn2.style.background = 'rgba(255,80,60,0.12)'; });
+    resetFlowsBtn2.addEventListener('click', () => {
+      try {
+        const newConfig = { ...(this._config || {}) };
+        for (let i = 1; i <= 10; i++) {
+          newConfig[`custom_flow_${i}_enabled`] = false;
+          newConfig[`custom_flow_${i}_path`] = null;
+          newConfig[`custom_flow_${i}_path_preset`] = 'custom';
+          newConfig[`custom_flow_${i}_direction`] = 'auto';
+          newConfig[`custom_flow_${i}_offset_x`] = 0;
+          newConfig[`custom_flow_${i}_offset_y`] = 0;
+          newConfig[`custom_flow_${i}_sensor`] = null;
+          newConfig[`custom_flow_${i}_color`] = '#00FFFF';
+          newConfig[`custom_flow_${i}_threshold`] = 10;
+          newConfig[`custom_flow_${i}_start_x`] = 100;
+          newConfig[`custom_flow_${i}_start_y`] = 200;
+          newConfig[`custom_flow_${i}_end_x`] = 600;
+          newConfig[`custom_flow_${i}_end_y`] = 250;
+        }
+        this._config = newConfig;
+        const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
+        if (forms && forms.length) {
+          const full = this._configWithDefaults ? this._configWithDefaults() : newConfig;
+          forms.forEach((f) => { if (f) f.data = full; });
+        }
+        this._debouncedConfigChanged(newConfig, true);
+        if (typeof this._updatePreviewCfInvertUi_ === 'function') this._updatePreviewCfInvertUi_();
+        setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0);
+      } catch (e) { /* ignore */ }
+    });
+    ultraFlowsRow.appendChild(exportFlowsBtn);
+    ultraFlowsRow.appendChild(importFlowsBtn);
+    ultraFlowsRow.appendChild(resetFlowsBtn2);
+    ultraFlowsRow.appendChild(importFileInput);
+    /* Gallery row */
+    const ultraGalleryLabel = document.createElement('div');
+    ultraGalleryLabel.textContent = (localeStrings && localeStrings.fields && localeStrings.fields.editor_ultra_gallery_label) || 'Community Gallery';
+    ultraGalleryLabel.style.cssText = 'font-size:10px;font-weight:700;color:#7a7a9a;text-transform:uppercase;letter-spacing:1.5px;margin-bottom:6px;';
+    const ultraGalleryRow = document.createElement('div');
+    ultraGalleryRow.style.cssText = 'display:flex;gap:6px;flex-wrap:wrap;';
+    const browseGalleryBtn2 = document.createElement('button');
+    browseGalleryBtn2.type = 'button';
+    browseGalleryBtn2.textContent = (localeStrings && localeStrings.fields && localeStrings.fields.editor_browse_gallery) || 'Browse gallery';
+    browseGalleryBtn2.style.cssText = ultraBtnBase + 'background:linear-gradient(135deg,rgba(0,180,255,0.15),rgba(120,0,255,0.1));color:#64b4dc;';
+    browseGalleryBtn2.addEventListener('mouseenter', () => { browseGalleryBtn2.style.background = 'linear-gradient(135deg,rgba(0,180,255,0.3),rgba(120,0,255,0.2))'; });
+    browseGalleryBtn2.addEventListener('mouseleave', () => { browseGalleryBtn2.style.background = 'linear-gradient(135deg,rgba(0,180,255,0.15),rgba(120,0,255,0.1))'; });
+    browseGalleryBtn2.addEventListener('click', () => { this._openGalleryModal_(); });
+    const shareGalleryBtn2 = document.createElement('button');
+    shareGalleryBtn2.type = 'button';
+    shareGalleryBtn2.textContent = (localeStrings && localeStrings.fields && localeStrings.fields.editor_share_gallery) || 'Share to gallery';
+    shareGalleryBtn2.style.cssText = ultraBtnBase + 'background:linear-gradient(135deg,rgba(0,200,150,0.15),rgba(0,100,255,0.1));color:#78b478;';
+    shareGalleryBtn2.addEventListener('mouseenter', () => { shareGalleryBtn2.style.background = 'linear-gradient(135deg,rgba(0,200,150,0.3),rgba(0,100,255,0.2))'; });
+    shareGalleryBtn2.addEventListener('mouseleave', () => { shareGalleryBtn2.style.background = 'linear-gradient(135deg,rgba(0,200,150,0.15),rgba(0,100,255,0.1))'; });
+    shareGalleryBtn2.addEventListener('click', () => { this._shareToGallery_(); });
+    ultraGalleryRow.appendChild(browseGalleryBtn2);
+    ultraGalleryRow.appendChild(shareGalleryBtn2);
+    /* Personal Background row */
+    const ultraPersonalLabel = document.createElement('div');
+    ultraPersonalLabel.textContent = (localeStrings && localeStrings.fields && localeStrings.fields.editor_ultra_personal_label) || 'Personal Background';
+    ultraPersonalLabel.style.cssText = 'font-size:10px;font-weight:700;color:#7a7a9a;text-transform:uppercase;letter-spacing:1.5px;margin-bottom:6px;margin-top:12px;';
+    const personalToggleWrap = document.createElement('label');
+    personalToggleWrap.style.cssText = 'display:flex;align-items:center;gap:8px;cursor:pointer;margin-bottom:8px;';
+    const personalCheckbox = document.createElement('input');
+    personalCheckbox.type = 'checkbox';
+    personalCheckbox.checked = (this._config && this._config.installation_type === '4');
+    personalCheckbox.style.cssText = 'width:16px;height:16px;accent-color:#00d4ff;cursor:pointer;';
+    const personalToggleText = document.createElement('span');
+    const personalToggleLabels = {
+      en: 'Enable custom background (upload / AI)',
+      it: 'Abilita sfondo personalizzato (carica / AI)',
+      de: 'Eigenen Hintergrund aktivieren (Upload / KI)',
+      fr: 'Activer le fond personnalisé (upload / IA)',
+      nl: 'Aangepaste achtergrond inschakelen (upload / AI)'
+    };
+    const pLang = ((this._config && this._config.language) || 'en').toLowerCase();
+    personalToggleText.textContent = personalToggleLabels[pLang] || personalToggleLabels.en;
+    personalToggleText.style.cssText = 'font-size:12px;color:#d0d0e0;';
+    personalToggleWrap.appendChild(personalCheckbox);
+    personalToggleWrap.appendChild(personalToggleText);
+    personalCheckbox.addEventListener('change', () => {
+      const newType = personalCheckbox.checked ? '4' : '1';
+      const cfg = this._configWithDefaults();
+      cfg.installation_type = newType;
+      if (newType === '4') {
+        cfg.background_image = cfg.background_image || '';
+        cfg.background_image_heat_pump = cfg.background_image_heat_pump || '';
+      } else {
+        const style = cfg.image_style === 'real' ? 'real' : 'holographic';
+        const paths = this._getBackgroundPaths(newType, style);
+        cfg.background_image = paths.background_image;
+        cfg.background_image_heat_pump = paths.background_image_heat_pump;
+      }
+      this._config = { ...cfg };
+      this._debouncedConfigChanged(cfg, true);
+      if (this._personalBackgroundEl) {
+        this._personalBackgroundEl.style.display = personalCheckbox.checked ? 'block' : 'none';
+      }
+      setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 50);
+    });
+
+    /* Assemble Ultra body */
+    ultraBody.appendChild(ultraFlowsLabel);
+    ultraBody.appendChild(ultraFlowsRow);
+    ultraBody.appendChild(ultraGalleryLabel);
+    ultraBody.appendChild(ultraGalleryRow);
+    ultraBody.appendChild(ultraPersonalLabel);
+    ultraBody.appendChild(personalToggleWrap);
+    if (this._personalBackgroundEl) ultraBody.appendChild(this._personalBackgroundEl);
+    ultraCard.appendChild(ultraHeader);
+    ultraCard.appendChild(ultraBody);
+    container.appendChild(ultraCard);
+
+    // Pannello Preview Lumina (drag) quando abilitato
+    if (this._showLuminaVisualPreview) {
+      try {
+        container.appendChild(this._createEditorPreviewPanel_());
+      } catch (e) {
+        if (typeof console !== 'undefined' && console.error) console.error('[Lumina Preview] failed to create/append panel', e);
+        throw e;
+      }
+      setTimeout(() => { try { if (typeof this._tryCreateCfEntityPicker_ === 'function') this._tryCreateCfEntityPicker_(); } catch (e) { /* ignore */ } }, 600);
+      setTimeout(() => { try { if (typeof this._tryCreateCfEntityPicker_ === 'function') this._tryCreateCfEntityPicker_(); } catch (e) { /* ignore */ } }, 1500);
+    }
+
+    // Append sections column (already rendered above before Ultra)
     container.appendChild(formCol);
 
     return container;
@@ -24547,6 +25022,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
         font-size: 0.9em;
         color: var(--secondary-text-color);
       }
+      .lumina-pro-section .section-helper,
+      .lumina-pro-section .section-helper strong {
+        font-weight: bold !important;
+        color: #ffffff !important;
+      }
       ha-form {
         width: 100%;
       }
@@ -24777,3 +25257,953 @@ window.customCards.push({
   preview: true,
   documentationURL: __URL_GH_REPO
 });
+
+/* ─── Lumina Gallery Module ───
+ * Gallery browse, sensor wizard, apply, share, preview capture.
+ * These methods are added to LuminaEnergyCardEditor.prototype
+ * so they work as regular class methods via `this`.
+ * Build order: sec + main + gallery
+ */
+
+/** Create an overlay panel inside this editor's shadowRoot (works in HA shadow DOM) */
+LuminaEnergyCardEditor.prototype._createLuminaOverlay_ = function(panelCss) {
+  const root = this.shadowRoot || this;
+  /* Remove any previous overlay */
+  const prev = root.querySelector('[data-lumina-overlay]');
+  if (prev) prev.remove();
+  /* Backdrop */
+  const overlay = document.createElement('div');
+  overlay.setAttribute('data-lumina-overlay', '1');
+  overlay.style.cssText = 'position:fixed;inset:0;background:rgba(0,0,0,0.75);z-index:999999;display:flex;align-items:center;justify-content:center;padding:max(12px,env(safe-area-inset-top)) max(12px,env(safe-area-inset-right)) max(12px,env(safe-area-inset-bottom)) max(12px,env(safe-area-inset-left));box-sizing:border-box;overflow:auto;';
+  overlay.addEventListener('mousedown', (e) => { if (e.target === overlay) overlay.remove(); });
+  /* Panel: mobile-friendly width and height */
+  const panel = document.createElement('div');
+  panel.setAttribute('data-lumina-panel', '1');
+  panel.style.cssText = 'background:#121220;color:#f0f0f5;border-radius:14px;box-shadow:0 12px 48px rgba(0,0,0,0.7);overflow:hidden;display:flex;flex-direction:column;max-height:min(85vh,85dvh);width:100%;max-width:100%;' + (panelCss || '');
+  panel.addEventListener('mousedown', (e) => e.stopPropagation());
+  overlay.appendChild(panel);
+  overlay._panel = panel;
+  overlay._close = () => overlay.remove();
+  root.appendChild(overlay);
+  return overlay;
+};
+
+/** Get sensor label from i18n fields or generate a readable label from the key */
+LuminaEnergyCardEditor.prototype._sensorKeyToLabel_ = function(key, fields) {
+  if (fields && fields[key]) {
+    const f = fields[key];
+    return (typeof f === 'string') ? f : (f.label || key);
+  }
+  return key.replace(/^sensor_/, '').replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+};
+
+LuminaEnergyCardEditor.prototype._openGalleryModal_ = function() {
+  const localeStrings = (typeof this._getLocaleStrings === 'function') ? this._getLocaleStrings() : null;
+  const fields = (localeStrings && localeStrings.fields) || {};
+  const galleryBase = (typeof LUMINA_LICENSE_ENDPOINT === 'string' && LUMINA_LICENSE_ENDPOINT) ? String(LUMINA_LICENSE_ENDPOINT).replace(/\/$/, '') : '';
+  const L = {
+    title: fields.editor_gallery_title || 'Gallery',
+    useThis: fields.editor_use_this_template || 'Use this',
+    loading: fields.editor_gallery_loading || 'Loading\u2026',
+    error: fields.editor_gallery_error || 'Failed to load gallery',
+    noEndpoint: fields.editor_gallery_no_endpoint || 'Set license Worker URL to use gallery',
+    close: fields.editor_gallery_close || 'Close',
+    empty: fields.editor_gallery_empty || 'No templates available yet.',
+    top3Title: fields.editor_gallery_top3_title || 'Top 3 · Most popular',
+    monthlyReward: fields.editor_gallery_monthly_reward || 'We reward the most downloaded dashboard each month.',
+    moreTemplates: fields.editor_gallery_more_templates || 'More templates',
+    topEverTitle: fields.editor_gallery_top_ever_title || 'Top di sempre',
+    topEverSub: fields.editor_gallery_top_ever_sub || 'Vincitori dei periodi passati.',
+    congratsTitle: fields.editor_gallery_congrats_title || 'Congratulazioni al vincitore!',
+    congratsSub: fields.editor_gallery_congrats_sub || 'La dashboard più scaricata del periodo.',
+    downloads: fields.editor_gallery_downloads || 'Downloads',
+    like: fields.editor_gallery_like || 'Like',
+    sensorWizardTitle: fields.editor_gallery_sensor_wizard_title || 'Map your sensors',
+    sensorWizardDesc: fields.editor_gallery_sensor_wizard_desc || 'Select your Home Assistant entities for each sensor used by this template.',
+    apply: fields.editor_gallery_apply || 'Apply',
+    cancel: fields.editor_gallery_cancel || 'Cancel',
+  };
+  if (!galleryBase) { alert(L.noEndpoint); return; }
+
+  const ov = this._createLuminaOverlay_('width:min(720px,100%);min-width:0;');
+  const panel = ov._panel;
+  const closeOverlay = ov._close;
+
+  /* ── header: touch-friendly on mobile ── */
+  const header = document.createElement('div');
+  header.style.cssText = 'padding:14px 16px;padding-left:max(16px,env(safe-area-inset-left));border-bottom:1px solid rgba(255,255,255,0.15);display:flex;align-items:center;justify-content:space-between;flex-shrink:0;';
+  const titleEl = document.createElement('span');
+  titleEl.textContent = L.title;
+  titleEl.style.cssText = 'font-weight:700;font-size:clamp(15px,4vw,18px);color:#ffffff;';
+  const closeBtn = document.createElement('button');
+  closeBtn.type = 'button';
+  closeBtn.textContent = '\u2715';
+  closeBtn.style.cssText = 'font-size:20px;min-width:44px;min-height:44px;width:44px;height:44px;border-radius:50%;border:none;cursor:pointer;background:rgba(255,255,255,0.12);color:#ffffff;display:flex;align-items:center;justify-content:center;-webkit-tap-highlight-color:transparent;';
+  closeBtn.addEventListener('mousedown', (e) => { e.stopPropagation(); closeOverlay(); });
+  header.appendChild(titleEl);
+  header.appendChild(closeBtn);
+  panel.appendChild(header);
+
+  /* ── content: una sola area scrollabile (Top 3 + More) così tutto è visibile e si scrolla anche da smartphone ── */
+  const listEl = document.createElement('div');
+  listEl.className = 'lumina-gallery-list-scroll';
+  listEl.style.cssText = 'flex:1;min-height:200px;max-height:min(70vh,70dvh);overflow-y:auto;overflow-x:hidden;-webkit-overflow-scrolling:touch;min-width:0;display:flex;flex-direction:column;';
+  const galleryListStyle = document.createElement('style');
+  galleryListStyle.textContent = '.lumina-gallery-list-scroll{scrollbar-width:thin;scrollbar-color:rgba(0,200,255,0.5) rgba(255,255,255,0.08);}.lumina-gallery-list-scroll::-webkit-scrollbar{width:10px;}.lumina-gallery-list-scroll::-webkit-scrollbar-track{background:rgba(255,255,255,0.06);border-radius:5px;}.lumina-gallery-list-scroll::-webkit-scrollbar-thumb{background:rgba(0,200,255,0.45);border-radius:5px;}.lumina-gallery-list-scroll::-webkit-scrollbar-thumb:hover{background:rgba(0,200,255,0.65);}';
+  panel.appendChild(galleryListStyle);
+  const loadingDiv = document.createElement('div');
+  loadingDiv.textContent = L.loading;
+  loadingDiv.style.cssText = 'text-align:center;padding:40px 0;color:#a0a0b8;font-size:14px;';
+  listEl.appendChild(loadingDiv);
+  panel.appendChild(listEl);
+
+  const likeUid = (() => { try { if (this._hass && this._hass.user && this._hass.user.id) return String(this._hass.user.id); } catch(_){} return 'anon_' + Math.random().toString(36).slice(2,10); })();
+
+  function buildCard(item, isFeatured) {
+    const card = document.createElement('div');
+    card.style.cssText = isFeatured
+      ? 'border:1px solid rgba(0,200,255,0.35);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;background:linear-gradient(165deg,#1a1a32 0%,#0f1624 100%);box-shadow:0 4px 20px rgba(0,180,255,0.12);transition:border-color .2s,transform .15s,box-shadow .2s;cursor:pointer;position:relative;'
+      : 'border:1px solid rgba(255,255,255,0.18);border-radius:10px;overflow:hidden;display:flex;flex-direction:column;background:#1a1a30;transition:border-color .2s,transform .15s;cursor:pointer;';
+    card.addEventListener('mouseenter', () => {
+      card.style.borderColor = isFeatured ? 'rgba(0,200,255,0.6)' : '#3399ff';
+      card.style.transform = 'translateY(-2px)';
+      if (isFeatured) card.style.boxShadow = '0 8px 28px rgba(0,180,255,0.2)';
+    });
+    card.addEventListener('mouseleave', () => {
+      card.style.borderColor = isFeatured ? 'rgba(0,200,255,0.35)' : 'rgba(255,255,255,0.18)';
+      card.style.transform = 'none';
+      if (isFeatured) card.style.boxShadow = '0 4px 20px rgba(0,180,255,0.12)';
+    });
+    if (isFeatured) {
+      const badge = document.createElement('div');
+      badge.style.cssText = 'position:absolute;top:8px;right:8px;z-index:2;font-size:10px;font-weight:700;letter-spacing:0.05em;padding:4px 8px;border-radius:6px;background:linear-gradient(135deg,rgba(0,200,255,0.4),rgba(100,80,255,0.3));color:#e0f7ff;text-transform:uppercase;';
+      badge.textContent = '\u2605 Top';
+      card.appendChild(badge);
+    }
+    const thumb = document.createElement('div');
+    thumb.style.cssText = 'width:100%;min-height:' + (isFeatured ? '140px' : '130px') + ';height:' + (isFeatured ? '140px' : '130px') + ';background:#1a1a2e;display:flex;align-items:center;justify-content:center;overflow:hidden;flex-shrink:0;';
+    if (item.hasPreview) {
+      const img = document.createElement('img');
+      img.alt = item.name || '';
+      img.style.cssText = 'width:100%;height:100%;min-width:100%;min-height:100%;object-fit:cover;display:block;';
+      img.src = galleryBase + '/gallery/' + encodeURIComponent(item.id) + '/preview';
+      thumb.appendChild(img);
+    } else {
+      const noPreview = document.createElement('span');
+      noPreview.textContent = 'No preview';
+      noPreview.style.cssText = 'font-size:12px;color:#6a6a80;';
+      thumb.appendChild(noPreview);
+    }
+    const info = document.createElement('div');
+    info.style.cssText = 'padding:10px 12px;flex:1;min-height:0;display:flex;flex-direction:column;';
+    const nameEl = document.createElement('div');
+    nameEl.textContent = item.name || item.id || '';
+    nameEl.style.cssText = 'font-weight:600;font-size:13px;margin-bottom:4px;color:#ffffff;';
+    info.appendChild(nameEl);
+    if (item.author_name || item.authorName) {
+      const authorEl = document.createElement('div');
+      authorEl.textContent = item.author_name || item.authorName;
+      authorEl.style.cssText = 'font-size:11px;color:#80a0b0;margin-bottom:4px;';
+      info.appendChild(authorEl);
+    }
+    if (item.description) {
+      const descEl = document.createElement('div');
+      descEl.textContent = (item.description).slice(0, 100) + (item.description.length > 100 ? '\u2026' : '');
+      descEl.style.cssText = 'font-size:11px;color:#a0a0b8;line-height:1.3;flex:1;min-height:0;';
+      info.appendChild(descEl);
+    }
+    const statsRow = document.createElement('div');
+    statsRow.style.cssText = 'display:flex;align-items:center;gap:12px;padding:4px 12px 0;';
+    const dlStat = document.createElement('span');
+    dlStat.textContent = '\u2B07 ' + (item.downloads || 0);
+    dlStat.title = L.downloads;
+    dlStat.style.cssText = 'font-size:11px;color:#7a7a9a;';
+    const likeCount = document.createElement('span');
+    likeCount.textContent = '\u2764 ' + (item.likes || 0);
+    likeCount.style.cssText = 'font-size:11px;color:#7a7a9a;';
+    statsRow.appendChild(dlStat);
+    statsRow.appendChild(likeCount);
+    info.appendChild(statsRow);
+    const actionRow = document.createElement('div');
+    actionRow.style.cssText = 'display:flex;gap:6px;padding:8px 12px 12px;';
+    const useBtn = document.createElement('button');
+    useBtn.type = 'button';
+    useBtn.textContent = L.useThis;
+    useBtn.style.cssText = 'flex:1;min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;cursor:pointer;border:none;background:#2266cc;color:#ffffff;transition:background .2s;-webkit-tap-highlight-color:transparent;';
+    useBtn.addEventListener('mouseenter', () => { useBtn.style.background = '#3388ee'; });
+    useBtn.addEventListener('mouseleave', () => { useBtn.style.background = '#2266cc'; });
+    useBtn.addEventListener('mousedown', (e) => {
+      e.stopPropagation();
+      useBtn.disabled = true;
+      useBtn.textContent = L.loading;
+      fetch(galleryBase + '/gallery/' + encodeURIComponent(item.id)).then((r) => r.ok ? r.json() : Promise.reject(new Error(r.statusText))).then((importedConfig) => {
+        closeOverlay();
+        this._openSensorWizard_(importedConfig, L, fields);
+      }).catch(() => { useBtn.disabled = false; useBtn.textContent = L.useThis; });
+    });
+    const likeBtn = document.createElement('button');
+    likeBtn.type = 'button';
+    likeBtn.textContent = '\u2764';
+    likeBtn.title = L.like;
+    likeBtn.style.cssText = 'min-width:44px;min-height:44px;width:44px;padding:0;font-size:16px;border-radius:8px;cursor:pointer;border:1px solid rgba(255,80,80,0.3);background:rgba(255,80,80,0.1);color:#ff6060;transition:all .2s;-webkit-tap-highlight-color:transparent;';
+    likeBtn.addEventListener('mouseenter', () => { likeBtn.style.background = 'rgba(255,80,80,0.25)'; });
+    likeBtn.addEventListener('mouseleave', () => { likeBtn.style.background = 'rgba(255,80,80,0.1)'; });
+    likeBtn.addEventListener('mousedown', (e) => {
+      e.stopPropagation();
+      likeBtn.disabled = true;
+      fetch(galleryBase + '/gallery/' + encodeURIComponent(item.id) + '/like', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ uid: likeUid })
+      }).then((r) => r.ok ? r.json() : Promise.reject(new Error())).then((data) => {
+        likeBtn.disabled = false;
+        if (data && typeof data.likes === 'number') likeCount.textContent = '\u2764 ' + data.likes;
+        likeBtn.style.background = data.liked ? 'rgba(255,80,80,0.4)' : 'rgba(255,80,80,0.1)';
+        likeBtn.style.borderColor = data.liked ? 'rgba(255,80,80,0.6)' : 'rgba(255,80,80,0.3)';
+      }).catch(() => { likeBtn.disabled = false; });
+    });
+    actionRow.appendChild(useBtn);
+    actionRow.appendChild(likeBtn);
+    actionRow.style.marginTop = 'auto';
+    actionRow.style.flexShrink = '0';
+    card.appendChild(thumb);
+    card.appendChild(info);
+    card.appendChild(actionRow);
+    return card;
+  }
+
+  function buildWinnerCard(winner, isCongrats) {
+    const card = document.createElement('div');
+    card.style.cssText = 'border:1px solid rgba(255,193,7,0.4);border-radius:12px;overflow:visible;display:flex;flex-direction:column;background:linear-gradient(165deg,#1e1a14 0%,#0f1624 100%);box-shadow:0 4px 24px rgba(255,193,7,0.15);cursor:pointer;position:relative;transition:transform .15s,box-shadow .2s;';
+    card.addEventListener('mouseenter', () => { card.style.transform = 'translateY(-2px)'; card.style.boxShadow = '0 8px 28px rgba(255,193,7,0.25)'; });
+    card.addEventListener('mouseleave', () => { card.style.transform = 'none'; card.style.boxShadow = '0 4px 24px rgba(255,193,7,0.15)'; });
+    const thumb = document.createElement('div');
+    thumb.style.cssText = 'width:100%;height:' + (isCongrats ? '160px' : '100px') + ';background:#1a1a2e;display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative;';
+    const img = document.createElement('img');
+    img.alt = winner.name || '';
+    img.style.cssText = 'width:100%;height:100%;object-fit:cover;';
+    img.src = galleryBase + '/gallery/' + encodeURIComponent(winner.id) + '/preview';
+    thumb.appendChild(img);
+    if (isCongrats) {
+      const svgOverlay = document.createElement('div');
+      svgOverlay.style.cssText = 'position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:linear-gradient(180deg,transparent 0%,rgba(0,0,0,0.7) 100%);pointer-events:none;';
+      svgOverlay.innerHTML = '<svg width="120" height="80" viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg" style="filter:drop-shadow(0 2px 4px rgba(0,0,0,0.8));"><defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#ffd700"/><stop offset="100%" style="stop-color:#ffb300"/></linearGradient></defs><path d="M60 8 L65 28 L86 28 L68 42 L74 62 L60 50 L46 62 L52 42 L34 28 L55 28 Z" fill="url(#g)" opacity="0.95"/><text x="60" y="72" text-anchor="middle" fill="#fff" font-size="10" font-weight="bold">VINCITORE</text></svg>';
+      thumb.appendChild(svgOverlay);
+    } else {
+      const badge = document.createElement('div');
+      badge.style.cssText = 'position:absolute;top:6px;right:6px;z-index:2;font-size:9px;font-weight:700;letter-spacing:0.05em;padding:3px 6px;border-radius:4px;background:rgba(255,193,7,0.35);color:#ffd54f;text-transform:uppercase;';
+      badge.textContent = '\u2605';
+      thumb.appendChild(badge);
+    }
+    const info = document.createElement('div');
+    info.style.cssText = 'padding:8px 12px;flex:1;min-height:0;';
+    const nameEl = document.createElement('div');
+    nameEl.textContent = winner.name || winner.id || '';
+    nameEl.style.cssText = 'font-weight:600;font-size:12px;margin-bottom:2px;color:#ffffff;';
+    const authorEl = document.createElement('div');
+    authorEl.textContent = winner.authorName || '';
+    authorEl.style.cssText = 'font-size:11px;color:#80a0b0;';
+    info.appendChild(nameEl);
+    info.appendChild(authorEl);
+    const useBtn = document.createElement('button');
+    useBtn.type = 'button';
+    useBtn.textContent = L.useThis;
+    useBtn.style.cssText = 'margin:8px 12px 12px;min-height:36px;padding:8px 12px;font-size:13px;font-weight:600;border-radius:8px;cursor:pointer;border:none;background:#2266cc;color:#ffffff;flex-shrink:0;';
+    useBtn.addEventListener('mousedown', (e) => {
+      e.stopPropagation();
+      useBtn.disabled = true;
+      useBtn.textContent = L.loading;
+      fetch(galleryBase + '/gallery/' + encodeURIComponent(winner.id)).then((r) => r.ok ? r.json() : Promise.reject(new Error(r.statusText))).then((importedConfig) => {
+        closeOverlay();
+        this._openSensorWizard_(importedConfig, L, fields);
+      }).catch(() => { useBtn.disabled = false; useBtn.textContent = L.useThis; });
+    });
+    card.appendChild(thumb);
+    card.appendChild(info);
+    card.appendChild(useBtn);
+    return card;
+  }
+
+  const ROTATION_DAYS = 30;
+  const ROTATION_MS = ROTATION_DAYS * 24 * 60 * 60 * 1000;
+  const CONGRATS_MS = 24 * 60 * 60 * 1000;
+  const STORAGE_KEY = 'lumina_gallery_rotation';
+  const WINNERS_STORAGE_KEY = 'lumina_gallery_winners';
+
+  fetch(galleryBase + '/gallery').then((r) => r.ok ? r.json() : Promise.reject(new Error(r.statusText))).then((list) => {
+    listEl.innerHTML = '';
+    const items = Array.isArray(list) ? list : [];
+    if (!items.length) {
+      const emptyDiv = document.createElement('div');
+      emptyDiv.textContent = L.empty;
+      emptyDiv.style.cssText = 'text-align:center;padding:40px 0;color:#8080a0;font-size:14px;';
+      listEl.appendChild(emptyDiv);
+      return;
+    }
+    var lastRotationDate, rotationOffset, lastWinnerShowDate;
+    var winners = [];
+    try {
+      const raw = typeof localStorage !== 'undefined' && localStorage.getItem(STORAGE_KEY);
+      const stored = raw ? JSON.parse(raw) : {};
+      lastRotationDate = typeof stored.lastRotationDate === 'number' ? stored.lastRotationDate : Date.now();
+      rotationOffset = typeof stored.rotationOffset === 'number' ? stored.rotationOffset : 0;
+      lastWinnerShowDate = typeof stored.lastWinnerShowDate === 'number' ? stored.lastWinnerShowDate : 0;
+    } catch (e) {
+      lastRotationDate = Date.now();
+      rotationOffset = 0;
+      lastWinnerShowDate = 0;
+    }
+    try {
+      const wRaw = typeof localStorage !== 'undefined' && localStorage.getItem(WINNERS_STORAGE_KEY);
+      winners = (wRaw && JSON.parse(wRaw)) || [];
+      if (!Array.isArray(winners)) winners = [];
+    } catch (e) { winners = []; }
+    const now = Date.now();
+    const periods = Math.floor((now - lastRotationDate) / ROTATION_MS);
+    if (periods >= 1) {
+      var prevOffset = rotationOffset;
+      for (var p = 0; p < periods; p++) {
+        var winIdx = (prevOffset + p * 3) % Math.max(items.length, 1);
+        var winnerItem = items[winIdx];
+        if (winnerItem) {
+          var winnerData = { id: winnerItem.id, name: winnerItem.name || winnerItem.id, authorName: winnerItem.authorName || '', authorEmail: winnerItem.authorEmail || winnerItem.email || '', date: now };
+          winners.push(winnerData);
+          fetch(galleryBase + '/gallery/notify-winner', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(winnerData) }).catch(function() {});
+        }
+      }
+      lastWinnerShowDate = now;
+      rotationOffset = (rotationOffset + periods * 3) % Math.max(items.length, 1);
+      lastRotationDate = now;
+      try {
+        if (typeof localStorage !== 'undefined') {
+          localStorage.setItem(WINNERS_STORAGE_KEY, JSON.stringify(winners));
+        }
+      } catch (e2) { /* ignore */ }
+    }
+    try {
+      if (typeof localStorage !== 'undefined') localStorage.setItem(STORAGE_KEY, JSON.stringify({ lastRotationDate: lastRotationDate, rotationOffset: rotationOffset, lastWinnerShowDate: lastWinnerShowDate }));
+    } catch (e2) { /* ignore */ }
+    const top3 = items.slice(rotationOffset, rotationOffset + 3);
+    const rest = [...items.slice(0, rotationOffset), ...items.slice(rotationOffset + 3)];
+    const showCongrats = (now - lastWinnerShowDate) < CONGRATS_MS && winners.length > 0;
+    const lastWinner = winners.length > 0 ? winners[winners.length - 1] : null;
+
+    /* Top di sempre – vincitori passati */
+    if (winners.length > 0) {
+      const topEverWrap = document.createElement('div');
+      topEverWrap.style.cssText = 'flex-shrink:0;padding:14px 16px 0;padding-left:max(16px,env(safe-area-inset-left));padding-right:max(16px,env(safe-area-inset-right));border-bottom:1px solid rgba(255,193,7,0.2);padding-bottom:14px;margin-bottom:8px;';
+      const topEverTitle = document.createElement('div');
+      topEverTitle.textContent = L.topEverTitle;
+      topEverTitle.style.cssText = 'font-weight:700;font-size:clamp(14px,3.5vw,16px);color:#ffd54f;letter-spacing:0.02em;margin-bottom:4px;';
+      const topEverSub = document.createElement('div');
+      topEverSub.textContent = L.topEverSub;
+      topEverSub.style.cssText = 'font-size:clamp(11px,2.5vw,12px);color:#80a0b0;margin-bottom:12px;line-height:1.4;';
+      const topEverGrid = document.createElement('div');
+      topEverGrid.style.cssText = 'display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,160px),1fr));gap:10px;';
+      winners.forEach(function(w) { topEverGrid.appendChild(buildWinnerCard.call(this, w, false)); }, this);
+      topEverWrap.appendChild(topEverTitle);
+      topEverWrap.appendChild(topEverSub);
+      topEverWrap.appendChild(topEverGrid);
+      listEl.appendChild(topEverWrap);
+    }
+
+    /* Congratulazioni al vincitore (per 24h dopo la rotazione) */
+    if (showCongrats && lastWinner) {
+      const congratsWrap = document.createElement('div');
+      congratsWrap.style.cssText = 'flex-shrink:0;padding:14px 16px;padding-left:max(16px,env(safe-area-inset-left));padding-right:max(16px,env(safe-area-inset-right));border-bottom:1px solid rgba(0,200,255,0.15);margin-bottom:8px;background:linear-gradient(180deg,rgba(255,193,7,0.08) 0%,transparent 100%);border-radius:12px;margin-left:16px;margin-right:16px;';
+      const congratsTitle = document.createElement('div');
+      congratsTitle.textContent = L.congratsTitle;
+      congratsTitle.style.cssText = 'font-weight:700;font-size:clamp(14px,3.5vw,16px);color:#ffd54f;margin-bottom:4px;';
+      const congratsSub = document.createElement('div');
+      congratsSub.textContent = L.congratsSub;
+      congratsSub.style.cssText = 'font-size:12px;color:#a0a0b8;margin-bottom:12px;';
+      congratsWrap.appendChild(congratsTitle);
+      congratsWrap.appendChild(congratsSub);
+      congratsWrap.appendChild(buildWinnerCard.call(this, lastWinner, true));
+      listEl.appendChild(congratsWrap);
+    }
+
+    /* Featured: Top 3 – responsive grid (1 col mobile, 3 col desktop) */
+    const featuredWrap = document.createElement('div');
+    featuredWrap.style.cssText = 'flex-shrink:0;padding:14px 16px 0;padding-left:max(16px,env(safe-area-inset-left));padding-right:max(16px,env(safe-area-inset-right));border-bottom:1px solid rgba(0,200,255,0.15);padding-bottom:14px;margin-bottom:8px;';
+    const featuredTitle = document.createElement('div');
+    featuredTitle.textContent = L.top3Title;
+    featuredTitle.style.cssText = 'font-weight:700;font-size:clamp(14px,3.5vw,16px);color:#00c8ff;letter-spacing:0.02em;margin-bottom:4px;';
+    const featuredSub = document.createElement('div');
+    featuredSub.textContent = L.monthlyReward;
+    featuredSub.style.cssText = 'font-size:clamp(11px,2.5vw,12px);color:#80a0b0;margin-bottom:12px;line-height:1.4;';
+    featuredWrap.appendChild(featuredTitle);
+    featuredWrap.appendChild(featuredSub);
+    const top3Grid = document.createElement('div');
+    top3Grid.style.cssText = 'display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,200px),1fr));gap:12px;';
+    top3.forEach((item) => { top3Grid.appendChild(buildCard.call(this, item, true)); });
+    featuredWrap.appendChild(top3Grid);
+    listEl.appendChild(featuredWrap);
+
+    /* Rest: scrollable area – altezza fissa così lo scroll funziona; card tutte uguali; su mobile 1 colonna */
+    const moreSection = document.createElement('div');
+    moreSection.style.cssText = 'flex-shrink:0;padding:0 16px 16px;padding-left:max(16px,env(safe-area-inset-left));padding-right:max(16px,env(safe-area-inset-right));';
+    if (rest.length) {
+      const moreTitle = document.createElement('div');
+      moreTitle.textContent = L.moreTemplates;
+      moreTitle.style.cssText = 'font-weight:600;font-size:clamp(12px,3vw,14px);color:#a0a0c0;padding:10px 0;';
+      moreSection.appendChild(moreTitle);
+      const cardsWrap = document.createElement('div');
+      cardsWrap.style.cssText = 'display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;';
+      rest.forEach((item) => {
+        const c = buildCard.call(this, item, false);
+        c.style.minWidth = '0';
+        cardsWrap.appendChild(c);
+      });
+      moreSection.appendChild(cardsWrap);
+    }
+    listEl.appendChild(moreSection);
+  }).catch(() => { listEl.innerHTML = ''; const errDiv = document.createElement('div'); errDiv.textContent = L.error; errDiv.style.cssText = 'text-align:center;padding:40px 0;color:#ff5555;font-size:14px;'; listEl.appendChild(errDiv); });
+};
+
+/** Sensor mapping wizard shown after selecting a gallery template */
+LuminaEnergyCardEditor.prototype._openSensorWizard_ = function(importedConfig, L, fields) {
+  const sensorKeys = Object.keys(importedConfig).filter((k) => k.startsWith('sensor_') && importedConfig[k] && typeof importedConfig[k] === 'string' && importedConfig[k].trim());
+  const cfKeys = Object.keys(importedConfig).filter((k) => /^custom_flow_\d+_sensor$/.test(k) && importedConfig[k] && typeof importedConfig[k] === 'string');
+  const ctKeys = Object.keys(importedConfig).filter((k) => /^custom_text_\d+_sensor$/.test(k) && importedConfig[k] && typeof importedConfig[k] === 'string');
+  const allSensorKeys = [...sensorKeys, ...cfKeys, ...ctKeys];
+
+  /* Read gallery descriptions embedded by the template author */
+  const galleryDescs = (importedConfig && importedConfig.gallery_descriptions && typeof importedConfig.gallery_descriptions === 'object') ? importedConfig.gallery_descriptions : {};
+
+  if (!allSensorKeys.length) {
+    this._applyGalleryConfig_(importedConfig);
+    return;
+  }
+
+  const ov = this._createLuminaOverlay_('width:min(560px,92vw);');
+  const panel = ov._panel;
+  const closeOverlay = ov._close;
+
+  /* header */
+  const header = document.createElement('div');
+  header.style.cssText = 'padding:16px 20px;border-bottom:1px solid rgba(255,255,255,0.15);flex-shrink:0;';
+  const title = document.createElement('div');
+  title.textContent = L.sensorWizardTitle;
+  title.style.cssText = 'font-weight:700;font-size:16px;margin-bottom:4px;color:#ffffff;';
+  const desc = document.createElement('div');
+  desc.textContent = L.sensorWizardDesc;
+  desc.style.cssText = 'font-size:12px;color:#a0a0b8;line-height:1.4;';
+  header.appendChild(title);
+  header.appendChild(desc);
+  panel.appendChild(header);
+
+  /* info box */
+  const infoBox = document.createElement('div');
+  const sensorWizardInfo = fields.editor_gallery_sensor_wizard_info || 'The template you selected uses the sensors listed below. Replace each one with your own Home Assistant entity. The "Template" hint shows the original entity from the author. Leave empty to skip a sensor.';
+  infoBox.textContent = sensorWizardInfo;
+  infoBox.style.cssText = 'margin:12px 20px 0;padding:12px 14px;border-radius:8px;background:rgba(0,140,255,0.1);border:1px solid rgba(0,140,255,0.25);font-size:12px;color:#a0c8ff;line-height:1.5;';
+  panel.appendChild(infoBox);
+
+  /* sensor list – scrollable area so footer/Apply stays visible */
+  const listWrap = document.createElement('div');
+  listWrap.style.cssText = 'padding:12px 20px;overflow-y:auto;flex:1;min-height:0;display:flex;flex-direction:column;gap:10px;';
+
+  const sensorInputs = {};
+  const hasHaEntityPicker = typeof customElements !== 'undefined' && customElements.get && !!customElements.get('ha-entity-picker');
+
+  allSensorKeys.forEach((key) => {
+    const row = document.createElement('div');
+    row.style.cssText = 'display:flex;flex-direction:column;gap:4px;';
+    const labelEl = document.createElement('label');
+    labelEl.textContent = this._sensorKeyToLabel_(key, fields);
+    labelEl.style.cssText = 'font-size:12px;font-weight:600;color:#d0d0e0;';
+    const placeholderVal = importedConfig[key] || '';
+    const hintEl = document.createElement('div');
+    hintEl.textContent = 'Template: ' + placeholderVal;
+    hintEl.style.cssText = 'font-size:10px;color:#6a6a80;font-style:italic;';
+
+    /* Show author description for custom_flow_N or custom_text_N if available */
+    const cfMatch = key.match(/^(custom_flow_\d+)_sensor$/);
+    const ctMatch = key.match(/^(custom_text_\d+)_sensor$/);
+    const descKey = cfMatch ? cfMatch[1] : (ctMatch ? ctMatch[1] : null);
+    const authorDesc = descKey && galleryDescs[descKey] ? galleryDescs[descKey] : '';
+
+    if (authorDesc) {
+      const authorDescEl = document.createElement('div');
+      authorDescEl.textContent = '\u2139\uFE0F ' + (fields.editor_gallery_author_desc || 'Author note') + ': ' + authorDesc;
+      authorDescEl.style.cssText = 'font-size:11px;color:#80d0ff;font-style:italic;padding:4px 8px;border-radius:5px;background:rgba(0,160,255,0.1);border-left:3px solid rgba(0,160,255,0.4);line-height:1.3;';
+      row.appendChild(authorDescEl);
+    }
+
+    if (hasHaEntityPicker) {
+      const picker = document.createElement('ha-entity-picker');
+      picker.hass = this._hass || { states: {} };
+      const currentVal = (this._config && this._config[key]) ? String(this._config[key]).trim() : '';
+      picker.value = currentVal;
+      picker.setAttribute('allow-custom-entity', '');
+      picker.style.cssText = 'width:100%;';
+      sensorInputs[key] = { type: 'picker', el: picker };
+      row.appendChild(labelEl);
+      row.appendChild(picker);
+      row.appendChild(hintEl);
+    } else {
+      const input = document.createElement('input');
+      input.type = 'text';
+      const currentVal = (this._config && this._config[key]) ? String(this._config[key]).trim() : '';
+      input.value = currentVal;
+      input.placeholder = placeholderVal;
+      input.style.cssText = 'width:100%;box-sizing:border-box;padding:8px 10px;border-radius:8px;border:1px solid rgba(255,255,255,0.22);background:#1a1a30;color:#ffffff;font-size:13px;outline:none;';
+      input.addEventListener('focus', () => { input.style.borderColor = '#3399ff'; });
+      input.addEventListener('blur', () => { input.style.borderColor = 'rgba(255,255,255,0.22)'; });
+      sensorInputs[key] = { type: 'input', el: input };
+      row.appendChild(labelEl);
+      row.appendChild(input);
+      row.appendChild(hintEl);
+    }
+    listWrap.appendChild(row);
+  });
+  panel.appendChild(listWrap);
+
+  /* footer – always visible (flex-shrink:0 keeps it pinned at bottom) */
+  const footer = document.createElement('div');
+  footer.style.cssText = 'padding:14px 20px;border-top:1px solid rgba(255,255,255,0.15);display:flex;justify-content:flex-end;gap:10px;flex-shrink:0;background:#121220;';
+  const cancelBtn = document.createElement('button');
+  cancelBtn.type = 'button';
+  cancelBtn.textContent = L.cancel;
+  cancelBtn.style.cssText = 'padding:9px 20px;border-radius:8px;border:1px solid rgba(255,255,255,0.25);background:transparent;color:#c0c0d0;cursor:pointer;font-size:13px;';
+  cancelBtn.addEventListener('mousedown', (e) => { e.stopPropagation(); closeOverlay(); });
+  const applyBtn = document.createElement('button');
+  applyBtn.type = 'button';
+  applyBtn.textContent = L.apply;
+  applyBtn.style.cssText = 'padding:9px 24px;border-radius:8px;border:none;background:#2266cc;color:#ffffff;cursor:pointer;font-size:13px;font-weight:600;transition:background .2s;';
+  applyBtn.addEventListener('mouseenter', () => { applyBtn.style.background = '#3388ee'; });
+  applyBtn.addEventListener('mouseleave', () => { applyBtn.style.background = '#2266cc'; });
+  applyBtn.addEventListener('mousedown', (e) => {
+    e.stopPropagation();
+    const merged = { ...importedConfig };
+    allSensorKeys.forEach((key) => {
+      const entry = sensorInputs[key];
+      const val = entry.el.value || '';
+      merged[key] = val.trim();
+    });
+    closeOverlay();
+    this._applyGalleryConfig_(merged);
+  });
+  footer.appendChild(cancelBtn);
+  footer.appendChild(applyBtn);
+  panel.appendChild(footer);
+};
+
+/** Apply a gallery config to the editor */
+LuminaEnergyCardEditor.prototype._applyGalleryConfig_ = function(importedConfig) {
+  const allDefaults = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
+  const currentConfig = this._config || {};
+  const newConfig = { ...currentConfig };
+
+  // Keys that must NEVER be overwritten from a gallery template (would break the importer's PRO auth)
+  const PROTECTED_KEYS = new Set(['pro_password', 'version', 'gallery_descriptions']);
+
+  // Generic merge: apply all imported keys (skip protected keys)
+  Object.keys(importedConfig).forEach((k) => { if (k && !k.startsWith('_') && !PROTECTED_KEYS.has(k)) newConfig[k] = importedConfig[k]; });
+
+  // Ensure sub-properties of ENABLED custom flows are fully imported (fill missing with defaults)
+  for (let i = 1; i <= 10; i++) {
+    if (!importedConfig['custom_flow_' + i + '_enabled']) continue;
+    const cfPrefix = 'custom_flow_' + i + '_';
+    Object.keys(allDefaults).forEach((k) => {
+      if (k.startsWith(cfPrefix) && !(k in newConfig)) {
+        newConfig[k] = (k in importedConfig) ? importedConfig[k] : allDefaults[k];
+      }
+    });
+  }
+
+  // Ensure sub-properties of ENABLED custom texts are fully imported (fill missing with defaults)
+  for (let i = 1; i <= 10; i++) {
+    if (!importedConfig['custom_text_' + i + '_enabled']) continue;
+    const ctPrefix = 'custom_text_' + i + '_';
+    Object.keys(allDefaults).forEach((k) => {
+      if (k.startsWith(ctPrefix) && !(k in newConfig)) {
+        newConfig[k] = (k in importedConfig) ? importedConfig[k] : allDefaults[k];
+      }
+    });
+  }
+
+  // If template uses predefined background (type 1/2/3), don't store huge base64 images so saveConfig doesn't fail
+  const instType = newConfig.installation_type;
+  if (instType === '1' || instType === '2' || instType === '3') {
+    const trimIfHuge = function(val) {
+      if (!val || typeof val !== 'string') return val;
+      if (val.indexOf('data:image/') === 0 && val.length > 5000) return '';
+      return val;
+    };
+    newConfig.background_image = trimIfHuge(newConfig.background_image);
+    newConfig.background_image_heat_pump = trimIfHuge(newConfig.background_image_heat_pump);
+  }
+
+  this._config = newConfig;
+  const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
+  if (forms && forms.length) {
+    const full = this._configWithDefaults ? this._configWithDefaults() : newConfig;
+    forms.forEach((f) => { if (f) f.data = full; });
+  }
+  this._debouncedConfigChanged(newConfig, true);
+  this._rendered = false;
+  this.render();
+  setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 50);
+};
+
+/** Get preview image base64 from config's background_image (full resolution) */
+LuminaEnergyCardEditor.prototype._captureGalleryPreview_ = function() {
+  return new Promise((resolve) => {
+    try {
+      const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
+      const bgImage = cfg.background_image || '';
+      if (bgImage && bgImage.indexOf('data:image/') === 0 && bgImage.indexOf(',') > 0) {
+        const base64Part = bgImage.split(',')[1];
+        if (base64Part && base64Part.length > 100) {
+          resolve(base64Part);
+          return;
+        }
+      }
+      if (bgImage && (bgImage.startsWith('/local/') || bgImage.startsWith('/api/') || bgImage.startsWith('http'))) {
+        /* Try fetch first (works for same-origin /local/ without CORS issues) */
+        fetch(bgImage).then(function(r) { return r.blob(); }).then(function(blob) {
+          var reader = new FileReader();
+          reader.onload = function() {
+            try {
+              var dataUrl = reader.result;
+              if (dataUrl && typeof dataUrl === 'string' && dataUrl.indexOf(',') > 0) {
+                resolve(dataUrl.split(',')[1]);
+              } else { resolve(null); }
+            } catch (_) { resolve(null); }
+          };
+          reader.onerror = function() { resolve(null); };
+          reader.readAsDataURL(blob);
+        }).catch(function() {
+          /* Fallback: Image element (no crossOrigin for same-origin) */
+          var img = new Image();
+          img.onload = function() {
+            try {
+              var w = img.naturalWidth || img.width;
+              var h = img.naturalHeight || img.height;
+              var canvas = document.createElement('canvas');
+              canvas.width = w; canvas.height = h;
+              var ctx = canvas.getContext('2d');
+              if (!ctx) { resolve(null); return; }
+              ctx.drawImage(img, 0, 0, w, h);
+              var out = canvas.toDataURL('image/png');
+              resolve(out && out.indexOf(',') >= 0 ? out.split(',')[1] : null);
+            } catch (_) { resolve(null); }
+          };
+          img.onerror = function() { resolve(null); };
+          img.src = bgImage;
+        });
+        return;
+      }
+      resolve(null);
+    } catch (_) { resolve(null); }
+  });
+};
+
+LuminaEnergyCardEditor.prototype._shareToGallery_ = function() {
+  const localeStrings = (typeof this._getLocaleStrings === 'function') ? this._getLocaleStrings() : null;
+  const fields = (localeStrings && localeStrings.fields) || {};
+  const galleryBase = (typeof LUMINA_LICENSE_ENDPOINT === 'string' && LUMINA_LICENSE_ENDPOINT) ? String(LUMINA_LICENSE_ENDPOINT).replace(/\/$/, '') : '';
+  const L = {
+    noEndpoint: fields.editor_gallery_no_endpoint || 'Set license Worker URL to use gallery',
+    shareSuccess: fields.editor_gallery_share_success || 'Shared successfully',
+    shareError: fields.editor_gallery_share_error || 'Failed to share',
+    sharePending: fields.editor_gallery_share_pending || 'Shared! It will appear in the gallery after approval.',
+    shareTitle: fields.editor_gallery_share_title || 'Share to Gallery',
+    namePlaceholder: fields.editor_gallery_share_name_prompt || 'Template name',
+    descPlaceholder: fields.editor_gallery_share_desc_prompt || 'Description (optional)',
+    authorNamePlaceholder: fields.editor_gallery_author_name || 'Your name (shown under the card)',
+    emailPlaceholder: fields.editor_gallery_email || 'Email (not shown; we may contact you)',
+    submit: fields.editor_gallery_share_submit || 'Share',
+    cancel: fields.editor_gallery_cancel || 'Cancel',
+    sharing: fields.editor_gallery_sharing || 'Sharing\u2026',
+    rulesOnePerMonth: fields.editor_gallery_rules_one_per_month || 'You can share only one dashboard per month.',
+    rulesDescriptionsRequired: fields.editor_gallery_rules_descriptions_required || 'All Custom Flows and Custom Texts must have a description; otherwise the submission will not be accepted.',
+    rulesReward: fields.editor_gallery_rules_reward || 'The most downloaded dashboard of each month receives a reward.',
+    errorOnePerMonth: fields.editor_gallery_error_one_per_month || 'You have already shared a dashboard this month. You can share again next month.',
+    errorDescriptionsRequired: fields.editor_gallery_error_descriptions_required || 'Please fill in a description for every Custom Flow and Custom Text above. Submissions without complete descriptions are not accepted.',
+  };
+  if (!galleryBase) { alert(L.noEndpoint); return; }
+
+  const ov = this._createLuminaOverlay_('width:min(440px,90vw);min-height:min(400px,60vh);');
+  const panel = ov._panel;
+  const closeOverlay = ov._close;
+
+  /* header */
+  const header = document.createElement('div');
+  header.style.cssText = 'padding:16px 20px;border-bottom:1px solid rgba(255,255,255,0.15);display:flex;align-items:center;justify-content:space-between;';
+  const titleEl = document.createElement('div');
+  titleEl.textContent = L.shareTitle;
+  titleEl.style.cssText = 'font-weight:700;font-size:16px;color:#ffffff;';
+  const closeBtnS = document.createElement('button');
+  closeBtnS.type = 'button';
+  closeBtnS.textContent = '\u2715';
+  closeBtnS.style.cssText = 'font-size:18px;width:32px;height:32px;border-radius:50%;border:none;cursor:pointer;background:rgba(255,255,255,0.12);color:#ffffff;display:flex;align-items:center;justify-content:center;';
+  closeBtnS.addEventListener('mousedown', (e) => { e.stopPropagation(); closeOverlay(); });
+  header.appendChild(titleEl);
+  header.appendChild(closeBtnS);
+  panel.appendChild(header);
+
+  /* form body – scrollable so footer stays visible with many custom texts/flows */
+  const body = document.createElement('div');
+  body.style.cssText = 'padding:20px;display:flex;flex-direction:column;gap:14px;overflow-y:auto;flex:1;min-height:200px;';
+  /* rules box */
+  const rulesBox = document.createElement('div');
+  rulesBox.style.cssText = 'padding:12px 14px;border-radius:8px;background:rgba(255,193,7,0.1);border:1px solid rgba(255,193,7,0.35);font-size:12px;color:#e8e0c8;line-height:1.45;';
+  const rulesTitle = document.createElement('div');
+  rulesTitle.style.cssText = 'font-weight:700;margin-bottom:8px;color:#ffd54f;';
+  rulesTitle.textContent = fields.editor_gallery_rules_title || 'Gallery rules';
+  rulesBox.appendChild(rulesTitle);
+  const rule1 = document.createElement('div');
+  rule1.textContent = '\u2022 ' + L.rulesOnePerMonth;
+  rulesBox.appendChild(rule1);
+  const rule2 = document.createElement('div');
+  rule2.textContent = '\u2022 ' + L.rulesDescriptionsRequired;
+  rulesBox.appendChild(rule2);
+  const rule3 = document.createElement('div');
+  rule3.textContent = '\u2022 ' + L.rulesReward;
+  rulesBox.appendChild(rule3);
+  body.appendChild(rulesBox);
+  /* name input */
+  const nameLabel = document.createElement('label');
+  nameLabel.style.cssText = 'font-size:12px;font-weight:600;color:#d0d0e0;';
+  nameLabel.textContent = L.namePlaceholder;
+  const nameInput = document.createElement('input');
+  nameInput.type = 'text';
+  nameInput.placeholder = L.namePlaceholder;
+  nameInput.style.cssText = 'width:100%;box-sizing:border-box;padding:10px 12px;border-radius:8px;border:1px solid rgba(255,255,255,0.22);background:#1a1a30;color:#ffffff;font-size:14px;outline:none;';
+  nameInput.addEventListener('focus', () => { nameInput.style.borderColor = '#3399ff'; });
+  nameInput.addEventListener('blur', () => { nameInput.style.borderColor = 'rgba(255,255,255,0.22)'; });
+  /* description textarea */
+  const descLabel = document.createElement('label');
+  descLabel.style.cssText = 'font-size:12px;font-weight:600;color:#d0d0e0;';
+  descLabel.textContent = L.descPlaceholder;
+  const descInput = document.createElement('textarea');
+  descInput.placeholder = L.descPlaceholder;
+  descInput.style.cssText = 'width:100%;min-width:0;box-sizing:border-box;padding:10px 12px;border-radius:8px;border:1px solid rgba(255,255,255,0.22);background:#1a1a30;color:#ffffff;font-size:13px;outline:none;resize:none;font-family:inherit;min-height:120px;height:120px;';
+  descInput.addEventListener('focus', () => { descInput.style.borderColor = '#3399ff'; });
+  descInput.addEventListener('blur', () => { descInput.style.borderColor = 'rgba(255,255,255,0.22)'; });
+
+  /* author name (shown under card in gallery) */
+  const authorLabel = document.createElement('label');
+  authorLabel.style.cssText = 'font-size:12px;font-weight:600;color:#d0d0e0;';
+  authorLabel.textContent = L.authorNamePlaceholder;
+  const authorInput = document.createElement('input');
+  authorInput.type = 'text';
+  authorInput.placeholder = L.authorNamePlaceholder;
+  authorInput.style.cssText = 'width:100%;box-sizing:border-box;padding:10px 12px;border-radius:8px;border:1px solid rgba(255,255,255,0.22);background:#1a1a30;color:#ffffff;font-size:14px;outline:none;';
+  authorInput.addEventListener('focus', () => { authorInput.style.borderColor = '#3399ff'; });
+  authorInput.addEventListener('blur', () => { authorInput.style.borderColor = 'rgba(255,255,255,0.22)'; });
+
+  /* email (sent to you, not shown in gallery) */
+  const emailLabel = document.createElement('label');
+  emailLabel.style.cssText = 'font-size:12px;font-weight:600;color:#d0d0e0;';
+  emailLabel.textContent = L.emailPlaceholder;
+  const emailInput = document.createElement('input');
+  emailInput.type = 'email';
+  emailInput.placeholder = L.emailPlaceholder;
+  emailInput.style.cssText = 'width:100%;box-sizing:border-box;padding:10px 12px;border-radius:8px;border:1px solid rgba(255,255,255,0.22);background:#1a1a30;color:#ffffff;font-size:14px;outline:none;';
+  emailInput.addEventListener('focus', () => { emailInput.style.borderColor = '#3399ff'; });
+  emailInput.addEventListener('blur', () => { emailInput.style.borderColor = 'rgba(255,255,255,0.22)'; });
+
+  /* preview thumbnail */
+  const previewWrap = document.createElement('div');
+  previewWrap.style.cssText = 'width:100%;height:120px;border-radius:8px;overflow:hidden;background:#1a1a2e;display:flex;align-items:center;justify-content:center;';
+  const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
+  const bgImage = cfg.background_image || '';
+  if (bgImage) {
+    const prevImg = document.createElement('img');
+    prevImg.src = bgImage;
+    prevImg.style.cssText = 'width:100%;height:100%;object-fit:contain;';
+    previewWrap.appendChild(prevImg);
+  } else {
+    const noPrev = document.createElement('span');
+    noPrev.textContent = 'No preview available';
+    noPrev.style.cssText = 'font-size:12px;color:#6a6a80;';
+    previewWrap.appendChild(noPrev);
+  }
+
+  body.appendChild(nameLabel);
+  body.appendChild(nameInput);
+  body.appendChild(descLabel);
+  body.appendChild(descInput);
+  body.appendChild(authorLabel);
+  body.appendChild(authorInput);
+  body.appendChild(emailLabel);
+  body.appendChild(emailInput);
+  body.appendChild(previewWrap);
+
+  /* ── Custom flow & custom text description inputs ── */
+  const descInputs = {}; // key → input element, e.g. 'custom_flow_3' → <input>
+  const cfgFull = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
+
+  // Collect enabled custom flows (1-10)
+  const enabledCFs = [];
+  for (let i = 1; i <= 10; i++) {
+    if (Boolean(cfgFull['custom_flow_' + i + '_enabled'])) enabledCFs.push(i);
+  }
+  // Collect enabled custom texts (1-10)
+  const enabledCTs = [];
+  for (let i = 1; i <= 10; i++) {
+    if (Boolean(cfgFull['custom_text_' + i + '_enabled'])) enabledCTs.push(i);
+  }
+
+  if (enabledCFs.length || enabledCTs.length) {
+    const descSection = document.createElement('div');
+    descSection.style.cssText = 'margin-top:6px;padding:12px 14px;border-radius:8px;background:rgba(0,140,255,0.08);border:1px solid rgba(0,140,255,0.2);display:flex;flex-direction:column;gap:10px;';
+    const descSectionTitle = document.createElement('div');
+    descSectionTitle.textContent = fields.editor_gallery_desc_section_title || 'Describe your custom elements (required for gallery)';
+    descSectionTitle.style.cssText = 'font-size:12px;font-weight:600;color:#a0c8ff;margin-bottom:2px;';
+    descSection.appendChild(descSectionTitle);
+
+    const makeDescRow = (labelText, key) => {
+      const row = document.createElement('div');
+      row.style.cssText = 'display:flex;flex-direction:column;gap:3px;';
+      const lbl = document.createElement('label');
+      lbl.textContent = labelText;
+      lbl.style.cssText = 'font-size:11px;font-weight:600;color:#c0c0e0;';
+      const inp = document.createElement('input');
+      inp.type = 'text';
+      inp.placeholder = fields.editor_gallery_desc_placeholder || 'e.g. Heat pump consumption';
+      inp.style.cssText = 'width:100%;box-sizing:border-box;padding:7px 10px;border-radius:6px;border:1px solid rgba(255,255,255,0.18);background:#1a1a30;color:#ffffff;font-size:12px;outline:none;';
+      inp.addEventListener('focus', () => { inp.style.borderColor = '#3399ff'; });
+      inp.addEventListener('blur', () => { inp.style.borderColor = 'rgba(255,255,255,0.18)'; });
+      descInputs[key] = inp;
+      row.appendChild(lbl);
+      row.appendChild(inp);
+      return row;
+    };
+
+    enabledCFs.forEach((i) => {
+      const sensorVal = cfgFull['custom_flow_' + i + '_sensor'] || '';
+      const label = (fields.editor_gallery_cf_desc_label || 'Custom Flow') + ' ' + i + (sensorVal ? ' (' + sensorVal + ')' : '');
+      descSection.appendChild(makeDescRow(label, 'custom_flow_' + i));
+    });
+    enabledCTs.forEach((i) => {
+      const textVal = cfgFull['custom_text_' + i + '_text'] || '';
+      const sensorVal = cfgFull['custom_text_' + i + '_sensor'] || '';
+      const hint = textVal || sensorVal || '';
+      const label = (fields.editor_gallery_ct_desc_label || 'Custom Text') + ' ' + i + (hint ? ' (' + hint + ')' : '');
+      descSection.appendChild(makeDescRow(label, 'custom_text_' + i));
+    });
+
+    body.appendChild(descSection);
+  }
+
+  panel.appendChild(body);
+
+  /* status message */
+  const statusEl = document.createElement('div');
+  statusEl.style.cssText = 'padding:0 20px;font-size:12px;min-height:18px;';
+  panel.appendChild(statusEl);
+
+  /* footer */
+  const footer = document.createElement('div');
+  footer.style.cssText = 'padding:14px 20px;border-top:1px solid rgba(255,255,255,0.15);display:flex;justify-content:flex-end;gap:10px;flex-shrink:0;';
+  const cancelBtn = document.createElement('button');
+  cancelBtn.type = 'button';
+  cancelBtn.textContent = L.cancel;
+  cancelBtn.style.cssText = 'padding:9px 20px;border-radius:8px;border:1px solid rgba(255,255,255,0.25);background:transparent;color:#c0c0d0;cursor:pointer;font-size:13px;';
+  cancelBtn.addEventListener('mousedown', (e) => { e.stopPropagation(); closeOverlay(); });
+  const submitBtn = document.createElement('button');
+  submitBtn.type = 'button';
+  submitBtn.textContent = L.submit;
+  submitBtn.style.cssText = 'padding:9px 24px;border-radius:8px;border:none;background:#2266cc;color:#ffffff;cursor:pointer;font-size:13px;font-weight:600;transition:background .2s;';
+  submitBtn.addEventListener('mouseenter', () => { submitBtn.style.background = '#3388ee'; });
+  submitBtn.addEventListener('mouseleave', () => { submitBtn.style.background = '#2266cc'; });
+  submitBtn.addEventListener('mousedown', (e) => {
+    e.stopPropagation();
+    const name = nameInput.value.trim();
+    const authorName = authorInput.value.trim();
+    const email = emailInput.value.trim();
+    if (!name) { nameInput.style.borderColor = '#ff5555'; nameInput.focus(); return; }
+    if (!authorName) { authorInput.style.borderColor = '#ff5555'; authorInput.focus(); return; }
+    /* Require description for every enabled custom flow and custom text */
+    const missingDescKeys = [];
+    Object.keys(descInputs).forEach((key) => {
+      const val = descInputs[key] && descInputs[key].value ? descInputs[key].value.trim() : '';
+      if (!val) missingDescKeys.push(key);
+    });
+    if (missingDescKeys.length) {
+      missingDescKeys.forEach((key) => { const el = descInputs[key]; if (el) el.style.borderColor = '#ff5555'; });
+      if (missingDescKeys.length && descInputs[missingDescKeys[0]]) descInputs[missingDescKeys[0]].focus();
+      statusEl.style.color = '#ff5555';
+      statusEl.textContent = L.errorDescriptionsRequired;
+      return;
+    }
+    Object.keys(descInputs).forEach((key) => { const el = descInputs[key]; if (el) el.style.borderColor = 'rgba(255,255,255,0.18)'; });
+    submitBtn.disabled = true;
+    submitBtn.textContent = L.sharing;
+    statusEl.textContent = '';
+    statusEl.style.color = '';
+
+    /* Build config: export only user-configured keys (not all defaults, keeps config small for HA save) */
+    const rawCfgForExport = this._config || {};
+    const config = {};
+    const EXPORT_SKIP = new Set(['version', 'pro_password']);
+    Object.keys(rawCfgForExport).forEach((k) => { if (k && !k.startsWith('_') && rawCfgForExport[k] !== undefined && !EXPORT_SKIP.has(k)) config[k] = rawCfgForExport[k]; });
+    /* Custom text/flow keys are already in rawCfgForExport – no extra loop needed */
+
+    /* Collect custom flow/text descriptions and embed in config so they travel with the template */
+    const galleryDescriptions = {};
+    Object.keys(descInputs).forEach((key) => {
+      const val = descInputs[key] && descInputs[key].value ? descInputs[key].value.trim() : '';
+      if (val) galleryDescriptions[key] = val;
+    });
+    if (Object.keys(galleryDescriptions).length) {
+      config.gallery_descriptions = galleryDescriptions;
+    }
+
+    /* If background_image is a local/API path, embed it as data URI so the template is portable */
+    const _embedBgImage = () => new Promise((resolve) => {
+      const bg = config.background_image || '';
+      if (!bg || bg.startsWith('data:')) { resolve(); return; }
+      if (bg.startsWith('/local/') || bg.startsWith('/api/') || bg.startsWith('http')) {
+        const img = new Image();
+        img.crossOrigin = 'anonymous';
+        img.onload = () => {
+          try {
+            const w = img.naturalWidth || img.width;
+            const h = img.naturalHeight || img.height;
+            const canvas = document.createElement('canvas');
+            canvas.width = w; canvas.height = h;
+            const ctx = canvas.getContext('2d');
+            if (ctx) { ctx.drawImage(img, 0, 0, w, h); config.background_image = canvas.toDataURL('image/png'); }
+          } catch (_) {}
+          resolve();
+        };
+        img.onerror = () => resolve();
+        img.src = bg;
+      } else { resolve(); }
+    });
+
+    _embedBgImage().then(() => this._captureGalleryPreview_()).then((previewBase64) => {
+      return fetch(galleryBase + '/gallery', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name, description: descInput.value.trim(), authorName, email: email || undefined, config, previewBase64: previewBase64 || undefined })
+      });
+    }).then((r) => r.json()).then((data) => {
+      if (data && data.id) {
+        statusEl.style.color = '#4caf50';
+        statusEl.textContent = data.pending ? L.sharePending : L.shareSuccess;
+        setTimeout(() => closeOverlay(), 2500);
+      } else {
+        statusEl.style.color = '#ff5555';
+        const err = data && data.error ? String(data.error) : '';
+        statusEl.textContent = err === 'rate_limit_monthly' ? L.errorOnePerMonth : (err === 'descriptions_required' ? L.errorDescriptionsRequired : (err || L.shareError));
+        submitBtn.disabled = false;
+        submitBtn.textContent = L.submit;
+      }
+    }).catch(() => {
+      statusEl.style.color = '#ff5555';
+      statusEl.textContent = L.shareError;
+      submitBtn.disabled = false;
+      submitBtn.textContent = L.submit;
+    });
+  });
+  footer.appendChild(cancelBtn);
+  footer.appendChild(submitBtn);
+  panel.appendChild(footer);
+  setTimeout(() => nameInput.focus(), 100);
+};
