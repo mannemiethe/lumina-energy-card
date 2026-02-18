@@ -1,7 +1,7 @@
 # Lumina Energy Card
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
-![Version](https://img.shields.io/badge/version-3.1.2-blue.svg)
+![Version](https://img.shields.io/badge/version-3.3.1-blue.svg)
 
 Repository: [https://github.com/Giorgio866/lumina-energy-card](https://github.com/Giorgio866/lumina-energy-card)
 
@@ -27,7 +27,20 @@ Commercial use / resale requires a separate agreement (`COMMERCIAL-LICENSE.md`).
 
 ### Overview
 
-Lumina Energy Card is a Home Assistant custom Lovelace card that displays animated energy flows (PV, battery, grid, load, heat pump, EV), aggregates PV strings and batteries, and supports optional EV charging and heat pump metrics. It includes **House Management** (cameras, lights, temperature, humidity, security keypad), **interactive popups** with toggles, round buttons (Echo Alive, Text toggle, HOME), **PRO** features (motion-based text visibility, overlay images, custom flows), **Import & Export** for config backup, and **version 3.1.2** enhancements.
+Lumina Energy Card is a Home Assistant custom Lovelace card that displays animated energy flows (PV, battery, grid, load, heat pump, EV), aggregates PV strings and batteries, and supports optional EV charging and heat pump metrics. It includes **House Management** (cameras, lights, temperature, humidity, security keypad), **interactive popups** with toggles, round buttons (Echo Alive, Text toggle, HOME), **PRO** features (motion-based text visibility, overlay images, custom flows), **Import & Export** for config backup, and **version 3.3.1** enhancements.
+
+
+https://github.com/user-attachments/assets/d75b088d-f05f-48da-a83b-4aa0dd3b00a5
+
+
+### What's new in 3.3.1
+
+- **Gallery:** Share your dashboard templates to the community and browse templates shared by others. From the editor, use **"Share to gallery"** to submit a template (name, description, author, email, rules). One share per user per month. **"Top"** shows the most popular templates; a 30-day timer resets and notifies the winner.
+- **Bug fix – Text button:** The text toggle button no longer disappears when the HOME button is off.
+- **Clock color:** You can now change the color of the digital clock from the editor.
+- **Bug fix – Inverter ↔ House flow:** Corrected the energy flow display between inverter and house.
+- **Bug fix – Solar forecast SVG:** The solar forecast icon (sun/rain) is now always visible when solar forecast is enabled, even when "Hide texts" is on.
+- **PV Box and Grid Box:** You can now disable PV Box and Grid Box directly from their respective sections in the editor.
 
 ### What's new in 3.1.2
 
@@ -179,11 +192,20 @@ Use the card’s visual editor (Edit → Lumina) to configure entities, colors, 
   - `sensor_solar_forecast: sensor.xxx` (your forecast sensor)
   - `solar_forecast_max_power` (e.g., 10000 W)
 - **Position & style:** Adjust `solar_forecast_x`, `solar_forecast_y`, `solar_forecast_color` (default **#00FFFF**), and `solar_forecast_size`.
-- **Tip:** If the sun doesn’t appear, make sure the sensor has a numeric value and the **Text toggle** is not hiding texts.
+- **Tip:** If the sun doesn’t appear, the forecast icon (sun/rain) is always visible when solar forecast is enabled. If values don't appear, check that the sensor has a numeric value.
 
 ---
 
-#### 8. PRO section (optional extras)
+#### 8. Gallery (share and browse templates)
+
+- **What it is:** The **Gallery** lets you **share** your Lumina dashboard configuration as a template and **browse** templates shared by other users. You can apply a template to get a ready-made layout and then customize it.
+- **How to share:** In the card **editor**, open the **Gallery** section and click **"Share to gallery"**. Fill in: **template name**, **description**, **author name**, **email** (for contact), and accept the **rules**. Your current dashboard configuration is sent to the gallery. **Limit:** one share per user per month.
+- **How to use a template:** In the Gallery, browse the list or use **"Top"** to see the most popular templates. Click a template to view details and **Apply** to load it into your card (you can then edit it as usual).
+- **Top & winner:** The **"Top"** shows templates ranked by popularity. A **30-day timer** runs; when it ends, the top template's author is notified as the winner for that period, then the timer resets.
+
+---
+
+#### 9. PRO section (optional extras)
 
 PRO features require a **PRO password** (`pro_password`), unlocked via the editor’s PRO section (PayPal support).
 
@@ -237,7 +259,8 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 | Battery mode | **`battery_power_mode`** | `flow` or `charge_discharge` |
 | Battery SOC grid | **`battery_overlay_enabled`** | Toggle battery overlay + 6‑segment SOC grid |
 | Animation style | **`animation_style`** | `shimmer`, `dashes`, `dots`, `arrows` |
-| Solar forecast | **PRO** section | Estimated solar production + holographic sun |
+| Gallery | Editor → **Gallery** | Share your template to the gallery; browse and apply templates from others; Top & 30-day winner |
+| Solar forecast | **PRO** section | Estimated solar production + holographic sun (icon always visible) |
 | PRO (motion, overlay, etc.) | **PRO** section + **`pro_password`** | Motion-based text, overlay images, custom flows/text |
 | Languages | **Language** (editor) | EN, IT, DE, FR, NL, **RU**, **PT** |
 
@@ -257,7 +280,17 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 
 ### Panoramica
 
-Lumina Energy Card è una scheda Lovelace personalizzata per Home Assistant che mostra flussi energetici animati (PV, batteria, rete, carico, pompa di calore, EV), aggrega stringhe FV e batterie e supporta metriche opzionali per EV e pompa di calore. Include **Gestione casa** (telecamere, luci, temperatura, umidità, keypad sicurezza), **popup interattivi** con toggle, pulsanti rotondi (Echo Alive, Toggle testi, HOME), funzioni **PRO** (visibilità testi con sensore movimento, overlay, flussi personalizzati), **Import & Export** per il backup della configurazione e le **novità 3.1.2**.
+Lumina Energy Card è una scheda Lovelace personalizzata per Home Assistant che mostra flussi energetici animati (PV, batteria, rete, carico, pompa di calore, EV), aggrega stringhe FV e batterie e supporta metriche opzionali per EV e pompa di calore. Include **Gestione casa** (telecamere, luci, temperatura, umidità, keypad sicurezza), **popup interattivi** con toggle, pulsanti rotondi (Echo Alive, Toggle testi, HOME), funzioni **PRO** (visibilità testi con sensore movimento, overlay, flussi personalizzati), **Import & Export** per il backup della configurazione e le **novità 3.3.1**.
+
+### Novità in 3.3.1
+
+- **Galleria:** Condividi i template della tua dashboard con la community e sfoglia i template condivisi da altri. Dall’editor usa **"Condividi in galleria"** per inviare un template (nome, descrizione, autore, email, regole). Un invio per utente al mese. La **"Top"** mostra i template più popolari; un timer di 30 giorni si resetta e notifica il vincitore.
+- **Correzione – Pulsante Testo:** Il pulsante toggle testi non scompare più quando il pulsante HOME è disattivato.
+- **Colore orologio:** Ora puoi cambiare il colore dell’orologio digitale dall’editor.
+- **Correzione – Flusso inverter ↔ casa:** Corretto il flusso energetico tra inverter e casa.
+- **Correzione – SVG previsione solare:** L’icona della previsione solare (sole/pioggia) è ora sempre visibile quando la previsione è attiva, anche con "Nascondi testi" attivo.
+
+- **PV Box e Grid Box:** Ora puoi disattivare PV Box e Grid Box direttamente dalle rispettive sezioni nell'editor.
 
 ### Novità in 3.1.2
 
