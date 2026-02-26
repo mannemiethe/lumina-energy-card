@@ -1,4 +1,4 @@
-const _0xa27b86=_0x2d1b;(function(_0x448ce5,_0x236bd4){const _0x197936=_0x2d1b,_0xc4d64e=_0x448ce5();while(!![]){try{const _0x4ce30b=-parseInt(_0x197936(0x10c))/0x1+parseInt(_0x197936(0xe2))/0x2+-parseInt(_0x197936(0x13a))/0x3*(parseInt(_0x197936(0xda))/0x4)+parseInt(_0x197936(0x124))/0x5*(parseInt(_0x197936(0x118))/0x6)+-parseInt(_0x197936(0x140))/0x7*(-parseInt(_0x197936(0x142))/0x8)+-parseInt(_0x197936(0xe1))/0x9*(-parseInt(_0x197936(0xf8))/0xa)+parseInt(_0x197936(0x143))/0xb;if(_0x4ce30b===_0x236bd4)break;else _0xc4d64e['push'](_0xc4d64e['shift']());}catch(_0x4974c2){_0xc4d64e['push'](_0xc4d64e['shift']());}}}(_0x34ad,0x54bcc));const LUMINA_SHA256=_0x656242=>{const _0x5e69c1=_0x2d1b,_0x392cfa=(_0x115105,_0x522845)=>{const _0x112549=(0xffff&_0x115105)+(0xffff&_0x522845);return(_0x115105>>0x10)+(_0x522845>>0x10)+(_0x112549>>0x10)<<0x10|0xffff&_0x112549;},_0xe71ca8=(_0x274bb6,_0x138e43)=>_0x274bb6>>>_0x138e43|_0x274bb6<<0x20-_0x138e43,_0x1dd6ca=(_0x4b5360,_0x58f5ad)=>_0x4b5360>>>_0x58f5ad,_0x2d2cd6=(_0x2bcde3,_0x57cd54,_0x3ea4c8)=>_0x2bcde3&_0x57cd54^~_0x2bcde3&_0x3ea4c8,_0x1c5acc=(_0x37c014,_0x401644,_0x343148)=>_0x37c014&_0x401644^_0x37c014&_0x343148^_0x401644&_0x343148,_0x2dfb61=_0x12b62a=>_0xe71ca8(_0x12b62a,0x2)^_0xe71ca8(_0x12b62a,0xd)^_0xe71ca8(_0x12b62a,0x16),_0x429036=_0x3fb69c=>_0xe71ca8(_0x3fb69c,0x6)^_0xe71ca8(_0x3fb69c,0xb)^_0xe71ca8(_0x3fb69c,0x19),_0x37c22b=_0x279a47=>_0xe71ca8(_0x279a47,0x7)^_0xe71ca8(_0x279a47,0x12)^_0x1dd6ca(_0x279a47,0x3),_0x52304f=_0x32c4fc=>_0xe71ca8(_0x32c4fc,0x11)^_0xe71ca8(_0x32c4fc,0x13)^_0x1dd6ca(_0x32c4fc,0xa),_0x56bf16=(_0x38be1f=>{const _0x5174e7=_0x2d1b;_0x38be1f=_0x38be1f[_0x5174e7(0x12f)](/\r\n/g,'\x0a');let _0x59fa02='';for(let _0x4379c0=0x0;_0x4379c0<_0x38be1f[_0x5174e7(0xd4)];_0x4379c0++){const _0x40e7af=_0x38be1f[_0x5174e7(0xf2)+'At'](_0x4379c0);_0x40e7af<0x80?_0x59fa02+=String[_0x5174e7(0xeb)+_0x5174e7(0xea)](_0x40e7af):_0x40e7af>0x7f&&_0x40e7af<0x800?(_0x59fa02+=String[_0x5174e7(0xeb)+_0x5174e7(0xea)](_0x40e7af>>0x6|0xc0),_0x59fa02+=String[_0x5174e7(0xeb)+_0x5174e7(0xea)](0x3f&_0x40e7af|0x80)):(_0x59fa02+=String[_0x5174e7(0xeb)+_0x5174e7(0xea)](_0x40e7af>>0xc|0xe0),_0x59fa02+=String[_0x5174e7(0xeb)+_0x5174e7(0xea)](_0x40e7af>>0x6&0x3f|0x80),_0x59fa02+=String[_0x5174e7(0xeb)+_0x5174e7(0xea)](0x3f&_0x40e7af|0x80));}return _0x59fa02;})(_0x656242);return(_0x20dc9f=>{const _0x5c1796=_0x2d1b;let _0x414e55='';for(let _0x259e54=0x0;_0x259e54<0x4*_0x20dc9f[_0x5c1796(0xd4)];_0x259e54++)_0x414e55+=(_0x5c1796(0xef)+_0x5c1796(0x13c))[_0x5c1796(0xe5)](_0x20dc9f[_0x259e54>>0x2]>>0x8*(0x3-_0x259e54%0x4)+0x4&0xf)+(_0x5c1796(0xef)+_0x5c1796(0x13c))[_0x5c1796(0xe5)](_0x20dc9f[_0x259e54>>0x2]>>0x8*(0x3-_0x259e54%0x4)&0xf);return _0x414e55;})(((_0x20dbab,_0x4f460d)=>{const _0x31c578=_0x2d1b,_0x49ffcb=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2],_0x189c8e=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19],_0xa66f1=new Array(0x40);let _0x33e613,_0x48d503,_0x30e5c8,_0xf79f50,_0x1a6755,_0xaa7691,_0x33ad50,_0x1828bc,_0x237893,_0x164fee,_0x4ac18f,_0x438be8;for(_0x20dbab[_0x4f460d>>0x5]|=0x80<<0x18-_0x4f460d%0x20,_0x20dbab[0xf+(_0x4f460d+0x40>>0x9<<0x4)]=_0x4f460d,_0x237893=0x0;_0x237893<_0x20dbab[_0x31c578(0xd4)];_0x237893+=0x10){for(_0x33e613=_0x189c8e[0x0],_0x48d503=_0x189c8e[0x1],_0x30e5c8=_0x189c8e[0x2],_0xf79f50=_0x189c8e[0x3],_0x1a6755=_0x189c8e[0x4],_0xaa7691=_0x189c8e[0x5],_0x33ad50=_0x189c8e[0x6],_0x1828bc=_0x189c8e[0x7],_0x164fee=0x0;_0x164fee<0x40;_0x164fee++)_0xa66f1[_0x164fee]=_0x164fee<0x10?_0x20dbab[_0x164fee+_0x237893]:_0x392cfa(_0x392cfa(_0x392cfa(_0x52304f(_0xa66f1[_0x164fee-0x2]),_0xa66f1[_0x164fee-0x7]),_0x37c22b(_0xa66f1[_0x164fee-0xf])),_0xa66f1[_0x164fee-0x10]),_0x4ac18f=_0x392cfa(_0x392cfa(_0x392cfa(_0x392cfa(_0x1828bc,_0x429036(_0x1a6755)),_0x2d2cd6(_0x1a6755,_0xaa7691,_0x33ad50)),_0x49ffcb[_0x164fee]),_0xa66f1[_0x164fee]),_0x438be8=_0x392cfa(_0x2dfb61(_0x33e613),_0x1c5acc(_0x33e613,_0x48d503,_0x30e5c8)),_0x1828bc=_0x33ad50,_0x33ad50=_0xaa7691,_0xaa7691=_0x1a6755,_0x1a6755=_0x392cfa(_0xf79f50,_0x4ac18f),_0xf79f50=_0x30e5c8,_0x30e5c8=_0x48d503,_0x48d503=_0x33e613,_0x33e613=_0x392cfa(_0x4ac18f,_0x438be8);_0x189c8e[0x0]=_0x392cfa(_0x33e613,_0x189c8e[0x0]),_0x189c8e[0x1]=_0x392cfa(_0x48d503,_0x189c8e[0x1]),_0x189c8e[0x2]=_0x392cfa(_0x30e5c8,_0x189c8e[0x2]),_0x189c8e[0x3]=_0x392cfa(_0xf79f50,_0x189c8e[0x3]),_0x189c8e[0x4]=_0x392cfa(_0x1a6755,_0x189c8e[0x4]),_0x189c8e[0x5]=_0x392cfa(_0xaa7691,_0x189c8e[0x5]),_0x189c8e[0x6]=_0x392cfa(_0x33ad50,_0x189c8e[0x6]),_0x189c8e[0x7]=_0x392cfa(_0x1828bc,_0x189c8e[0x7]);}return _0x189c8e;})((_0x12447f=>{const _0x3266b1=_0x2d1b,_0x575239=[];for(let _0x119329=0x0;_0x119329<0x8*_0x12447f[_0x3266b1(0xd4)];_0x119329+=0x8)_0x575239[_0x119329>>0x5]|=(0xff&_0x12447f[_0x3266b1(0xf2)+'At'](_0x119329/0x8))<<0x18-_0x119329%0x20;return _0x575239;})(_0x56bf16),0x8*_0x56bf16[_0x5e69c1(0xd4)]));},LUMINA_REMOTE_URL=atob(_0xa27b86(0x11f)+_0xa27b86(0x108)+_0xa27b86(0xf4)+_0xa27b86(0xe9)+_0xa27b86(0xd7)+_0xa27b86(0xfd)+_0xa27b86(0x10f)+_0xa27b86(0x13d)+_0xa27b86(0xdc)+_0xa27b86(0x133)+_0xa27b86(0xff)+_0xa27b86(0x12c)+_0xa27b86(0x12a)+_0xa27b86(0x125)+_0xa27b86(0x134)+_0xa27b86(0xd0));function _0x2d1b(_0x20c861,_0x108cef){_0x20c861=_0x20c861-0xce;const _0x34ad3e=_0x34ad();let _0x2d1b7e=_0x34ad3e[_0x20c861];if(_0x2d1b['UAVrxI']===undefined){var _0x51f18b=function(_0x43454e){const _0x3fc2ea='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x656242='',_0x392cfa='';for(let _0xe71ca8=0x0,_0x1dd6ca,_0x2d2cd6,_0x1c5acc=0x0;_0x2d2cd6=_0x43454e['charAt'](_0x1c5acc++);~_0x2d2cd6&&(_0x1dd6ca=_0xe71ca8%0x4?_0x1dd6ca*0x40+_0x2d2cd6:_0x2d2cd6,_0xe71ca8++%0x4)?_0x656242+=String['fromCharCode'](0xff&_0x1dd6ca>>(-0x2*_0xe71ca8&0x6)):0x0){_0x2d2cd6=_0x3fc2ea['indexOf'](_0x2d2cd6);}for(let _0x2dfb61=0x0,_0x429036=_0x656242['length'];_0x2dfb61<_0x429036;_0x2dfb61++){_0x392cfa+='%'+('00'+_0x656242['charCodeAt'](_0x2dfb61)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x392cfa);};_0x2d1b['oZrjJb']=_0x51f18b,_0x2d1b['bhEmFF']={},_0x2d1b['UAVrxI']=!![];}const _0x20d42c=_0x34ad3e[0x0],_0x1c3ddf=_0x20c861+_0x20d42c,_0x25d07c=_0x2d1b['bhEmFF'][_0x1c3ddf];return!_0x25d07c?(_0x2d1b7e=_0x2d1b['oZrjJb'](_0x2d1b7e),_0x2d1b['bhEmFF'][_0x1c3ddf]=_0x2d1b7e):_0x2d1b7e=_0x25d07c,_0x2d1b7e;}function _0x34ad(){const _0x3939bd=['thK5BMfytJa','Aef0','zfHcA1LyuMW','BhvTAw5Hx2O','ndKYotu2A2HOzxbi','u2nYAxb0igW','yvC5Dq','yvC5EvOYBhy','CMfUzg9T','Dg9mB3DLCKm','C2v0sxrLBq','ChvZAa','zwj1z19SAwm','CMvHC29U','DhjPBq','CgfYzw50tM8','nNDbywfVzq','BM93','Aw5JBhvKzxm','AxnbCNjHEq','zvy5ALLysMS','C3rHDhvZ','C3rYAw5NAwy','yuHsmgnitty','Dgv4Da','C29UCf8','y2fSBgjHy2S','zM9YrwfJAa','mtCZndGWmef5uxDgDq','tdnkAgr5oxm','yJy0owjKmJi','lMrLDG','y3jLyxrLrwW','p3q9','tNPnD01hvMO','rwXLBwvUDa','tvrjnu1etMG','yKHwDgfxnwG','yM9KEq','CMvWBgfJzq','CMvTB3zLq2G','mJbLzdfIyJy','BNvTyMvY','wKrKA1KYrMO','zfCXCgjTrMy','zgvSzxrLtM8','B2jQzwn0','BhvTAw5Hx2q','mgrMotGWoty','zee9pq','mZi3uNb5rgPN','zNvUy3rPB24','odLHyMnKzwy','t0rzmKWYrM0','BhvTAw5HlwW','wLy5mK13pt0','nZK3odzkCe93Dfq','C3rHCNrZv2K','ndCYrhPIAgnf','mJaYmdi2tLvysMzc','C3jJ','yM9VBgvHBG','Dg9vChbLCKm','zM9Yy2u','Dg9tDhjPBMC','BgfZDfn0yxq','yxnL','jNq9','zMXVB3i','AwXK','wti5A1Prpt0','BgfZDevYCG','BwfW','zw1LBNq','BgvUz3rO','C3bSAxq','yxbWzw5Kq2G','yJi1mfPxnta','BgfZDezLDgm','mJe3yJi2yMi','mJi4odHxqKH0Ae0','zgqWmMrKmgu','wM1nmLPQstu','wdnwCfPbpt0','C3rYAw5N','Bwf0y2G','z2v0sxrLBq','mZC4r0HQBgXb','nJG2mti4yK9TD3rL','zw5Zzq','B25LCNjVCG','y2HHCKf0','C2XPy2u','zwj1z191Cgq','B2fKigvYCM8','ww5wELPysMO','q29Kzq','zNjVBunOyxi','mwq4mdaWzgm','ztq0yZLMzti','BgfZDenVDw4','mdeYmZq1nJC','vgLTzw91Da','yvC1Bwj3pt0','y2HHCKnVzgu','Ahr0Chm6lY8','tg1KCgrhAde','yxrL','tevdlq','m2u1ngjHzwi','mtK3mZbhCgfStM4','wdjwDvPysM4','lNDVCMTLCNm','CM94Es4Zzha','zg9JDw1LBNq','tg1oDMjtouG','AwnLBNnLlxa','txPNEe56ute','BwvZC2fNzq','BgfZDe9Rqxq','yLDSBMnTrJa','AxngAw5PDgu','Aw5KzxHpzG','CMLUDdG2mty','y21wEgrxvNO','C2nYAxb0'];_0x34ad=function(){return _0x3939bd;};return _0x34ad();}let LUMINA_AUTH_LIST_V1=null,LUMINA_AUTH_LIST_V2=null,LUMINA_AUTH_LIST_V3=null,LUMINA_FETCHING=!0x1,LUMINA_AUTH_META={'lastFetchAt':0x0,'lastOkAt':0x0,'lastErr':'','lastCount':0x0,'lastStatus':0x0};const LUMINA_UNLOCK_V1_IDS=[_0xa27b86(0xed)+_0xa27b86(0xdb)+_0xa27b86(0xf7)+_0xa27b86(0x138)+_0xa27b86(0x126)+_0xa27b86(0xd9)+_0xa27b86(0x131)+_0xa27b86(0xec)],LUMINA_UNLOCK_V3_IDS=[],LUMINA_DEBUG_LICENSE=((()=>{const _0x4320a6=_0xa27b86;try{return'1'===localStorage[_0x4320a6(0xe0)](_0x4320a6(0x137)+_0x4320a6(0x114)+_0x4320a6(0xe3));}catch(_0x212702){return!0x1;}})()),LUMINA_UID_KEY=atob(_0xa27b86(0x12d)+_0xa27b86(0xf9)+_0xa27b86(0x11c)+_0xa27b86(0xdd)),getLuminaUID=()=>{const _0x57f160=_0xa27b86;try{const _0x1a70f9=localStorage[_0x57f160(0xe0)](LUMINA_UID_KEY);if(_0x1a70f9&&_0x57f160(0xde)==typeof _0x1a70f9&&_0x1a70f9[_0x57f160(0x141)+'th'](_0x57f160(0xf6)))return _0x1a70f9;const _0x285093=(Math[_0x57f160(0x110)]()[_0x57f160(0x148)](0x10)[_0x57f160(0xe6)](0x2)+Math[_0x57f160(0x110)]()[_0x57f160(0x148)](0x10)[_0x57f160(0xe6)](0x2))[_0x57f160(0x146)+_0x57f160(0x14a)](),_0x2477b0=_0x57f160(0xf6)+Date[_0x57f160(0x119)]()[_0x57f160(0x148)](0x10)[_0x57f160(0x146)+_0x57f160(0x14a)]()+'-'+_0x285093[_0x57f160(0xe6)](0x0,0x10);return localStorage[_0x57f160(0x112)](LUMINA_UID_KEY,_0x2477b0),_0x2477b0;}catch(_0x351cab){const _0x5a3b99=Math[_0x57f160(0x110)]()[_0x57f160(0x148)](0x10)[_0x57f160(0xe6)](0x2,0xa)[_0x57f160(0x146)+_0x57f160(0x14a)]();return _0x57f160(0xf6)+Date[_0x57f160(0x119)]()[_0x57f160(0x148)](0x10)[_0x57f160(0x146)+_0x57f160(0x14a)]()+'-'+_0x5a3b99;}},LUMINA_LICENSE_ENDPOINT=_0xa27b86(0xf3)+_0xa27b86(0x13e)+_0xa27b86(0xfe)+_0xa27b86(0xfb)+_0xa27b86(0x105)+_0xa27b86(0xfa)+_0xa27b86(0x127),LUMINA_ACT_REQ=atob(_0xa27b86(0x106)+_0xa27b86(0x139)),LUMINA_ACT_MIG=atob(_0xa27b86(0x102)+_0xa27b86(0x10e)),LUMINA_ACT_UPDATEINFO=atob(_0xa27b86(0x10a)+_0xa27b86(0xf1)),LUMINA_ACT_MIGRATE_V3=atob(_0xa27b86(0x102)+_0xa27b86(0x13f)),LUMINA_DEBUG_UPDATE=((()=>{const _0x3ee195=_0xa27b86;try{return'1'===localStorage[_0x3ee195(0xe0)](_0x3ee195(0x137)+_0x3ee195(0xe7)+_0x3ee195(0xf5));}catch(_0x59dad5){return!0x1;}})()),LUMINA_JSONP=(_0x56f122,_0xc0aff3=0x3a98)=>new Promise((_0xa543c8,_0xfd9c40)=>{const _0x1ab863=_0xa27b86;try{const _0x873ee4=_0x1ab863(0x10b)+_0x1ab863(0x121)+Date[_0x1ab863(0x119)]()+'_'+Math[_0x1ab863(0xce)](0x3b9aca00*Math[_0x1ab863(0x110)]()),_0x180149=document[_0x1ab863(0x128)+_0x1ab863(0xd3)](_0x1ab863(0x107));let _0x3b64aa=!0x1;const _0x58c941=_0x2f5bd0=>{const _0x2350d7=_0x1ab863;if(!_0x3b64aa){if(_0x3b64aa=!0x0,_0x2f5bd0&&_0x2f5bd0[_0x2350d7(0x135)+'w'])try{delete window[_0x873ee4];}catch(_0x1da007){try{window[_0x873ee4]=void 0x0;}catch(_0x2ae3f8){}}else{try{window[_0x873ee4]=()=>{};}catch(_0x415e8e){}try{setTimeout(()=>{try{delete window[_0x873ee4];}catch(_0x11f9f1){}},0x1d4c0);}catch(_0x219160){}}try{_0x180149&&_0x180149[_0x2350d7(0x117)+'de']&&_0x180149[_0x2350d7(0x117)+'de'][_0x2350d7(0x130)+_0x2350d7(0xcf)](_0x180149);}catch(_0x511eba){}}},_0x24c77c=setTimeout(()=>{const _0x477098=_0x1ab863;_0x58c941({'deleteNow':!0x1}),_0xfd9c40(new Error(_0x477098(0xf0)));},_0xc0aff3);window[_0x873ee4]=_0x37dbe8=>{clearTimeout(_0x24c77c),_0x58c941({'deleteNow':!0x0}),_0xa543c8(_0x37dbe8);},_0x180149[_0x1ab863(0xe4)]=()=>{const _0x1d0f1d=_0x1ab863;clearTimeout(_0x24c77c),_0x58c941({'deleteNow':!0x0}),_0xfd9c40(new Error(_0x1d0f1d(0x10d)+_0x1d0f1d(0xe8)+'r'));},_0x180149[_0x1ab863(0x144)]=_0x56f122+(_0x56f122[_0x1ab863(0x104)]('?')>=0x0?'&':'?')+(_0x1ab863(0x122)+'=')+_0x873ee4+_0x1ab863(0x14b)+Date[_0x1ab863(0x119)](),(document[_0x1ab863(0x12e)]||document[_0x1ab863(0xfc)+_0x1ab863(0x12b)])[_0x1ab863(0xd6)+_0x1ab863(0xcf)](_0x180149);}catch(_0x1e9c7f){_0xfd9c40(_0x1e9c7f);}}),LUMINA_PACK=_0x41031e=>{const _0x58aea2=_0xa27b86;try{const _0x102a16=JSON[_0x58aea2(0x11e)+'y'](_0x41031e||{});return btoa(unescape(encodeURIComponent(_0x102a16)))[_0x58aea2(0x12f)](/\+/g,'-')[_0x58aea2(0x12f)](/\//g,'_')[_0x58aea2(0x12f)](/=+$/g,'');}catch(_0x33bde2){return'';}},LUMINA_VERSION_CMP=(_0x195996,_0x1ff7a6)=>{const _0x390d1d=_0xa27b86,_0x16626f=String(_0x195996||'')[_0x390d1d(0x116)]()[_0x390d1d(0xd5)]('.')[_0x390d1d(0xd2)](_0x3d10e5=>parseInt(_0x3d10e5,0xa)),_0x2bf25e=String(_0x1ff7a6||'')[_0x390d1d(0x116)]()[_0x390d1d(0xd5)]('.')[_0x390d1d(0xd2)](_0x2a7991=>parseInt(_0x2a7991,0xa));for(let _0x1a7955=0x0;_0x1a7955<0x3;_0x1a7955++){const _0x3badb7=Number[_0x390d1d(0x103)](_0x16626f[_0x1a7955])?_0x16626f[_0x1a7955]:0x0,_0x48420c=Number[_0x390d1d(0x103)](_0x2bf25e[_0x1a7955])?_0x2bf25e[_0x1a7955]:0x0;if(_0x3badb7<_0x48420c)return-0x1;if(_0x3badb7>_0x48420c)return 0x1;}return 0x0;},LUMINA_REFRESH_AUTH=async _0x200cff=>{const _0x36631e=_0xa27b86;let _0x31ec5f=null,_0x44745b=!0x1,_0x3ecd9a='';if(_0x36631e(0x13b)==typeof _0x200cff?_0x31ec5f=_0x200cff:_0x36631e(0x145)==typeof _0x200cff?_0x44745b=_0x200cff:_0x200cff&&_0x36631e(0x136)==typeof _0x200cff&&(_0x31ec5f=_0x36631e(0x13b)==typeof _0x200cff[_0x36631e(0x122)]?_0x200cff[_0x36631e(0x122)]:null,_0x44745b=!!_0x200cff[_0x36631e(0x147)],_0x200cff[_0x36631e(0x115)]?String(_0x200cff[_0x36631e(0x115)]):''),!_0x44745b&&null!==LUMINA_AUTH_LIST_V1&&null!==LUMINA_AUTH_LIST_V2&&null!==LUMINA_AUTH_LIST_V3)return LUMINA_AUTH_LIST_V1;if(LUMINA_FETCHING)return null;LUMINA_FETCHING=!0x0,LUMINA_AUTH_META[_0x36631e(0xd8)+_0x36631e(0x109)]=Date[_0x36631e(0x119)](),LUMINA_AUTH_META[_0x36631e(0xd1)]='';try{const _0x1a7e94=LUMINA_REMOTE_URL+_0x36631e(0x129)+Date[_0x36631e(0x119)](),_0x402497=await fetch(_0x1a7e94);try{LUMINA_AUTH_META[_0x36631e(0x149)+'us']=_0x402497&&_0x36631e(0x132)==typeof _0x402497[_0x36631e(0x11d)]?_0x402497[_0x36631e(0x11d)]:0x0;}catch(_0x226a35){LUMINA_AUTH_META[_0x36631e(0x149)+'us']=0x0;}const _0x21a70c=(await _0x402497[_0x36631e(0x120)]())[_0x36631e(0xd5)](/\r?\n/);LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[];for(let _0x1e3790=0x0;_0x1e3790<_0x21a70c[_0x36631e(0xd4)];_0x1e3790++){const _0x2ebd39=_0x21a70c[_0x1e3790][_0x36631e(0x116)](),_0x16a860=_0x2ebd39[_0x36631e(0xdf)](/v1:([0-9a-fA-F]{64})/);_0x16a860&&_0x16a860[0x1]&&LUMINA_AUTH_LIST_V1[_0x36631e(0x113)](String(_0x16a860[0x1])[_0x36631e(0x111)+_0x36631e(0x14a)]());const _0x43e393=_0x2ebd39[_0x36631e(0xdf)](/v2:([0-9a-fA-F]{64})/);_0x43e393&&_0x43e393[0x1]&&LUMINA_AUTH_LIST_V2[_0x36631e(0x113)](String(_0x43e393[0x1])[_0x36631e(0x111)+_0x36631e(0x14a)]());const _0x148de3=_0x2ebd39[_0x36631e(0xdf)](/v3:([0-9a-fA-F]{64})/);_0x148de3&&_0x148de3[0x1]&&LUMINA_AUTH_LIST_V3[_0x36631e(0x113)](String(_0x148de3[0x1])[_0x36631e(0x111)+_0x36631e(0x14a)]());}Array[_0x36631e(0x11b)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x36631e(0x123)](_0x3c9b69=>{const _0x3ae044=_0x36631e;if(_0x3c9b69&&_0x3ae044(0xde)==typeof _0x3c9b69&&0x40===_0x3c9b69[_0x3ae044(0xd4)]){const _0x3e817f=_0x3c9b69[_0x3ae044(0x111)+_0x3ae044(0x14a)]();LUMINA_AUTH_LIST_V1[_0x3ae044(0x11a)](_0x3e817f)||LUMINA_AUTH_LIST_V1[_0x3ae044(0x113)](_0x3e817f);}}),Array[_0x36631e(0x11b)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x36631e(0x123)](_0x2c8d2d=>{const _0x327640=_0x36631e;if(_0x2c8d2d&&_0x327640(0xde)==typeof _0x2c8d2d&&0x40===_0x2c8d2d[_0x327640(0xd4)]){const _0xf4109d=_0x2c8d2d[_0x327640(0x111)+_0x327640(0x14a)]();LUMINA_AUTH_LIST_V3[_0x327640(0x11a)](_0xf4109d)||LUMINA_AUTH_LIST_V3[_0x327640(0x113)](_0xf4109d);}}),LUMINA_AUTH_META[_0x36631e(0x101)]=Date[_0x36631e(0x119)]();const _0x529d4e=Array[_0x36631e(0x11b)](LUMINA_AUTH_LIST_V1)?LUMINA_AUTH_LIST_V1[_0x36631e(0xd4)]:0x0,_0x369796=Array[_0x36631e(0x11b)](LUMINA_AUTH_LIST_V2)?LUMINA_AUTH_LIST_V2[_0x36631e(0xd4)]:0x0,_0x1e710a=Array[_0x36631e(0x11b)](LUMINA_AUTH_LIST_V3)?LUMINA_AUTH_LIST_V3[_0x36631e(0xd4)]:0x0;LUMINA_AUTH_META[_0x36631e(0xee)+'t']=_0x529d4e+_0x369796+_0x1e710a,_0x31ec5f&&_0x31ec5f();}catch(_0x4def50){LUMINA_AUTH_META[_0x36631e(0xd1)]=_0x4def50&&_0x4def50[_0x36631e(0x100)]?String(_0x4def50[_0x36631e(0x100)]):String(_0x4def50),LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[],Array[_0x36631e(0x11b)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x36631e(0x123)](_0x4a97a9=>{const _0x1e33f4=_0x36631e;if(_0x4a97a9&&_0x1e33f4(0xde)==typeof _0x4a97a9&&0x40===_0x4a97a9[_0x1e33f4(0xd4)]){const _0x4d4beb=_0x4a97a9[_0x1e33f4(0x111)+_0x1e33f4(0x14a)]();LUMINA_AUTH_LIST_V1[_0x1e33f4(0x11a)](_0x4d4beb)||LUMINA_AUTH_LIST_V1[_0x1e33f4(0x113)](_0x4d4beb);}}),Array[_0x36631e(0x11b)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x36631e(0x123)](_0xe34cb0=>{const _0x2138fc=_0x36631e;if(_0xe34cb0&&_0x2138fc(0xde)==typeof _0xe34cb0&&0x40===_0xe34cb0[_0x2138fc(0xd4)]){const _0x450921=_0xe34cb0[_0x2138fc(0x111)+_0x2138fc(0x14a)]();LUMINA_AUTH_LIST_V3[_0x2138fc(0x11a)](_0x450921)||LUMINA_AUTH_LIST_V3[_0x2138fc(0x113)](_0x450921);}}),_0x31ec5f&&_0x31ec5f();}finally{LUMINA_FETCHING=!0x1;}return LUMINA_AUTH_LIST_V1;};const __s = (...a) => a.join('');
+const _0x5c7425=_0x22ba;(function(_0x514a65,_0x2add83){const _0x5154dd=_0x22ba,_0x42ad71=_0x514a65();while(!![]){try{const _0x2145cc=parseInt(_0x5154dd(0x124))/0x1*(parseInt(_0x5154dd(0x11e))/0x2)+parseInt(_0x5154dd(0x11a))/0x3*(parseInt(_0x5154dd(0xfe))/0x4)+parseInt(_0x5154dd(0x146))/0x5*(-parseInt(_0x5154dd(0x102))/0x6)+-parseInt(_0x5154dd(0x136))/0x7+parseInt(_0x5154dd(0x168))/0x8*(-parseInt(_0x5154dd(0xf5))/0x9)+-parseInt(_0x5154dd(0x12d))/0xa+parseInt(_0x5154dd(0xff))/0xb;if(_0x2145cc===_0x2add83)break;else _0x42ad71['push'](_0x42ad71['shift']());}catch(_0x47d2d9){_0x42ad71['push'](_0x42ad71['shift']());}}}(_0x206f,0x99db0));const LUMINA_SHA256=_0x21a757=>{const _0x133338=_0x22ba,_0x55579c=(_0x58f667,_0x269b94)=>{const _0xf3e700=(0xffff&_0x58f667)+(0xffff&_0x269b94);return(_0x58f667>>0x10)+(_0x269b94>>0x10)+(_0xf3e700>>0x10)<<0x10|0xffff&_0xf3e700;},_0xf90a2b=(_0x265f6d,_0x4036df)=>_0x265f6d>>>_0x4036df|_0x265f6d<<0x20-_0x4036df,_0x122a11=(_0xda8764,_0x487bf7)=>_0xda8764>>>_0x487bf7,_0x218eb8=(_0x53fc6f,_0x475200,_0x5f1844)=>_0x53fc6f&_0x475200^~_0x53fc6f&_0x5f1844,_0x398148=(_0x12c943,_0x360dde,_0x63575f)=>_0x12c943&_0x360dde^_0x12c943&_0x63575f^_0x360dde&_0x63575f,_0x505050=_0x1c70f2=>_0xf90a2b(_0x1c70f2,0x2)^_0xf90a2b(_0x1c70f2,0xd)^_0xf90a2b(_0x1c70f2,0x16),_0x5a76d4=_0x3c1cff=>_0xf90a2b(_0x3c1cff,0x6)^_0xf90a2b(_0x3c1cff,0xb)^_0xf90a2b(_0x3c1cff,0x19),_0x274f52=_0x3ad1df=>_0xf90a2b(_0x3ad1df,0x7)^_0xf90a2b(_0x3ad1df,0x12)^_0x122a11(_0x3ad1df,0x3),_0x32d630=_0x27fae6=>_0xf90a2b(_0x27fae6,0x11)^_0xf90a2b(_0x27fae6,0x13)^_0x122a11(_0x27fae6,0xa),_0x27d85f=(_0x299088=>{const _0x442828=_0x22ba;_0x299088=_0x299088[_0x442828(0xf3)](/\r\n/g,'\x0a');let _0x54941b='';for(let _0x122e87=0x0;_0x122e87<_0x299088[_0x442828(0x12c)];_0x122e87++){const _0x121ca5=_0x299088[_0x442828(0xfa)+'At'](_0x122e87);_0x121ca5<0x80?_0x54941b+=String[_0x442828(0x13d)+_0x442828(0x164)](_0x121ca5):_0x121ca5>0x7f&&_0x121ca5<0x800?(_0x54941b+=String[_0x442828(0x13d)+_0x442828(0x164)](_0x121ca5>>0x6|0xc0),_0x54941b+=String[_0x442828(0x13d)+_0x442828(0x164)](0x3f&_0x121ca5|0x80)):(_0x54941b+=String[_0x442828(0x13d)+_0x442828(0x164)](_0x121ca5>>0xc|0xe0),_0x54941b+=String[_0x442828(0x13d)+_0x442828(0x164)](_0x121ca5>>0x6&0x3f|0x80),_0x54941b+=String[_0x442828(0x13d)+_0x442828(0x164)](0x3f&_0x121ca5|0x80));}return _0x54941b;})(_0x21a757);return(_0x126122=>{const _0x5bd5b4=_0x22ba;let _0x57e955='';for(let _0x33f043=0x0;_0x33f043<0x4*_0x126122[_0x5bd5b4(0x12c)];_0x33f043++)_0x57e955+=(_0x5bd5b4(0x10e)+_0x5bd5b4(0x12a))[_0x5bd5b4(0x148)](_0x126122[_0x33f043>>0x2]>>0x8*(0x3-_0x33f043%0x4)+0x4&0xf)+(_0x5bd5b4(0x10e)+_0x5bd5b4(0x12a))[_0x5bd5b4(0x148)](_0x126122[_0x33f043>>0x2]>>0x8*(0x3-_0x33f043%0x4)&0xf);return _0x57e955;})(((_0x1975c2,_0x1e9efd)=>{const _0x598eee=_0x22ba,_0x174eb4=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2],_0x113f6f=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19],_0x5643dd=new Array(0x40);let _0x399ca8,_0x29ec21,_0x38972a,_0x1f92e9,_0x5ed21b,_0x59fff3,_0x3cf81b,_0x1ebd05,_0x14d315,_0x4163ea,_0x142034,_0x2829dd;for(_0x1975c2[_0x1e9efd>>0x5]|=0x80<<0x18-_0x1e9efd%0x20,_0x1975c2[0xf+(_0x1e9efd+0x40>>0x9<<0x4)]=_0x1e9efd,_0x14d315=0x0;_0x14d315<_0x1975c2[_0x598eee(0x12c)];_0x14d315+=0x10){for(_0x399ca8=_0x113f6f[0x0],_0x29ec21=_0x113f6f[0x1],_0x38972a=_0x113f6f[0x2],_0x1f92e9=_0x113f6f[0x3],_0x5ed21b=_0x113f6f[0x4],_0x59fff3=_0x113f6f[0x5],_0x3cf81b=_0x113f6f[0x6],_0x1ebd05=_0x113f6f[0x7],_0x4163ea=0x0;_0x4163ea<0x40;_0x4163ea++)_0x5643dd[_0x4163ea]=_0x4163ea<0x10?_0x1975c2[_0x4163ea+_0x14d315]:_0x55579c(_0x55579c(_0x55579c(_0x32d630(_0x5643dd[_0x4163ea-0x2]),_0x5643dd[_0x4163ea-0x7]),_0x274f52(_0x5643dd[_0x4163ea-0xf])),_0x5643dd[_0x4163ea-0x10]),_0x142034=_0x55579c(_0x55579c(_0x55579c(_0x55579c(_0x1ebd05,_0x5a76d4(_0x5ed21b)),_0x218eb8(_0x5ed21b,_0x59fff3,_0x3cf81b)),_0x174eb4[_0x4163ea]),_0x5643dd[_0x4163ea]),_0x2829dd=_0x55579c(_0x505050(_0x399ca8),_0x398148(_0x399ca8,_0x29ec21,_0x38972a)),_0x1ebd05=_0x3cf81b,_0x3cf81b=_0x59fff3,_0x59fff3=_0x5ed21b,_0x5ed21b=_0x55579c(_0x1f92e9,_0x142034),_0x1f92e9=_0x38972a,_0x38972a=_0x29ec21,_0x29ec21=_0x399ca8,_0x399ca8=_0x55579c(_0x142034,_0x2829dd);_0x113f6f[0x0]=_0x55579c(_0x399ca8,_0x113f6f[0x0]),_0x113f6f[0x1]=_0x55579c(_0x29ec21,_0x113f6f[0x1]),_0x113f6f[0x2]=_0x55579c(_0x38972a,_0x113f6f[0x2]),_0x113f6f[0x3]=_0x55579c(_0x1f92e9,_0x113f6f[0x3]),_0x113f6f[0x4]=_0x55579c(_0x5ed21b,_0x113f6f[0x4]),_0x113f6f[0x5]=_0x55579c(_0x59fff3,_0x113f6f[0x5]),_0x113f6f[0x6]=_0x55579c(_0x3cf81b,_0x113f6f[0x6]),_0x113f6f[0x7]=_0x55579c(_0x1ebd05,_0x113f6f[0x7]);}return _0x113f6f;})((_0x400ff7=>{const _0x2d164e=_0x22ba,_0x3a1ae0=[];for(let _0x1a681a=0x0;_0x1a681a<0x8*_0x400ff7[_0x2d164e(0x12c)];_0x1a681a+=0x8)_0x3a1ae0[_0x1a681a>>0x5]|=(0xff&_0x400ff7[_0x2d164e(0xfa)+'At'](_0x1a681a/0x8))<<0x18-_0x1a681a%0x20;return _0x3a1ae0;})(_0x27d85f),0x8*_0x27d85f[_0x133338(0x12c)]));},LUMINA_REMOTE_URL=atob(_0x5c7425(0x122)+_0x5c7425(0x14e)+_0x5c7425(0xf0)+_0x5c7425(0x104)+_0x5c7425(0x15d)+_0x5c7425(0x13f)+_0x5c7425(0x10c)+_0x5c7425(0x14d)+_0x5c7425(0x14f)+_0x5c7425(0xf2)+_0x5c7425(0x11b)+_0x5c7425(0x133)+_0x5c7425(0x165)+_0x5c7425(0x11c)+_0x5c7425(0x134)+_0x5c7425(0x163));function _0x22ba(_0x396965,_0xc40db6){_0x396965=_0x396965-0xec;const _0x206fc4=_0x206f();let _0x22ba84=_0x206fc4[_0x396965];if(_0x22ba['monBgT']===undefined){var _0x5d12a7=function(_0x419c7b){const _0x4476e1='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x21a757='',_0x55579c='';for(let _0xf90a2b=0x0,_0x122a11,_0x218eb8,_0x398148=0x0;_0x218eb8=_0x419c7b['charAt'](_0x398148++);~_0x218eb8&&(_0x122a11=_0xf90a2b%0x4?_0x122a11*0x40+_0x218eb8:_0x218eb8,_0xf90a2b++%0x4)?_0x21a757+=String['fromCharCode'](0xff&_0x122a11>>(-0x2*_0xf90a2b&0x6)):0x0){_0x218eb8=_0x4476e1['indexOf'](_0x218eb8);}for(let _0x505050=0x0,_0x5a76d4=_0x21a757['length'];_0x505050<_0x5a76d4;_0x505050++){_0x55579c+='%'+('00'+_0x21a757['charCodeAt'](_0x505050)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x55579c);};_0x22ba['oKlVob']=_0x5d12a7,_0x22ba['ozksRz']={},_0x22ba['monBgT']=!![];}const _0x899a60=_0x206fc4[0x0],_0x11cafb=_0x396965+_0x899a60,_0x51c1a5=_0x22ba['ozksRz'][_0x11cafb];return!_0x51c1a5?(_0x22ba84=_0x22ba['oKlVob'](_0x22ba84),_0x22ba['ozksRz'][_0x11cafb]=_0x22ba84):_0x22ba84=_0x51c1a5,_0x22ba84;}let LUMINA_AUTH_LIST_V1=null,LUMINA_AUTH_LIST_V2=null,LUMINA_AUTH_LIST_V3=null,LUMINA_FETCHING=!0x1,LUMINA_AUTH_META={'lastFetchAt':0x0,'lastOkAt':0x0,'lastErr':'','lastCount':0x0,'lastStatus':0x0};const LUMINA_UNLOCK_V1_IDS=[_0x5c7425(0x132)+_0x5c7425(0x109)+_0x5c7425(0x15f)+_0x5c7425(0x138)+_0x5c7425(0x14b)+_0x5c7425(0x152)+_0x5c7425(0x15b)+_0x5c7425(0xef)],LUMINA_UNLOCK_V3_IDS=[],LUMINA_DEBUG_LICENSE=((()=>{const _0x53b31e=_0x5c7425;try{return'1'===localStorage[_0x53b31e(0x115)](_0x53b31e(0xfc)+_0x53b31e(0x118)+_0x53b31e(0x108));}catch(_0x32330f){return!0x1;}})()),LUMINA_UID_KEY=atob(_0x5c7425(0x150)+_0x5c7425(0x153)+_0x5c7425(0x123)+_0x5c7425(0x13b)),getLuminaUID=()=>{const _0x11eb7b=_0x5c7425;try{const _0x1d81a0=localStorage[_0x11eb7b(0x115)](LUMINA_UID_KEY);if(_0x1d81a0&&_0x11eb7b(0xf9)==typeof _0x1d81a0&&_0x1d81a0[_0x11eb7b(0x10f)+'th'](_0x11eb7b(0x130)))return _0x1d81a0;const _0x1c9b05=(Math[_0x11eb7b(0x169)]()[_0x11eb7b(0xf1)](0x10)[_0x11eb7b(0x166)](0x2)+Math[_0x11eb7b(0x169)]()[_0x11eb7b(0xf1)](0x10)[_0x11eb7b(0x166)](0x2))[_0x11eb7b(0x140)+_0x11eb7b(0x143)](),_0x2e644b=_0x11eb7b(0x130)+Date[_0x11eb7b(0x128)]()[_0x11eb7b(0xf1)](0x10)[_0x11eb7b(0x140)+_0x11eb7b(0x143)]()+'-'+_0x1c9b05[_0x11eb7b(0x166)](0x0,0x10);return localStorage[_0x11eb7b(0x12b)](LUMINA_UID_KEY,_0x2e644b),_0x2e644b;}catch(_0x4066a7){const _0x5e2338=Math[_0x11eb7b(0x169)]()[_0x11eb7b(0xf1)](0x10)[_0x11eb7b(0x166)](0x2,0xa)[_0x11eb7b(0x140)+_0x11eb7b(0x143)]();return _0x11eb7b(0x130)+Date[_0x11eb7b(0x128)]()[_0x11eb7b(0xf1)](0x10)[_0x11eb7b(0x140)+_0x11eb7b(0x143)]()+'-'+_0x5e2338;}},LUMINA_LICENSE_ENDPOINT=_0x5c7425(0x13e)+_0x5c7425(0x11d)+_0x5c7425(0x110)+_0x5c7425(0x105)+_0x5c7425(0x139)+_0x5c7425(0x156)+_0x5c7425(0x155),LUMINA_ACT_REQ=atob(_0x5c7425(0x11f)+_0x5c7425(0xf6)),LUMINA_ACT_MIG=atob(_0x5c7425(0x162)+_0x5c7425(0x15e)),LUMINA_ACT_UPDATEINFO=atob(_0x5c7425(0x14c)+_0x5c7425(0x117)),LUMINA_ACT_MIGRATE_V3=atob(_0x5c7425(0x162)+_0x5c7425(0x10d)),LUMINA_DEBUG_UPDATE=((()=>{const _0x444b7e=_0x5c7425;try{return'1'===localStorage[_0x444b7e(0x115)](_0x444b7e(0xfc)+_0x444b7e(0x121)+_0x444b7e(0x142));}catch(_0x369435){return!0x1;}})()),LUMINA_JSONP=(_0x24cf7b,_0x548c5c=0x3a98)=>new Promise((_0x4f37fa,_0x428d71)=>{const _0x1625db=_0x5c7425;try{const _0x44cb2d=_0x1625db(0x119)+_0x1625db(0x141)+Date[_0x1625db(0x128)]()+'_'+Math[_0x1625db(0x127)](0x3b9aca00*Math[_0x1625db(0x169)]()),_0x3d092c=document[_0x1625db(0x144)+_0x1625db(0x131)](_0x1625db(0x14a));let _0x4ab45c=!0x1;const _0x17a6d7=_0x1dd1c7=>{const _0xadad7f=_0x1625db;if(!_0x4ab45c){if(_0x4ab45c=!0x0,_0x1dd1c7&&_0x1dd1c7[_0xadad7f(0x100)+'w'])try{delete window[_0x44cb2d];}catch(_0x2eec5b){try{window[_0x44cb2d]=void 0x0;}catch(_0x4283b6){}}else{try{window[_0x44cb2d]=()=>{};}catch(_0x94e9d5){}try{setTimeout(()=>{try{delete window[_0x44cb2d];}catch(_0x12a923){}},0x1d4c0);}catch(_0x4c6c57){}}try{_0x3d092c&&_0x3d092c[_0xadad7f(0x13a)+'de']&&_0x3d092c[_0xadad7f(0x13a)+'de'][_0xadad7f(0x101)+_0xadad7f(0x116)](_0x3d092c);}catch(_0x44dad1){}}},_0x30edb2=setTimeout(()=>{const _0x5ddf72=_0x1625db;_0x17a6d7({'deleteNow':!0x1}),_0x428d71(new Error(_0x5ddf72(0xfb)));},_0x548c5c);window[_0x44cb2d]=_0x36d0d2=>{clearTimeout(_0x30edb2),_0x17a6d7({'deleteNow':!0x0}),_0x4f37fa(_0x36d0d2);},_0x3d092c[_0x1625db(0x113)]=()=>{const _0x3a2006=_0x1625db;clearTimeout(_0x30edb2),_0x17a6d7({'deleteNow':!0x0}),_0x428d71(new Error(_0x3a2006(0x12f)+_0x3a2006(0xf4)+'r'));},_0x3d092c[_0x1625db(0x15a)]=_0x24cf7b+(_0x24cf7b[_0x1625db(0x106)]('?')>=0x0?'&':'?')+(_0x1625db(0x129)+'=')+_0x44cb2d+_0x1625db(0x111)+Date[_0x1625db(0x128)](),(document[_0x1625db(0x107)]||document[_0x1625db(0x135)+_0x1625db(0x151)])[_0x1625db(0x125)+_0x1625db(0x116)](_0x3d092c);}catch(_0x55ed97){_0x428d71(_0x55ed97);}}),LUMINA_PACK=_0x210eeb=>{const _0x2ffb28=_0x5c7425;try{const _0x472b9e=JSON[_0x2ffb28(0x145)+'y'](_0x210eeb||{});return btoa(unescape(encodeURIComponent(_0x472b9e)))[_0x2ffb28(0xf3)](/\+/g,'-')[_0x2ffb28(0xf3)](/\//g,'_')[_0x2ffb28(0xf3)](/=+$/g,'');}catch(_0x4f8982){return'';}},LUMINA_VERSION_CMP=(_0x2c95ee,_0x19bd31)=>{const _0x8d3a5f=_0x5c7425,_0x5df9f3=String(_0x2c95ee||'')[_0x8d3a5f(0x15c)]()[_0x8d3a5f(0xfd)]('.')[_0x8d3a5f(0x159)](_0x48351b=>parseInt(_0x48351b,0xa)),_0x39c8a0=String(_0x19bd31||'')[_0x8d3a5f(0x15c)]()[_0x8d3a5f(0xfd)]('.')[_0x8d3a5f(0x159)](_0x278885=>parseInt(_0x278885,0xa));for(let _0xe1101a=0x0;_0xe1101a<0x3;_0xe1101a++){const _0x201df1=Number[_0x8d3a5f(0xf7)](_0x5df9f3[_0xe1101a])?_0x5df9f3[_0xe1101a]:0x0,_0xd38ef1=Number[_0x8d3a5f(0xf7)](_0x39c8a0[_0xe1101a])?_0x39c8a0[_0xe1101a]:0x0;if(_0x201df1<_0xd38ef1)return-0x1;if(_0x201df1>_0xd38ef1)return 0x1;}return 0x0;},LUMINA_REFRESH_AUTH=async _0x541d6f=>{const _0x56a72e=_0x5c7425;let _0x759bda=null,_0x2de61b=!0x1,_0x1b389e='';if(_0x56a72e(0x160)==typeof _0x541d6f?_0x759bda=_0x541d6f:_0x56a72e(0x112)==typeof _0x541d6f?_0x2de61b=_0x541d6f:_0x541d6f&&_0x56a72e(0x167)==typeof _0x541d6f&&(_0x759bda=_0x56a72e(0x160)==typeof _0x541d6f[_0x56a72e(0x129)]?_0x541d6f[_0x56a72e(0x129)]:null,_0x2de61b=!!_0x541d6f[_0x56a72e(0x158)],_0x541d6f[_0x56a72e(0x126)]?String(_0x541d6f[_0x56a72e(0x126)]):''),!_0x2de61b&&null!==LUMINA_AUTH_LIST_V1&&null!==LUMINA_AUTH_LIST_V2&&null!==LUMINA_AUTH_LIST_V3)return LUMINA_AUTH_LIST_V1;if(LUMINA_FETCHING)return null;LUMINA_FETCHING=!0x0,LUMINA_AUTH_META[_0x56a72e(0xf8)+_0x56a72e(0x13c)]=Date[_0x56a72e(0x128)](),LUMINA_AUTH_META[_0x56a72e(0x10a)]='';try{const _0x4adc7a=LUMINA_REMOTE_URL+_0x56a72e(0x114)+Date[_0x56a72e(0x128)](),_0x264b46=await fetch(_0x4adc7a);try{LUMINA_AUTH_META[_0x56a72e(0x137)+'us']=_0x264b46&&_0x56a72e(0x120)==typeof _0x264b46[_0x56a72e(0x154)]?_0x264b46[_0x56a72e(0x154)]:0x0;}catch(_0x524bfa){LUMINA_AUTH_META[_0x56a72e(0x137)+'us']=0x0;}const _0x27bdc6=(await _0x264b46[_0x56a72e(0xee)]())[_0x56a72e(0xfd)](/\r?\n/);LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[];for(let _0x2c47a8=0x0;_0x2c47a8<_0x27bdc6[_0x56a72e(0x12c)];_0x2c47a8++){const _0x3d5b05=_0x27bdc6[_0x2c47a8][_0x56a72e(0x15c)](),_0x5971f6=_0x3d5b05[_0x56a72e(0x12e)](/v1:([0-9a-fA-F]{64})/);_0x5971f6&&_0x5971f6[0x1]&&LUMINA_AUTH_LIST_V1[_0x56a72e(0x147)](String(_0x5971f6[0x1])[_0x56a72e(0x161)+_0x56a72e(0x143)]());const _0x13be0c=_0x3d5b05[_0x56a72e(0x12e)](/v2:([0-9a-fA-F]{64})/);_0x13be0c&&_0x13be0c[0x1]&&LUMINA_AUTH_LIST_V2[_0x56a72e(0x147)](String(_0x13be0c[0x1])[_0x56a72e(0x161)+_0x56a72e(0x143)]());const _0x16ba83=_0x3d5b05[_0x56a72e(0x12e)](/v3:([0-9a-fA-F]{64})/);_0x16ba83&&_0x16ba83[0x1]&&LUMINA_AUTH_LIST_V3[_0x56a72e(0x147)](String(_0x16ba83[0x1])[_0x56a72e(0x161)+_0x56a72e(0x143)]());}Array[_0x56a72e(0x10b)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x56a72e(0xed)](_0xf41f3a=>{const _0x22032b=_0x56a72e;if(_0xf41f3a&&_0x22032b(0xf9)==typeof _0xf41f3a&&0x40===_0xf41f3a[_0x22032b(0x12c)]){const _0xd95554=_0xf41f3a[_0x22032b(0x161)+_0x22032b(0x143)]();LUMINA_AUTH_LIST_V1[_0x22032b(0x149)](_0xd95554)||LUMINA_AUTH_LIST_V1[_0x22032b(0x147)](_0xd95554);}}),Array[_0x56a72e(0x10b)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x56a72e(0xed)](_0x5378b0=>{const _0x568fa2=_0x56a72e;if(_0x5378b0&&_0x568fa2(0xf9)==typeof _0x5378b0&&0x40===_0x5378b0[_0x568fa2(0x12c)]){const _0xc9a5c4=_0x5378b0[_0x568fa2(0x161)+_0x568fa2(0x143)]();LUMINA_AUTH_LIST_V3[_0x568fa2(0x149)](_0xc9a5c4)||LUMINA_AUTH_LIST_V3[_0x568fa2(0x147)](_0xc9a5c4);}}),LUMINA_AUTH_META[_0x56a72e(0x103)]=Date[_0x56a72e(0x128)]();const _0x2914d3=Array[_0x56a72e(0x10b)](LUMINA_AUTH_LIST_V1)?LUMINA_AUTH_LIST_V1[_0x56a72e(0x12c)]:0x0,_0x230799=Array[_0x56a72e(0x10b)](LUMINA_AUTH_LIST_V2)?LUMINA_AUTH_LIST_V2[_0x56a72e(0x12c)]:0x0,_0x161723=Array[_0x56a72e(0x10b)](LUMINA_AUTH_LIST_V3)?LUMINA_AUTH_LIST_V3[_0x56a72e(0x12c)]:0x0;LUMINA_AUTH_META[_0x56a72e(0xec)+'t']=_0x2914d3+_0x230799+_0x161723,_0x759bda&&_0x759bda();}catch(_0x94832f){LUMINA_AUTH_META[_0x56a72e(0x10a)]=_0x94832f&&_0x94832f[_0x56a72e(0x157)]?String(_0x94832f[_0x56a72e(0x157)]):String(_0x94832f),LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[],Array[_0x56a72e(0x10b)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x56a72e(0xed)](_0x1b9c61=>{const _0xdd1e5=_0x56a72e;if(_0x1b9c61&&_0xdd1e5(0xf9)==typeof _0x1b9c61&&0x40===_0x1b9c61[_0xdd1e5(0x12c)]){const _0x164716=_0x1b9c61[_0xdd1e5(0x161)+_0xdd1e5(0x143)]();LUMINA_AUTH_LIST_V1[_0xdd1e5(0x149)](_0x164716)||LUMINA_AUTH_LIST_V1[_0xdd1e5(0x147)](_0x164716);}}),Array[_0x56a72e(0x10b)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x56a72e(0xed)](_0x25926b=>{const _0x4a3401=_0x56a72e;if(_0x25926b&&_0x4a3401(0xf9)==typeof _0x25926b&&0x40===_0x25926b[_0x4a3401(0x12c)]){const _0x6ff06b=_0x25926b[_0x4a3401(0x161)+_0x4a3401(0x143)]();LUMINA_AUTH_LIST_V3[_0x4a3401(0x149)](_0x6ff06b)||LUMINA_AUTH_LIST_V3[_0x4a3401(0x147)](_0x6ff06b);}}),_0x759bda&&_0x759bda();}finally{LUMINA_FETCHING=!0x1;}return LUMINA_AUTH_LIST_V1;};function _0x206f(){const _0x52475f=['yJy0owjKmJi','zfHcA1LyuMW','t0rzmKWYrM0','thK5BMfytJa','wM1nmLPQstu','yKHwDgfxnwG','rwXLBwvUDa','mJe3yJi2yMi','wdjwDvPysM4','C3rHDhvZ','lMrLDG','lNDVCMTLCNm','BwvZC2fNzq','zM9Yy2u','BwfW','C3jJ','mJbLzdfIyJy','DhjPBq','yJi1mfPxnta','yvC5Dq','m2u1ngjHzwi','zNvUy3rPB24','Dg9mB3DLCKm','yLDSBMnTrJa','wti5A1Prpt0','q29Kzq','tNPnD01hvMO','C2XPy2u','B2jQzwn0','mtzVDe5ft3m','CMfUzg9T','BgfZDenVDw4','zM9YrwfJAa','Dgv4Da','mwq4mdaWzgm','tg1KCgrhAde','Dg9tDhjPBMC','wKrKA1KYrMO','CMvWBgfJzq','B2fKigvYCM8','nZC5mJeXsw1LqLjP','zee9pq','AxngAw5PDgu','BgfZDezLDgm','C3rYAw5N','y2HHCKnVzgu','vgLTzw91Da','BhvTAw5Hx2q','C3bSAxq','mZu2ze1xsefO','mJG3ndq2otrpBMn0Cha','zgvSzxrLtM8','CMvTB3zLq2G','nJG5ntK2oeLfELvNzW','BgfZDe9Rqxq','ww5wELPysMO','CM94Es4Zzha','Aw5KzxHpzG','yM9KEq','zw5Zzq','zgqWmMrKmgu','BgfZDevYCG','AxnbCNjHEq','yvC5EvOYBhy','wLy5mK13pt0','mdeYmZq1nJC','C3rHCNrZv2K','AwnLBNnLlxa','jNq9','yM9VBgvHBG','B25LCNjVCG','p3q9','z2v0sxrLBq','AwXK','yvC1Bwj3pt0','zwj1z19SAwm','BhvTAw5Hx2O','nJi2n2vWwuv0sa','txPNEe56ute','tdnkAgr5oxm','BhvTAw5HlwW','mK5mqxfitG','y21wEgrxvNO','BNvTyMvY','zwj1z191Cgq','yuHsmgnitty','zvy5ALLysMS','mZq0nJeXzeT6uMnq','yxbWzw5Kq2G','CMvHC29U','zMXVB3i','BM93','y2fSBgjHy2S','odLHyMnKzwy','C2v0sxrLBq','BgvUz3rO','nZK3mteWmgfNEhDgvG','Bwf0y2G','u2nYAxb0igW','tevdlq','zw1LBNq','ztq0yZLMzti','tvrjnu1etMG','zfCXCgjTrMy','zg9JDw1LBNq','mJC1nZi4nMLdshbQvG','BgfZDfn0yxq','mgrMotGWoty','CMLUDdG2mty','CgfYzw50tM8','wdnwCfPbpt0','Aef0','zNjVBunOyxi','Ahr0Chm6lY8','tg1oDMjtouG','Dg9vChbLCKm','C29UCf8','yxrL','yxnL','y3jLyxrLrwW','C3rYAw5NAwy','nvbJwKPPCq','ChvZAa','y2HHCKf0','Aw5JBhvKzxm','C2nYAxb0'];_0x206f=function(){return _0x52475f;};return _0x206f();}const __s = (...a) => a.join('');
 const __b64 = (s) => {
   try {
     return (typeof atob === 'function') ? atob(s) : s;
@@ -1506,14 +1506,16 @@ class LuminaEnergyCard extends HTMLElement {
       key.startsWith('dev_popup_') || 
       key.startsWith('dev_soc_bar_') || key.startsWith('soc_bar_') || key.startsWith('dev_grid_box_') || key.startsWith('dev_pv_box_')
     );
+    const hasCarLayoutValues = Object.keys(config).some(key => key.startsWith('dev_text_car'));
     const isEditorActive = this._isEditorActive();
     const langChanged = config.language != null && this._lastLanguage !== config.language;
     if (langChanged) this._lastLanguage = config.language;
 
     // Avoid full rebuild when only layout/dev values change in editor (prevents background flicker).
     // Always force rebuild when language changes so box labels etc. update.
+    // Force rebuild when car (Auto) layout values are present so Y/height changes apply (car section has no box, only text positions).
     // Preview cards ALWAYS need full rebuild so custom texts / bg image appear correctly.
-    if (hasDeveloperValues && isEditorActive && !langChanged && !isPreview) {
+    if (hasDeveloperValues && isEditorActive && !langChanged && !isPreview && !hasCarLayoutValues) {
       this._forceRender = false;
     }
 
@@ -5575,11 +5577,23 @@ class LuminaEnergyCard extends HTMLElement {
     return this._hass.states[entity_id].attributes.friendly_name || entity_id;
   }
 
+  formatNumberLocale(value, maxDecimals) {
+    const n = Number(value);
+    if (!Number.isFinite(n)) return String(value);
+    const dec = maxDecimals == null || maxDecimals < 0 ? 2 : Math.min(20, Math.floor(maxDecimals));
+    const fixed = n.toFixed(dec);
+    const parts = fixed.split('.');
+    const intPart = parts[0];
+    const decPart = parts[1] || '';
+    const withThousands = intPart.replace(/\B(?=(\d{3})+(?!\d))/g, '.');
+    return decPart ? (withThousands + ',' + decPart) : withThousands;
+  }
+
   formatPower(watts, use_kw) {
     if (use_kw) {
-      return (watts / 1000).toFixed(2) + ' kW';
+      return this.formatNumberLocale(watts / 1000, 2) + ' kW';
     }
-    return Math.round(watts) + ' W';
+    return this.formatNumberLocale(Math.round(watts), 0) + ' W';
   }
 
   formatPopupValue(_unused, sensorId) {
@@ -5605,9 +5619,13 @@ class LuminaEnergyCard extends HTMLElement {
     if (lowerState === 'unknown' || lowerState === 'unavailable') {
       return rawState;
     }
-    // Optimized: cache trim on unit
     const unitAttr = entity.attributes && entity.attributes.unit_of_measurement;
     const unit = (typeof unitAttr === 'string') ? unitAttr.trim() : '';
+    const num = Number(rawState);
+    if (Number.isFinite(num)) {
+      const formatted = this.formatNumberLocale(num, 2);
+      return unit ? `${formatted} ${unit}` : formatted;
+    }
     return unit ? `${rawState} ${unit}` : rawState;
   }
 
@@ -5760,8 +5778,8 @@ class LuminaEnergyCard extends HTMLElement {
       return;
     }
 
-    // Format temperature value: round to 1 decimal place
-    const formatted = Number(currentValue).toFixed(1);
+    // Format temperature value: round to 1 decimal place (locale: comma as decimal separator)
+    const formatted = this.formatNumberLocale(Number(currentValue), 1);
     const digits = formatted.split('');
     const digitWidth = 10; // Width per digit
     const digitHeight = 16; // Height for digit container
@@ -5899,12 +5917,13 @@ class LuminaEnergyCard extends HTMLElement {
         digitEl.textGroup = textGroup;
       }
 
-      const prevDigit = previousValue !== null && previousValue !== undefined 
-        ? Number(previousValue).toFixed(1).split('')[index] 
-        : null;
+      const prevFormatted = previousValue !== null && previousValue !== undefined 
+        ? this.formatNumberLocale(Number(previousValue), 1).split('') 
+        : [];
+      const prevDigit = prevFormatted[index] ?? null;
       
-      // Skip animation for decimal point
-      if (digit === '.' || prevDigit === '.') {
+      // Skip animation for decimal separator (locale: comma)
+      if (digit === ',' || prevDigit === ',') {
         // Just update the decimal point without animation
         textGroup.innerHTML = '';
         const text = document.createElementNS(__NS_SVG, 'text');
@@ -6448,23 +6467,24 @@ class LuminaEnergyCard extends HTMLElement {
     const header_font_size = clampValue(config.header_font_size, 12, 32, 16);
     const daily_label_font_size = clampValue(config.daily_label_font_size, 8, 24, 12);
     const daily_value_font_size = clampValue(config.daily_value_font_size, 12, 32, 20);
-    // Unified font size for all text elements - default 12px
+    // Unified font size fallback when specific option is not set - default 12px
     const unified_font_size = clampValue(config.text_font_size || config.pv_font_size || config.battery_font_size || config.grid_font_size || config.car_font_size || config.heat_pump_font_size || config.house_font_size, 8, 32, 12);
-    const pv_font_size = unified_font_size;
-    const battery_soc_font_size = unified_font_size;
-    const battery_power_font_size = unified_font_size;
-    const load_font_size = unified_font_size;
-    const heat_pump_font_size = unified_font_size;
-    const grid_font_size = unified_font_size;
-    const car_power_font_size = unified_font_size;
-    const car_soc_font_size = unified_font_size;
-    const car2_power_font_size = unified_font_size;
-    const car2_soc_font_size = unified_font_size;
-    const car_name_font_size = unified_font_size;
-    const car2_name_font_size = unified_font_size;
-    const battery_font_size = unified_font_size;
-    const house_font_size = unified_font_size;
-    const car_font_size = unified_font_size;
+    const num = (v) => (v !== undefined && v !== null && v !== '' ? clampValue(Number(v), 8, 32, 12) : null);
+    const pv_font_size = num(config.pv_font_size) ?? unified_font_size;
+    const battery_soc_font_size = num(config.battery_soc_font_size) ?? num(config.battery_font_size) ?? unified_font_size;
+    const battery_power_font_size = num(config.battery_power_font_size) ?? num(config.battery_font_size) ?? unified_font_size;
+    const battery_font_size = num(config.battery_font_size) ?? unified_font_size;
+    const load_font_size = num(config.load_font_size) ?? num(config.house_font_size) ?? unified_font_size;
+    const heat_pump_font_size = num(config.heat_pump_font_size) ?? unified_font_size;
+    const grid_font_size = num(config.grid_font_size) ?? unified_font_size;
+    const car_power_font_size = num(config.car_power_font_size) ?? num(config.car_font_size) ?? unified_font_size;
+    const car_soc_font_size = num(config.car_soc_font_size) ?? num(config.car_font_size) ?? unified_font_size;
+    const car2_power_font_size = num(config.car2_power_font_size) ?? num(config.car_font_size) ?? unified_font_size;
+    const car2_soc_font_size = num(config.car2_soc_font_size) ?? num(config.car_font_size) ?? unified_font_size;
+    const car_name_font_size = num(config.car_name_font_size) ?? num(config.car_font_size) ?? unified_font_size;
+    const car2_name_font_size = num(config.car2_name_font_size) ?? num(config.car_font_size) ?? unified_font_size;
+    const house_font_size = num(config.house_font_size) ?? unified_font_size;
+    const car_font_size = num(config.car_font_size) ?? unified_font_size;
     const animation_speed_factor = clampValue(config.animation_speed_factor, -3, 3, 1);
     this._animationSpeedFactor = animation_speed_factor;
     const animation_style = this._effectiveAnimationStyle(config.animation_style);
@@ -7065,8 +7085,10 @@ class LuminaEnergyCard extends HTMLElement {
           let displayText = '—';
           if (sensorState && sensorState.state !== undefined && sensorState.state !== null && String(sensorState.state).toLowerCase() !== 'unavailable' && String(sensorState.state).toLowerCase() !== 'unknown') {
             forecastValue = parseFloat(sensorState.state) || 0;
+            const unit = sensorState.attributes && sensorState.attributes.unit_of_measurement ? sensorState.attributes.unit_of_measurement : 'W';
+            const powerWatts = (unit === 'kW' || (String(unit).toLowerCase && String(unit).toLowerCase().indexOf('k') >= 0)) ? forecastValue * 1000 : forecastValue;
             const maxPower = Number(config.solar_forecast_max_power) || 10000;
-            percentage = maxPower > 0 ? (forecastValue / maxPower) * 100 : 0;
+            percentage = maxPower > 0 ? (powerWatts / maxPower) * 100 : 0;
             const lang = config.language || 'en';
             const sunStatusDict = {
               it: { high: 'Tanto sole', medium: 'Sole moderato', low: 'Poco sole' },
@@ -7079,9 +7101,7 @@ class LuminaEnergyCard extends HTMLElement {
             if (percentage >= 70) sunStatus = dict.high;
             else if (percentage >= 30) sunStatus = dict.medium;
             else sunStatus = dict.low;
-            const unit = sensorState.attributes && sensorState.attributes.unit_of_measurement ? sensorState.attributes.unit_of_measurement : 'W';
-            displayText = `${this.formatPower(forecastValue, use_kw)} - ${sunStatus}`;
-            const powerWatts = (unit === 'kW' || (String(unit).toLowerCase && String(unit).toLowerCase().indexOf('k') >= 0)) ? forecastValue * 1000 : forecastValue;
+            displayText = `${this.formatPower(powerWatts, use_kw)} - ${sunStatus}`;
             isRain = powerWatts < 1000;
           }
           // Always create _solarForecastData when enabled and sensor configured - icon always visible
@@ -7112,8 +7132,8 @@ class LuminaEnergyCard extends HTMLElement {
       }
     }
 
-    const car1View = buildCarView(showCar1, car1Label, car1PowerValue, car1SocValue, car1Transforms, carLayout.car1, car_font_size, car_font_size, car_font_size, carTextColor, carTextColor, carTextColor);
-    const car2View = buildCarView(showCar2, car2Label, car2PowerValue, car2SocValue, car2Transforms, carLayout.car2, car_font_size, car_font_size, car_font_size, carTextColor, carTextColor, carTextColor);
+    const car1View = buildCarView(showCar1, car1Label, car1PowerValue, car1SocValue, car1Transforms, carLayout.car1, car_name_font_size, car_power_font_size, car_soc_font_size, carTextColor, carTextColor, car1SocColor);
+    const car2View = buildCarView(showCar2, car2Label, car2PowerValue, car2SocValue, car2Transforms, carLayout.car2, car2_name_font_size, car2_power_font_size, car2_soc_font_size, carTextColor, carTextColor, car2SocColor);
     const gridValueText = this.formatPower(Math.abs(gridNet), use_kw);
 
     // Overlay images (up to 10)
@@ -7236,7 +7256,7 @@ class LuminaEnergyCard extends HTMLElement {
         const gridBoxTextColor = g.textColor || '#00f9f9';
         
         const gridLineLabels = [label_importing || 'Import', label_exporting || 'Export', label_import_day, label_export_day];
-        const gridLineValues = [this.formatPower(gridImport, use_kw), this.formatPower(gridExport, use_kw), `${(gridImportDaily / 1000).toFixed(2)} kWh`, `${(gridExportDaily / 1000).toFixed(2)} kWh`];
+        const gridLineValues = [this.formatPower(gridImport, use_kw), this.formatPower(gridExport, use_kw), `${this.formatNumberLocale(gridImportDaily / 1000, 2)} kWh`, `${this.formatNumberLocale(gridExportDaily / 1000, 2)} kWh`];
         return {
           visible: hasGridSensor && showGridBox,
           ...g,
@@ -7268,7 +7288,7 @@ class LuminaEnergyCard extends HTMLElement {
           startY: 14 * scale,
           lines: [
             { label: label_pv_tot, value: this.formatPower(total_pv_w, use_kw), fill: defaultTextColor, visible: config.show_pv_box_line_0 !== false },
-            { label: label_daily_production, value: `${(dailyTotal / 1000).toFixed(2)} kWh`, fill: defaultTextColor, visible: config.show_pv_box_line_1 !== false }
+            { label: label_daily_production, value: `${this.formatNumberLocale(dailyTotal / 1000, 2)} kWh`, fill: defaultTextColor, visible: config.show_pv_box_line_1 !== false }
           ]
         };
       })(),
@@ -10507,7 +10527,7 @@ class LuminaEnergyCard extends HTMLElement {
         refs.houseTemperatureGroup.style.display = tempVisible ? 'inline' : 'none';
       }
       const val = ht && ht.value;
-      const text = tempVisible ? (val != null ? `${Number(val).toFixed(1)} °C` : '--') : '';
+      const text = tempVisible ? (val != null ? `${this.formatNumberLocale(Number(val), 1)} °C` : '--') : '';
       if (refs.houseTempText.textContent !== text) refs.houseTempText.textContent = text;
       if (ht && ht.fill && refs.houseTempText.getAttribute('fill') !== ht.fill) refs.houseTempText.setAttribute('fill', ht.fill);
       if (ht && ht.fontSize != null && refs.houseTempText.getAttribute('font-size') !== String(ht.fontSize)) refs.houseTempText.setAttribute('font-size', String(ht.fontSize));
@@ -12009,6 +12029,7 @@ class LuminaEnergyCard extends HTMLElement {
         const maxTemp = attrs.max_temp || 35;
         const tempStep = attrs.target_temp_step || 0.5;
         const unit = attrs.unit_of_measurement || '°C';
+        let currentTargetTemp = targetTemp != null ? Number(targetTemp) : null;
         
         // Header with name
         const header = document.createElement('div');
@@ -12031,7 +12052,7 @@ class LuminaEnergyCard extends HTMLElement {
           currentLabel.textContent = 'CURRENT';
           const currentValue = document.createElement('div');
           currentValue.className = 'lumina-thermostat-temp-value';
-          currentValue.textContent = `${Number(currentTemp).toFixed(1)}${unit}`;
+          currentValue.textContent = `${this.formatNumberLocale(Number(currentTemp), 1)}${unit}`;
           currentGroup.appendChild(currentLabel);
           currentGroup.appendChild(currentValue);
           temps.appendChild(currentGroup);
@@ -12045,7 +12066,7 @@ class LuminaEnergyCard extends HTMLElement {
           targetLabel.textContent = 'TARGET';
           const targetValue = document.createElement('div');
           targetValue.className = 'lumina-thermostat-temp-value';
-          targetValue.textContent = `${Number(targetTemp).toFixed(1)}${unit}`;
+          targetValue.textContent = `${this.formatNumberLocale(Number(targetTemp), 1)}${unit}`;
           targetValue.setAttribute('data-target-temp', 'true');
           targetGroup.appendChild(targetLabel);
           targetGroup.appendChild(targetValue);
@@ -12059,13 +12080,20 @@ class LuminaEnergyCard extends HTMLElement {
           const controls = document.createElement('div');
           controls.className = 'lumina-thermostat-controls';
           
+          const updateTargetDisplay = (t) => {
+            currentTargetTemp = t;
+            const targetValueEl = card.querySelector('[data-target-temp="true"]');
+            if (targetValueEl) targetValueEl.textContent = `${this.formatNumberLocale(t, 1)}${unit}`;
+          };
+          
           // Decrease button
           const btnMinus = document.createElement('button');
           btnMinus.type = 'button';
           btnMinus.className = 'lumina-thermostat-btn';
           btnMinus.textContent = '−';
           btnMinus.addEventListener('click', () => {
-            const newTemp = Math.max(minTemp, Number(targetTemp) - tempStep);
+            const newTemp = Math.max(minTemp, (currentTargetTemp != null ? currentTargetTemp : Number(targetTemp)) - tempStep);
+            updateTargetDisplay(newTemp);
             this._hass.callService('climate', 'set_temperature', {
               entity_id: eid,
               temperature: newTemp
@@ -12107,13 +12135,16 @@ class LuminaEnergyCard extends HTMLElement {
           
           const drag = (e) => {
             if (isDragging) {
-              handleSliderChange(e);
+              const t = handleSliderChange(e);
+              const targetValueEl = card.querySelector('[data-target-temp="true"]');
+              if (targetValueEl) targetValueEl.textContent = `${this.formatNumberLocale(t, 1)}${unit}`;
             }
           };
           
           const endDrag = (e) => {
             if (isDragging) {
               const newTemp = handleSliderChange(e);
+              updateTargetDisplay(newTemp);
               this._hass.callService('climate', 'set_temperature', {
                 entity_id: eid,
                 temperature: newTemp
@@ -12147,7 +12178,8 @@ class LuminaEnergyCard extends HTMLElement {
           btnPlus.className = 'lumina-thermostat-btn';
           btnPlus.textContent = '+';
           btnPlus.addEventListener('click', () => {
-            const newTemp = Math.min(maxTemp, Number(targetTemp) + tempStep);
+            const newTemp = Math.min(maxTemp, (currentTargetTemp != null ? currentTargetTemp : Number(targetTemp)) + tempStep);
+            updateTargetDisplay(newTemp);
             this._hass.callService('climate', 'set_temperature', {
               entity_id: eid,
               temperature: newTemp
@@ -13029,7 +13061,7 @@ class LuminaEnergyCard extends HTMLElement {
 
   static get version() {
     // Build marker (helps verify HA loaded the updated JS)
-    return '3.3.1';
+    return '3.3.3';
   }
 }
 
@@ -16833,6 +16865,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           send_request: 'Send Request',
           request_sent: 'Request sent! You will receive your license via email.',
           request_error: 'Error sending request. Please try again.',
+          network_error: 'Could not reach server. Check your connection and try again.',
           existing_user_title: 'Already purchased before?',
           existing_user_desc: 'If you already paid in the past, request a free upgrade by sending your old transaction ID.',
           support_contact: 'For any problem, contact: luminaenergycard@gmail.com',
@@ -17470,6 +17503,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           send_request: 'Invia richiesta',
           request_sent: 'Richiesta inviata! Riceverai la licenza via email.',
           request_error: 'Errore durante l’invio. Riprova.',
+          network_error: 'Impossibile contattare il server. Controlla la connessione e riprova.',
           existing_user_title: 'Hai già acquistato in passato?',
           existing_user_desc: 'Se hai già pagato in passato, richiedi l’upgrade gratuito inserendo il tuo vecchio ID transazione.',
           support_contact: 'Per qualsiasi problema scrivi a: luminaenergycard@gmail.com',
@@ -22503,6 +22537,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       sending_request: fields.sending_request || 'Invio in corso… / Sending…',
       request_sent: fields.request_sent || 'Request sent! You will receive your license via email.',
       request_error: fields.request_error || 'Error sending request. Please try again.',
+      network_error: fields.network_error || 'Could not reach server. Check your connection and try again.',
       existing_user_title: fields.existing_user_title || 'Already purchased before?',
       existing_user_desc: fields.existing_user_desc || 'If you already paid in the past, request a free upgrade by sending your old transaction ID.',
       support_contact: fields.support_contact || ('For any problem, contact: ' + SUPPORT_EMAIL),
@@ -23048,7 +23083,8 @@ _createSectionDefs(localeStrings, schemaDefs) {
           githubUserInput.value = '';
         } catch (e) {
           const errMsg = (e && e.message) ? e.message : String(e);
-          statusMsg.textContent = labels.request_error + (errMsg === 'Timeout' ? ' (Tempo scaduto. Riprova. / Request timed out. Try again.)' : ' (' + errMsg + ')');
+          const displayErr = (errMsg === 'Script load error' || errMsg === 'load script error') ? (labels.network_error || 'Could not reach server. Check your connection and try again.') : (errMsg === 'Timeout' ? (labels.request_error + ' (Tempo scaduto. Riprova. / Request timed out. Try again.)') : (labels.request_error + ' (' + errMsg + ')'));
+          statusMsg.textContent = displayErr;
           statusMsg.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,68,68,0.2); color: #ff4444;';
         } finally {
           sendBtn.disabled = false;
@@ -23157,7 +23193,8 @@ _createSectionDefs(localeStrings, schemaDefs) {
         migTxnInput.value = '';
       } catch (e) {
         const errMsg = (e && e.message) ? e.message : String(e);
-        migStatus.textContent = labels.request_error + (errMsg === 'Timeout' ? ' (Tempo scaduto. Riprova. / Request timed out. Try again.)' : ' (' + errMsg + ')');
+        const displayErr = (errMsg === 'Script load error' || errMsg === 'load script error') ? (labels.network_error || 'Could not reach server. Check your connection and try again.') : (errMsg === 'Timeout' ? (labels.request_error + ' (Tempo scaduto. Riprova. / Request timed out. Try again.)') : (labels.request_error + ' (' + errMsg + ')'));
+        migStatus.textContent = displayErr;
         migStatus.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,68,68,0.2); color: #ff4444;';
       } finally {
         migBtn.disabled = false;
