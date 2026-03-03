@@ -1,4 +1,4 @@
-const _0x5c7425=_0x22ba;(function(_0x514a65,_0x2add83){const _0x5154dd=_0x22ba,_0x42ad71=_0x514a65();while(!![]){try{const _0x2145cc=parseInt(_0x5154dd(0x124))/0x1*(parseInt(_0x5154dd(0x11e))/0x2)+parseInt(_0x5154dd(0x11a))/0x3*(parseInt(_0x5154dd(0xfe))/0x4)+parseInt(_0x5154dd(0x146))/0x5*(-parseInt(_0x5154dd(0x102))/0x6)+-parseInt(_0x5154dd(0x136))/0x7+parseInt(_0x5154dd(0x168))/0x8*(-parseInt(_0x5154dd(0xf5))/0x9)+-parseInt(_0x5154dd(0x12d))/0xa+parseInt(_0x5154dd(0xff))/0xb;if(_0x2145cc===_0x2add83)break;else _0x42ad71['push'](_0x42ad71['shift']());}catch(_0x47d2d9){_0x42ad71['push'](_0x42ad71['shift']());}}}(_0x206f,0x99db0));const LUMINA_SHA256=_0x21a757=>{const _0x133338=_0x22ba,_0x55579c=(_0x58f667,_0x269b94)=>{const _0xf3e700=(0xffff&_0x58f667)+(0xffff&_0x269b94);return(_0x58f667>>0x10)+(_0x269b94>>0x10)+(_0xf3e700>>0x10)<<0x10|0xffff&_0xf3e700;},_0xf90a2b=(_0x265f6d,_0x4036df)=>_0x265f6d>>>_0x4036df|_0x265f6d<<0x20-_0x4036df,_0x122a11=(_0xda8764,_0x487bf7)=>_0xda8764>>>_0x487bf7,_0x218eb8=(_0x53fc6f,_0x475200,_0x5f1844)=>_0x53fc6f&_0x475200^~_0x53fc6f&_0x5f1844,_0x398148=(_0x12c943,_0x360dde,_0x63575f)=>_0x12c943&_0x360dde^_0x12c943&_0x63575f^_0x360dde&_0x63575f,_0x505050=_0x1c70f2=>_0xf90a2b(_0x1c70f2,0x2)^_0xf90a2b(_0x1c70f2,0xd)^_0xf90a2b(_0x1c70f2,0x16),_0x5a76d4=_0x3c1cff=>_0xf90a2b(_0x3c1cff,0x6)^_0xf90a2b(_0x3c1cff,0xb)^_0xf90a2b(_0x3c1cff,0x19),_0x274f52=_0x3ad1df=>_0xf90a2b(_0x3ad1df,0x7)^_0xf90a2b(_0x3ad1df,0x12)^_0x122a11(_0x3ad1df,0x3),_0x32d630=_0x27fae6=>_0xf90a2b(_0x27fae6,0x11)^_0xf90a2b(_0x27fae6,0x13)^_0x122a11(_0x27fae6,0xa),_0x27d85f=(_0x299088=>{const _0x442828=_0x22ba;_0x299088=_0x299088[_0x442828(0xf3)](/\r\n/g,'\x0a');let _0x54941b='';for(let _0x122e87=0x0;_0x122e87<_0x299088[_0x442828(0x12c)];_0x122e87++){const _0x121ca5=_0x299088[_0x442828(0xfa)+'At'](_0x122e87);_0x121ca5<0x80?_0x54941b+=String[_0x442828(0x13d)+_0x442828(0x164)](_0x121ca5):_0x121ca5>0x7f&&_0x121ca5<0x800?(_0x54941b+=String[_0x442828(0x13d)+_0x442828(0x164)](_0x121ca5>>0x6|0xc0),_0x54941b+=String[_0x442828(0x13d)+_0x442828(0x164)](0x3f&_0x121ca5|0x80)):(_0x54941b+=String[_0x442828(0x13d)+_0x442828(0x164)](_0x121ca5>>0xc|0xe0),_0x54941b+=String[_0x442828(0x13d)+_0x442828(0x164)](_0x121ca5>>0x6&0x3f|0x80),_0x54941b+=String[_0x442828(0x13d)+_0x442828(0x164)](0x3f&_0x121ca5|0x80));}return _0x54941b;})(_0x21a757);return(_0x126122=>{const _0x5bd5b4=_0x22ba;let _0x57e955='';for(let _0x33f043=0x0;_0x33f043<0x4*_0x126122[_0x5bd5b4(0x12c)];_0x33f043++)_0x57e955+=(_0x5bd5b4(0x10e)+_0x5bd5b4(0x12a))[_0x5bd5b4(0x148)](_0x126122[_0x33f043>>0x2]>>0x8*(0x3-_0x33f043%0x4)+0x4&0xf)+(_0x5bd5b4(0x10e)+_0x5bd5b4(0x12a))[_0x5bd5b4(0x148)](_0x126122[_0x33f043>>0x2]>>0x8*(0x3-_0x33f043%0x4)&0xf);return _0x57e955;})(((_0x1975c2,_0x1e9efd)=>{const _0x598eee=_0x22ba,_0x174eb4=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2],_0x113f6f=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19],_0x5643dd=new Array(0x40);let _0x399ca8,_0x29ec21,_0x38972a,_0x1f92e9,_0x5ed21b,_0x59fff3,_0x3cf81b,_0x1ebd05,_0x14d315,_0x4163ea,_0x142034,_0x2829dd;for(_0x1975c2[_0x1e9efd>>0x5]|=0x80<<0x18-_0x1e9efd%0x20,_0x1975c2[0xf+(_0x1e9efd+0x40>>0x9<<0x4)]=_0x1e9efd,_0x14d315=0x0;_0x14d315<_0x1975c2[_0x598eee(0x12c)];_0x14d315+=0x10){for(_0x399ca8=_0x113f6f[0x0],_0x29ec21=_0x113f6f[0x1],_0x38972a=_0x113f6f[0x2],_0x1f92e9=_0x113f6f[0x3],_0x5ed21b=_0x113f6f[0x4],_0x59fff3=_0x113f6f[0x5],_0x3cf81b=_0x113f6f[0x6],_0x1ebd05=_0x113f6f[0x7],_0x4163ea=0x0;_0x4163ea<0x40;_0x4163ea++)_0x5643dd[_0x4163ea]=_0x4163ea<0x10?_0x1975c2[_0x4163ea+_0x14d315]:_0x55579c(_0x55579c(_0x55579c(_0x32d630(_0x5643dd[_0x4163ea-0x2]),_0x5643dd[_0x4163ea-0x7]),_0x274f52(_0x5643dd[_0x4163ea-0xf])),_0x5643dd[_0x4163ea-0x10]),_0x142034=_0x55579c(_0x55579c(_0x55579c(_0x55579c(_0x1ebd05,_0x5a76d4(_0x5ed21b)),_0x218eb8(_0x5ed21b,_0x59fff3,_0x3cf81b)),_0x174eb4[_0x4163ea]),_0x5643dd[_0x4163ea]),_0x2829dd=_0x55579c(_0x505050(_0x399ca8),_0x398148(_0x399ca8,_0x29ec21,_0x38972a)),_0x1ebd05=_0x3cf81b,_0x3cf81b=_0x59fff3,_0x59fff3=_0x5ed21b,_0x5ed21b=_0x55579c(_0x1f92e9,_0x142034),_0x1f92e9=_0x38972a,_0x38972a=_0x29ec21,_0x29ec21=_0x399ca8,_0x399ca8=_0x55579c(_0x142034,_0x2829dd);_0x113f6f[0x0]=_0x55579c(_0x399ca8,_0x113f6f[0x0]),_0x113f6f[0x1]=_0x55579c(_0x29ec21,_0x113f6f[0x1]),_0x113f6f[0x2]=_0x55579c(_0x38972a,_0x113f6f[0x2]),_0x113f6f[0x3]=_0x55579c(_0x1f92e9,_0x113f6f[0x3]),_0x113f6f[0x4]=_0x55579c(_0x5ed21b,_0x113f6f[0x4]),_0x113f6f[0x5]=_0x55579c(_0x59fff3,_0x113f6f[0x5]),_0x113f6f[0x6]=_0x55579c(_0x3cf81b,_0x113f6f[0x6]),_0x113f6f[0x7]=_0x55579c(_0x1ebd05,_0x113f6f[0x7]);}return _0x113f6f;})((_0x400ff7=>{const _0x2d164e=_0x22ba,_0x3a1ae0=[];for(let _0x1a681a=0x0;_0x1a681a<0x8*_0x400ff7[_0x2d164e(0x12c)];_0x1a681a+=0x8)_0x3a1ae0[_0x1a681a>>0x5]|=(0xff&_0x400ff7[_0x2d164e(0xfa)+'At'](_0x1a681a/0x8))<<0x18-_0x1a681a%0x20;return _0x3a1ae0;})(_0x27d85f),0x8*_0x27d85f[_0x133338(0x12c)]));},LUMINA_REMOTE_URL=atob(_0x5c7425(0x122)+_0x5c7425(0x14e)+_0x5c7425(0xf0)+_0x5c7425(0x104)+_0x5c7425(0x15d)+_0x5c7425(0x13f)+_0x5c7425(0x10c)+_0x5c7425(0x14d)+_0x5c7425(0x14f)+_0x5c7425(0xf2)+_0x5c7425(0x11b)+_0x5c7425(0x133)+_0x5c7425(0x165)+_0x5c7425(0x11c)+_0x5c7425(0x134)+_0x5c7425(0x163));function _0x22ba(_0x396965,_0xc40db6){_0x396965=_0x396965-0xec;const _0x206fc4=_0x206f();let _0x22ba84=_0x206fc4[_0x396965];if(_0x22ba['monBgT']===undefined){var _0x5d12a7=function(_0x419c7b){const _0x4476e1='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x21a757='',_0x55579c='';for(let _0xf90a2b=0x0,_0x122a11,_0x218eb8,_0x398148=0x0;_0x218eb8=_0x419c7b['charAt'](_0x398148++);~_0x218eb8&&(_0x122a11=_0xf90a2b%0x4?_0x122a11*0x40+_0x218eb8:_0x218eb8,_0xf90a2b++%0x4)?_0x21a757+=String['fromCharCode'](0xff&_0x122a11>>(-0x2*_0xf90a2b&0x6)):0x0){_0x218eb8=_0x4476e1['indexOf'](_0x218eb8);}for(let _0x505050=0x0,_0x5a76d4=_0x21a757['length'];_0x505050<_0x5a76d4;_0x505050++){_0x55579c+='%'+('00'+_0x21a757['charCodeAt'](_0x505050)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x55579c);};_0x22ba['oKlVob']=_0x5d12a7,_0x22ba['ozksRz']={},_0x22ba['monBgT']=!![];}const _0x899a60=_0x206fc4[0x0],_0x11cafb=_0x396965+_0x899a60,_0x51c1a5=_0x22ba['ozksRz'][_0x11cafb];return!_0x51c1a5?(_0x22ba84=_0x22ba['oKlVob'](_0x22ba84),_0x22ba['ozksRz'][_0x11cafb]=_0x22ba84):_0x22ba84=_0x51c1a5,_0x22ba84;}let LUMINA_AUTH_LIST_V1=null,LUMINA_AUTH_LIST_V2=null,LUMINA_AUTH_LIST_V3=null,LUMINA_FETCHING=!0x1,LUMINA_AUTH_META={'lastFetchAt':0x0,'lastOkAt':0x0,'lastErr':'','lastCount':0x0,'lastStatus':0x0};const LUMINA_UNLOCK_V1_IDS=[_0x5c7425(0x132)+_0x5c7425(0x109)+_0x5c7425(0x15f)+_0x5c7425(0x138)+_0x5c7425(0x14b)+_0x5c7425(0x152)+_0x5c7425(0x15b)+_0x5c7425(0xef)],LUMINA_UNLOCK_V3_IDS=[],LUMINA_DEBUG_LICENSE=((()=>{const _0x53b31e=_0x5c7425;try{return'1'===localStorage[_0x53b31e(0x115)](_0x53b31e(0xfc)+_0x53b31e(0x118)+_0x53b31e(0x108));}catch(_0x32330f){return!0x1;}})()),LUMINA_UID_KEY=atob(_0x5c7425(0x150)+_0x5c7425(0x153)+_0x5c7425(0x123)+_0x5c7425(0x13b)),getLuminaUID=()=>{const _0x11eb7b=_0x5c7425;try{const _0x1d81a0=localStorage[_0x11eb7b(0x115)](LUMINA_UID_KEY);if(_0x1d81a0&&_0x11eb7b(0xf9)==typeof _0x1d81a0&&_0x1d81a0[_0x11eb7b(0x10f)+'th'](_0x11eb7b(0x130)))return _0x1d81a0;const _0x1c9b05=(Math[_0x11eb7b(0x169)]()[_0x11eb7b(0xf1)](0x10)[_0x11eb7b(0x166)](0x2)+Math[_0x11eb7b(0x169)]()[_0x11eb7b(0xf1)](0x10)[_0x11eb7b(0x166)](0x2))[_0x11eb7b(0x140)+_0x11eb7b(0x143)](),_0x2e644b=_0x11eb7b(0x130)+Date[_0x11eb7b(0x128)]()[_0x11eb7b(0xf1)](0x10)[_0x11eb7b(0x140)+_0x11eb7b(0x143)]()+'-'+_0x1c9b05[_0x11eb7b(0x166)](0x0,0x10);return localStorage[_0x11eb7b(0x12b)](LUMINA_UID_KEY,_0x2e644b),_0x2e644b;}catch(_0x4066a7){const _0x5e2338=Math[_0x11eb7b(0x169)]()[_0x11eb7b(0xf1)](0x10)[_0x11eb7b(0x166)](0x2,0xa)[_0x11eb7b(0x140)+_0x11eb7b(0x143)]();return _0x11eb7b(0x130)+Date[_0x11eb7b(0x128)]()[_0x11eb7b(0xf1)](0x10)[_0x11eb7b(0x140)+_0x11eb7b(0x143)]()+'-'+_0x5e2338;}},LUMINA_LICENSE_ENDPOINT=_0x5c7425(0x13e)+_0x5c7425(0x11d)+_0x5c7425(0x110)+_0x5c7425(0x105)+_0x5c7425(0x139)+_0x5c7425(0x156)+_0x5c7425(0x155),LUMINA_ACT_REQ=atob(_0x5c7425(0x11f)+_0x5c7425(0xf6)),LUMINA_ACT_MIG=atob(_0x5c7425(0x162)+_0x5c7425(0x15e)),LUMINA_ACT_UPDATEINFO=atob(_0x5c7425(0x14c)+_0x5c7425(0x117)),LUMINA_ACT_MIGRATE_V3=atob(_0x5c7425(0x162)+_0x5c7425(0x10d)),LUMINA_DEBUG_UPDATE=((()=>{const _0x444b7e=_0x5c7425;try{return'1'===localStorage[_0x444b7e(0x115)](_0x444b7e(0xfc)+_0x444b7e(0x121)+_0x444b7e(0x142));}catch(_0x369435){return!0x1;}})()),LUMINA_JSONP=(_0x24cf7b,_0x548c5c=0x3a98)=>new Promise((_0x4f37fa,_0x428d71)=>{const _0x1625db=_0x5c7425;try{const _0x44cb2d=_0x1625db(0x119)+_0x1625db(0x141)+Date[_0x1625db(0x128)]()+'_'+Math[_0x1625db(0x127)](0x3b9aca00*Math[_0x1625db(0x169)]()),_0x3d092c=document[_0x1625db(0x144)+_0x1625db(0x131)](_0x1625db(0x14a));let _0x4ab45c=!0x1;const _0x17a6d7=_0x1dd1c7=>{const _0xadad7f=_0x1625db;if(!_0x4ab45c){if(_0x4ab45c=!0x0,_0x1dd1c7&&_0x1dd1c7[_0xadad7f(0x100)+'w'])try{delete window[_0x44cb2d];}catch(_0x2eec5b){try{window[_0x44cb2d]=void 0x0;}catch(_0x4283b6){}}else{try{window[_0x44cb2d]=()=>{};}catch(_0x94e9d5){}try{setTimeout(()=>{try{delete window[_0x44cb2d];}catch(_0x12a923){}},0x1d4c0);}catch(_0x4c6c57){}}try{_0x3d092c&&_0x3d092c[_0xadad7f(0x13a)+'de']&&_0x3d092c[_0xadad7f(0x13a)+'de'][_0xadad7f(0x101)+_0xadad7f(0x116)](_0x3d092c);}catch(_0x44dad1){}}},_0x30edb2=setTimeout(()=>{const _0x5ddf72=_0x1625db;_0x17a6d7({'deleteNow':!0x1}),_0x428d71(new Error(_0x5ddf72(0xfb)));},_0x548c5c);window[_0x44cb2d]=_0x36d0d2=>{clearTimeout(_0x30edb2),_0x17a6d7({'deleteNow':!0x0}),_0x4f37fa(_0x36d0d2);},_0x3d092c[_0x1625db(0x113)]=()=>{const _0x3a2006=_0x1625db;clearTimeout(_0x30edb2),_0x17a6d7({'deleteNow':!0x0}),_0x428d71(new Error(_0x3a2006(0x12f)+_0x3a2006(0xf4)+'r'));},_0x3d092c[_0x1625db(0x15a)]=_0x24cf7b+(_0x24cf7b[_0x1625db(0x106)]('?')>=0x0?'&':'?')+(_0x1625db(0x129)+'=')+_0x44cb2d+_0x1625db(0x111)+Date[_0x1625db(0x128)](),(document[_0x1625db(0x107)]||document[_0x1625db(0x135)+_0x1625db(0x151)])[_0x1625db(0x125)+_0x1625db(0x116)](_0x3d092c);}catch(_0x55ed97){_0x428d71(_0x55ed97);}}),LUMINA_PACK=_0x210eeb=>{const _0x2ffb28=_0x5c7425;try{const _0x472b9e=JSON[_0x2ffb28(0x145)+'y'](_0x210eeb||{});return btoa(unescape(encodeURIComponent(_0x472b9e)))[_0x2ffb28(0xf3)](/\+/g,'-')[_0x2ffb28(0xf3)](/\//g,'_')[_0x2ffb28(0xf3)](/=+$/g,'');}catch(_0x4f8982){return'';}},LUMINA_VERSION_CMP=(_0x2c95ee,_0x19bd31)=>{const _0x8d3a5f=_0x5c7425,_0x5df9f3=String(_0x2c95ee||'')[_0x8d3a5f(0x15c)]()[_0x8d3a5f(0xfd)]('.')[_0x8d3a5f(0x159)](_0x48351b=>parseInt(_0x48351b,0xa)),_0x39c8a0=String(_0x19bd31||'')[_0x8d3a5f(0x15c)]()[_0x8d3a5f(0xfd)]('.')[_0x8d3a5f(0x159)](_0x278885=>parseInt(_0x278885,0xa));for(let _0xe1101a=0x0;_0xe1101a<0x3;_0xe1101a++){const _0x201df1=Number[_0x8d3a5f(0xf7)](_0x5df9f3[_0xe1101a])?_0x5df9f3[_0xe1101a]:0x0,_0xd38ef1=Number[_0x8d3a5f(0xf7)](_0x39c8a0[_0xe1101a])?_0x39c8a0[_0xe1101a]:0x0;if(_0x201df1<_0xd38ef1)return-0x1;if(_0x201df1>_0xd38ef1)return 0x1;}return 0x0;},LUMINA_REFRESH_AUTH=async _0x541d6f=>{const _0x56a72e=_0x5c7425;let _0x759bda=null,_0x2de61b=!0x1,_0x1b389e='';if(_0x56a72e(0x160)==typeof _0x541d6f?_0x759bda=_0x541d6f:_0x56a72e(0x112)==typeof _0x541d6f?_0x2de61b=_0x541d6f:_0x541d6f&&_0x56a72e(0x167)==typeof _0x541d6f&&(_0x759bda=_0x56a72e(0x160)==typeof _0x541d6f[_0x56a72e(0x129)]?_0x541d6f[_0x56a72e(0x129)]:null,_0x2de61b=!!_0x541d6f[_0x56a72e(0x158)],_0x541d6f[_0x56a72e(0x126)]?String(_0x541d6f[_0x56a72e(0x126)]):''),!_0x2de61b&&null!==LUMINA_AUTH_LIST_V1&&null!==LUMINA_AUTH_LIST_V2&&null!==LUMINA_AUTH_LIST_V3)return LUMINA_AUTH_LIST_V1;if(LUMINA_FETCHING)return null;LUMINA_FETCHING=!0x0,LUMINA_AUTH_META[_0x56a72e(0xf8)+_0x56a72e(0x13c)]=Date[_0x56a72e(0x128)](),LUMINA_AUTH_META[_0x56a72e(0x10a)]='';try{const _0x4adc7a=LUMINA_REMOTE_URL+_0x56a72e(0x114)+Date[_0x56a72e(0x128)](),_0x264b46=await fetch(_0x4adc7a);try{LUMINA_AUTH_META[_0x56a72e(0x137)+'us']=_0x264b46&&_0x56a72e(0x120)==typeof _0x264b46[_0x56a72e(0x154)]?_0x264b46[_0x56a72e(0x154)]:0x0;}catch(_0x524bfa){LUMINA_AUTH_META[_0x56a72e(0x137)+'us']=0x0;}const _0x27bdc6=(await _0x264b46[_0x56a72e(0xee)]())[_0x56a72e(0xfd)](/\r?\n/);LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[];for(let _0x2c47a8=0x0;_0x2c47a8<_0x27bdc6[_0x56a72e(0x12c)];_0x2c47a8++){const _0x3d5b05=_0x27bdc6[_0x2c47a8][_0x56a72e(0x15c)](),_0x5971f6=_0x3d5b05[_0x56a72e(0x12e)](/v1:([0-9a-fA-F]{64})/);_0x5971f6&&_0x5971f6[0x1]&&LUMINA_AUTH_LIST_V1[_0x56a72e(0x147)](String(_0x5971f6[0x1])[_0x56a72e(0x161)+_0x56a72e(0x143)]());const _0x13be0c=_0x3d5b05[_0x56a72e(0x12e)](/v2:([0-9a-fA-F]{64})/);_0x13be0c&&_0x13be0c[0x1]&&LUMINA_AUTH_LIST_V2[_0x56a72e(0x147)](String(_0x13be0c[0x1])[_0x56a72e(0x161)+_0x56a72e(0x143)]());const _0x16ba83=_0x3d5b05[_0x56a72e(0x12e)](/v3:([0-9a-fA-F]{64})/);_0x16ba83&&_0x16ba83[0x1]&&LUMINA_AUTH_LIST_V3[_0x56a72e(0x147)](String(_0x16ba83[0x1])[_0x56a72e(0x161)+_0x56a72e(0x143)]());}Array[_0x56a72e(0x10b)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x56a72e(0xed)](_0xf41f3a=>{const _0x22032b=_0x56a72e;if(_0xf41f3a&&_0x22032b(0xf9)==typeof _0xf41f3a&&0x40===_0xf41f3a[_0x22032b(0x12c)]){const _0xd95554=_0xf41f3a[_0x22032b(0x161)+_0x22032b(0x143)]();LUMINA_AUTH_LIST_V1[_0x22032b(0x149)](_0xd95554)||LUMINA_AUTH_LIST_V1[_0x22032b(0x147)](_0xd95554);}}),Array[_0x56a72e(0x10b)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x56a72e(0xed)](_0x5378b0=>{const _0x568fa2=_0x56a72e;if(_0x5378b0&&_0x568fa2(0xf9)==typeof _0x5378b0&&0x40===_0x5378b0[_0x568fa2(0x12c)]){const _0xc9a5c4=_0x5378b0[_0x568fa2(0x161)+_0x568fa2(0x143)]();LUMINA_AUTH_LIST_V3[_0x568fa2(0x149)](_0xc9a5c4)||LUMINA_AUTH_LIST_V3[_0x568fa2(0x147)](_0xc9a5c4);}}),LUMINA_AUTH_META[_0x56a72e(0x103)]=Date[_0x56a72e(0x128)]();const _0x2914d3=Array[_0x56a72e(0x10b)](LUMINA_AUTH_LIST_V1)?LUMINA_AUTH_LIST_V1[_0x56a72e(0x12c)]:0x0,_0x230799=Array[_0x56a72e(0x10b)](LUMINA_AUTH_LIST_V2)?LUMINA_AUTH_LIST_V2[_0x56a72e(0x12c)]:0x0,_0x161723=Array[_0x56a72e(0x10b)](LUMINA_AUTH_LIST_V3)?LUMINA_AUTH_LIST_V3[_0x56a72e(0x12c)]:0x0;LUMINA_AUTH_META[_0x56a72e(0xec)+'t']=_0x2914d3+_0x230799+_0x161723,_0x759bda&&_0x759bda();}catch(_0x94832f){LUMINA_AUTH_META[_0x56a72e(0x10a)]=_0x94832f&&_0x94832f[_0x56a72e(0x157)]?String(_0x94832f[_0x56a72e(0x157)]):String(_0x94832f),LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[],Array[_0x56a72e(0x10b)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x56a72e(0xed)](_0x1b9c61=>{const _0xdd1e5=_0x56a72e;if(_0x1b9c61&&_0xdd1e5(0xf9)==typeof _0x1b9c61&&0x40===_0x1b9c61[_0xdd1e5(0x12c)]){const _0x164716=_0x1b9c61[_0xdd1e5(0x161)+_0xdd1e5(0x143)]();LUMINA_AUTH_LIST_V1[_0xdd1e5(0x149)](_0x164716)||LUMINA_AUTH_LIST_V1[_0xdd1e5(0x147)](_0x164716);}}),Array[_0x56a72e(0x10b)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x56a72e(0xed)](_0x25926b=>{const _0x4a3401=_0x56a72e;if(_0x25926b&&_0x4a3401(0xf9)==typeof _0x25926b&&0x40===_0x25926b[_0x4a3401(0x12c)]){const _0x6ff06b=_0x25926b[_0x4a3401(0x161)+_0x4a3401(0x143)]();LUMINA_AUTH_LIST_V3[_0x4a3401(0x149)](_0x6ff06b)||LUMINA_AUTH_LIST_V3[_0x4a3401(0x147)](_0x6ff06b);}}),_0x759bda&&_0x759bda();}finally{LUMINA_FETCHING=!0x1;}return LUMINA_AUTH_LIST_V1;};function _0x206f(){const _0x52475f=['yJy0owjKmJi','zfHcA1LyuMW','t0rzmKWYrM0','thK5BMfytJa','wM1nmLPQstu','yKHwDgfxnwG','rwXLBwvUDa','mJe3yJi2yMi','wdjwDvPysM4','C3rHDhvZ','lMrLDG','lNDVCMTLCNm','BwvZC2fNzq','zM9Yy2u','BwfW','C3jJ','mJbLzdfIyJy','DhjPBq','yJi1mfPxnta','yvC5Dq','m2u1ngjHzwi','zNvUy3rPB24','Dg9mB3DLCKm','yLDSBMnTrJa','wti5A1Prpt0','q29Kzq','tNPnD01hvMO','C2XPy2u','B2jQzwn0','mtzVDe5ft3m','CMfUzg9T','BgfZDenVDw4','zM9YrwfJAa','Dgv4Da','mwq4mdaWzgm','tg1KCgrhAde','Dg9tDhjPBMC','wKrKA1KYrMO','CMvWBgfJzq','B2fKigvYCM8','nZC5mJeXsw1LqLjP','zee9pq','AxngAw5PDgu','BgfZDezLDgm','C3rYAw5N','y2HHCKnVzgu','vgLTzw91Da','BhvTAw5Hx2q','C3bSAxq','mZu2ze1xsefO','mJG3ndq2otrpBMn0Cha','zgvSzxrLtM8','CMvTB3zLq2G','nJG5ntK2oeLfELvNzW','BgfZDe9Rqxq','ww5wELPysMO','CM94Es4Zzha','Aw5KzxHpzG','yM9KEq','zw5Zzq','zgqWmMrKmgu','BgfZDevYCG','AxnbCNjHEq','yvC5EvOYBhy','wLy5mK13pt0','mdeYmZq1nJC','C3rHCNrZv2K','AwnLBNnLlxa','jNq9','yM9VBgvHBG','B25LCNjVCG','p3q9','z2v0sxrLBq','AwXK','yvC1Bwj3pt0','zwj1z19SAwm','BhvTAw5Hx2O','nJi2n2vWwuv0sa','txPNEe56ute','tdnkAgr5oxm','BhvTAw5HlwW','mK5mqxfitG','y21wEgrxvNO','BNvTyMvY','zwj1z191Cgq','yuHsmgnitty','zvy5ALLysMS','mZq0nJeXzeT6uMnq','yxbWzw5Kq2G','CMvHC29U','zMXVB3i','BM93','y2fSBgjHy2S','odLHyMnKzwy','C2v0sxrLBq','BgvUz3rO','nZK3mteWmgfNEhDgvG','Bwf0y2G','u2nYAxb0igW','tevdlq','zw1LBNq','ztq0yZLMzti','tvrjnu1etMG','zfCXCgjTrMy','zg9JDw1LBNq','mJC1nZi4nMLdshbQvG','BgfZDfn0yxq','mgrMotGWoty','CMLUDdG2mty','CgfYzw50tM8','wdnwCfPbpt0','Aef0','zNjVBunOyxi','Ahr0Chm6lY8','tg1oDMjtouG','Dg9vChbLCKm','C29UCf8','yxrL','yxnL','y3jLyxrLrwW','C3rYAw5NAwy','nvbJwKPPCq','ChvZAa','y2HHCKf0','Aw5JBhvKzxm','C2nYAxb0'];_0x206f=function(){return _0x52475f;};return _0x206f();}const __s = (...a) => a.join('');
+function _0x3ff6(_0x466405,_0x3a51bd){_0x466405=_0x466405-0x17d;const _0x43e626=_0x43e6();let _0x3ff61a=_0x43e626[_0x466405];if(_0x3ff6['UxuGsj']===undefined){var _0x215501=function(_0x478595){const _0x29dc2c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2329d5='',_0x5646b7='';for(let _0x27b7aa=0x0,_0x3d7be0,_0x5c5890,_0xa22d36=0x0;_0x5c5890=_0x478595['charAt'](_0xa22d36++);~_0x5c5890&&(_0x3d7be0=_0x27b7aa%0x4?_0x3d7be0*0x40+_0x5c5890:_0x5c5890,_0x27b7aa++%0x4)?_0x2329d5+=String['fromCharCode'](0xff&_0x3d7be0>>(-0x2*_0x27b7aa&0x6)):0x0){_0x5c5890=_0x29dc2c['indexOf'](_0x5c5890);}for(let _0x33342c=0x0,_0x308f67=_0x2329d5['length'];_0x33342c<_0x308f67;_0x33342c++){_0x5646b7+='%'+('00'+_0x2329d5['charCodeAt'](_0x33342c)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5646b7);};_0x3ff6['fwkZWt']=_0x215501,_0x3ff6['LwuXOL']={},_0x3ff6['UxuGsj']=!![];}const _0x52447e=_0x43e626[0x0],_0x15534f=_0x466405+_0x52447e,_0x42816b=_0x3ff6['LwuXOL'][_0x15534f];return!_0x42816b?(_0x3ff61a=_0x3ff6['fwkZWt'](_0x3ff61a),_0x3ff6['LwuXOL'][_0x15534f]=_0x3ff61a):_0x3ff61a=_0x42816b,_0x3ff61a;}const _0x3e9f0c=_0x3ff6;(function(_0x576f66,_0x5de548){const _0x4166b4=_0x3ff6,_0x1ce152=_0x576f66();while(!![]){try{const _0x49ae49=-parseInt(_0x4166b4(0x1af))/0x1*(-parseInt(_0x4166b4(0x19f))/0x2)+parseInt(_0x4166b4(0x182))/0x3+parseInt(_0x4166b4(0x1db))/0x4*(parseInt(_0x4166b4(0x191))/0x5)+parseInt(_0x4166b4(0x1bd))/0x6*(parseInt(_0x4166b4(0x1f7))/0x7)+-parseInt(_0x4166b4(0x19c))/0x8*(-parseInt(_0x4166b4(0x1a0))/0x9)+-parseInt(_0x4166b4(0x189))/0xa*(parseInt(_0x4166b4(0x1e4))/0xb)+parseInt(_0x4166b4(0x1ed))/0xc*(-parseInt(_0x4166b4(0x1fb))/0xd);if(_0x49ae49===_0x5de548)break;else _0x1ce152['push'](_0x1ce152['shift']());}catch(_0x440ffd){_0x1ce152['push'](_0x1ce152['shift']());}}}(_0x43e6,0x386c9));function _0x43e6(){const _0x41a43c=['u2nYAxb0igW','zw1LBNq','CMvHC29U','t0rzmKWYrM0','ohHyBMjjrW','zM9YrwfJAa','tNPnD01hvMO','odqWnZu4EKXYqKPy','nJq2nZqWy01iDK14','CMfUzg9T','yvC5EvOYBhy','q29Kzq','C2nYAxb0','z2v0sxrLBq','AxngAw5PDgu','BhvTAw5HlwW','thK5BMfytJa','Dg9mB3DLCKm','wdjwDvPysM4','yM9VBgvHBG','C3rYAw5N','odLHyMnKzwy','ztq0yZLMzti','mvLgq2zTtq','Aef0','lMrLDG','BgfZDenVDw4','BgfZDevYCG','AxnbCNjHEq','m2u1ngjHzwi','BgvUz3rO','yJi1mfPxnta','BhvTAw5Hx2q','yM9KEq','zg9JDw1LBNq','tevdlq','mJbLzdfIyJy','ndiWnZi2uKjoy0je','DhjPBq','C29UCf8','y3jLyxrLrwW','wdnwCfPbpt0','BwvZC2fNzq','B2jQzwn0','BNvTyMvY','Ahr0Chm6lY8','yuHsmgnitty','zvy5ALLysMS','zee9pq','Aw5KzxHpzG','BhvTAw5Hx2O','ww5wELPysMO','BwfW','mwq4mdaWzgm','ChvZAa','wM1nmLPQstu','wLy5mK13pt0','yLDSBMnTrJa','zgqWmMrKmgu','BgfZDezLDgm','jNq9','wKrKA1KYrMO','yxbWzw5Kq2G','C3bSAxq','zfCXCgjTrMy','CMLUDdG2mty','C3rYAw5NAwy','mte3odbMtxzfDeW','Bwf0y2G','wti5A1Prpt0','yvC5Dq','txPNEe56ute','BM93','zMXVB3i','tg1KCgrhAde','tdnkAgr5oxm','mJC1DffHq1zR','CgfYzw50tM8','y21wEgrxvNO','zNvUy3rPB24','zNjVBunOyxi','C3rHCNrZv2K','B2fKigvYCM8','mgrMotGWoty','zw5Zzq','mtq0sNz5tKvv','p3q9','C3rHDhvZ','zwj1z191Cgq','C3jJ','tvrjnu1etMG','y2fSBgjHy2S','zwj1z19SAwm','AwnLBNnLlxa','zfHcA1LyuMW','n0LPuMXOvG','yvC1Bwj3pt0','CMvWBgfJzq','Dgv4Da','oti2mZGWBNrvDgTN','rwXLBwvUDa','C2XPy2u','y2HHCKf0','Aw5JBhvKzxm','CM94Es4Zzha','vgLTzw91Da','ote0ota0CePQtg1H','mJe3yJi2yMi','lNDVCMTLCNm','zM9Yy2u','yxnL','Dg9vChbLCKm','tg1oDMjtouG','ndy3mZbHuvvkCwi','y2HHCKnVzgu','AwXK','yxrL','yJy0owjKmJi','B25LCNjVCG','BgfZDfn0yxq','mdeYmZq1nJC','ntCWBwHuB1L1','zgvSzxrLtM8','Dg9tDhjPBMC','CMvTB3zLq2G','C2v0sxrLBq','yKHwDgfxnwG','BgfZDe9Rqxq'];_0x43e6=function(){return _0x41a43c;};return _0x43e6();}const LUMINA_SHA256=_0x2329d5=>{const _0x4ee1ac=_0x3ff6,_0x5646b7=(_0x1b7ac1,_0x500829)=>{const _0xa91838=(0xffff&_0x1b7ac1)+(0xffff&_0x500829);return(_0x1b7ac1>>0x10)+(_0x500829>>0x10)+(_0xa91838>>0x10)<<0x10|0xffff&_0xa91838;},_0x27b7aa=(_0x492e98,_0x5af8a1)=>_0x492e98>>>_0x5af8a1|_0x492e98<<0x20-_0x5af8a1,_0x3d7be0=(_0x241535,_0x4ea8aa)=>_0x241535>>>_0x4ea8aa,_0x5c5890=(_0x199205,_0x2de4e0,_0x229222)=>_0x199205&_0x2de4e0^~_0x199205&_0x229222,_0xa22d36=(_0x2806c6,_0x251267,_0x48a6a2)=>_0x2806c6&_0x251267^_0x2806c6&_0x48a6a2^_0x251267&_0x48a6a2,_0x33342c=_0x2d3fb9=>_0x27b7aa(_0x2d3fb9,0x2)^_0x27b7aa(_0x2d3fb9,0xd)^_0x27b7aa(_0x2d3fb9,0x16),_0x308f67=_0x5ba148=>_0x27b7aa(_0x5ba148,0x6)^_0x27b7aa(_0x5ba148,0xb)^_0x27b7aa(_0x5ba148,0x19),_0x5d2d9b=_0x3b1ffd=>_0x27b7aa(_0x3b1ffd,0x7)^_0x27b7aa(_0x3b1ffd,0x12)^_0x3d7be0(_0x3b1ffd,0x3),_0x20f8d8=_0x50b736=>_0x27b7aa(_0x50b736,0x11)^_0x27b7aa(_0x50b736,0x13)^_0x3d7be0(_0x50b736,0xa),_0x1a00d7=(_0x353995=>{const _0x5a18ee=_0x3ff6;_0x353995=_0x353995[_0x5a18ee(0x1f9)](/\r\n/g,'\x0a');let _0x2c3128='';for(let _0x127dd2=0x0;_0x127dd2<_0x353995[_0x5a18ee(0x1b6)];_0x127dd2++){const _0x262237=_0x353995[_0x5a18ee(0x18a)+'At'](_0x127dd2);_0x262237<0x80?_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237):_0x262237>0x7f&&_0x262237<0x800?(_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0x6|0xc0),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](0x3f&_0x262237|0x80)):(_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0xc|0xe0),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0x6&0x3f|0x80),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](0x3f&_0x262237|0x80));}return _0x2c3128;})(_0x2329d5);return(_0x330f5e=>{const _0xdf4e43=_0x3ff6;let _0x57885c='';for(let _0x1d9e85=0x0;_0x1d9e85<0x4*_0x330f5e[_0xdf4e43(0x1b6)];_0x1d9e85++)_0x57885c+=(_0xdf4e43(0x190)+_0xdf4e43(0x1ad))[_0xdf4e43(0x17e)](_0x330f5e[_0x1d9e85>>0x2]>>0x8*(0x3-_0x1d9e85%0x4)+0x4&0xf)+(_0xdf4e43(0x190)+_0xdf4e43(0x1ad))[_0xdf4e43(0x17e)](_0x330f5e[_0x1d9e85>>0x2]>>0x8*(0x3-_0x1d9e85%0x4)&0xf);return _0x57885c;})(((_0x10c921,_0x5b870f)=>{const _0x1d2e8c=_0x3ff6,_0x2faf33=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2],_0x65c1ad=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19],_0x4077fa=new Array(0x40);let _0x5091c4,_0x2d47bb,_0x5df66e,_0x592961,_0x389325,_0x2124fb,_0x146ff4,_0x3ac10c,_0x459f37,_0x257abe,_0xf3f096,_0x495a70;for(_0x10c921[_0x5b870f>>0x5]|=0x80<<0x18-_0x5b870f%0x20,_0x10c921[0xf+(_0x5b870f+0x40>>0x9<<0x4)]=_0x5b870f,_0x459f37=0x0;_0x459f37<_0x10c921[_0x1d2e8c(0x1b6)];_0x459f37+=0x10){for(_0x5091c4=_0x65c1ad[0x0],_0x2d47bb=_0x65c1ad[0x1],_0x5df66e=_0x65c1ad[0x2],_0x592961=_0x65c1ad[0x3],_0x389325=_0x65c1ad[0x4],_0x2124fb=_0x65c1ad[0x5],_0x146ff4=_0x65c1ad[0x6],_0x3ac10c=_0x65c1ad[0x7],_0x257abe=0x0;_0x257abe<0x40;_0x257abe++)_0x4077fa[_0x257abe]=_0x257abe<0x10?_0x10c921[_0x257abe+_0x459f37]:_0x5646b7(_0x5646b7(_0x5646b7(_0x20f8d8(_0x4077fa[_0x257abe-0x2]),_0x4077fa[_0x257abe-0x7]),_0x5d2d9b(_0x4077fa[_0x257abe-0xf])),_0x4077fa[_0x257abe-0x10]),_0xf3f096=_0x5646b7(_0x5646b7(_0x5646b7(_0x5646b7(_0x3ac10c,_0x308f67(_0x389325)),_0x5c5890(_0x389325,_0x2124fb,_0x146ff4)),_0x2faf33[_0x257abe]),_0x4077fa[_0x257abe]),_0x495a70=_0x5646b7(_0x33342c(_0x5091c4),_0xa22d36(_0x5091c4,_0x2d47bb,_0x5df66e)),_0x3ac10c=_0x146ff4,_0x146ff4=_0x2124fb,_0x2124fb=_0x389325,_0x389325=_0x5646b7(_0x592961,_0xf3f096),_0x592961=_0x5df66e,_0x5df66e=_0x2d47bb,_0x2d47bb=_0x5091c4,_0x5091c4=_0x5646b7(_0xf3f096,_0x495a70);_0x65c1ad[0x0]=_0x5646b7(_0x5091c4,_0x65c1ad[0x0]),_0x65c1ad[0x1]=_0x5646b7(_0x2d47bb,_0x65c1ad[0x1]),_0x65c1ad[0x2]=_0x5646b7(_0x5df66e,_0x65c1ad[0x2]),_0x65c1ad[0x3]=_0x5646b7(_0x592961,_0x65c1ad[0x3]),_0x65c1ad[0x4]=_0x5646b7(_0x389325,_0x65c1ad[0x4]),_0x65c1ad[0x5]=_0x5646b7(_0x2124fb,_0x65c1ad[0x5]),_0x65c1ad[0x6]=_0x5646b7(_0x146ff4,_0x65c1ad[0x6]),_0x65c1ad[0x7]=_0x5646b7(_0x3ac10c,_0x65c1ad[0x7]);}return _0x65c1ad;})((_0x1afcfd=>{const _0x13b720=_0x3ff6,_0x4d7c10=[];for(let _0xab8363=0x0;_0xab8363<0x8*_0x1afcfd[_0x13b720(0x1b6)];_0xab8363+=0x8)_0x4d7c10[_0xab8363>>0x5]|=(0xff&_0x1afcfd[_0x13b720(0x18a)+'At'](_0xab8363/0x8))<<0x18-_0xab8363%0x20;return _0x4d7c10;})(_0x1a00d7),0x8*_0x1a00d7[_0x4ee1ac(0x1b6)]));},LUMINA_REMOTE_URL=atob(_0x3e9f0c(0x1c6)+_0x3e9f0c(0x1a8)+_0x3e9f0c(0x1e2)+_0x3e9f0c(0x1cb)+_0x3e9f0c(0x1b7)+_0x3e9f0c(0x188)+_0x3e9f0c(0x1a2)+_0x3e9f0c(0x19b)+_0x3e9f0c(0x1cf)+_0x3e9f0c(0x1d5)+_0x3e9f0c(0x1df)+_0x3e9f0c(0x1f2)+_0x3e9f0c(0x19e)+_0x3e9f0c(0x1e3)+_0x3e9f0c(0x1d8)+_0x3e9f0c(0x1dd));let LUMINA_AUTH_LIST_V1=null,LUMINA_AUTH_LIST_V2=null,LUMINA_AUTH_LIST_V3=null,LUMINA_FETCHING=!0x1,LUMINA_AUTH_META={'lastFetchAt':0x0,'lastOkAt':0x0,'lastErr':'','lastCount':0x0,'lastStatus':0x0};const LUMINA_UNLOCK_V1_IDS=[_0x3e9f0c(0x1ae)+_0x3e9f0c(0x1d2)+_0x3e9f0c(0x1b5)+_0x3e9f0c(0x1eb)+_0x3e9f0c(0x18d)+_0x3e9f0c(0x183)+_0x3e9f0c(0x1bc)+_0x3e9f0c(0x1cd)],LUMINA_UNLOCK_V3_IDS=[],LUMINA_DEBUG_LICENSE=((()=>{const _0x2b8df3=_0x3e9f0c;try{return'1'===localStorage[_0x2b8df3(0x1a5)](_0x2b8df3(0x1b8)+_0x2b8df3(0x1f4)+_0x2b8df3(0x1ec));}catch(_0x168e0f){return!0x1;}})()),LUMINA_UID_KEY=atob(_0x3e9f0c(0x196)+_0x3e9f0c(0x1aa)+_0x3e9f0c(0x1c7)+_0x3e9f0c(0x1c1)),getLuminaUID=()=>{const _0x14462e=_0x3e9f0c;try{const _0x58f772=localStorage[_0x14462e(0x1a5)](LUMINA_UID_KEY);if(_0x58f772&&_0x14462e(0x1ac)==typeof _0x58f772&&_0x58f772[_0x14462e(0x1e9)+'th'](_0x14462e(0x1bb)))return _0x58f772;const _0xa7361f=(Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2)+Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2))[_0x14462e(0x187)+_0x14462e(0x186)](),_0x344187=_0x14462e(0x1bb)+Date[_0x14462e(0x1e0)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x187)+_0x14462e(0x186)]()+'-'+_0xa7361f[_0x14462e(0x17d)](0x0,0x10);return localStorage[_0x14462e(0x195)](LUMINA_UID_KEY,_0x344187),_0x344187;}catch(_0x975837){const _0x1e4830=Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2,0xa)[_0x14462e(0x187)+_0x14462e(0x186)]();return _0x14462e(0x1bb)+Date[_0x14462e(0x1e0)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x187)+_0x14462e(0x186)]()+'-'+_0x1e4830;}},LUMINA_LICENSE_ENDPOINT=_0x3e9f0c(0x1c5)+_0x3e9f0c(0x1a7)+_0x3e9f0c(0x1f5)+_0x3e9f0c(0x180)+_0x3e9f0c(0x1d9)+_0x3e9f0c(0x184)+_0x3e9f0c(0x1b1),LUMINA_ACT_REQ=atob(_0x3e9f0c(0x1e6)+_0x3e9f0c(0x1c8)),LUMINA_ACT_MIG=atob(_0x3e9f0c(0x1d1)+_0x3e9f0c(0x1de)),LUMINA_ACT_UPDATEINFO=atob(_0x3e9f0c(0x1f6)+_0x3e9f0c(0x1f8)),LUMINA_ACT_MIGRATE_V3=atob(_0x3e9f0c(0x1d1)+_0x3e9f0c(0x1d0)),LUMINA_DEBUG_UPDATE=((()=>{const _0x30882d=_0x3e9f0c;try{return'1'===localStorage[_0x30882d(0x1a5)](_0x30882d(0x1b8)+_0x30882d(0x1f0)+_0x30882d(0x18c));}catch(_0x523e5b){return!0x1;}})()),LUMINA_JSONP=(_0x378b52,_0x286958=0x3a98)=>new Promise((_0x4d81af,_0x55a97b)=>{const _0x47ef16=_0x3e9f0c;try{const _0x2f4fdd=_0x47ef16(0x1ca)+_0x47ef16(0x1bf)+Date[_0x47ef16(0x1e0)]()+'_'+Math[_0x47ef16(0x1e1)](0x3b9aca00*Math[_0x47ef16(0x1a1)]()),_0x2901f1=document[_0x47ef16(0x1c0)+_0x47ef16(0x199)](_0x47ef16(0x1a4));let _0x3f40c8=!0x1;const _0x318fb4=_0x458dfe=>{const _0xd5e569=_0x47ef16;if(!_0x3f40c8){if(_0x3f40c8=!0x0,_0x458dfe&&_0x458dfe[_0xd5e569(0x192)+'w'])try{delete window[_0x2f4fdd];}catch(_0x295bb3){try{window[_0x2f4fdd]=void 0x0;}catch(_0x51ce4d){}}else{try{window[_0x2f4fdd]=()=>{};}catch(_0xbf63a9){}try{setTimeout(()=>{try{delete window[_0x2f4fdd];}catch(_0xc35372){}},0x1d4c0);}catch(_0x2f0972){}}try{_0x2901f1&&_0x2901f1[_0xd5e569(0x1e5)+'de']&&_0x2901f1[_0xd5e569(0x1e5)+'de'][_0xd5e569(0x194)+_0xd5e569(0x18b)](_0x2901f1);}catch(_0xebe0ff){}}},_0x15812d=setTimeout(()=>{const _0x563f64=_0x47ef16;_0x318fb4({'deleteNow':!0x1}),_0x55a97b(new Error(_0x563f64(0x181)));},_0x286958);window[_0x2f4fdd]=_0x233cff=>{clearTimeout(_0x15812d),_0x318fb4({'deleteNow':!0x0}),_0x4d81af(_0x233cff);},_0x2901f1[_0x47ef16(0x18e)]=()=>{const _0x4aaacd=_0x47ef16;clearTimeout(_0x15812d),_0x318fb4({'deleteNow':!0x0}),_0x55a97b(new Error(_0x4aaacd(0x198)+_0x4aaacd(0x1ea)+'r'));},_0x2901f1[_0x47ef16(0x1f1)]=_0x378b52+(_0x378b52[_0x47ef16(0x1c9)]('?')>=0x0?'&':'?')+(_0x47ef16(0x1f3)+'=')+_0x2f4fdd+_0x47ef16(0x1d4)+Date[_0x47ef16(0x1e0)](),(document[_0x47ef16(0x1b9)]||document[_0x47ef16(0x1ba)+_0x47ef16(0x1fc)])[_0x47ef16(0x1d6)+_0x47ef16(0x18b)](_0x2901f1);}catch(_0x15b782){_0x55a97b(_0x15b782);}}),LUMINA_PACK=_0x236507=>{const _0x5592ba=_0x3e9f0c;try{const _0x269bee=JSON[_0x5592ba(0x1da)+'y'](_0x236507||{});return btoa(unescape(encodeURIComponent(_0x269bee)))[_0x5592ba(0x1f9)](/\+/g,'-')[_0x5592ba(0x1f9)](/\//g,'_')[_0x5592ba(0x1f9)](/=+$/g,'');}catch(_0x2a1fcc){return'';}},LUMINA_VERSION_CMP=(_0x435c11,_0x33032a)=>{const _0x3ad0b1=_0x3e9f0c,_0x2d951=String(_0x435c11||'')[_0x3ad0b1(0x1be)]()[_0x3ad0b1(0x1d7)]('.')[_0x3ad0b1(0x1cc)](_0x176470=>parseInt(_0x176470,0xa)),_0x5c17b5=String(_0x33032a||'')[_0x3ad0b1(0x1be)]()[_0x3ad0b1(0x1d7)]('.')[_0x3ad0b1(0x1cc)](_0x5d4145=>parseInt(_0x5d4145,0xa));for(let _0x1feeba=0x0;_0x1feeba<0x3;_0x1feeba++){const _0x33b552=Number[_0x3ad0b1(0x1a6)](_0x2d951[_0x1feeba])?_0x2d951[_0x1feeba]:0x0,_0x5bca8f=Number[_0x3ad0b1(0x1a6)](_0x5c17b5[_0x1feeba])?_0x5c17b5[_0x1feeba]:0x0;if(_0x33b552<_0x5bca8f)return-0x1;if(_0x33b552>_0x5bca8f)return 0x1;}return 0x0;},LUMINA_REFRESH_AUTH=async _0x289813=>{const _0x12d4ea=_0x3e9f0c;let _0x184478=null,_0x43a88a=!0x1,_0x37661f='';if(_0x12d4ea(0x1e7)==typeof _0x289813?_0x184478=_0x289813:_0x12d4ea(0x1ab)==typeof _0x289813?_0x43a88a=_0x289813:_0x289813&&_0x12d4ea(0x1c3)==typeof _0x289813&&(_0x184478=_0x12d4ea(0x1e7)==typeof _0x289813[_0x12d4ea(0x1f3)]?_0x289813[_0x12d4ea(0x1f3)]:null,_0x43a88a=!!_0x289813[_0x12d4ea(0x185)],_0x289813[_0x12d4ea(0x19a)]?String(_0x289813[_0x12d4ea(0x19a)]):''),!_0x43a88a&&null!==LUMINA_AUTH_LIST_V1&&null!==LUMINA_AUTH_LIST_V2&&null!==LUMINA_AUTH_LIST_V3)return LUMINA_AUTH_LIST_V1;if(LUMINA_FETCHING)return null;LUMINA_FETCHING=!0x0,LUMINA_AUTH_META[_0x12d4ea(0x1d3)+_0x12d4ea(0x1b0)]=Date[_0x12d4ea(0x1e0)](),LUMINA_AUTH_META[_0x12d4ea(0x1b3)]='';try{const _0x18f471=LUMINA_REMOTE_URL+_0x12d4ea(0x1ee)+Date[_0x12d4ea(0x1e0)](),_0x7a65c6=await fetch(_0x18f471);try{LUMINA_AUTH_META[_0x12d4ea(0x18f)+'us']=_0x7a65c6&&_0x12d4ea(0x1c4)==typeof _0x7a65c6[_0x12d4ea(0x1ef)]?_0x7a65c6[_0x12d4ea(0x1ef)]:0x0;}catch(_0x4635f0){LUMINA_AUTH_META[_0x12d4ea(0x18f)+'us']=0x0;}const _0x44c726=(await _0x7a65c6[_0x12d4ea(0x1fa)]())[_0x12d4ea(0x1d7)](/\r?\n/);LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[];for(let _0x570264=0x0;_0x570264<_0x44c726[_0x12d4ea(0x1b6)];_0x570264++){const _0x186db5=_0x44c726[_0x570264][_0x12d4ea(0x1be)](),_0x7ac088=_0x186db5[_0x12d4ea(0x1dc)](/v1:([0-9a-fA-F]{64})/);_0x7ac088&&_0x7ac088[0x1]&&LUMINA_AUTH_LIST_V1[_0x12d4ea(0x1ce)](String(_0x7ac088[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());const _0x25d3c7=_0x186db5[_0x12d4ea(0x1dc)](/v2:([0-9a-fA-F]{64})/);_0x25d3c7&&_0x25d3c7[0x1]&&LUMINA_AUTH_LIST_V2[_0x12d4ea(0x1ce)](String(_0x25d3c7[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());const _0x518d5c=_0x186db5[_0x12d4ea(0x1dc)](/v3:([0-9a-fA-F]{64})/);_0x518d5c&&_0x518d5c[0x1]&&LUMINA_AUTH_LIST_V3[_0x12d4ea(0x1ce)](String(_0x518d5c[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());}Array[_0x12d4ea(0x1b4)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x12d4ea(0x19d)](_0x2e98cb=>{const _0x13f0ac=_0x12d4ea;if(_0x2e98cb&&_0x13f0ac(0x1ac)==typeof _0x2e98cb&&0x40===_0x2e98cb[_0x13f0ac(0x1b6)]){const _0x24d746=_0x2e98cb[_0x13f0ac(0x1a9)+_0x13f0ac(0x186)]();LUMINA_AUTH_LIST_V1[_0x13f0ac(0x17f)](_0x24d746)||LUMINA_AUTH_LIST_V1[_0x13f0ac(0x1ce)](_0x24d746);}}),Array[_0x12d4ea(0x1b4)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x12d4ea(0x19d)](_0x2f030d=>{const _0x13e08b=_0x12d4ea;if(_0x2f030d&&_0x13e08b(0x1ac)==typeof _0x2f030d&&0x40===_0x2f030d[_0x13e08b(0x1b6)]){const _0x21c23f=_0x2f030d[_0x13e08b(0x1a9)+_0x13e08b(0x186)]();LUMINA_AUTH_LIST_V3[_0x13e08b(0x17f)](_0x21c23f)||LUMINA_AUTH_LIST_V3[_0x13e08b(0x1ce)](_0x21c23f);}}),LUMINA_AUTH_META[_0x12d4ea(0x197)]=Date[_0x12d4ea(0x1e0)]();const _0x3bdbe7=Array[_0x12d4ea(0x1b4)](LUMINA_AUTH_LIST_V1)?LUMINA_AUTH_LIST_V1[_0x12d4ea(0x1b6)]:0x0,_0x465ea1=Array[_0x12d4ea(0x1b4)](LUMINA_AUTH_LIST_V2)?LUMINA_AUTH_LIST_V2[_0x12d4ea(0x1b6)]:0x0,_0x3c8215=Array[_0x12d4ea(0x1b4)](LUMINA_AUTH_LIST_V3)?LUMINA_AUTH_LIST_V3[_0x12d4ea(0x1b6)]:0x0;LUMINA_AUTH_META[_0x12d4ea(0x1b2)+'t']=_0x3bdbe7+_0x465ea1+_0x3c8215,_0x184478&&_0x184478();}catch(_0x40103b){LUMINA_AUTH_META[_0x12d4ea(0x1b3)]=_0x40103b&&_0x40103b[_0x12d4ea(0x1c2)]?String(_0x40103b[_0x12d4ea(0x1c2)]):String(_0x40103b),LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[],Array[_0x12d4ea(0x1b4)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x12d4ea(0x19d)](_0x38bab4=>{const _0x4d6420=_0x12d4ea;if(_0x38bab4&&_0x4d6420(0x1ac)==typeof _0x38bab4&&0x40===_0x38bab4[_0x4d6420(0x1b6)]){const _0x5ac55d=_0x38bab4[_0x4d6420(0x1a9)+_0x4d6420(0x186)]();LUMINA_AUTH_LIST_V1[_0x4d6420(0x17f)](_0x5ac55d)||LUMINA_AUTH_LIST_V1[_0x4d6420(0x1ce)](_0x5ac55d);}}),Array[_0x12d4ea(0x1b4)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x12d4ea(0x19d)](_0x4d2b80=>{const _0x43ac38=_0x12d4ea;if(_0x4d2b80&&_0x43ac38(0x1ac)==typeof _0x4d2b80&&0x40===_0x4d2b80[_0x43ac38(0x1b6)]){const _0x5473d8=_0x4d2b80[_0x43ac38(0x1a9)+_0x43ac38(0x186)]();LUMINA_AUTH_LIST_V3[_0x43ac38(0x17f)](_0x5473d8)||LUMINA_AUTH_LIST_V3[_0x43ac38(0x1ce)](_0x5473d8);}}),_0x184478&&_0x184478();}finally{LUMINA_FETCHING=!0x1;}return LUMINA_AUTH_LIST_V1;};const __s = (...a) => a.join('');
 const __b64 = (s) => {
   try {
     return (typeof atob === 'function') ? atob(s) : s;
@@ -134,6 +134,7 @@ class SensorDataCollector {
 
   collectBatteryData(config) {
     const mode = (config.battery_power_mode === 'charge_discharge') ? 'charge_discharge' : 'flow';
+    let flowId = null;
     // Optimized: pre-filter and cache trimmed values
     const bat_configs = [];
     const batSources = [
@@ -173,7 +174,7 @@ class SensorDataCollector {
     } else {
       // Optimized: cache type check to avoid repeated typeof operation
       const flowRaw = config.sensor_battery_flow;
-      const flowId = (flowRaw && typeof flowRaw === 'string') ? flowRaw.trim() : null;
+      flowId = (flowRaw && typeof flowRaw === 'string') ? flowRaw.trim() : null;
       if (flowId) {
         const flowState = this._hass.states[flowId];
         if (flowState && flowState.state !== 'unavailable') {
@@ -202,18 +203,40 @@ class SensorDataCollector {
       }
     }
 
-    // Optimized: single loop for SOC calculation
-    for (let i = 0; i < bat_configs.length; i++) {
-      const b = bat_configs[i];
+    // Per-battery SOC and power (index 0..3 for bat1..bat4)
+    const batSocs = [0, 0, 0, 0];
+    const batPowers = [0, 0, 0, 0];
+    const batVisible = [false, false, false, false];
+
+    for (let i = 0; i < batSources.length; i++) {
+      const b = batSources[i];
       if (b.soc && b.soc !== '') {
         const socState = this._hass.states[b.soc];
         if (socState && socState.state !== 'unavailable') {
-          total_soc += this.getStateSafe(b.soc);
-          soc_count++;
+          const s = this.getStateSafe(b.soc);
+          if (Number.isFinite(s)) {
+            batSocs[i] = Math.max(0, Math.min(100, s));
+            total_soc += s;
+            soc_count++;
+            batVisible[i] = true;
+          }
+        }
+      }
+      if (b.pow && b.pow !== '') {
+        const powState = this._hass.states[b.pow];
+        if (powState && powState.state !== 'unavailable') {
+          const p = this.getStateSafe(b.pow);
+          if (Number.isFinite(p)) {
+            batPowers[i] = p;
+            batVisible[i] = true;
+          }
         }
       }
     }
 
+    if (mode !== 'charge_discharge' && !flowId) {
+      total_bat_w = batPowers[0] + batPowers[1] + batPowers[2] + batPowers[3];
+    }
     if (!Number.isFinite(total_bat_w)) {
       total_bat_w = 0;
     }
@@ -223,7 +246,7 @@ class SensorDataCollector {
     let batteryChargeDaily = 0;
     let batteryDischargeDaily = 0;
 
-    return { total_bat_w, avg_soc, active_bat_count, soc_count, batteryChargeDaily, batteryDischargeDaily };
+    return { total_bat_w, avg_soc, active_bat_count, soc_count, batteryChargeDaily, batteryDischargeDaily, batSocs, batPowers, batVisible };
   }
 
   collectGridData(config) {
@@ -402,6 +425,10 @@ const DEFAULT_BATTERY_GEOMETRY = { X: 238, Y_BASE: 335, WIDTH: 76, MAX_HEIGHT: 8
 const DEFAULT_TEXT_POSITIONS = {
   solar: { x: 100, y: 156, rotate: -9.3, skewX: -13, skewY: 1, scaleX: 1, scaleY: 1 },
   battery: { x: 203, y: 332, rotate: -25, skewX: -30, skewY: 5, scaleX: 1, scaleY: 1.05 },
+  battery_1: { x: 203, y: 332, rotate: -25, skewX: -30, skewY: 5, scaleX: 1, scaleY: 1.05 },
+  battery_2: { x: 223, y: 378, rotate: -25, skewX: -30, skewY: 5, scaleX: 1, scaleY: 1.05 },
+  battery_3: { x: 287, y: 393, rotate: -25, skewX: -30, skewY: 5, scaleX: 1, scaleY: 1.05 },
+  battery_4: { x: 352, y: 408, rotate: -25, skewX: -30, skewY: 5, scaleX: 1, scaleY: 1.05 },
   home: { x: 428, y: 100, rotate: -9, skewX: -20, skewY: 3, scaleX: 1, scaleY: 1 },
   home_temperature: { x: 328, y: 66, rotate: 10, skewX: -20, skewY: 3, scaleX: 1, scaleY: 1 },
   grid: { x: 630, y: 112, rotate: -5.5, skewX: -16, skewY: -5, scaleX: 1, scaleY: 1 },
@@ -499,7 +526,7 @@ const clampValue = (value, min, max, fallback) => {
 // Helper function to get text positions from config or defaults
 // Optimized: flattened nested loops, cached prefix calculation
 const getTextPositions = (config) => {
-  const TEXT_TYPES = ['solar', 'battery', 'home', 'home_temperature', 'grid', 'heatPump', 'car1_label', 'car2_label', 'car1_power', 'car1_soc', 'car2_power', 'car2_soc'];
+  const TEXT_TYPES = ['solar', 'battery', 'battery_1', 'battery_2', 'battery_3', 'battery_4', 'home', 'home_temperature', 'grid', 'heatPump', 'car1_label', 'car2_label', 'car1_power', 'car1_soc', 'car2_power', 'car2_soc'];
   const TEXT_PROPERTIES = ['x', 'y', 'rotate', 'skewX', 'skewY', 'scaleX', 'scaleY'];
   const result = {};
   
@@ -516,9 +543,19 @@ const getTextPositions = (config) => {
       const def = defaults[prop];
       const v = Number(config[configKey]);
       const valid = Number.isFinite(v);
-      
+      const isBatteryRow = (type === 'battery_1' || type === 'battery_2' || type === 'battery_3' || type === 'battery_4');
       if (prop === 'scaleX' || prop === 'scaleY') {
-        typeResult[prop] = (valid && v > 0) ? v : def;
+        let baseScale = (valid && v > 0) ? v : def;
+        if (isBatteryRow && (type === 'battery_2' || type === 'battery_3' || type === 'battery_4')) {
+          const rowScaleKey = type === 'battery_2' ? 'battery_2_row_scale' : type === 'battery_3' ? 'battery_3_row_scale' : 'battery_4_row_scale';
+          const rs = Number(config[rowScaleKey]);
+          if (Number.isFinite(rs) && rs > 0) baseScale = baseScale * rs;
+        }
+        typeResult[prop] = baseScale;
+      } else if (isBatteryRow && (prop === 'x' || prop === 'y')) {
+        var useVal = (valid && v !== 0);
+        if (prop === 'y' && useVal && v < 300) useVal = false;
+        typeResult[prop] = useVal ? v : def;
       } else {
         typeResult[prop] = valid ? v : def;
       }
@@ -583,11 +620,16 @@ const getPopupPositions = (config) => {
 
 // SOC bar: 6 segments, positioned from path M 330,370 360,360 350,270 320,280 Z (bbox 325,277 30x85)
 const DEFAULT_SOC_BAR = { x: 327, y: 277, width: 30, height: 85, rotate: -3, skewX: -2, skewY: -14, opacity: 0.25, glow: 19, colorOn: '#00FFFF', colorOff: '#5aa7c3' };
-const getSocBarConfig = (config) => {
+const getSocBarConfig = (config, index) => {
   const n = (v, d) => (Number.isFinite(Number(v)) ? Number(v) : d);
+  const idx = index >= 1 && index <= 4 ? index : 0;
+  const xKey = idx ? `dev_soc_bar_${idx}_x` : 'dev_soc_bar_x';
+  const yKey = idx ? `dev_soc_bar_${idx}_y` : 'dev_soc_bar_y';
+  const baseX = idx ? n(config[xKey], DEFAULT_SOC_BAR.x + (idx - 1) * 35) : n(config.dev_soc_bar_x, DEFAULT_SOC_BAR.x);
+  const baseY = idx ? n(config[yKey], DEFAULT_SOC_BAR.y) : n(config.dev_soc_bar_y, DEFAULT_SOC_BAR.y);
   return {
-    x: n(config.dev_soc_bar_x, DEFAULT_SOC_BAR.x),
-    y: n(config.dev_soc_bar_y, DEFAULT_SOC_BAR.y),
+    x: baseX,
+    y: baseY,
     width: Math.max(10, n(config.dev_soc_bar_width, DEFAULT_SOC_BAR.width)),
     height: Math.max(20, n(config.dev_soc_bar_height, DEFAULT_SOC_BAR.height)),
     rotate: n(config.dev_soc_bar_rotate, DEFAULT_SOC_BAR.rotate),
@@ -711,7 +753,9 @@ const buildTextTransform = ({ x, y, rotate, skewX, skewY, scaleX, scaleY }, cach
   const sx = scaleX != null && scaleX !== 0 ? scaleX : 1;
   const sy = scaleY != null && scaleY !== 0 ? scaleY : 1;
   const scale = (sx !== 1 || sy !== 1) ? ` scale(${sx}, ${sy})` : '';
-  const transform = `translate(${x}, ${y}) rotate(${rotate})${scale} skewX(${skewX}) skewY(${skewY}) translate(-${x}, -${y})`;
+  const xN = Number(x);
+  const yN = Number(y);
+  const transform = `translate(${xN}, ${yN}) rotate(${rotate})${scale} skewX(${skewX}) skewY(${skewY}) translate(${-xN}, ${-yN})`;
   
   // Cache if provided
   if (cache) {
@@ -730,6 +774,37 @@ const buildTextTransform = ({ x, y, rotate, skewX, skewY, scaleX, scaleY }, cach
     }
   }
   
+  return transform;
+};
+
+// Transform builder for <g> groups (do NOT include translate(-x,-y)).
+// buildTextTransform is designed for elements that also set x/y attributes.
+const buildGroupTransform = ({ x, y, rotate, skewX, skewY, scaleX, scaleY }, cache = null) => {
+  const cacheKey = `g:${x}-${y}-${rotate}-${skewX}-${skewY}-${scaleX}-${scaleY}`;
+  if (cache && cache.has(cacheKey)) {
+    return cache.get(cacheKey);
+  }
+  const sx = scaleX != null && scaleX !== 0 ? scaleX : 1;
+  const sy = scaleY != null && scaleY !== 0 ? scaleY : 1;
+  const scale = (sx !== 1 || sy !== 1) ? ` scale(${sx}, ${sy})` : '';
+  const xN = Number(x);
+  const yN = Number(y);
+  const transform = `translate(${xN}, ${yN}) rotate(${rotate})${scale} skewX(${skewX}) skewY(${skewY})`;
+  if (cache) {
+    try {
+      cache.set(cacheKey, transform);
+      const cap = 256;
+      if (typeof cache.size === 'number' && cache.size > cap && typeof cache.keys === 'function' && typeof cache.delete === 'function') {
+        while (cache.size > cap) {
+          const it = cache.keys();
+          const k = it && typeof it.next === 'function' ? it.next().value : undefined;
+          cache.delete(k);
+        }
+      }
+    } catch (e) {
+      // ignore
+    }
+  }
   return transform;
 };
 
@@ -768,6 +843,18 @@ const PRESET_PATHS = {
 };
 
 const SVG_DIMENSIONS = { width: 800, height: 450 };
+function _clientToViewBox(clientX, clientY, rect, vb) {
+  var w = vb.w || SVG_DIMENSIONS.width;
+  var h = vb.h || SVG_DIMENSIONS.height;
+  var rw = rect.width || 1;
+  var rh = rect.height || 1;
+  var scale = Math.min(rw / w, rh / h);
+  var offsetX = (rw - w * scale) / 2;
+  var offsetY = (rh - h * scale) / 2;
+  var vx = (vb.x != null ? vb.x : 0) + (clientX - (rect.left || 0) - offsetX) / scale;
+  var vy = (vb.y != null ? vb.y : 0) + (clientY - (rect.top || 0) - offsetY) / scale;
+  return { x: vx, y: vy };
+}
 const DEBUG_GRID_SPACING = 25;
 const DEBUG_GRID_MAJOR_SPACING = 100;
 const DEBUG_GRID_MINOR_COLOR = 'rgba(255, 255, 255, 0.25)';
@@ -1385,7 +1472,7 @@ class LuminaEnergyCard extends HTMLElement {
     // Preserve custom images/config when incoming config doesn't provide them (e.g. partial update)
     if (this.config && typeof this.config === 'object') {
       const imageKeys = [
-        'background_image', 'background_image_x', 'background_image_y', 'background_image_heat_pump',
+        'background_image', 'background_image_night', 'background_image_x', 'background_image_y', 'background_image_heat_pump',
         'battery_overlay_image', 'battery_overlay_enabled'
       ];
       for (let i = 1; i <= 10; i++) {
@@ -1985,6 +2072,11 @@ class LuminaEnergyCard extends HTMLElement {
     // Solar forecast (optional feature)
     if (cfg.solar_forecast_enabled === true) {
       add(cfg.sensor_solar_forecast);
+      add(cfg.weather_rain_entity);
+    }
+    // Day/Night background: subscribe to sun entity
+    if (cfg.night_mode_enabled === true && cfg.sensor_sun_entity) {
+      add(cfg.sensor_sun_entity);
     }
 
     // Custom texts with sensors (optional)
@@ -2261,6 +2353,53 @@ class LuminaEnergyCard extends HTMLElement {
       soc_bar_glow: 19,
       soc_bar_color_on: '#00FFFF',
       soc_bar_color_off: '#5aa7c3',
+      dev_soc_bar_1_x: 327,
+      dev_soc_bar_1_y: 277,
+      dev_soc_bar_2_x: 362,
+      dev_soc_bar_2_y: 277,
+      dev_soc_bar_3_x: 397,
+      dev_soc_bar_3_y: 277,
+      dev_soc_bar_4_x: 432,
+      dev_soc_bar_4_y: 277,
+      dev_text_battery_1_x: 203,
+      dev_text_battery_1_y: 332,
+      dev_text_battery_1_rotate: -25,
+      dev_text_battery_1_skewX: -30,
+      dev_text_battery_1_skewY: 5,
+      dev_text_battery_1_scaleX: 1,
+      dev_text_battery_1_scaleY: 1.05,
+      dev_text_battery_2_x: 223,
+      dev_text_battery_2_y: 378,
+      dev_text_battery_2_rotate: -25,
+      dev_text_battery_2_skewX: -30,
+      dev_text_battery_2_skewY: 5,
+      dev_text_battery_2_scaleX: 1,
+      dev_text_battery_2_scaleY: 1.05,
+      dev_text_battery_3_x: 287,
+      dev_text_battery_3_y: 393,
+      dev_text_battery_3_rotate: -25,
+      dev_text_battery_3_skewX: -30,
+      dev_text_battery_3_skewY: 5,
+      dev_text_battery_3_scaleX: 1,
+      dev_text_battery_3_scaleY: 1.05,
+      dev_text_battery_4_x: 352,
+      dev_text_battery_4_y: 408,
+      dev_text_battery_4_rotate: -25,
+      dev_text_battery_4_skewX: -30,
+      dev_text_battery_4_skewY: 5,
+      dev_text_battery_4_scaleX: 1,
+      dev_text_battery_4_scaleY: 1.05,
+
+      // Mini battery icon (batteries 2-4): scale + offsets inside battery-row group
+      dev_mini_battery_2_scale: 0.7,
+      dev_mini_battery_2_offset_x: -2,
+      dev_mini_battery_2_offset_y: 4,
+      dev_mini_battery_3_scale: 0.7,
+      dev_mini_battery_3_offset_x: -2,
+      dev_mini_battery_3_offset_y: 4,
+      dev_mini_battery_4_scale: 0.7,
+      dev_mini_battery_4_offset_x: -2,
+      dev_mini_battery_4_offset_y: 4,
       battery_overlay_enabled: false,
       battery_overlay_image: '/local/community/lumina-energy-card/battery.png',
       battery_overlay_x: 227,
@@ -2366,6 +2505,7 @@ class LuminaEnergyCard extends HTMLElement {
       solar_forecast_y: 400,
       solar_forecast_color: '#00FFFF',
       solar_forecast_size: 16,
+      weather_rain_entity: null,
       text_font_size: 12, // Unified font size for all text elements
       header_font_size: 16,
       daily_label_font_size: 12,
@@ -2378,6 +2518,12 @@ class LuminaEnergyCard extends HTMLElement {
       battery_power_font_size: 12,
       battery_font_size: 12,
       battery_text_color: '#00f9f9',
+      battery_2_text_color: '',
+      battery_3_text_color: '',
+      battery_4_text_color: '',
+      battery_2_row_scale: 1,
+      battery_3_row_scale: 1,
+      battery_4_row_scale: 1,
       load_font_size: 12,
       house_font_size: 12,
       house_text_color: '#00f9f9',
@@ -2386,6 +2532,8 @@ class LuminaEnergyCard extends HTMLElement {
       grid_text_color: '#00f9f9',
       car_font_size: 12,
       car_text_color: '#00f9f9',
+      car1_text_color: '',
+      car2_text_color: '',
       car_power_font_size: 12,
       car_soc_font_size: 12,
       car2_power_font_size: 12,
@@ -2396,6 +2544,10 @@ class LuminaEnergyCard extends HTMLElement {
       animation_style: 'shimmer',
       image_style: 'holographic', // 'holographic' | 'real' — first choice in installation type
       installation_type: '1', // '1' = PV + Auto, '2' = PV senza Auto, '3' = No PV No Auto
+      night_mode_enabled: false,
+      background_image_night: '/local/community/lumina-energy-card/night.png',
+      sensor_sun_entity: 'sun.sun',
+      night_mode_override: false,
             sensor_pv_total: '',
           sensor_pv_total_secondary: '',
       sensor_pv1: '',
@@ -2438,6 +2590,7 @@ class LuminaEnergyCard extends HTMLElement {
       pv_string_array2_9_color: '#80ffff',
       load_flow_color: '#0080ff',
       load_text_color: '#00f1f2',
+      house_consumption_text_color: '',
       inv1_color: '#0080ff',
       inv2_color: '#80ffff',
       load_threshold_warning: null,
@@ -6318,8 +6471,8 @@ class LuminaEnergyCard extends HTMLElement {
     
     // Extract sensor data for easier access
     const {
-      pvStringIds, pvStringValues, pvArray2Ids, pvArray2Values, pv_primary_w, pv_secondary_w, total_pv_w,
-      total_bat_w, avg_soc, batteryChargeDaily, batteryDischargeDaily,
+      pvStringIds, pvStringValues, pvTotalFromStrings, pvArray2Ids, pvArray2Values, pvArray2TotalFromStrings, pv_primary_w, pv_secondary_w, total_pv_w,
+      total_bat_w, avg_soc, batteryChargeDaily, batteryDischargeDaily, batSocs, batPowers, batVisible,
       gridNet, gridImport, gridExport, gridImportDaily, gridExportDaily,
       gridDirection, gridMagnitude, gridActive, hasCombinedGrid,
       gridActivityThreshold, gridWarningThreshold, gridCriticalThreshold, use_kw,
@@ -6438,9 +6591,11 @@ class LuminaEnergyCard extends HTMLElement {
       popupHouseNames[i] = trimmedName || this.getEntityName(sensorId);
     }
 
-    // Display settings: single background always (no heat-pump–specific image)
+    // Display settings: single background always (no heat-pump–specific image). Day/Night: use resolver when available (giornonotte module).
     const defaultBg = '/local/community/lumina-energy-card/lumina_background1.png';
-    const bg_img = (config.installation_type === '4') ? (config.background_image || '') : (config.background_image || defaultBg);
+    const bg_img = (typeof this._getResolvedDayNightBackground_ === 'function')
+      ? this._getResolvedDayNightBackground_(config, this._hass)
+      : ((config.installation_type === '4') ? (config.background_image || '') : (config.background_image || defaultBg));
     // Optimized: cache trim result to avoid repeated calls
     const cardTitleRaw = config.card_title;
     const title_text = (typeof cardTitleRaw === 'string' && cardTitleRaw.trim()) ? cardTitleRaw.trim() : null;
@@ -6474,6 +6629,10 @@ class LuminaEnergyCard extends HTMLElement {
     const battery_soc_font_size = num(config.battery_soc_font_size) ?? num(config.battery_font_size) ?? unified_font_size;
     const battery_power_font_size = num(config.battery_power_font_size) ?? num(config.battery_font_size) ?? unified_font_size;
     const battery_font_size = num(config.battery_font_size) ?? unified_font_size;
+    const battery_1_font_size = num(config.battery_1_font_size) ?? battery_font_size;
+    const battery_2_font_size = num(config.battery_2_font_size) ?? battery_font_size;
+    const battery_3_font_size = num(config.battery_3_font_size) ?? battery_font_size;
+    const battery_4_font_size = num(config.battery_4_font_size) ?? battery_font_size;
     const load_font_size = num(config.load_font_size) ?? num(config.house_font_size) ?? unified_font_size;
     const heat_pump_font_size = num(config.heat_pump_font_size) ?? unified_font_size;
     const grid_font_size = num(config.grid_font_size) ?? unified_font_size;
@@ -6642,9 +6801,14 @@ class LuminaEnergyCard extends HTMLElement {
     const pvTextColor = resolveColor(config.pv_text_color, '#00f9f9');
     const pvSecondaryTextColor = resolveColor(config.pv_secondary_text_color, pvSecondaryColor || '#00f9f9');
     const batteryTextColor = resolveColor(config.battery_text_color, PEARL_WHITE);
+    const battery2TextColor = resolveColor(config.battery_2_text_color, batteryTextColor);
+    const battery3TextColor = resolveColor(config.battery_3_text_color, batteryTextColor);
+    const battery4TextColor = resolveColor(config.battery_4_text_color, batteryTextColor);
     const gridTextColor = resolveColor(config.grid_text_color, '#00f9f9');
     const houseTextColor = resolveColor(config.house_text_color, PEARL_WHITE);
     const carTextColor = resolveColor(config.car_text_color, PEARL_WHITE);
+    const car1TextColor = resolveColor(config.car1_text_color || config.car_text_color, carTextColor);
+    const car2TextColor = resolveColor(config.car2_text_color || config.car_text_color, carTextColor);
     const loadMagnitude = Math.abs(houseTotalLoad);
     const effectiveLoadFlowColor = (() => {
       if (loadCriticalColor && loadCriticalThreshold !== null && loadMagnitude >= loadCriticalThreshold) {
@@ -6814,17 +6978,22 @@ class LuminaEnergyCard extends HTMLElement {
     // Flusso inverter→casa: visibile quando l'inverter sta davvero alimentando la casa.
     // - In import: inverter_to_house = max(0, carico_casa - import_rete). Es. casa 2 kW, rete 1 kW → 1 kW da inverter.
     // - In export: la casa è alimentata da FV/batteria → mostriamo il flusso se c'è carico.
+    // Convenzione per la formula: negativo = export. Con sensori import/export + invert_grid, gridNet è (export-import) quindi positivo in export; usiamo -gridNet per ripristinare la convenzione.
+    const gridNetForFlow = (config.invert_grid && !hasCombinedGrid) ? (gridNet != null ? -gridNet : gridNet) : gridNet;
     const houseLoad = Number.isFinite(houseTotalLoad) ? houseTotalLoad : 0;
     const gridImp = Number.isFinite(gridImport) ? Math.max(0, gridImport) : 0;
-    const inverterToHouseW = (gridNet != null && gridNet < 0)
+    const inverterToHouseW = (gridNetForFlow != null && gridNetForFlow < 0)
       ? houseLoad
       : Math.max(0, houseLoad - gridImp);
     // Con House o Inverter: mostra anche inverter→casa quando c'è FV o batteria (oltre alla logica carico - import).
     const loadFlowActive = inverterToHouseW > thrLoad ||
       ((gridFlowTargetRaw === 'house' || gridFlowTargetRaw === 'inverter') && (pv_primary_w > flowThrA1 || pv_secondary_w > flowThrA2 || Math.abs(total_bat_w) > thrBat));
+    // PV flow: when sensor_pv_total is used, it may stay stale at night; if we have string sensors, require their sum above threshold too so flow stops when all strings are 0.
+    const pv1FlowActive = (pv_primary_w > flowThrA1) && (pvStringIds.length === 0 || (Number(pvTotalFromStrings) || 0) > flowThrA1);
+    const pv2FlowActive = (pv_secondary_w > flowThrA2) && (pvArray2Ids.length === 0 || (Number(pvArray2TotalFromStrings) || 0) > flowThrA2);
     const flows = {
-      pv1: { stroke: pvPrimaryColor, glowColor: pvPrimaryColor, active: pv_primary_w > flowThrA1 },
-      pv2: { stroke: pvSecondaryColor, glowColor: pvSecondaryColor, active: pv_secondary_w > flowThrA2 },
+      pv1: { stroke: pvPrimaryColor, glowColor: pvPrimaryColor, active: pv1FlowActive },
+      pv2: { stroke: pvSecondaryColor, glowColor: pvSecondaryColor, active: pv2FlowActive },
       bat: { stroke: bat_col, glowColor: bat_col, active: Math.abs(total_bat_w) > thrBat, direction: batteryDirectionSign },
       load: { stroke: effectiveLoadFlowColor, glowColor: effectiveLoadFlowColor, active: loadFlowActive, direction: (loadInvertFlow ? -1 : 1) },
       grid: { stroke: effectiveGridColor, glowColor: effectiveGridColor, active: gridActiveForGrid, direction: gridAnimationDirection },
@@ -7027,14 +7196,16 @@ class LuminaEnergyCard extends HTMLElement {
 
         const staticText = config[`custom_text_${i}_text`] || '';
         const sensorId = config[`custom_text_${i}_sensor`];
+        const hasText = typeof staticText === 'string' && staticText.trim() !== '';
+        const hasSensor = sensorId && typeof sensorId === 'string' && sensorId.trim() !== '';
+        if (!hasText && !hasSensor) continue;
+
         let displayText = staticText;
 
         if (sensorId && typeof sensorId === 'string' && sensorId.trim()) {
-          const sensorState = this._hass && this._hass.states ? this._hass.states[sensorId.trim()] : null;
-          if (sensorState && sensorState.state != null && sensorState.state !== undefined) {
-            const unit = sensorState.attributes && sensorState.attributes.unit_of_measurement ? String(sensorState.attributes.unit_of_measurement) : '';
-            const spaceUnit = unit ? ' ' + unit : '';
-            displayText = staticText ? `${staticText}: ${sensorState.state}${spaceUnit}` : `${sensorState.state}${spaceUnit}`;
+          const formatted = this.formatPopupValue(null, sensorId.trim());
+          if (formatted !== '') {
+            displayText = staticText ? `${staticText}: ${formatted}` : formatted;
           } else {
             displayText = staticText || (sensorId ? '—' : '');
           }
@@ -7102,7 +7273,16 @@ class LuminaEnergyCard extends HTMLElement {
             else if (percentage >= 30) sunStatus = dict.medium;
             else sunStatus = dict.low;
             displayText = `${this.formatPower(powerWatts, use_kw)} - ${sunStatus}`;
-            isRain = powerWatts < 1000;
+            // Show rain only when forecast is low but non-zero (100–1000 W). At night (0 or very low) do not show rain
+            isRain = powerWatts >= 100 && powerWatts < 1000;
+          }
+          // If weather entity (e.g. met.no) is configured, use it for rain icon: real rain = show rain animation
+          const weatherEntityId = config.weather_rain_entity && typeof config.weather_rain_entity === 'string' ? config.weather_rain_entity.trim() : '';
+          if (weatherEntityId && this._hass && this._hass.states && this._hass.states[weatherEntityId]) {
+            const weatherState = this._hass.states[weatherEntityId];
+            const cond = (weatherState.state && String(weatherState.state).toLowerCase()) || '';
+            const rainConditions = ['rainy', 'pouring', 'lightning-rainy', 'snowy-rainy'];
+            isRain = rainConditions.includes(cond);
           }
           // Always create _solarForecastData when enabled and sensor configured - icon always visible
           this._solarForecastData = {
@@ -7132,8 +7312,8 @@ class LuminaEnergyCard extends HTMLElement {
       }
     }
 
-    const car1View = buildCarView(showCar1, car1Label, car1PowerValue, car1SocValue, car1Transforms, carLayout.car1, car_name_font_size, car_power_font_size, car_soc_font_size, carTextColor, carTextColor, car1SocColor);
-    const car2View = buildCarView(showCar2, car2Label, car2PowerValue, car2SocValue, car2Transforms, carLayout.car2, car2_name_font_size, car2_power_font_size, car2_soc_font_size, carTextColor, carTextColor, car2SocColor);
+    const car1View = buildCarView(showCar1, car1Label, car1PowerValue, car1SocValue, car1Transforms, carLayout.car1, car_name_font_size, car_power_font_size, car_soc_font_size, car1TextColor, car1TextColor, car1SocColor);
+    const car2View = buildCarView(showCar2, car2Label, car2PowerValue, car2SocValue, car2Transforms, carLayout.car2, car2_name_font_size, car2_power_font_size, car2_soc_font_size, car2TextColor, car2TextColor, car2SocColor);
     const gridValueText = this.formatPower(Math.abs(gridNet), use_kw);
 
     // Overlay images (up to 10)
@@ -7210,17 +7390,46 @@ class LuminaEnergyCard extends HTMLElement {
       socBar: (() => {
         const soc = Number(avg_soc);
         const safeSoc = Number.isFinite(soc) && soc >= 0 && soc <= 100 ? soc : 0;
-        const base = getSocBarConfig(config);
+        const base = getSocBarConfig(config, 0);
         const scaled = (batteryOverlay && batteryOverlay.enabled) ? scaleSocBarToBatteryOverlay(base, batteryOverlay) : base;
         return { visible: (!hidePvAndBattery && batteryOverlay.enabled), soc: safeSoc, ...scaled };
       })(),
-      batterySoc: { text: hideBatteryUi ? '' : `${Math.floor(avg_soc)}%`, fontSize: battery_font_size, fill: batteryTextColor, visible: !hideBatteryUi },
-      batteryPower: { text: hideBatteryUi ? '' : this.formatPower(Math.abs(total_bat_w), use_kw), fontSize: battery_font_size, fill: batteryTextColor, visible: !hideBatteryUi },
+      socBars: (() => {
+        const bVis = batVisible || [false, false, false, false];
+        const bSocs = batSocs || [0, 0, 0, 0];
+        return [0, 1, 2, 3].map((i) => {
+          const base = getSocBarConfig(config, i + 1);
+          const scaled = (i === 0 && batteryOverlay && batteryOverlay.enabled) ? scaleSocBarToBatteryOverlay(base, batteryOverlay) : base;
+          const visible = !hidePvAndBattery && Boolean(bVis[i]);
+          const safeSoc = Number.isFinite(bSocs[i]) ? Math.max(0, Math.min(100, bSocs[i])) : 0;
+          return { visible, soc: safeSoc, ...scaled };
+        });
+      })(),
+      batterySoc: { text: hideBatteryUi ? '' : `${Math.floor(avg_soc)}%`, fontSize: battery_1_font_size, fill: batteryTextColor, visible: !hideBatteryUi },
+      batteryPower: { text: hideBatteryUi ? '' : this.formatPower(Math.abs(total_bat_w), use_kw), fontSize: battery_1_font_size, fill: batteryTextColor, visible: !hideBatteryUi },
+      batteryDisplays: (() => {
+        const bVis = batVisible || [false, false, false, false];
+        const bSocs = batSocs || [0, 0, 0, 0];
+        const bPows = batPowers || [0, 0, 0, 0];
+        const hasMainBatteryOnly = bVis.every((v) => !v) && (avg_soc > 0 || total_bat_w !== 0);
+        return [0, 1, 2, 3].map((i) => {
+          const useMainForRow0 = i === 0 && hasMainBatteryOnly && !bVis[0];
+          return {
+            visible: !hideBatteryUi && (Boolean(bVis[i]) || (i === 0 && hasMainBatteryOnly)),
+            socText: useMainForRow0 ? `${Math.floor(avg_soc)}%` : `${Math.floor(bSocs[i] || 0)}%`,
+            powerText: useMainForRow0 ? this.formatPower(Math.abs(total_bat_w), use_kw) : this.formatPower(Math.abs(bPows[i] || 0), use_kw),
+            fill: (i === 1 ? battery2TextColor : i === 2 ? battery3TextColor : i === 3 ? battery4TextColor : batteryTextColor),
+            fontSize: (i === 0 ? battery_1_font_size : i === 1 ? battery_2_font_size : i === 2 ? battery_3_font_size : battery_4_font_size)
+          };
+        });
+      })(),
       battery: { fill: liquid_fill, isCharging: (invertBattery ? total_bat_w < 0 : total_bat_w > 0) },
       load: (() => {
         const hasLoadSensor = Boolean((config.sensor_home_load && typeof config.sensor_home_load === 'string' && config.sensor_home_load.trim()) || (config.sensor_home_load_secondary && typeof config.sensor_home_load_secondary === 'string' && config.sensor_home_load_secondary.trim()));
         const loadFontSize = load_font_size;
-        const loadTextColor = resolveColor(config.load_text_color, '#00f1f2');
+        const houseColor = (config.house_text_color && String(config.house_text_color).trim()) ? config.house_text_color : null;
+        const consumptionColor = (config.house_consumption_text_color && String(config.house_consumption_text_color).trim()) ? config.house_consumption_text_color : null;
+        const loadTextColor = resolveColor(houseColor || consumptionColor || config.load_text_color, '#00f1f2');
         const base = (loadLines && loadLines.length) ? { lines: loadLines.map(l => ({ ...l, fill: loadTextColor })), y: loadY, fontSize: loadFontSize, fill: loadTextColor } : { text: this.formatPower(houseTotalLoad, use_kw), fontSize: loadFontSize, fill: loadTextColor };
         return { ...base, visible: hasLoadSensor };
       })(),
@@ -7466,6 +7675,15 @@ class LuminaEnergyCard extends HTMLElement {
     
     // Get dynamic positions from config
     const TEXT_POSITIONS = getTextPositions(config);
+    // Batterie 2,3,4: forzare sotto il testo batteria 1 se la config ha y in alto (evita "appaiono in alto")
+    [ 'battery_2', 'battery_3', 'battery_4' ].forEach(function (key) {
+      if (TEXT_POSITIONS[key] && (TEXT_POSITIONS[key].y == null || TEXT_POSITIONS[key].y < 350)) {
+        var def = DEFAULT_TEXT_POSITIONS[key];
+        if (def) {
+          TEXT_POSITIONS[key] = Object.assign({}, TEXT_POSITIONS[key], { x: def.x, y: def.y });
+        }
+      }
+    });
     const POPUP_POSITIONS = getPopupPositions(config);
 
     // Reduce arrow count on low-power profiles; and avoid creating arrow DOM when not used
@@ -7477,6 +7695,10 @@ class LuminaEnergyCard extends HTMLElement {
     const TEXT_TRANSFORMS = {
       solar: buildTextTransform(TEXT_POSITIONS.solar),
       battery: buildTextTransform(TEXT_POSITIONS.battery),
+      battery_1: buildGroupTransform(TEXT_POSITIONS.battery_1),
+      battery_2: buildGroupTransform(TEXT_POSITIONS.battery_2),
+      battery_3: buildGroupTransform(TEXT_POSITIONS.battery_3),
+      battery_4: buildGroupTransform(TEXT_POSITIONS.battery_4),
       home: buildTextTransform(TEXT_POSITIONS.home),
       home_temperature: buildTextTransform(TEXT_POSITIONS.home_temperature),
       grid: buildTextTransform(TEXT_POSITIONS.grid),
@@ -7616,6 +7838,11 @@ class LuminaEnergyCard extends HTMLElement {
     if (!isPreviewCard && hasConfiguredEntities && !this._textsVisibleUserTouched) {
       shouldShowTexts = true;
       shouldShowBoxes = true;
+      // When storage key changed (e.g. after config save), persisted value may be missing so _textsVisible stays 2: default to visible so consumption/grid values stay shown
+      if (this._textsVisible === 2) {
+        this._textsVisible = 0;
+        if (typeof this._saveTextsVisibleToStorage === 'function') this._saveTextsVisibleToStorage();
+      }
     }
     // Preview (drag) always show custom texts when present, so user can see them while editing
     if (isPreviewCard && hasConfiguredEntities) {
@@ -7757,6 +7984,13 @@ class LuminaEnergyCard extends HTMLElement {
         @keyframes pulse-cyan-round { 0%, 100% { box-shadow: 0 0 4px rgba(0,255,255,0.4), 0 0 12px rgba(0,255,255,0.25); } 50% { box-shadow: 0 0 10px rgba(0,255,255,0.6), 0 0 20px rgba(0,255,255,0.35); } }
         @keyframes soc-bar-pulse { 0% { opacity: 0.9; transform: scale(1); } 50% { opacity: 1; transform: scale(1.05); } 100% { opacity: 0.9; transform: scale(1); } }
         .soc-bar-pulse { animation: soc-bar-pulse 1.5s infinite ease-in-out; }
+        .lumina-mini-battery { filter: drop-shadow(0 1px 3px rgba(0,0,0,0.4)); }
+        .lumina-mini-battery__body { fill: rgba(30,40,50,0.85); stroke: rgba(255,255,255,0.5); stroke-width: 1; transition: stroke 0.2s ease; }
+        .lumina-mini-battery__terminal { fill: rgba(45,55,65,0.9); stroke: rgba(255,255,255,0.45); stroke-width: 1; transition: stroke 0.2s ease; }
+        .lumina-mini-battery__fill { transition: height 0.5s cubic-bezier(0.4,0,0.2,1), y 0.5s cubic-bezier(0.4,0,0.2,1), fill 0.3s ease; }
+        .lumina-mini-battery__fill-cap { fill: rgba(255,255,255,0.25); }
+        .lumina-mini-battery--low .lumina-mini-battery__fill { animation: mini-battery-pulse-low 2s ease-in-out infinite; }
+        @keyframes mini-battery-pulse-low { 0%, 100% { opacity: 1; } 50% { opacity: 0.8; } }
         .alive-box { animation: pulse-cyan 3s infinite ease-in-out; stroke: #00FFFF; stroke-width: 2px; fill: #001428; filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.6)) drop-shadow(0 0 8px rgba(0, 255, 255, 0.3)); }
         /* Grid/PV info boxes: no glow / no animation */
         .lumina-info-box { animation: none; stroke: rgba(0, 249, 249, 0.9); stroke-width: 2px; fill: rgba(0, 20, 40, 0.85); filter: none; }
@@ -8153,9 +8387,11 @@ class LuminaEnergyCard extends HTMLElement {
           </g>`;
           })()}
 
-          ${viewState.customTexts.map(ct => `
-          <text data-role="custom-text-${ct.id}" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${ct.x}" y="${ct.y}" ${ct.transform ? `transform="${ct.transform}"` : ''} fill="${ct.color}" font-size="${ct.size}" style="font-family: Arial, sans-serif; text-anchor: middle; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${ct.text}</text>
-          `).join('')}
+          ${[1,2,3,4,5,6,7,8,9,10].map((i) => {
+            const ct = viewState.customTexts && viewState.customTexts.find((c) => c.id === i);
+            if (!ct) return `<text data-role="custom-text-${i}" x="0" y="0" fill="#00f9f9" font-size="16" style="display:none; pointer-events: none;"> </text>`;
+            return `<text data-role="custom-text-${i}" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${ct.x}" y="${ct.y}" ${ct.transform ? `transform="${ct.transform}"` : ''} fill="${ct.color}" font-size="${ct.size}" style="font-family: Arial, sans-serif; text-anchor: middle; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${ct.text}</text>`;
+          }).join('')}
 
           ${pvLineElements}
 
@@ -8169,9 +8405,53 @@ class LuminaEnergyCard extends HTMLElement {
             style="opacity:${(viewState.batteryOverlay && Number.isFinite(Number(viewState.batteryOverlay.opacity))) ? viewState.batteryOverlay.opacity : 1.0}; display:${(viewState.batteryOverlay && viewState.batteryOverlay.enabled && viewState.batteryOverlay.image && !viewState.hidePvAndBattery) ? 'inline' : 'none'}; pointer-events:none;"
             preserveAspectRatio="none" />
 
-          <text data-role="battery-soc" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.battery.x}" y="${TEXT_POSITIONS.battery.y}" transform="${TEXT_TRANSFORMS.battery}" fill="${viewState.batterySoc.fill || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${viewState.batterySoc.fontSize}" font-weight="bold" letter-spacing="2px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; display:${viewState.batterySoc.visible !== false ? 'inline' : 'none'}">${viewState.batterySoc.text}</text>
+          <!-- Battery 1: come in 3.1.2 — due <text> con x, y, transform sull'elemento (nessun gruppo) -->
+          <text data-role="battery-soc" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.battery.x}" y="${TEXT_POSITIONS.battery.y}" transform="${TEXT_TRANSFORMS.battery}" fill="${(viewState.batterySoc && viewState.batterySoc.fill) || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${(viewState.batterySoc && viewState.batterySoc.fontSize) || 12}" font-weight="bold" letter-spacing="2px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; display:${(viewState.batterySoc && viewState.batterySoc.visible !== false) ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${(viewState.batterySoc && viewState.batterySoc.text) || ''}</text>
+          <text data-role="battery-power" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.battery.x}" y="${TEXT_POSITIONS.battery.y + 20}" transform="${TEXT_TRANSFORMS.battery}" fill="${(viewState.batteryPower && viewState.batteryPower.fill) || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${(viewState.batteryPower && viewState.batteryPower.fontSize) || 12}" font-weight="bold" letter-spacing="3px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; display:${(viewState.batteryPower && viewState.batteryPower.visible !== false) ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${(viewState.batteryPower && viewState.batteryPower.text) || ''}</text>
 
-          <text data-role="battery-power" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.battery.x}" y="${TEXT_POSITIONS.battery.y + 20}" transform="${TEXT_TRANSFORMS.battery}" fill="${viewState.batteryPower.fill || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${viewState.batteryPower.fontSize}" font-weight="bold" letter-spacing="3px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; display:${viewState.batteryPower.visible !== false ? 'inline' : 'none'}">${viewState.batteryPower.text}</text>
+          ${(function() {
+            const makeFluidSvg = (suffix, socPct) => {
+              const fluidH = Math.max(0, Math.min(94, 94 * (socPct / 100)));
+              const fluidY = 122 - fluidH;
+              return '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 130" width="28" height="36" x="0" y="0" style="overflow:visible;display:inline-block;vertical-align:middle">' +
+                '<defs><linearGradient id="metal_body' + suffix + '" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#aaaaaa"/><stop offset="20%" stop-color="#dddddd"/><stop offset="50%" stop-color="#ffffff"/><stop offset="80%" stop-color="#dddddd"/><stop offset="100%" stop-color="#aaaaaa"/></linearGradient>' +
+                '<linearGradient id="energy_fluid' + suffix + '" x1="0%" y1="100%" x2="0%" y2="0%"><stop offset="0%" stop-color="#00C853"/><stop offset="50%" stop-color="#69F0AE"/><stop offset="100%" stop-color="#00E676"/></linearGradient>' +
+                '<filter id="glow_effect' + suffix + '" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3.5" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>' +
+                '<mask id="fluid_mask' + suffix + '"><rect x="18" y="28" width="64" height="94" rx="8" fill="white" /></mask></defs>' +
+                '<rect x="38" y="8" width="24" height="12" rx="3" fill="url(#metal_body' + suffix + ')" stroke="#999" stroke-width="0.5"/>' +
+                '<rect x="42" y="10" width="16" height="4" rx="1" fill="#fff" opacity="0.6"/>' +
+                '<rect x="15" y="20" width="70" height="106" rx="10" fill="url(#metal_body' + suffix + ')" stroke="#999" stroke-width="1"/>' +
+                '<rect x="20" y="25" width="20" height="96" rx="5" fill="#fff" opacity="0.3"/>' +
+                '<rect x="18" y="28" width="64" height="94" rx="8" fill="#222" stroke="#444" stroke-width="1"/>' +
+                '<g mask="url(#fluid_mask' + suffix + ')"><rect x="18" y="' + fluidY + '" width="64" height="' + fluidH + '" rx="0" fill="url(#energy_fluid' + suffix + ')"/></g>' +
+                '<path d="M58,45 L40,75 L52,75 L46,105 L64,65 L50,65 Z" fill="#FFEA00" stroke="#F9A825" stroke-width="1" filter="url(#glow_effect' + suffix + ')"><animate attributeName="opacity" values="0.5; 1; 0.5" dur="2s" repeatCount="indefinite"/></path>' +
+                '<path d="M25,35 Q50,25 75,35" stroke="#fff" stroke-width="3" fill="none" opacity="0.2" stroke-linecap="round"/></svg>';
+            };
+            let html = '';
+            for (let i = 1; i <= 3; i++) {
+              const tf = TEXT_TRANSFORMS['battery_' + (i + 1)] || TEXT_TRANSFORMS.battery;
+              const d = (viewState.batteryDisplays && viewState.batteryDisplays[i]) || {};
+              const fill = (d && d.fill) || PEARL_WHITE;
+              const fs = (d && d.fontSize) || (viewState.batterySoc && viewState.batterySoc.fontSize) || 12;
+              const vis = d && d.visible !== false;
+              const sb = (viewState.socBars && viewState.socBars[i]) || {};
+              const socPct = Number.isFinite(Number(sb.soc)) ? Math.max(0, Math.min(100, Number(sb.soc))) : 0;
+              const suffix = '_' + (i + 1);
+              const n = (i + 1);
+              let miniScale = Number(config && config['dev_mini_battery_' + n + '_scale']);
+              if (!Number.isFinite(miniScale) || miniScale <= 0) miniScale = 1;
+              let miniDx = Number(config && config['dev_mini_battery_' + n + '_offset_x']);
+              let miniDy = Number(config && config['dev_mini_battery_' + n + '_offset_y']);
+              if (!Number.isFinite(miniDx)) miniDx = 0;
+              if (!Number.isFinite(miniDy)) miniDy = 0;
+              const miniTf = 'translate(' + (-38 + miniDx) + ', ' + (-17 + miniDy) + ') scale(' + miniScale + ')';
+              html += '<g data-role="battery-row-' + (i + 1) + '" transform="' + tf + '" style="display:' + (vis ? 'inline' : 'none') + '">' +
+                '<g data-role="mini-battery-' + (i + 1) + '" class="lumina-mini-battery" transform="' + miniTf + '" style="pointer-events:none">' + makeFluidSvg(suffix, socPct) + '</g>' +
+                '<text data-role="battery-soc-' + (i + 1) + '" class="' + (shouldShowTexts ? '' : 'text-hidden') + '" x="0" y="0" fill="' + fill + '" font-family="' + FONT_EXO2 + '" font-size="' + fs + '" font-weight="bold" letter-spacing="2px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; pointer-events: ' + ((viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none') + '; cursor: ' + ((viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default') + ';">' + ((d && d.socText) || '') + '</text>' +
+                '<text data-role="battery-power-' + (i + 1) + '" class="' + (shouldShowTexts ? '' : 'text-hidden') + '" x="0" y="20" fill="' + fill + '" font-family="' + FONT_EXO2 + '" font-size="' + fs + '" font-weight="bold" letter-spacing="3px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; pointer-events: ' + ((viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none') + '; cursor: ' + ((viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default') + ';">' + ((d && d.powerText) || '') + '</text></g>';
+            }
+            return html;
+          })()}
 
           <text data-role="load-power" class="${showCoreLabels ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.home.x}" y="${TEXT_POSITIONS.home.y}" transform="${TEXT_TRANSFORMS.home}" fill="${viewState.load.fill || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${viewState.load.fontSize}" font-weight="bold" letter-spacing="2px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; display:${showCoreLabels && viewState.load.visible ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${viewState.load.text || ''}</text>
           <text data-role="load-line-0" x="${TEXT_POSITIONS.home.x}" y="${TEXT_POSITIONS.home.y}" transform="${TEXT_TRANSFORMS.home}" fill="${viewState.load.fill || PEARL_WHITE}" font-size="${viewState.load.fontSize}" style="${TXT_STYLE}; display:none;"></text>
@@ -8438,31 +8718,39 @@ class LuminaEnergyCard extends HTMLElement {
           ).join('')}
           <polygon data-role="pv-clickable-area" points="75,205 200,195 275,245 145,275 75,205" fill="transparent" style="cursor:${pvClickableCursor}; display:${pvClickableDisplay}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'none' : 'all'};" />
 
-          <!-- SOC bar (top-most layer) -->
-          <g data-role="soc-bar" transform="translate(${SOC_BAR.x ?? 325}, ${SOC_BAR.y ?? 277}) translate(${(SOC_BAR.width ?? 30) / 2}, ${(SOC_BAR.height ?? 85) / 2}) rotate(${SOC_BAR.rotate ?? 1}) skewX(${SOC_BAR.skewX ?? 2}) skewY(${SOC_BAR.skewY ?? -19}) translate(${-((SOC_BAR.width ?? 30) / 2)}, ${-((SOC_BAR.height ?? 85) / 2)})" style="display:${(SOC_BAR.visible !== false && !viewState.hidePvAndBattery) ? 'inline' : 'none'}; pointer-events: none;">
-            <rect class="soc-bar-back" x="0" y="0" width="${SOC_BAR.width ?? 30}" height="${SOC_BAR.height ?? 85}" rx="4" ry="4" fill="rgba(0,25,45,0.75)" stroke="rgba(255,255,255,0.2)" stroke-width="1" style="pointer-events: none;" />
-            ${(() => {
-              const socN = Number(SOC_BAR.soc ?? 0);
-              const safeSoc = Number.isFinite(socN) ? Math.max(0, Math.min(100, socN)) : 0;
-              const step = 100 / 6;
-              const segmentsLit = safeSoc <= 0 ? 0 : Math.min(6, Math.ceil(safeSoc / step));
-              return [0,1,2,3,4,5].map(i => {
-                const lit = i >= (6 - segmentsLit);
-                const isFirstSegment = (i === 5);
-                const colorOn = SOC_BAR.colorOn ?? '#00FFFF';
-                const colorOff = SOC_BAR.colorOff ?? '#5aa7c3';
-                const fill = lit ? (isFirstSegment ? '#E53935' : `url(#soc-bar-on-grad)`) : colorOff;
-                const segH = ((SOC_BAR.height ?? 85) - 7) / 6;
-                const y = 1 + i * (segH + 1);
-                const glow = SOC_BAR.glow ?? 13;
-                const glowColor = isFirstSegment && lit ? '#E53935' : colorOn;
-                const filter = lit && glow > 0 ? `drop-shadow(0 0 ${glow}px ${glowColor}) drop-shadow(0 0 ${Math.round(glow/2)}px rgba(255,255,255,0.4))` : 'none';
-                const isCharging = viewState.battery && viewState.battery.isCharging ? viewState.battery.isCharging : false;
-                const pulseClass = (isCharging && lit) ? 'soc-bar-pulse' : '';
-                return `<rect data-role="soc-bar-seg-${i}" x="2" y="${y}" width="${(SOC_BAR.width ?? 30) - 4}" height="${segH}" rx="3" ry="3" fill="${fill}" fill-opacity="${SOC_BAR.opacity ?? 0.55}" stroke="transparent" stroke-width="0" class="${pulseClass}" style="filter:${filter};" />`;
-              }).join('');
-            })()}
-          </g>
+          <!-- SOC bars: battery 1 = 6-segment bar; batteries 2,3,4 = mini icon only (next to text) -->
+          ${(viewState.socBars || [viewState.socBar]).map((SB, idx) => {
+            const bar = SB || {};
+            const n = idx + 1;
+            if (n >= 2) return '';
+            const x = bar.x ?? 325;
+            const y = bar.y ?? 277;
+            const w = bar.width ?? 30;
+            const h = bar.height ?? 85;
+            const socN = Number(bar.soc ?? 0);
+            const safeSoc = Number.isFinite(socN) ? Math.max(0, Math.min(100, socN)) : 0;
+            const step = 100 / 6;
+            const segmentsLit = safeSoc <= 0 ? 0 : Math.min(6, Math.ceil(safeSoc / step));
+            const colorOn = bar.colorOn ?? '#00FFFF';
+            const colorOff = bar.colorOff ?? '#5aa7c3';
+            const segH = (h - 7) / 6;
+            const opacity = bar.opacity ?? 0.55;
+            const glow = bar.glow ?? 13;
+            const segments = [0,1,2,3,4,5].map(i => {
+              const lit = i >= (6 - segmentsLit);
+              const isFirstSegment = (i === 5);
+              const fill = lit ? (isFirstSegment ? '#E53935' : `url(#soc-bar-on-grad)`) : colorOff;
+              const segY = 1 + i * (segH + 1);
+              const glowColor = isFirstSegment && lit ? '#E53935' : colorOn;
+              const filter = lit && glow > 0 ? `drop-shadow(0 0 ${glow}px ${glowColor}) drop-shadow(0 0 ${Math.round(glow/2)}px rgba(255,255,255,0.4))` : 'none';
+              const isCharging = viewState.battery && viewState.battery.isCharging ? viewState.battery.isCharging : false;
+              const pulseClass = (isCharging && lit) ? 'soc-bar-pulse' : '';
+              return `<rect data-role="soc-bar-${n}-seg-${i}" x="2" y="${segY}" width="${w - 4}" height="${segH}" rx="3" ry="3" fill="${fill}" fill-opacity="${opacity}" stroke="transparent" stroke-width="0" class="${pulseClass}" style="filter:${filter};" />`;
+            }).join('');
+            const display = (bar.visible !== false && !viewState.hidePvAndBattery) ? 'inline' : 'none';
+            return `<g data-role="soc-bar-${n}" transform="translate(${x}, ${y}) translate(${w / 2}, ${h / 2}) rotate(${bar.rotate ?? 1}) skewX(${bar.skewX ?? 2}) skewY(${bar.skewY ?? -19}) translate(${-w / 2}, ${-h / 2})" style="display:${display}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">
+            <rect class="soc-bar-back" x="0" y="0" width="${w}" height="${h}" rx="4" ry="4" fill="rgba(0,25,45,0.75)" stroke="rgba(255,255,255,0.2)" stroke-width="1" style="pointer-events: none;" />${segments}</g>`;
+          }).join('')}
 
         </svg>
         <div class="lumina-update-banner" data-role="update-banner"></div>
@@ -8510,8 +8798,14 @@ class LuminaEnergyCard extends HTMLElement {
         }
         return lines;
       })(),
-      socBarGroup: root.querySelector('[data-role="soc-bar"]'),
-      socBarSegments: [0,1,2,3,4,5].map(i => root.querySelector(`[data-role="soc-bar-seg-${i}"]`)),
+      socBarGroup: root.querySelector('[data-role="soc-bar-1"]'),
+      socBarGroups: [1, 2, 3, 4].map(n => root.querySelector(`[data-role="soc-bar-${n}"]`)),
+      socBarSegments: [0,1,2,3,4,5].map(i => root.querySelector(`[data-role="soc-bar-1-seg-${i}"]`)),
+      batteryRowGroups: [1, 2, 3, 4].map((n) => root.querySelector('[data-role="battery-row-' + n + '"]')),
+      batterySocEls: [1, 2, 3, 4].map(n => root.querySelector(`[data-role="battery-soc-${n}"]`)),
+      batteryPowerEls: [1, 2, 3, 4].map(n => root.querySelector(`[data-role="battery-power-${n}"]`)),
+      miniBatteryFills: [2, 3, 4].map(n => root.querySelector(`[data-role="mini-battery-${n}-fill"]`)),
+      miniBatteryCaps: [2, 3, 4].map(n => root.querySelector(`[data-role="mini-battery-${n}-cap"]`)),
       pvLines: Array.from({ length: MAX_PV_LINES }, (_, index) => root.querySelector(`[data-role="pv-line-${index}"]`)),
       batterySoc: root.querySelector('[data-role="battery-soc"]'),
       batteryPower: root.querySelector('[data-role="battery-power"]'),
@@ -8598,6 +8892,7 @@ class LuminaEnergyCard extends HTMLElement {
         heatPump: Array.from(root.querySelectorAll('[data-arrow-shape="heatPump"]'))
       }
     };
+    // (logs removed)
 
     // Dynamic caching for custom flows
     for (let i = 1; i <= 10; i++) {
@@ -10018,6 +10313,10 @@ class LuminaEnergyCard extends HTMLElement {
     const TEXT_TRANSFORMS = {
       solar: buildTextTransform(TEXT_POSITIONS.solar),
       battery: buildTextTransform(TEXT_POSITIONS.battery),
+      battery_1: buildGroupTransform(TEXT_POSITIONS.battery_1),
+      battery_2: buildGroupTransform(TEXT_POSITIONS.battery_2),
+      battery_3: buildGroupTransform(TEXT_POSITIONS.battery_3),
+      battery_4: buildGroupTransform(TEXT_POSITIONS.battery_4),
       home: buildTextTransform(TEXT_POSITIONS.home),
       home_temperature: buildTextTransform(TEXT_POSITIONS.home_temperature),
       grid: buildTextTransform(TEXT_POSITIONS.grid),
@@ -10070,6 +10369,12 @@ class LuminaEnergyCard extends HTMLElement {
         refs.batteryPower.setAttribute('x', TEXT_POSITIONS.battery.x);
         refs.batteryPower.setAttribute('y', TEXT_POSITIONS.battery.y + 20);
         refs.batteryPower.setAttribute('transform', TEXT_TRANSFORMS.battery);
+      }
+      if (refs.batteryRowGroups) {
+        for (let i = 0; i < 4; i++) {
+          const tf = TEXT_TRANSFORMS['battery_' + (i + 1)] || TEXT_TRANSFORMS.battery;
+          if (refs.batteryRowGroups[i]) refs.batteryRowGroups[i].setAttribute('transform', tf);
+        }
       }
       
       if (refs.loadText) {
@@ -10275,8 +10580,22 @@ class LuminaEnergyCard extends HTMLElement {
       }
     }
 
-    if (refs.socBarGroup && viewState.socBar) {
-      const sb = viewState.socBar;
+    if (viewState.socBars && refs.socBarGroups) {
+      viewState.socBars.forEach((sb, i) => {
+        const g = refs.socBarGroups[i];
+        if (!g) return;
+        const w = sb.width ?? 30;
+        const h = sb.height ?? 85;
+        const transform = `translate(${sb.x ?? 325}, ${sb.y ?? 277}) translate(${w / 2}, ${h / 2}) rotate(${sb.rotate ?? 0}) skewX(${sb.skewX ?? 1}) skewY(${sb.skewY ?? -18}) translate(${-w / 2}, ${-h / 2})`;
+        if (g.getAttribute('transform') !== transform) g.setAttribute('transform', transform);
+        const display = (sb.visible !== false && !viewState.hidePvAndBattery) ? 'inline' : 'none';
+        if (g.style.display !== display) g.style.display = display;
+      });
+    }
+    var mainBarData = (viewState.socBars && viewState.socBars[0]) || viewState.socBar;
+    // (logs removed)
+    if (refs.socBarGroup && mainBarData) {
+      const sb = mainBarData;
       const w = sb.width ?? 30;
       const h = sb.height ?? 85;
       const transform = `translate(${sb.x ?? 325}, ${sb.y ?? 277}) translate(${w / 2}, ${h / 2}) rotate(${sb.rotate ?? 0}) skewX(${sb.skewX ?? 1}) skewY(${sb.skewY ?? -18}) translate(${-w / 2}, ${-h / 2})`;
@@ -10297,6 +10616,7 @@ class LuminaEnergyCard extends HTMLElement {
       const step = 100 / 6;
       const segmentsLit = safeSoc <= 0 ? 0 : Math.min(6, Math.ceil(safeSoc / step));
       const isCharging = viewState.battery && viewState.battery.isCharging;
+      // (logs removed)
       // Phase A Optimization: Batch DOM updates for SOC bar segments (reduces reflows)
       const socBarUpdates = [];
       refs.socBarSegments.forEach((el, i) => {
@@ -10402,7 +10722,46 @@ class LuminaEnergyCard extends HTMLElement {
       }
     }
 
-    if (refs.batterySoc) {
+    if (viewState.batteryDisplays) {
+      viewState.batteryDisplays.forEach((d, i) => {
+        const socEl = i === 0 ? refs.batterySoc : (refs.batterySocEls && refs.batterySocEls[i]);
+        const powEl = i === 0 ? refs.batteryPower : (refs.batteryPowerEls && refs.batteryPowerEls[i]);
+        if (socEl) {
+          if (d.socText !== undefined && socEl.textContent !== d.socText) socEl.textContent = d.socText;
+          if (d.fill) socEl.setAttribute('fill', d.fill);
+          if (d.fontSize) socEl.setAttribute('font-size', d.fontSize);
+          socEl.style.display = (d.visible !== false) ? 'inline' : 'none';
+        }
+        if (powEl) {
+          if (d.powerText !== undefined && powEl.textContent !== d.powerText) powEl.textContent = d.powerText;
+          if (d.fill) powEl.setAttribute('fill', d.fill);
+          if (d.fontSize) powEl.setAttribute('font-size', d.fontSize);
+          powEl.style.display = (d.visible !== false) ? 'inline' : 'none';
+        }
+      });
+      if (viewState.socBars && refs.miniBatteryFills && this._gsap) {
+        const bodyTop = 5; const bodyH = 24; const pad = 1.5; const fillMaxH = bodyH - pad * 2;
+        [1, 2, 3].forEach((idx) => {
+          const fillEl = refs.miniBatteryFills[idx - 1];
+          if (!fillEl) return;
+          const bar = viewState.socBars[idx] || {};
+          const socPct = Number.isFinite(Number(bar.soc)) ? Math.max(0, Math.min(100, Number(bar.soc))) : 0;
+          const fillH = Math.max(0, fillMaxH * (socPct / 100));
+          const fillY = bodyTop + bodyH - pad - fillH;
+          const colorOn = bar.colorOn ?? '#00FFFF';
+          const colorOff = bar.colorOff ?? '#5aa7c3';
+          const fillColor = socPct > 15 ? colorOn : (socPct > 0 ? '#E53935' : colorOff);
+          this._gsap.to(fillEl, { attr: { y: fillY, height: fillH }, duration: 0.55, ease: 'power2.out', overwrite: true });
+          const capEl = refs.miniBatteryCaps && refs.miniBatteryCaps[idx - 1];
+          if (capEl) this._gsap.to(capEl, { attr: { y: fillY }, duration: 0.55, ease: 'power2.out', overwrite: true });
+          const parent = fillEl.closest('.lumina-mini-battery');
+          if (parent) {
+            if (socPct > 0 && socPct <= 15) parent.classList.add('lumina-mini-battery--low');
+            else parent.classList.remove('lumina-mini-battery--low');
+          }
+        });
+      }
+    } else if (refs.batterySoc) {
       if (!prev.batterySoc || prev.batterySoc.text !== viewState.batterySoc.text) {
         refs.batterySoc.textContent = viewState.batterySoc.text;
       }
@@ -10413,8 +10772,7 @@ class LuminaEnergyCard extends HTMLElement {
         refs.batterySoc.setAttribute('font-size', viewState.batterySoc.fontSize);
       }
     }
-
-    if (refs.batteryPower) {
+    if (refs.batteryPower && !viewState.batteryDisplays) {
       if (!prev.batteryPower || prev.batteryPower.text !== viewState.batteryPower.text) {
         refs.batteryPower.textContent = viewState.batteryPower.text;
       }
@@ -10692,42 +11050,36 @@ class LuminaEnergyCard extends HTMLElement {
     syncCarSection('car1');
     syncCarSection('car2');
 
-    // Update custom texts
-    if (viewState.customTexts && Array.isArray(viewState.customTexts)) {
-      viewState.customTexts.forEach((ct, index) => {
-        const textEl = refs.customTexts && refs.customTexts[index];
-        if (textEl) {
-          const prevText = prev.customTexts && prev.customTexts[index];
-          if (!prevText || prevText.text !== ct.text) {
-            textEl.textContent = ct.text;
-          }
-          if (!prevText || prevText.x !== ct.x) {
-            textEl.setAttribute('x', ct.x);
-          }
-          if (!prevText || prevText.y !== ct.y) {
-            textEl.setAttribute('y', ct.y);
-          }
-          const desiredTransform = ct && ct.transform ? ct.transform : '';
-          if (!prevText || prevText.transform !== desiredTransform || prevText.x !== ct.x || prevText.y !== ct.y) {
-            if (desiredTransform) {
-              textEl.setAttribute('transform', desiredTransform);
-            } else {
-              textEl.removeAttribute('transform');
-            }
-          }
-          if (!prevText || prevText.color !== ct.color) {
-            textEl.setAttribute('fill', ct.color);
-          }
-          if (!prevText || prevText.size !== ct.size) {
-            textEl.setAttribute('font-size', ct.size);
-          }
-          const isPreviewCard = !!(this.classList && this.classList.contains('editor-preview-card'));
-          const desiredPointerEvents = ((isPreviewCard && ct && ct.draggable) || (viewState.showDebugGrid && ct && ct.draggable)) ? 'all' : 'none';
-          if (textEl.style.pointerEvents !== desiredPointerEvents) {
-            textEl.style.pointerEvents = desiredPointerEvents;
-          }
+    // Update custom texts: for each slot 1-10 show and update if in viewState.customTexts, else hide
+    if (refs.customTexts && refs.customTexts.length >= 10) {
+      const ids = viewState.customTexts && Array.isArray(viewState.customTexts) ? viewState.customTexts.map((c) => c.id) : [];
+      for (let slot = 1; slot <= 10; slot++) {
+        const textEl = refs.customTexts[slot - 1];
+        if (!textEl) {
+          continue;
         }
-      });
+        const ct = viewState.customTexts && Array.isArray(viewState.customTexts) ? viewState.customTexts.find((c) => c.id === slot) : null;
+        if (!ct) {
+          textEl.style.display = 'none';
+          textEl.style.pointerEvents = 'none';
+          continue;
+        }
+        textEl.style.display = '';
+        const prevText = prev.customTexts && prev.customTexts.find((c) => c.id === ct.id);
+        if (!prevText || prevText.text !== ct.text) textEl.textContent = ct.text;
+        if (!prevText || prevText.x !== ct.x) textEl.setAttribute('x', ct.x);
+        if (!prevText || prevText.y !== ct.y) textEl.setAttribute('y', ct.y);
+        const desiredTransform = ct.transform ? ct.transform : '';
+        if (!prevText || prevText.transform !== desiredTransform || prevText.x !== ct.x || prevText.y !== ct.y) {
+          if (desiredTransform) textEl.setAttribute('transform', desiredTransform);
+          else textEl.removeAttribute('transform');
+        }
+        if (!prevText || prevText.color !== ct.color) textEl.setAttribute('fill', ct.color);
+        if (!prevText || prevText.size !== ct.size) textEl.setAttribute('font-size', ct.size);
+        const isPreviewCard = !!(this.classList && this.classList.contains('editor-preview-card'));
+        const desiredPointerEvents = ((isPreviewCard && ct.draggable) || (viewState.showDebugGrid && ct.draggable)) ? 'all' : 'none';
+        if (textEl.style.pointerEvents !== desiredPointerEvents) textEl.style.pointerEvents = desiredPointerEvents;
+      }
     }
 
     // Update custom flow group visibility based on config only.
@@ -10950,9 +11302,101 @@ class LuminaEnergyCard extends HTMLElement {
       pathD = (textElement && textElement.getAttribute && textElement.getAttribute('d')) || '';
     }
     this._draggingText = { element: textElement, role: role, originX, originY, pathD };
-    const rect = this._domRefs.svgRoot.getBoundingClientRect();
-    this._dragStartX = ((event.clientX - rect.left) / rect.width) * SVG_DIMENSIONS.width;
-    this._dragStartY = ((event.clientY - rect.top) / rect.height) * SVG_DIMENSIONS.height;
+    var svgEl = (textElement && textElement.closest && textElement.closest('svg')) || this._domRefs.svgRoot;
+    if (!svgEl && this._domRefs.svgRoot) svgEl = this._domRefs.svgRoot;
+    const rect = svgEl.getBoundingClientRect();
+    const vbStr = (svgEl.getAttribute && svgEl.getAttribute('viewBox')) || '';
+    const vbParts = vbStr.trim().split(/\s+/).map(Number).filter((n) => Number.isFinite(n));
+    const vb = vbParts.length >= 4 ? { x: vbParts[0], y: vbParts[1], w: vbParts[2], h: vbParts[3] } : { x: 0, y: 0, w: SVG_DIMENSIONS.width, h: SVG_DIMENSIONS.height };
+    var vbPt = _clientToViewBox(event.clientX, event.clientY, rect, vb);
+    const mouseX = vbPt.x;
+    const mouseY = vbPt.y;
+    this._dragInitialMouseX = mouseX;
+    this._dragInitialMouseY = mouseY;
+    this._dragInitialClientX = event.clientX;
+    this._dragInitialClientY = event.clientY;
+    this._dragViewBox = vb;
+    var rw = rect.width || 1;
+    var rh = rect.height || 1;
+    if (typeof window !== 'undefined' && window.innerWidth > 0 && window.innerHeight > 0) {
+      rw = Math.min(rw, window.innerWidth);
+      rh = Math.min(rh, window.innerHeight);
+      if (rw < 100) rw = 400;
+      if (rh < 100) rh = 300;
+    }
+    this._dragRect = { left: rect.left, top: rect.top, width: rw, height: rh };
+    var cfg = this.config || this._config || {};
+    var useConfigPos = false;
+    if (role && (role.indexOf('battery') >= 0 || role === 'load-power' || role.indexOf('grid-power') >= 0 || role.indexOf('pv-line') >= 0 || role.indexOf('custom-text-') === 0)) {
+      var xKey = null, yKey = null;
+      if (role.indexOf('battery-row') === 0 || role.indexOf('battery-soc-') === 0 || role.indexOf('battery-power-') === 0) {
+        var m = role.match(/(\d+)$/);
+        var idx = m ? m[1] : '1';
+        xKey = 'dev_text_battery_' + idx + '_x';
+        yKey = 'dev_text_battery_' + idx + '_y';
+      } else if (role === 'battery-soc' || role === 'battery-power') { xKey = 'dev_text_battery_x'; yKey = 'dev_text_battery_y'; }
+      else if (role === 'load-power') { xKey = 'dev_text_home_x'; yKey = 'dev_text_home_y'; }
+      else if (role === 'grid-power') { xKey = 'dev_text_grid_x'; yKey = 'dev_text_grid_y'; }
+      else if (role.indexOf('pv-line') === 0) { xKey = 'dev_text_solar_x'; yKey = 'dev_text_solar_y'; }
+      else if (role.indexOf('custom-text-') === 0) {
+        var num = role.replace('custom-text-', '');
+        if (num !== 'solar_forecast' && isFinite(parseInt(num, 10))) { xKey = 'custom_text_' + num + '_x'; yKey = 'custom_text_' + num + '_y'; }
+      }
+      if (xKey && yKey) {
+        if (role.indexOf('battery') >= 0) {
+          var batteryGroup = textElement && textElement.getAttribute && textElement.getAttribute('data-role') && textElement.getAttribute('data-role').indexOf('battery-row') === 0 ? textElement : (textElement && textElement.closest ? textElement.closest('[data-role^="battery-row-"]') : null);
+          var startFromDom = false;
+          if (batteryGroup && batteryGroup.getAttribute) {
+            var tstr = batteryGroup.getAttribute('transform') || '';
+            var tm = tstr.match(/translate\s*\(\s*([\d.-]+)\s*,\s*([\d.-]+)\s*\)/);
+            if (tm) {
+              var parsedX = parseFloat(tm[1]);
+              var parsedY = parseFloat(tm[2]);
+              if (Number.isFinite(parsedX) && Number.isFinite(parsedY)) {
+                this._dragStartX = parsedX;
+                this._dragStartY = parsedY;
+                startFromDom = true;
+              }
+            }
+          }
+          if (!startFromDom && typeof getTextPositions === 'function') {
+            var posMap = getTextPositions(cfg);
+            var bkey = role === 'battery-soc' || role === 'battery-power' ? 'battery' : (role.match(/(\d+)$/) ? 'battery_' + role.match(/(\d+)$/)[1] : 'battery_1');
+            if (posMap[bkey]) {
+              var cfgX = Number(posMap[bkey].x);
+              var cfgY = Number(posMap[bkey].y);
+              this._dragStartX = Math.max(0, Math.min(vb.w, cfgX));
+              this._dragStartY = Math.max(0, Math.min(vb.h, cfgY));
+              startFromDom = true;
+            }
+          }
+          if (!startFromDom && (Number.isFinite(Number(cfg[xKey])) || Number.isFinite(Number(cfg[yKey])))) {
+            this._dragStartX = Math.max(0, Math.min(vb.w, Number(cfg[xKey]) || 0));
+            this._dragStartY = Math.max(0, Math.min(vb.h, Number(cfg[yKey]) || 0));
+            startFromDom = true;
+          }
+          if (startFromDom) {
+            useConfigPos = true;
+            this._dragInitialMouseX = mouseX;
+            this._dragInitialMouseY = mouseY;
+            this._dragMoveLogCount = 0;
+            // (logs removed)
+          }
+        }
+        if (!useConfigPos && (Number.isFinite(Number(cfg[xKey])) || Number.isFinite(Number(cfg[yKey])))) {
+          this._dragStartX = Number(cfg[xKey]) || 0;
+          this._dragStartY = Number(cfg[yKey]) || 0;
+          useConfigPos = true;
+        }
+      }
+    }
+    if (!useConfigPos) {
+      this._dragStartX = mouseX;
+      this._dragStartY = mouseY;
+      this._dragInitialMouseX = null;
+      this._dragInitialMouseY = null;
+      // (logs removed)
+    }
   }
 
   _handleDocumentMouseMove(event) {
@@ -10960,11 +11404,41 @@ class LuminaEnergyCard extends HTMLElement {
       return;
     }
     if (event && typeof event.preventDefault === 'function') event.preventDefault();
-    const rect = this._domRefs.svgRoot.getBoundingClientRect();
-    const currentX = ((event.clientX - rect.left) / rect.width) * SVG_DIMENSIONS.width;
-    const currentY = ((event.clientY - rect.top) / rect.height) * SVG_DIMENSIONS.height;
-    this._dragOffsetX = Math.round(currentX - this._dragStartX);
-    this._dragOffsetY = Math.round(currentY - this._dragStartY);
+    var rect = this._dragRect;
+    if (!rect) rect = this._domRefs.svgRoot.getBoundingClientRect();
+    const vb = this._dragViewBox || { x: 0, y: 0, w: SVG_DIMENSIONS.width, h: SVG_DIMENSIONS.height };
+    var role = this._draggingText.role;
+    var isBattery = role && role.indexOf('battery') >= 0;
+    var vbPt = _clientToViewBox(event.clientX, event.clientY, rect, vb);
+    const currentX = vbPt.x;
+    const currentY = vbPt.y;
+    var refX = this._dragInitialMouseX != null ? this._dragInitialMouseX : this._dragStartX;
+    var refY = this._dragInitialMouseY != null ? this._dragInitialMouseY : this._dragStartY;
+    this._dragOffsetX = Math.round(currentX - refX);
+    this._dragOffsetY = Math.round(currentY - refY);
+    if (isBattery && this._dragStartX != null && this._dragStartY != null) {
+      var dragEl = this._draggingText.element;
+      var group = dragEl && dragEl.getAttribute && dragEl.getAttribute('data-role') && dragEl.getAttribute('data-role').indexOf('battery-row') === 0 ? dragEl : (dragEl && dragEl.closest ? dragEl.closest('[data-role^="battery-row-"]') : null);
+      var tx = Math.round(this._dragStartX + this._dragOffsetX);
+      var ty = Math.round(this._dragStartY + this._dragOffsetY);
+      var cfg = this.config || this._config || {};
+      var posMap = typeof getTextPositions === 'function' ? getTextPositions(cfg) : {};
+      if (group) {
+        var roleAttr = group.getAttribute ? group.getAttribute('data-role') : '';
+        var numMatch = roleAttr && roleAttr.match(/(\d+)$/);
+        var bkey = numMatch ? 'battery_' + numMatch[1] : 'battery_1';
+        var pos = posMap[bkey] || DEFAULT_TEXT_POSITIONS[bkey] || DEFAULT_TEXT_POSITIONS.battery_1;
+        var fullTf = typeof buildGroupTransform === 'function' ? buildGroupTransform({ x: tx, y: ty, rotate: pos.rotate, skewX: pos.skewX, skewY: pos.skewY, scaleX: pos.scaleX, scaleY: pos.scaleY }) : ('translate(' + tx + ', ' + ty + ')');
+        group.setAttribute('transform', fullTf);
+        // (logs removed)
+      } else if (dragEl && (role === 'battery-soc' || role === 'battery-power')) {
+        var pos = posMap.battery || DEFAULT_TEXT_POSITIONS.battery;
+        var fullTf = typeof buildTextTransform === 'function' ? buildTextTransform({ x: tx, y: ty, rotate: pos.rotate, skewX: pos.skewX, skewY: pos.skewY, scaleX: pos.scaleX, scaleY: pos.scaleY }) : ('translate(' + tx + ', ' + ty + ')');
+        dragEl.setAttribute('transform', fullTf);
+        dragEl.setAttribute('x', tx);
+        dragEl.setAttribute('y', role === 'battery-power' ? ty + 20 : ty);
+      }
+    }
   }
 
   _handleDocumentMouseUp(event) {
@@ -10972,12 +11446,44 @@ class LuminaEnergyCard extends HTMLElement {
       return;
     }
     const role = this._draggingText.role;
+    var rect = this._dragRect;
+    var vb = this._dragViewBox || { x: 0, y: 0, w: SVG_DIMENSIONS.width, h: SVG_DIMENSIONS.height };
+    if (event && rect && (rect.width > 0 || rect.height > 0)) {
+      var vbPtUp = _clientToViewBox(event.clientX, event.clientY, rect, vb);
+      const currentX = vbPtUp.x;
+      const currentY = vbPtUp.y;
+      var refX = this._dragInitialMouseX != null ? this._dragInitialMouseX : this._dragStartX;
+      var refY = this._dragInitialMouseY != null ? this._dragInitialMouseY : this._dragStartY;
+      this._dragOffsetX = Math.round(currentX - refX);
+      this._dragOffsetY = Math.round(currentY - refY);
+    }
+    if (this._dragOffsetX == null) this._dragOffsetX = 0;
+    if (this._dragOffsetY == null) this._dragOffsetY = 0;
+    var roleForSave = this._draggingText && this._draggingText.role ? this._draggingText.role : '';
+    var isBatteryRow = roleForSave && (roleForSave.indexOf('battery-row') === 0 || roleForSave.indexOf('battery-soc-') === 0 || roleForSave.indexOf('battery-power-') === 0);
     const newX = Math.round(this._dragStartX + this._dragOffsetX);
     const newY = Math.round(this._dragStartY + this._dragOffsetY);
+    // (logs removed)
     
     // Aggiorna la configurazione con le nuove posizioni
     const textConfigs = {
       'pv-line': { xKey: 'dev_text_solar_x', yKey: 'dev_text_solar_y' },
+      'battery-row-1': { xKey: 'dev_text_battery_1_x', yKey: 'dev_text_battery_1_y' },
+      'battery-row-2': { xKey: 'dev_text_battery_2_x', yKey: 'dev_text_battery_2_y' },
+      'battery-row-3': { xKey: 'dev_text_battery_3_x', yKey: 'dev_text_battery_3_y' },
+      'battery-row-4': { xKey: 'dev_text_battery_4_x', yKey: 'dev_text_battery_4_y' },
+      'battery-soc-1': { xKey: 'dev_text_battery_1_x', yKey: 'dev_text_battery_1_y' },
+      'battery-power-1': { xKey: 'dev_text_battery_1_x', yKey: 'dev_text_battery_1_y' },
+      'battery-soc-2': { xKey: 'dev_text_battery_2_x', yKey: 'dev_text_battery_2_y' },
+      'battery-power-2': { xKey: 'dev_text_battery_2_x', yKey: 'dev_text_battery_2_y' },
+      'battery-soc-3': { xKey: 'dev_text_battery_3_x', yKey: 'dev_text_battery_3_y' },
+      'battery-power-3': { xKey: 'dev_text_battery_3_x', yKey: 'dev_text_battery_3_y' },
+      'battery-soc-4': { xKey: 'dev_text_battery_4_x', yKey: 'dev_text_battery_4_y' },
+      'battery-power-4': { xKey: 'dev_text_battery_4_x', yKey: 'dev_text_battery_4_y' },
+      'soc-bar-1': { xKey: 'dev_soc_bar_1_x', yKey: 'dev_soc_bar_1_y' },
+      'soc-bar-2': { xKey: 'dev_soc_bar_2_x', yKey: 'dev_soc_bar_2_y' },
+      'soc-bar-3': { xKey: 'dev_soc_bar_3_x', yKey: 'dev_soc_bar_3_y' },
+      'soc-bar-4': { xKey: 'dev_soc_bar_4_x', yKey: 'dev_soc_bar_4_y' },
       'battery-soc': { xKey: 'dev_text_battery_x', yKey: 'dev_text_battery_y' },
       'battery-power': { xKey: 'dev_text_battery_x', yKey: 'dev_text_battery_y' },
       'load-power': { xKey: 'dev_text_home_x', yKey: 'dev_text_home_y' },
@@ -11060,6 +11566,7 @@ class LuminaEnergyCard extends HTMLElement {
           this.config[configKey.xKey] = saveX;
           this.config[configKey.yKey] = saveY;
         }
+        // (logs removed)
       }
       this._forceRender = true;
       this.render();
@@ -11072,6 +11579,10 @@ class LuminaEnergyCard extends HTMLElement {
     }
     
     this._draggingText = null;
+    this._dragRect = null;
+    this._dragInitialClientX = null;
+    this._dragInitialClientY = null;
+    this._dragMoveLogCount = null;
   }
 
   _setDebugCoordinateText(x, y) {
@@ -12926,7 +13437,14 @@ class LuminaEnergyCard extends HTMLElement {
       shouldShowBoxes = hasConfiguredEntities;
     }
     const isPreviewCard = !!(this.classList && this.classList.contains('editor-preview-card'));
-    if (!isPreviewCard && hasConfiguredEntities && !this._textsVisibleUserTouched) { shouldShowTexts = true; shouldShowBoxes = true; }
+    if (!isPreviewCard && hasConfiguredEntities && !this._textsVisibleUserTouched) {
+      shouldShowTexts = true;
+      shouldShowBoxes = true;
+      if (this._textsVisible === 2) {
+        this._textsVisible = 0;
+        if (typeof this._saveTextsVisibleToStorage === 'function') this._saveTextsVisibleToStorage();
+      }
+    }
     if (isPreviewCard && hasConfiguredEntities) { shouldShowTexts = true; shouldShowBoxes = true; }
     const showForElement = (role) => {
       if (!role) return shouldShowTexts;
@@ -13031,6 +13549,7 @@ class LuminaEnergyCard extends HTMLElement {
         lines: viewState.pv.lines.map((line) => ({ ...line }))
       },
       socBar: viewState.socBar ? { ...viewState.socBar } : undefined,
+      socBars: viewState.socBars ? viewState.socBars.map(b => ({ ...b })) : undefined,
       batteryOverlay: viewState.batteryOverlay ? { ...viewState.batteryOverlay } : undefined,
       hidePvAndBattery: Boolean(viewState.hidePvAndBattery),
       hideBatteryUi: Boolean(viewState.hideBatteryUi),
@@ -13038,6 +13557,7 @@ class LuminaEnergyCard extends HTMLElement {
       pvBox: viewState.pvBox ? { ...viewState.pvBox, lines: (viewState.pvBox.lines || []).map(l => ({ ...l })) } : undefined,
       batterySoc: { ...viewState.batterySoc },
       batteryPower: { ...viewState.batteryPower },
+      batteryDisplays: viewState.batteryDisplays ? viewState.batteryDisplays.map(d => ({ ...d })) : undefined,
       load: { ...viewState.load },
       grid: { ...viewState.grid },
       heatPump: { ...viewState.heatPump },
@@ -13061,7 +13581,7 @@ class LuminaEnergyCard extends HTMLElement {
 
   static get version() {
     // Build marker (helps verify HA loaded the updated JS)
-    return '3.3.3';
+    return '3.3.5';
   }
 }
 
@@ -15382,12 +15902,20 @@ class LuminaEnergyCardEditor extends HTMLElement {
           if (!cfg[`custom_text_${i}_enabled`]) { slot = i; break; }
         }
         if (!slot) return;
+        // (logs removed)
         const newConfig = { ...(this._config || {}) };
         newConfig[`custom_text_${slot}_enabled`] = true;
-        newConfig[`custom_text_${slot}_text`] = (newConfig[`custom_text_${slot}_text`] && String(newConfig[`custom_text_${slot}_text`]).trim()) ? newConfig[`custom_text_${slot}_text`] : 'Testo';
+        newConfig[`custom_text_${slot}_text`] = (newConfig[`custom_text_${slot}_text`] && String(newConfig[`custom_text_${slot}_text`]).trim()) ? newConfig[`custom_text_${slot}_text`] : '';
         newConfig[`custom_text_${slot}_x`] = Number(newConfig[`custom_text_${slot}_x`]) || 400;
         newConfig[`custom_text_${slot}_y`] = Number(newConfig[`custom_text_${slot}_y`]) || 100 + (slot - 1) * 50;
         this._config = newConfig;
+        if (textSlotSelect) {
+          this._previewSelectedTextSlot = slot;
+          if (this._config && typeof this._config === 'object') { this._config._preview_text_slot = slot; }
+          textSlotSelect.value = String(slot);
+          if (typeof this._updatePreviewTextCustomUi_ === 'function') this._updatePreviewTextCustomUi_();
+          if (typeof this._updatePreviewTextColorSizeUi_ === 'function') this._updatePreviewTextColorSizeUi_();
+        }
         const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
         if (forms && forms.length) {
           const data = this._configWithDefaults();
@@ -15410,6 +15938,14 @@ class LuminaEnergyCardEditor extends HTMLElement {
       opt.textContent = `Text${i}`;
       textSlotSelect.appendChild(opt);
     }
+    const savedSlot = (() => {
+      const fromMem = (typeof this._previewSelectedTextSlot === 'number' && this._previewSelectedTextSlot >= 1 && this._previewSelectedTextSlot <= 10) ? this._previewSelectedTextSlot : null;
+      const fromConfig = (this._config && typeof this._config._preview_text_slot === 'number' && this._config._preview_text_slot >= 1 && this._config._preview_text_slot <= 10) ? this._config._preview_text_slot : null;
+      const slot = fromMem || fromConfig || 1;
+      // (logs removed)
+      return slot;
+    })();
+    textSlotSelect.value = String(savedSlot);
     const textCustomLabel = document.createElement('span');
     textCustomLabel.className = 'editor-preview-text-custom-label';
     textCustomLabel.textContent = (localeStrings && localeStrings.fields && localeStrings.fields.editor_custom_text_label) || 'Text:';
@@ -15434,12 +15970,28 @@ class LuminaEnergyCardEditor extends HTMLElement {
     textSensorInput.className = 'editor-preview-text-sensor-input';
     textSensorInput.placeholder = 'sensor.entity_id';
     textSensorInput.style.cssText = 'width: 100%; min-width: 120px; padding: 8px 10px; font-size: 12px; font-weight: 600; border-radius: 8px; background: #0a1214; border: 2px solid #00E5FF; color: #fff; box-sizing: border-box; cursor: pointer;';
+    const textEntityDisplay = document.createElement('span');
+    textEntityDisplay.className = 'editor-preview-text-entity-display';
+    textEntityDisplay.style.cssText = 'font-size: 11px; color: var(--secondary-text-color, #00E5FF); margin-top: 4px; display: block; min-height: 16px;';
     const updateTextCustomUi = () => {
       const n = parseInt(textSlotSelect.value, 10) || 1;
       const txt = (this._config && this._config[`custom_text_${n}_text`]) ? String(this._config[`custom_text_${n}_text`]) : '';
       const sen = (this._config && this._config[`custom_text_${n}_sensor`]) ? String(this._config[`custom_text_${n}_sensor`]).trim() : '';
       if (textCustomInput.value !== txt) textCustomInput.value = txt;
       if (textSensorInput.value !== sen) textSensorInput.value = sen;
+      if (textEntityDisplay) {
+        if (sen && this._hass && this._hass.states && this._hass.states[sen]) {
+          const friendly = (this._hass.states[sen].attributes && this._hass.states[sen].attributes.friendly_name) ? this._hass.states[sen].attributes.friendly_name : sen;
+          textEntityDisplay.textContent = (localeStrings && localeStrings.fields && localeStrings.fields.editor_entity_assigned) ? (localeStrings.fields.editor_entity_assigned + ': ' + friendly) : ('Entità: ' + friendly);
+          textEntityDisplay.style.display = 'block';
+        } else if (sen) {
+          textEntityDisplay.textContent = (localeStrings && localeStrings.fields && localeStrings.fields.editor_entity_assigned) ? (localeStrings.fields.editor_entity_assigned + ': ' + sen) : ('Entità: ' + sen);
+          textEntityDisplay.style.display = 'block';
+        } else {
+          textEntityDisplay.textContent = '';
+          textEntityDisplay.style.display = 'none';
+        }
+      }
       try {
         if (this._previewTextSensorPickerEl && this._hass) {
           const p = this._previewTextSensorPickerEl;
@@ -15450,11 +16002,39 @@ class LuminaEnergyCardEditor extends HTMLElement {
         }
       } catch (e) { /* ignore */ }
     };
-    textSlotSelect.addEventListener('change', () => { updateTextRotateUi(); updateTextCustomUi(); if (typeof this._updatePreviewTextColorSizeUi_ === 'function') this._updatePreviewTextColorSizeUi_(); });
+    textSlotSelect.addEventListener('change', () => {
+      const n = Math.max(1, Math.min(10, parseInt(textSlotSelect.value, 10) || 1));
+      // (logs removed)
+      this._previewSelectedTextSlot = n;
+      if (this._config && typeof this._config === 'object') this._config._preview_text_slot = n;
+      var cfg = this._config || {};
+      var changed = false;
+      for (var i = 1; i <= n; i++) {
+        if (!cfg['custom_text_' + i + '_enabled']) {
+          cfg['custom_text_' + i + '_enabled'] = true;
+          if (cfg['custom_text_' + i + '_text'] == null || (typeof cfg['custom_text_' + i + '_text'] === 'string' && !cfg['custom_text_' + i + '_text'].trim())) cfg['custom_text_' + i + '_text'] = '';
+          if (cfg['custom_text_' + i + '_x'] == null || !Number.isFinite(Number(cfg['custom_text_' + i + '_x']))) cfg['custom_text_' + i + '_x'] = 400;
+          if (cfg['custom_text_' + i + '_y'] == null || !Number.isFinite(Number(cfg['custom_text_' + i + '_y']))) cfg['custom_text_' + i + '_y'] = 100 + (i - 1) * 50;
+          changed = true;
+        }
+      }
+      if (changed) {
+        this._config = cfg;
+        var forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
+        if (forms && forms.length && this._configWithDefaults) {
+          var data = this._configWithDefaults();
+          forms.forEach(function(f) { if (f) f.data = data; });
+        }
+        this._debouncedConfigChanged(cfg, true);
+        setTimeout(function(self) { try { self._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0, this);
+      }
+      updateTextRotateUi(); updateTextCustomUi(); if (typeof this._updatePreviewTextColorSizeUi_ === 'function') this._updatePreviewTextColorSizeUi_();
+    });
     const commitPreviewCustomText = () => {
       try {
         const n = parseInt(textSlotSelect.value, 10) || 1;
         const val = (textCustomInput.value && String(textCustomInput.value)) || '';
+        // (logs removed)
         const newConfig = { ...(this._config || {}) };
         newConfig[`custom_text_${n}_text`] = val;
         this._config = newConfig;
@@ -15477,6 +16057,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
     });
     textSensorBox.appendChild(textSensorInput);
     textSensorWrap.appendChild(textSensorBox);
+    textSensorWrap.appendChild(textEntityDisplay);
     const openTextPicker = (ev) => {
       try {
         const t = ev && ev.target;
@@ -16548,6 +17129,11 @@ class LuminaEnergyCardEditor extends HTMLElement {
         if (ev && ev.detail && ev.detail.config) {
           const base = this._config || {};
           this._config = { ...base, ...ev.detail.config };
+          const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
+          if (forms && forms.length) {
+            const data = this._configWithDefaults ? this._configWithDefaults() : this._config;
+            if (data) forms.forEach((f) => { if (f) f.data = data; });
+          }
           this._debouncedConfigChanged(this._config, true);
         }
       } catch (e) { /* ignore */ }
@@ -16603,6 +17189,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           overlay_image: { title: 'Overlay Image (PRO Feature)', helper: '⚠️ PRO FEATURE: Add up to 5 custom PNG images overlayed on the card (cars, pools, turbines, etc.). Each image has independent controls for position (X/Y), size (width/height), and opacity. Perfect for adding realistic visual elements to your energy dashboard. Examples included: car.png, car_real.png, Pool.png, pool_real.png, turbine.png. To unlock: pay 5€ via PayPal (donation) or GitHub Sponsors.' },
           custom_flows: { title: 'Custom Flows', helper: 'Create up to 5 additional animated energy flows with custom sensors, SVG paths, colors, and activation thresholds. Each flow can have independent source/destination positions, line colors, glow effects, and power thresholds. Perfect for visualizing custom loads (pool pump, heat pump, EV charger, etc.) or additional energy sources. Flows animate automatically when sensor values exceed the threshold.' },
           custom_text: { title: 'Custom Text', helper: 'Add up to 5 custom text blocks. You can show: only static text (leave Sensor empty), only the value of an entity (leave Label empty, set Sensor), or both (label + entity value). Configure position (X/Y), color, font size. Perfect for temperatures, humidity, power, or any status message.' },
+          day_night: { title: 'Day/Night Background', helper: 'Upload only the NIGHT image. Put the file in: /homeassistant/www/community/lumina-energy-card/ (or config/www/community/lumina-energy-card/). The file must be named only night.jpg or night.png. Then set the URL below to /local/community/lumina-energy-card/night.jpg (or .png). After adding the photo, reload the Lumina integration and refresh the browser. Day background = the one set in Installation Type. The card uses sun.sun: when below the horizon the night image is shown. Use "Force night view" to test immediately.' },
           about: { title: 'About', helper: 'Credits, version, and helpful links.' }
         },
         fields: {
@@ -16756,6 +17343,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           pv_string9_color: { label: 'PV String 9 Color', helper: 'Override for S9 in the PV list. Leave blank to inherit the PV total color.' },
           load_flow_color: { label: 'Load Flow Color', helper: 'Colour applied to the home load animation line.' },
           load_text_color: { label: 'Load Text Color', helper: 'Colour applied to the home load text when thresholds are inactive.' },
+          house_consumption_text_color: { label: 'House consumption text color', helper: 'Color for the house consumption value on the card. Overrides Load Text Color when set.' },
           inv1_color: { label: 'INV 1 Color', helper: 'Colour applied to the INV 1 text/flow.' },
           inv2_color: { label: 'INV 2 Color', helper: 'Colour applied to the INV 2 text/flow.' },
           load_threshold_warning: { label: 'Load Warning Threshold', helper: 'Change load color when magnitude equals or exceeds this value. Uses the selected display unit.' },
@@ -16789,12 +17377,21 @@ class LuminaEnergyCardEditor extends HTMLElement {
           text_visibility_sensor: { label: 'Text Visibility Motion Sensor (PRO)', helper: '⚠️ PRO FEATURE: Motion sensor entity. When motion is detected, texts appear. Perfect for wall tablets with camera.' },
           solar_forecast_enabled: { label: 'Enable Solar Forecast', helper: '⚠️ PRO FEATURE: Display estimated solar production with sun status (lots/moderate/little sun).' },
           sensor_solar_forecast: { label: 'Solar Forecast Sensor', helper: 'Sensor entity for estimated solar production (in W or kW).' },
+          weather_rain_entity: { label: 'Weather entity for rain', helper: 'Optional. Weather entity (e.g. Met.no). When rainy/pouring/lightning-rainy, rain animation is shown.' },
           solar_forecast_max_power: { label: 'Solar Forecast Max Power (W)', helper: 'Maximum expected power in watts. Used to calculate percentage for sun status (default: 10000W).' },
           solar_forecast_x: { label: 'Solar Forecast X Position (px)', helper: 'Horizontal position of the solar forecast text (in pixels).' },
           solar_forecast_y: { label: 'Solar Forecast Y Position (px)', helper: 'Vertical position of the solar forecast text (in pixels).' },
           solar_forecast_color: { label: 'Solar Forecast Color', helper: 'Color for the solar forecast text (default: #00FFFF).' },
           solar_forecast_size: { label: 'Solar Forecast Font Size (px)', helper: 'Font size for the solar forecast text (default: 16px).' },
           invert_battery: { label: 'Invert Battery Values', helper: 'Enable if charge/discharge polarity is reversed.' },
+        battery_text_color: { label: 'Battery Text Color', helper: 'Color for SOC and power. For position/rotation/scale use the Layout section.' },
+        battery_font_size: { label: 'Battery Font Size (px)', helper: 'Font size for battery text. For position/rotation/scale use the Layout section.' },
+        battery_2_text_color: { label: 'Battery 2 Text Color', helper: 'Optional override for battery 2 text color. Leave empty to use Battery Text Color. For position/rotation/scale use the Layout section.' },
+        battery_3_text_color: { label: 'Battery 3 Text Color', helper: 'Optional override for battery 3 text color. Leave empty to use Battery Text Color. For position/rotation/scale use the Layout section.' },
+        battery_4_text_color: { label: 'Battery 4 Text Color', helper: 'Optional override for battery 4 text color. Leave empty to use Battery Text Color. For position/rotation/scale use the Layout section.' },
+        battery_2_row_scale: { label: 'Battery 2 (icon+text) Scale', helper: 'Uniform scale for battery 2 row (icon + text). For position/rotation use the Layout section.' },
+        battery_3_row_scale: { label: 'Battery 3 (icon+text) Scale', helper: 'Uniform scale for battery 3 row (icon + text). For position/rotation use the Layout section.' },
+        battery_4_row_scale: { label: 'Battery 4 (icon+text) Scale', helper: 'Uniform scale for battery 4 row (icon + text). For position/rotation use the Layout section.' },
           sensor_car_power: { label: 'Car 1 Power Sensor' },
           sensor_car_soc: { label: 'Car 1 SOC Sensor' },
           car_soc: { label: 'Car SOC', helper: 'Sensor for EV battery SOC.' },
@@ -16842,6 +17439,13 @@ class LuminaEnergyCardEditor extends HTMLElement {
           car2_name_color: { label: 'Car 2 Name Color', helper: 'Color applied to the Car 2 name label.' },
           car1_color: { label: 'Car 1 Color', helper: 'Color applied to Car 1 power value.' },
           car2_color: { label: 'Car 2 Color', helper: 'Color applied to Car 2 power value.' },
+          car_text_color: { label: 'Car Text Color', helper: 'Default color for both cars (label + power). Overridden by Car 1 Text Color and Car 2 Text Color when set.' },
+          car1_text_color: { label: 'Car 1 Text Color', helper: 'Color for Car 1 label and power text. Leave empty to use Car Text Color.' },
+          car2_text_color: { label: 'Car 2 Text Color', helper: 'Color for Car 2 label and power text. Leave empty to use Car Text Color.' },
+          night_mode_enabled: { label: 'Enable day/night background', helper: 'Switch background automatically using sun.sun (below_horizon = night).' },
+          background_image_night: { label: 'Night background image URL', helper: 'Use /local/community/lumina-energy-card/night.jpg or night.png. File must be in www/community/lumina-energy-card/ and named only night.jpg or night.png. After adding the file, reload the integration and refresh.' },
+          sensor_sun_entity: { label: 'Sun entity', helper: 'Entity id for sun (e.g. sun.sun). When state is below_horizon the night image is shown.' },
+          night_mode_override: { label: 'Force night view', helper: 'Toggle to show night background immediately for testing.' },
           pro_password: { label: 'PRO Password', helper: '⚠️ PRO FEATURE: This is a premium function.' },
           license_status: 'License Status',
           license_active: 'PRO Active',
@@ -16907,6 +17511,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_remove_text: 'Remove text',
           editor_remove_text_helper: 'Disable and clear the selected text slot',
           editor_text_sensor_label: 'Sensor:',
+          editor_entity_assigned: 'Entity assigned',
           editor_text_skew_x: 'Skew X (°)',
           editor_text_skew_y: 'Skew Y (°)',
           editor_upload_overlay: 'Upload from PC',
@@ -17246,6 +17851,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           overlay_image: { title: 'Immagine Overlay', helper: '⚠️ FUNZIONE PRO: Aggiungi fino a 5 immagini PNG personalizzate sovrapposte alla card (auto, piscine, turbine, ecc.). Ogni immagine ha controlli indipendenti per posizione (X/Y), dimensione (larghezza/altezza) e opacità. Perfetto per aggiungere elementi visivi realistici al tuo dashboard energetico. Esempi inclusi: car.png, car_real.png, Pool.png, pool_real.png, turbine.png. Per sbloccare: paga 5€ con PayPal (donazione) oppure con GitHub Sponsors.' },
           custom_flows: { title: 'Flussi Personalizzati', helper: 'Crea fino a 5 flussi di energia animati aggiuntivi con sensori, percorsi SVG, colori e soglie di attivazione personalizzati. Ogni flusso può avere posizioni sorgente/destinazione indipendenti, colori linea, effetti glow e soglie di potenza. Perfetto per visualizzare carichi personalizzati (pompa piscina, pompa di calore, caricatore EV, ecc.) o sorgenti energetiche aggiuntive. I flussi si animano automaticamente quando i valori del sensore superano la soglia.' },
           custom_text: { title: 'Testo Personalizzato', helper: 'Aggiungi fino a 5 blocchi di testo. Puoi mostrare: solo testo statico (lascia Sensore vuoto), solo il valore di un\'entità (lascia Etichetta vuota, imposta Sensore), o entrambi (etichetta + valore entità). Configura posizione (X/Y), colore, dimensione carattere.' },
+          day_night: { title: 'Sfondo Giorno/Notte', helper: 'Carica solo l\'immagine NOTTURNA. Inserisci il file in: /homeassistant/www/community/lumina-energy-card/ (oppure config/www/community/lumina-energy-card/). Il file deve chiamarsi solo night.jpg o night.png. Poi imposta l\'URL sotto su /local/community/lumina-energy-card/night.jpg (o .png). Dopo aver aggiunto la foto, ricarica l\'integrazione Lumina e aggiorna il browser. Sfondo giorno = quello impostato nel Tipo di impianto. La card usa sun.sun: quando è sotto l\'orizzonte si mostra l\'immagine notte. Usa "Forza vista notte" per provare subito.' },
           about: { title: 'Informazioni', helper: 'Crediti, versione e link utili.' }
         },
         fields: {
@@ -17394,6 +18000,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           pv_string6_color: { label: 'Colore stringa FV 6', helper: 'Sovrascrive il colore di S6. Lascia vuoto per usare il colore totale FV.' },
           load_flow_color: { label: 'Colore flusso carico', helper: 'Colore applicato all animazione del carico della casa.' },
           load_text_color: { label: 'Colore testo carico', helper: 'Colore applicato al testo del carico di casa quando le soglie non sono attive.' },
+          house_consumption_text_color: { label: 'Colore testo consumo casa', helper: 'Colore per il valore del consumo casa sulla card. Se impostato, sostituisce il colore testo carico.' },
           inv1_color: { label: 'Colore INV 1', helper: 'Colore applicato al testo/flusso INV 1.' },
           inv2_color: { label: 'Colore INV 2', helper: 'Colore applicato al testo/flusso INV 2.' },
           load_threshold_warning: { label: 'Soglia avviso carico', helper: 'Cambia colore quando il carico raggiunge questa soglia. Usa l unita di visualizzazione selezionata.' },
@@ -17427,12 +18034,26 @@ class LuminaEnergyCardEditor extends HTMLElement {
             text_visibility_sensor: { label: 'Sensore Movimento Visibilità Testi (PRO)', helper: '⚠️ FUNZIONE PRO: Entità sensore di movimento. Quando viene rilevato movimento, i testi appaiono. Perfetto per tablet a muro con telecamera.' },
             solar_forecast_enabled: { label: 'Abilita Previsione Solare', helper: '⚠️ FUNZIONE PRO: Mostra la produzione solare stimata con stato del sole (tanto/moderato/poco sole).' },
             sensor_solar_forecast: { label: 'Sensore Previsione Solare', helper: 'Entità sensore per la produzione solare stimata (in W o kW).' },
+            weather_rain_entity: { label: 'Entità meteo per pioggia', helper: 'Opzionale. Entità meteo (es. Met.no). Se lo stato è rainy/pouring/lightning-rainy viene mostrata l\'animazione pioggia.' },
             solar_forecast_max_power: { label: 'Potenza Massima Previsione Solare (W)', helper: 'Potenza massima attesa in watt. Usata per calcolare la percentuale per lo stato del sole (predefinito: 10000W).' },
             solar_forecast_x: { label: 'Posizione X Previsione Solare (px)', helper: 'Posizione orizzontale del testo previsione solare (in pixel).' },
             solar_forecast_y: { label: 'Posizione Y Previsione Solare (px)', helper: 'Posizione verticale del testo previsione solare (in pixel).' },
             solar_forecast_color: { label: 'Colore Previsione Solare', helper: 'Colore per il testo previsione solare (predefinito: #00FFFF).' },
             solar_forecast_size: { label: 'Dimensione Font Previsione Solare (px)', helper: 'Dimensione font per il testo previsione solare (predefinito: 16px).' },
             invert_battery: { label: 'Inverti valori batteria', helper: 'Abilita se la polarita carica/scarica e invertita.' },
+            battery_text_color: { label: 'Colore testo batteria', helper: 'Colore per SOC e potenza. Per modificare posizione/rotazione/scala vai nella sezione Layout.' },
+            battery_font_size: { label: 'Dimensione testo batteria (px)', helper: 'Dimensione del testo batteria. Per modificare posizione/rotazione/scala vai nella sezione Layout.' },
+          flow_threshold_battery: { label: 'Soglia flusso batteria (W)', helper: 'Non animare il flusso quando la potenza è sotto questo valore (W).' },
+          battery_1_font_size: { label: 'Batteria 1 - dimensione testo (px)', helper: 'Override opzionale. Lascia vuoto per usare la dimensione testo batteria.' },
+          battery_2_font_size: { label: 'Batteria 2 - dimensione testo (px)', helper: 'Override opzionale. Lascia vuoto per usare la dimensione testo batteria.' },
+          battery_3_font_size: { label: 'Batteria 3 - dimensione testo (px)', helper: 'Override opzionale. Lascia vuoto per usare la dimensione testo batteria.' },
+          battery_4_font_size: { label: 'Batteria 4 - dimensione testo (px)', helper: 'Override opzionale. Lascia vuoto per usare la dimensione testo batteria.' },
+            battery_2_text_color: { label: 'Colore testo batteria 2', helper: 'Override opzionale del colore testo per batteria 2. Lascia vuoto per usare il colore testo batteria. Per posizione/rotazione/scala usa Layout.' },
+            battery_3_text_color: { label: 'Colore testo batteria 3', helper: 'Override opzionale del colore testo per batteria 3. Lascia vuoto per usare il colore testo batteria. Per posizione/rotazione/scala usa Layout.' },
+            battery_4_text_color: { label: 'Colore testo batteria 4', helper: 'Override opzionale del colore testo per batteria 4. Lascia vuoto per usare il colore testo batteria. Per posizione/rotazione/scala usa Layout.' },
+            battery_2_row_scale: { label: 'Scala batteria 2 (icona+testo)', helper: 'Scala uniforme per la riga batteria 2 (icona + testo). Per posizione/rotazione usa Layout.' },
+            battery_3_row_scale: { label: 'Scala batteria 3 (icona+testo)', helper: 'Scala uniforme per la riga batteria 3 (icona + testo). Per posizione/rotazione usa Layout.' },
+            battery_4_row_scale: { label: 'Scala batteria 4 (icona+testo)', helper: 'Scala uniforme per la riga batteria 4 (icona + testo). Per posizione/rotazione usa Layout.' },
           sensor_car_power: { label: 'Sensore potenza auto 1' },
           sensor_car_soc: { label: 'Sensore SOC auto 1' },
           car_soc: { label: 'SOC Auto', helper: 'Sensore per SOC batteria EV.' },
@@ -17480,6 +18101,13 @@ class LuminaEnergyCardEditor extends HTMLElement {
           car2_name_color: { label: 'Colore nome Auto 2', helper: 'Colore applicato all etichetta del nome Auto 2.' },
           car1_color: { label: 'Colore Auto 1', helper: 'Colore applicato al valore potenza Auto 1.' },
           car2_color: { label: 'Colore Auto 2', helper: 'Colore applicato al valore potenza Auto 2.' },
+          car_text_color: { label: 'Colore testo auto', helper: 'Colore predefinito per entrambe le auto (etichetta e potenza). Sostituito da Colore testo Auto 1/2 se impostati.' },
+          car1_text_color: { label: 'Colore testo Auto 1', helper: 'Colore per etichetta e potenza Auto 1. Vuoto = usa Colore testo auto.' },
+          car2_text_color: { label: 'Colore testo Auto 2', helper: 'Colore per etichetta e potenza Auto 2. Vuoto = usa Colore testo auto.' },
+          night_mode_enabled: { label: 'Abilita sfondo giorno/notte', helper: 'Cambia sfondo automaticamente con sun.sun (below_horizon = notte).' },
+          background_image_night: { label: 'URL immagine sfondo notte', helper: 'Usa /local/community/lumina-energy-card/night.jpg o night.png. Il file deve essere in www/community/lumina-energy-card/ e chiamarsi solo night.jpg o night.png. Dopo aver aggiunto il file, ricarica l\'integrazione e aggiorna la pagina.' },
+          sensor_sun_entity: { label: 'Entità sole', helper: 'Entità sun (es. sun.sun). Quando lo stato è below_horizon si mostra l\'immagine notte.' },
+          night_mode_override: { label: 'Forza vista notte', helper: 'Toggle per mostrare subito lo sfondo notte (per test).' },
           pro_password: { label: 'Password PRO', helper: '⚠️ FUNZIONE PRO: Questa è una funzione premium.' },
           license_status: 'Stato licenza',
           license_active: 'PRO attivo',
@@ -17545,6 +18173,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_remove_text: 'Rimuovi testo',
           editor_remove_text_helper: 'Disabilita e cancella lo slot testo selezionato',
           editor_text_sensor_label: 'Sensore:',
+          editor_entity_assigned: 'Entità assegnata',
           editor_text_skew_x: 'Inclina X (°)',
           editor_text_skew_y: 'Inclina Y (°)',
           editor_upload_overlay: 'Carica da PC',
@@ -17909,6 +18538,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           overlay_image: { title: 'Overlay-Bild', helper: 'Konfigurieren Sie ein Overlay-PNG-Bild, das über dem Hintergrundbild angezeigt wird. Verwenden Sie Schieberegler, um das Overlay zu positionieren und zu ändern.' },
           custom_flows: { title: 'Benutzerdefinierte Flüsse', helper: 'Erstellen Sie zusätzliche Energieflüsse, indem Sie einen Sensor, einen SVG-Pfad, eine Farbe und einen Aktivierungsschwellenwert definieren. Nützlich zur Visualisierung benutzerdefinierter Energiequellen oder Lasten.' },
           custom_text: { title: 'Benutzerdefinierter Text', helper: 'Bis zu 5 Textblöcke. Anzeige: nur statischer Text (Sensor leer lassen), nur Wert einer Entität (Beschriftung leer, Sensor setzen) oder beides (Beschriftung + Entitätswert). Position (X/Y), Farbe, Schriftgröße konfigurierbar.' },
+          day_night: { title: 'Hintergrund Tag/Nacht', helper: 'Nur das NACHT-Bild hochladen. Datei ablegen in: /homeassistant/www/community/lumina-energy-card/ (oder config/www/community/lumina-energy-card/). Die Datei muss nur night.jpg oder night.png heißen. Dann die URL unten auf /local/community/lumina-energy-card/night.jpg (oder .png) setzen. Nach dem Hinzufügen des Fotos die Lumina-Integration neu laden und den Browser aktualisieren. Tageshintergrund = der unter Installationstyp gewählte. Die Karte nutzt sun.sun: Bei below_horizon wird das Nachtbild angezeigt. "Nachtansicht erzwingen" zum sofortigen Testen.' },
           about: { title: 'Info', helper: 'Credits, Version und nuetzliche Links.' }
         },
         fields: {
@@ -17947,6 +18577,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_custom_text_label: 'Text:',
           editor_custom_text_placeholder: 'Eigener Text',
           editor_text_sensor_label: 'Sensor:',
+          editor_entity_assigned: 'Entity assigned',
           editor_draw_hint_off: 'CF wählen und Zeichnen drücken.',
           editor_draw_hint_on: 'Zeichnen CF {i}: im Preview zeichnen. Loslassen zum Speichern.',
           editor_export_flows: 'Flüsse exportieren',
@@ -18171,6 +18802,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           pv_string6_color: { label: 'PV String 6 Farbe', helper: 'Ueberschreibt die Farbe fuer S6. Leer lassen um die PV-Gesamtfarbe zu nutzen.' },
           load_flow_color: { label: 'Lastflussfarbe', helper: 'Farbe fuer die Hausverbrauch-Animationslinie.' },
           load_text_color: { label: 'Last Textfarbe', helper: 'Farbe fuer den Hausverbrauchstext, wenn keine Schwellen aktiv sind.' },
+          house_consumption_text_color: { label: 'Farbe Verbrauchstext Haus', helper: 'Farbe für den Hausverbrauchswert auf der Karte.' },
           inv1_color: { label: 'INV 1 Farbe', helper: 'Farbe fuer INV 1 Text/Fluss.' },
           inv2_color: { label: 'INV 2 Farbe', helper: 'Farbe fuer INV 2 Text/Fluss.' },
           load_threshold_warning: { label: 'Last Warnschwelle', helper: 'Farbe wechseln, wenn der Verbrauch diese Magnitude erreicht. Verwendet die ausgewaehlte Anzeigeeinheit.' },
@@ -18201,12 +18833,21 @@ class LuminaEnergyCardEditor extends HTMLElement {
           text_visibility_sensor: { label: 'Text-Sichtbarkeits-Bewegungssensor (PRO)', helper: '⚠️ PRO-FUNKTION: Bewegungs-Sensor-Entität. Bei erkannten Bewegungen erscheinen die Texte. Perfekt für Wandtablets mit Kamera.' },
           solar_forecast_enabled: { label: 'Solarprognose aktivieren', helper: '⚠️ PRO-FUNKTION: Zeigt geschätzte Solarproduktion mit Sonnenstatus (viel/mäßig/wenig Sonne).' },
           sensor_solar_forecast: { label: 'Solarprognose Sensor', helper: 'Sensor-Entität für geschätzte Solarproduktion (in W oder kW).' },
+          weather_rain_entity: { label: 'Wetter-Entität für Regen', helper: 'Optional. Wetter-Entität (z.B. Met.no). Bei Regen/Wolkenbruch/Gewitterregen wird die Regen-Animation angezeigt.' },
           solar_forecast_max_power: { label: 'Solarprognose Max. Leistung (W)', helper: 'Maximale erwartete Leistung in Watt. Wird zur Berechnung des Prozentsatzes für Sonnenstatus verwendet (Standard: 10000W).' },
           solar_forecast_x: { label: 'Solarprognose X-Position (px)', helper: 'Horizontale Position des Solarprognose-Textes (in Pixeln).' },
           solar_forecast_y: { label: 'Solarprognose Y-Position (px)', helper: 'Vertikale Position des Solarprognose-Textes (in Pixeln).' },
           solar_forecast_color: { label: 'Solarprognose Farbe', helper: 'Farbe für den Solarprognose-Text (Standard: #00FFFF).' },
           solar_forecast_size: { label: 'Solarprognose Schriftgröße (px)', helper: 'Schriftgröße für den Solarprognose-Text (Standard: 16px).' },
           invert_battery: { label: 'Batterie-Werte invertieren', helper: 'Aktivieren, wenn Lade-/Entlade-Polarität vertauscht ist.' },
+          battery_text_color: { label: 'Batterietextfarbe', helper: 'Farbe für SOC und Leistung. Für Position/Drehung/Skalierung die Layout-Sektion verwenden.' },
+          battery_font_size: { label: 'Batterie-Schriftgröße (px)', helper: 'Schriftgröße für Batterietext. Für Position/Drehung/Skalierung die Layout-Sektion verwenden.' },
+          battery_2_text_color: { label: 'Batterie 2 Textfarbe', helper: 'Optionaler Override für Batterie-2-Text. Leer lassen, um die Batterietextfarbe zu verwenden. Für Position/Drehung/Skalierung: Layout.' },
+          battery_3_text_color: { label: 'Batterie 3 Textfarbe', helper: 'Optionaler Override für Batterie-3-Text. Leer lassen, um die Batterietextfarbe zu verwenden. Für Position/Drehung/Skalierung: Layout.' },
+          battery_4_text_color: { label: 'Batterie 4 Textfarbe', helper: 'Optionaler Override für Batterie-4-Text. Leer lassen, um die Batterietextfarbe zu verwenden. Für Position/Drehung/Skalierung: Layout.' },
+          battery_2_row_scale: { label: 'Batterie 2 (Icon+Text) Skalierung', helper: 'Gleichmäßige Skalierung für Batterie 2 (Icon + Text). Für Position/Drehung: Layout.' },
+          battery_3_row_scale: { label: 'Batterie 3 (Icon+Text) Skalierung', helper: 'Gleichmäßige Skalierung für Batterie 3 (Icon + Text). Für Position/Drehung: Layout.' },
+          battery_4_row_scale: { label: 'Batterie 4 (Icon+Text) Skalierung', helper: 'Gleichmäßige Skalierung für Batterie 4 (Icon + Text). Für Position/Drehung: Layout.' },
           sensor_car_power: { label: 'Fahrzeugleistung Sensor 1' },
           sensor_car_soc: { label: 'Fahrzeug SOC Sensor 1' },
           car_soc: { label: 'Fahrzeug SOC', helper: 'Sensor für EV-Batterie SOC.' },
@@ -18254,6 +18895,13 @@ class LuminaEnergyCardEditor extends HTMLElement {
           car2_name_color: { label: 'Farbe Name Auto 2', helper: 'Farbe fuer die Bezeichnung von Fahrzeug 2.' },
           car1_color: { label: 'Farbe Auto 1', helper: 'Farbe fuer die Leistungsanzeige von Fahrzeug 1.' },
           car2_color: { label: 'Farbe Auto 2', helper: 'Farbe fuer die Leistungsanzeige von Fahrzeug 2.' },
+          car_text_color: { label: 'EV-Textfarbe', helper: 'Standardfarbe fuer beide Fahrzeuge (Bezeichnung + Leistung). Leer lassen = ueberschrieben durch Auto 1/2 Textfarbe.' },
+          car1_text_color: { label: 'Auto 1 Textfarbe', helper: 'Farbe fuer Bezeichnung und Leistung Auto 1. Leer = EV-Textfarbe.' },
+          car2_text_color: { label: 'Auto 2 Textfarbe', helper: 'Farbe fuer Bezeichnung und Leistung Auto 2. Leer = EV-Textfarbe.' },
+          night_mode_enabled: { label: 'Hintergrund Tag/Nacht aktivieren', helper: 'Hintergrund automatisch mit sun.sun wechseln (below_horizon = Nacht).' },
+          background_image_night: { label: 'URL Nacht-Hintergrundbild', helper: 'Verwende /local/community/lumina-energy-card/night.jpg oder night.png. Datei muss in www/community/lumina-energy-card/ liegen und nur night.jpg oder night.png heißen. Nach dem Hinzufügen Integration neu laden und Seite aktualisieren.' },
+          sensor_sun_entity: { label: 'Sonnen-Entität', helper: 'Sun-Entität (z. B. sun.sun). Bei below_horizon wird das Nachtbild angezeigt.' },
+          night_mode_override: { label: 'Nachtansicht erzwingen', helper: 'Toggle zum sofortigen Anzeigen des Nacht-Hintergrunds (zum Testen).' },
           pro_password: { label: 'PRO-Passwort', helper: '⚠️ PRO-FUNKTION: Dies ist eine Premium-Funktion.' },
           paypal_button: 'PRO-Funktionen freischalten (5€)',
           paypal_note: 'WICHTIG: Du kannst per PayPal (nur als SPENDE, nicht „Waren & Dienstleistungen“) oder über GitHub Sponsors zahlen. Automatisches System: Wenn keine Übereinstimmung gefunden wird, wird das Passwort NICHT gesendet. Nach der Zahlung unten die PRO-Lizenz anfordern und die Methode wählen (PayPal / GitHub).',
@@ -18553,6 +19201,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           overlay_image: { title: 'Image Overlay', helper: 'Configurez une image PNG overlay à afficher sur l\'image d\'arrière-plan. Utilisez les curseurs pour positionner et redimensionner l\'overlay.' },
           custom_flows: { title: 'Flux Personnalisés', helper: 'Créez des flux d\'énergie supplémentaires en définissant un capteur, un chemin SVG, une couleur et un seuil d\'activation. Utile pour visualiser des sources ou charges d\'énergie personnalisées.' },
           custom_text: { title: 'Texte personnalisé', helper: 'Jusqu\'à 5 blocs de texte. Affichage : texte statique seul (laisser Capteur vide), valeur d\'entité seule (laisser Étiquette vide, définir Capteur), ou les deux (étiquette + valeur). Configurez position (X/Y), couleur, taille.' },
+          day_night: { title: 'Fond Jour/Nuit', helper: 'Téléchargez uniquement l\'image NOCTURNE. Placez le fichier dans : /homeassistant/www/community/lumina-energy-card/ (ou config/www/community/lumina-energy-card/). Le fichier doit s\'appeler uniquement night.jpg ou night.png. Puis définissez l\'URL ci-dessous sur /local/community/lumina-energy-card/night.jpg (ou .png). Après avoir ajouté la photo, rechargez l\'intégration Lumina et actualisez le navigateur. Fond jour = celui défini dans Type d\'installation. La carte utilise sun.sun : sous l\'horizon l\'image nuit s\'affiche. "Forcer vue nuit" pour tester immédiatement.' },
           about: { title: 'À propos', helper: 'Crédits, version et liens utiles.' }
         },
         fields: {
@@ -18591,6 +19240,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_custom_text_label: 'Texte:',
           editor_custom_text_placeholder: 'Texte personnalisé',
           editor_text_sensor_label: 'Capteur:',
+          editor_entity_assigned: 'Entité assignée',
           editor_draw_hint_off: 'Sélectionnez un CF puis appuyez sur Dessiner.',
           editor_draw_hint_on: 'Dessin CF {i} : dessinez dans l’aperçu. Relâchez pour enregistrer.',
           editor_export_flows: 'Exporter les flux',
@@ -18813,6 +19463,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           pv_string6_color: { label: 'Couleur Chaîne PV 6', helper: 'Remplace la couleur pour S6 dans la liste PV. Laisser vide pour hériter de la couleur PV totale.' },
           load_flow_color: { label: 'Couleur flux charge', helper: 'Couleur appliquée à la ligne d animation de la charge domestique.' },
           load_text_color: { label: 'Couleur texte charge', helper: 'Couleur appliquée au texte de charge lorsque aucun seuil n est actif.' },
+          house_consumption_text_color: { label: 'Couleur texte consommation maison', helper: 'Couleur pour la valeur de consommation maison sur la carte.' },
           inv1_color: { label: 'Couleur INV 1', helper: 'Couleur appliquée au texte/flux INV 1.' },
           inv2_color: { label: 'Couleur INV 2', helper: 'Couleur appliquée au texte/flux INV 2.' },
           load_threshold_warning: { label: 'Seuil avertissement charge', helper: 'Changer la couleur du chargeur lorsque la magnitude atteint ou dépasse cette valeur. Utilise l unité d affichage sélectionnée.' },
@@ -18840,12 +19491,21 @@ class LuminaEnergyCardEditor extends HTMLElement {
           text_visibility_sensor: { label: 'Capteur de Mouvement Visibilité Texte (PRO)', helper: '⚠️ FONCTION PRO: Entité capteur de mouvement. Lorsqu\'un mouvement est détecté, les textes apparaissent. Parfait pour tablettes murales avec caméra.' },
           solar_forecast_enabled: { label: 'Activer Prévision Solaire', helper: '⚠️ FONCTION PRO: Affiche la production solaire estimée avec l\'état du soleil (beaucoup/modéré/peu de soleil).' },
           sensor_solar_forecast: { label: 'Capteur Prévision Solaire', helper: 'Entité capteur pour la production solaire estimée (en W ou kW).' },
+          weather_rain_entity: { label: 'Entité météo pour la pluie', helper: 'Optionnel. Entité météo (ex. Met.no). En cas de pluie/averse/orage, l\'animation pluie s\'affiche.' },
           solar_forecast_max_power: { label: 'Prévision Solaire Puissance Max (W)', helper: 'Puissance maximale attendue en watts. Utilisée pour calculer le pourcentage pour l\'état du soleil (par défaut: 10000W).' },
           solar_forecast_x: { label: 'Prévision Solaire Position X (px)', helper: 'Position horizontale du texte prévision solaire (en pixels).' },
           solar_forecast_y: { label: 'Prévision Solaire Position Y (px)', helper: 'Position verticale du texte prévision solaire (en pixels).' },
           solar_forecast_color: { label: 'Couleur Prévision Solaire', helper: 'Couleur pour le texte prévision solaire (par défaut: #00FFFF).' },
           solar_forecast_size: { label: 'Taille Police Prévision Solaire (px)', helper: 'Taille de police pour le texte prévision solaire (par défaut: 16px).' },
           invert_battery: { label: 'Inverser valeurs batterie', helper: 'Activer si la polarité charge/décharge est inversée.' },
+          battery_text_color: { label: 'Couleur du texte batterie', helper: 'Couleur pour SOC et puissance. Pour modifier position/rotation/échelle, utilisez la section Layout.' },
+          battery_font_size: { label: 'Taille du texte batterie (px)', helper: 'Taille de police du texte batterie. Pour modifier position/rotation/échelle, utilisez la section Layout.' },
+          battery_2_text_color: { label: 'Couleur texte batterie 2', helper: 'Override optionnel pour la batterie 2. Laissez vide pour utiliser la couleur texte batterie. Position/rotation/échelle : section Layout.' },
+          battery_3_text_color: { label: 'Couleur texte batterie 3', helper: 'Override optionnel pour la batterie 3. Laissez vide pour utiliser la couleur texte batterie. Position/rotation/échelle : section Layout.' },
+          battery_4_text_color: { label: 'Couleur texte batterie 4', helper: 'Override optionnel pour la batterie 4. Laissez vide pour utiliser la couleur texte batterie. Position/rotation/échelle : section Layout.' },
+          battery_2_row_scale: { label: 'Échelle batterie 2 (icône+texte)', helper: 'Échelle uniforme pour la ligne batterie 2 (icône + texte). Pour position/rotation : Layout.' },
+          battery_3_row_scale: { label: 'Échelle batterie 3 (icône+texte)', helper: 'Échelle uniforme pour la ligne batterie 3 (icône + texte). Pour position/rotation : Layout.' },
+          battery_4_row_scale: { label: 'Échelle batterie 4 (icône+texte)', helper: 'Échelle uniforme pour la ligne batterie 4 (icône + texte). Pour position/rotation : Layout.' },
           sensor_car_power: { label: 'Capteur puissance Véhicule 1' },
           sensor_car_soc: { label: 'Capteur SOC Véhicule 1' },
           car_soc: { label: 'SOC Véhicule', helper: 'Capteur pour SOC batterie EV.' },
@@ -18893,6 +19553,13 @@ class LuminaEnergyCardEditor extends HTMLElement {
           car2_name_color: { label: 'Couleur nom Véhicule 2', helper: 'Couleur appliquée au libellé du nom du Véhicule 2.' },
           car1_color: { label: 'Couleur Véhicule 1', helper: 'Couleur appliquée à la valeur de puissance du Véhicule 1.' },
           car2_color: { label: 'Couleur Véhicule 2', helper: 'Couleur appliquée à la valeur de puissance du Véhicule 2.' },
+          car_text_color: { label: 'Couleur texte véhicule', helper: 'Couleur par défaut pour les deux véhicules (libellé + puissance). Vide = utiliser Couleur texte Véhicule 1/2.' },
+          car1_text_color: { label: 'Couleur texte Véhicule 1', helper: 'Couleur pour libellé et puissance Véhicule 1. Vide = couleur texte véhicule.' },
+          car2_text_color: { label: 'Couleur texte Véhicule 2', helper: 'Couleur pour libellé et puissance Véhicule 2. Vide = couleur texte véhicule.' },
+          night_mode_enabled: { label: 'Activer fond jour/nuit', helper: 'Changer le fond automatiquement avec sun.sun (below_horizon = nuit).' },
+          background_image_night: { label: 'URL image fond nuit', helper: 'Utilisez /local/community/lumina-energy-card/night.jpg ou night.png. Le fichier doit être dans www/community/lumina-energy-card/ et s\'appeler uniquement night.jpg ou night.png. Après ajout, rechargez l\'intégration et actualisez.' },
+          sensor_sun_entity: { label: 'Entité soleil', helper: 'Entité sun (ex. sun.sun). Quand l\'état est below_horizon, l\'image nuit s\'affiche.' },
+          night_mode_override: { label: 'Forcer vue nuit', helper: 'Toggle pour afficher immédiatement le fond nuit (test).' },
           pro_password: { label: 'Mot de passe PRO', helper: '⚠️ FONCTION PRO : C est une fonction premium.' },
           paypal_button: 'Débloquer les fonctions PRO (5€)',
           paypal_note: 'IMPORTANT : Vous pouvez payer via PayPal (uniquement en DON, ne pas utiliser « Biens et services ») ou via GitHub Sponsors. Système automatique : si aucune correspondance n’est trouvée, le mot de passe ne sera PAS envoyé. Après le paiement, demandez la licence PRO ci-dessous et choisissez la méthode (PayPal / GitHub).',
@@ -19196,6 +19863,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           overlay_image: { title: 'Overlay Afbeelding', helper: 'Configureer een overlay PNG-afbeelding om boven de achtergrondafbeelding weer te geven. Gebruik schuifregelaars om de overlay te positioneren en te wijzigen.' },
           custom_flows: { title: 'Aangepaste Stromen', helper: 'Maak extra energiestromen door een sensor, SVG-pad, kleur en activeringsdrempel te definiëren. Handig voor het visualiseren van aangepaste energiebronnen of belastingen.' },
           custom_text: { title: 'Aangepaste tekst', helper: 'Tot 5 tekstblokken. Toon: alleen statische tekst (Sensor leeg), alleen waarde van een entiteit (Label leeg, Sensor invullen), of beide (label + entiteitswaarde). Positie (X/Y), kleur, lettergrootte instelbaar.' },
+          day_night: { title: 'Achtergrond Dag/Nacht', helper: 'Upload alleen de NACHT-afbeelding. Plaats het bestand in: /homeassistant/www/community/lumina-energy-card/ (of config/www/community/lumina-energy-card/). Het bestand moet alleen night.jpg of night.png heten. Stel dan de URL hieronder in op /local/community/lumina-energy-card/night.jpg (of .png). Na het toevoegen van de foto: herlaad de Lumina-integratie en vernieuw de browser. Dagachtergrond = die in Installatietype. De kaart gebruikt sun.sun: bij below_horizon wordt de nachtafbeelding getoond. "Nachtweergave forceren" om direct te testen.' },
           about: { title: 'Over', helper: 'Credits, versie en nuttige links.' }
         },
         fields: {
@@ -19234,6 +19902,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_custom_text_label: 'Tekst:',
           editor_custom_text_placeholder: 'Aangepaste tekst',
           editor_text_sensor_label: 'Sensor:',
+          editor_entity_assigned: 'Entity assigned',
           editor_draw_hint_off: 'Kies een CF en druk op Teken.',
           editor_draw_hint_on: 'Tekenen CF {i}: teken in het voorbeeld. Loslaten om op te slaan.',
           editor_export_flows: 'Flows exporteren',
@@ -19456,6 +20125,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           pv_string6_color: { label: 'PV String 6 kleur', helper: 'Vervang kleur voor S6 in PV lijst. Leeg laten om te erven van totale PV kleur.' },
           load_flow_color: { label: 'Belasting flow kleur', helper: 'Kleur toegepast op de huisbelasting animatie lijn.' },
           load_text_color: { label: 'Belasting tekstkleur', helper: 'Kleur toegepast op de tekst van het huisverbruik wanneer geen drempel actief is.' },
+          house_consumption_text_color: { label: 'Kleur verbruikstekst huis', helper: 'Kleur voor de verbruikswaarde op de kaart.' },
           inv1_color: { label: 'INV 1 kleur', helper: 'Kleur toegepast op INV 1 tekst/flow.' },
           inv2_color: { label: 'INV 2 kleur', helper: 'Kleur toegepast op INV 2 tekst/flow.' },
           load_threshold_warning: { label: 'Belasting waarschuwingsdrempel', helper: 'Verander kleur van lader wanneer magnitude deze waarde bereikt of overschrijdt. Gebruikt geselecteerde weergave eenheid.' },
@@ -19483,12 +20153,21 @@ class LuminaEnergyCardEditor extends HTMLElement {
           text_visibility_sensor: { label: 'Tekst Zichtbaarheid Bewegingssensor (PRO)', helper: '⚠️ PRO-FUNCTIE: Bewegingssensor entiteit. Wanneer beweging wordt gedetecteerd, verschijnen de teksten. Perfect voor wandtablets met camera.' },
           solar_forecast_enabled: { label: 'Zonnevoorspelling inschakelen', helper: '⚠️ PRO-FUNCTIE: Toont geschatte zonneproductie met zonstatus (veel/matig/weinig zon).' },
           sensor_solar_forecast: { label: 'Zonnevoorspelling Sensor', helper: 'Sensor entiteit voor geschatte zonneproductie (in W of kW).' },
+          weather_rain_entity: { label: 'Weer-entiteit voor regen', helper: 'Optioneel. Weer-entiteit (bv. Met.no). Bij regen/plensbui/onweersbui wordt de regenanimatie getoond.' },
           solar_forecast_max_power: { label: 'Zonnevoorspelling Max. Vermogen (W)', helper: 'Maximaal verwacht vermogen in watt. Gebruikt om percentage te berekenen voor zonstatus (standaard: 10000W).' },
           solar_forecast_x: { label: 'Zonnevoorspelling X Positie (px)', helper: 'Horizontale positie van de zonnevoorspelling tekst (in pixels).' },
           solar_forecast_y: { label: 'Zonnevoorspelling Y Positie (px)', helper: 'Verticale positie van de zonnevoorspelling tekst (in pixels).' },
           solar_forecast_color: { label: 'Zonnevoorspelling Kleur', helper: 'Kleur voor de zonnevoorspelling tekst (standaard: #00FFFF).' },
           solar_forecast_size: { label: 'Zonnevoorspelling Lettergrootte (px)', helper: 'Lettergrootte voor de zonnevoorspelling tekst (standaard: 16px).' },
           invert_battery: { label: 'Batterij waarden omkeren', helper: 'Inschakelen als laad/ontlaad polariteit omgekeerd is.' },
+          battery_text_color: { label: 'Batterijtekstkleur', helper: 'Kleur voor SOC en vermogen. Voor positie/rotatie/schaal: gebruik de Layout-sectie.' },
+          battery_font_size: { label: 'Batterij lettergrootte (px)', helper: 'Lettergrootte voor batterijtekst. Voor positie/rotatie/schaal: gebruik de Layout-sectie.' },
+          battery_2_text_color: { label: 'Batterij 2 tekstkleur', helper: 'Optionele override voor batterij 2. Laat leeg om Batterijtekstkleur te gebruiken. Positie/rotatie/schaal: Layout.' },
+          battery_3_text_color: { label: 'Batterij 3 tekstkleur', helper: 'Optionele override voor batterij 3. Laat leeg om Batterijtekstkleur te gebruiken. Positie/rotatie/schaal: Layout.' },
+          battery_4_text_color: { label: 'Batterij 4 tekstkleur', helper: 'Optionele override voor batterij 4. Laat leeg om Batterijtekstkleur te gebruiken. Positie/rotatie/schaal: Layout.' },
+          battery_2_row_scale: { label: 'Batterij 2 (icoon+tekst) schaal', helper: 'Uniforme schaal voor batterij 2 (icoon + tekst). Voor positie/rotatie: Layout.' },
+          battery_3_row_scale: { label: 'Batterij 3 (icoon+tekst) schaal', helper: 'Uniforme schaal voor batterij 3 (icoon + tekst). Voor positie/rotatie: Layout.' },
+          battery_4_row_scale: { label: 'Batterij 4 (icoon+tekst) schaal', helper: 'Uniforme schaal voor batterij 4 (icoon + tekst). Voor positie/rotatie: Layout.' },
           sensor_car_power: { label: 'Voertuig 1 vermogen sensor' },
           sensor_car_soc: { label: 'Voertuig 1 SOC sensor' },
           car_soc: { label: 'Voertuig SOC', helper: 'Sensor voor EV batterij SOC.' },
@@ -19536,6 +20215,13 @@ class LuminaEnergyCardEditor extends HTMLElement {
           car2_name_color: { label: 'Voertuig 2 naam kleur', helper: 'Kleur toegepast op Voertuig 2 naam label.' },
           car1_color: { label: 'Voertuig 1 kleur', helper: 'Kleur toegepast op Voertuig 1 vermogen waarde.' },
           car2_color: { label: 'Voertuig 2 kleur', helper: 'Kleur toegepast op de vermogenswaarde van voertuig 2.' },
+          car_text_color: { label: 'Voertuig tekstkleur', helper: 'Standaardkleur voor beide voertuigen (label + vermogen). Leeg = overschreven door Voertuig 1/2 tekstkleur.' },
+          car1_text_color: { label: 'Voertuig 1 tekstkleur', helper: 'Kleur voor label en vermogen Voertuig 1. Leeg = Voertuig tekstkleur.' },
+          car2_text_color: { label: 'Voertuig 2 tekstkleur', helper: 'Kleur voor label en vermogen Voertuig 2. Leeg = Voertuig tekstkleur.' },
+          night_mode_enabled: { label: 'Achtergrond dag/nacht inschakelen', helper: 'Achtergrond automatisch wisselen met sun.sun (below_horizon = nacht).' },
+          background_image_night: { label: 'URL nacht-achtergrond', helper: 'Gebruik /local/community/lumina-energy-card/night.jpg of night.png. Bestand moet in www/community/lumina-energy-card/ staan en alleen night.jpg of night.png heten. Na toevoegen: integratie herladen en pagina vernieuwen.' },
+          sensor_sun_entity: { label: 'Zon-entiteit', helper: 'Sun-entiteit (bijv. sun.sun). Bij below_horizon wordt de nachtafbeelding getoond.' },
+          night_mode_override: { label: 'Nachtweergave forceren', helper: 'Toggle om direct de nacht-achtergrond te testen.' },
           pro_password: { label: 'PRO-wachtwoord', helper: '⚠️ PRO-FUNCTIE: Dit is een premium-functie.' },
           paypal_button: 'PRO-functies ontgrendelen (5€)',
           paypal_note: 'BELANGRIJK: Je kunt betalen via PayPal (alleen als DONATIE, geen "Goederen en diensten") of via GitHub Sponsors. Automatisch systeem: als er geen match wordt gevonden, wordt het wachtwoord NIET verstuurd. Vraag na betaling hieronder de PRO-licentie aan en kies de methode (PayPal / GitHub).',
@@ -19830,6 +20516,14 @@ class LuminaEnergyCardEditor extends HTMLElement {
         fields: {
           editor_updates_empty: 'Нет обновлений.',
           editor_updates_open: 'Открыть',
+          battery_text_color: { label: 'Цвет текста батареи', helper: 'Цвет для SOC и мощности. Чтобы изменить позицию/поворот/масштаб, используйте раздел Layout.' },
+          battery_font_size: { label: 'Размер текста батареи (px)', helper: 'Размер шрифта текста батареи. Чтобы изменить позицию/поворот/масштаб, используйте раздел Layout.' },
+          battery_2_text_color: { label: 'Цвет текста батареи 2', helper: 'Необязательный override для батареи 2. Оставьте пустым, чтобы использовать общий цвет. Позиция/поворот/масштаб: Layout.' },
+          battery_3_text_color: { label: 'Цвет текста батареи 3', helper: 'Необязательный override для батареи 3. Оставьте пустым, чтобы использовать общий цвет. Позиция/поворот/масштаб: Layout.' },
+          battery_4_text_color: { label: 'Цвет текста батареи 4', helper: 'Необязательный override для батареи 4. Оставьте пустым, чтобы использовать общий цвет. Позиция/поворот/масштаб: Layout.' },
+          battery_2_row_scale: { label: 'Масштаб батареи 2 (иконка+текст)', helper: 'Равномерный масштаб строки батареи 2 (иконка + текст). Позиция/поворот: Layout.' },
+          battery_3_row_scale: { label: 'Масштаб батареи 3 (иконка+текст)', helper: 'Равномерный масштаб строки батареи 3 (иконка + текст). Позиция/поворот: Layout.' },
+          battery_4_row_scale: { label: 'Масштаб батареи 4 (иконка+текст)', helper: 'Равномерный масштаб строки батареи 4 (иконка + текст). Позиция/поворот: Layout.' },
           update_available: 'Доступно обновление',
           update_open: 'Открыть',
           editor_preview_title: 'Предпросмотр Lumina (перетаскивание)',
@@ -19869,6 +20563,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_custom_text_label: 'Текст:',
           editor_custom_text_placeholder: 'Свой текст',
           editor_text_sensor_label: 'Датчик:',
+          editor_entity_assigned: 'Назначенная сущность',
           editor_draw_hint_off: 'Выберите CF и нажмите Рисовать.',
           editor_draw_hint_on: 'Рисование CF {i}: рисуйте в предпросмотре. Отпустите, чтобы сохранить.',
           editor_export_flows: 'Экспорт потоков',
@@ -20031,6 +20726,14 @@ class LuminaEnergyCardEditor extends HTMLElement {
         fields: {
           editor_updates_empty: 'Sem atualizações.',
           editor_updates_open: 'Abrir',
+          battery_text_color: { label: 'Cor do texto da bateria', helper: 'Cor para SOC e potência. Para alterar posição/rotação/escala, vá à secção Layout.' },
+          battery_font_size: { label: 'Tamanho do texto da bateria (px)', helper: 'Tamanho da fonte do texto da bateria. Para alterar posição/rotação/escala, vá à secção Layout.' },
+          battery_2_text_color: { label: 'Cor do texto da bateria 2', helper: 'Override opcional para a bateria 2. Deixe vazio para usar a cor geral. Posição/rotação/escala: Layout.' },
+          battery_3_text_color: { label: 'Cor do texto da bateria 3', helper: 'Override opcional para a bateria 3. Deixe vazio para usar a cor geral. Posição/rotação/escala: Layout.' },
+          battery_4_text_color: { label: 'Cor do texto da bateria 4', helper: 'Override opcional para a bateria 4. Deixe vazio para usar a cor geral. Posição/rotação/escala: Layout.' },
+          battery_2_row_scale: { label: 'Escala bateria 2 (ícone+texto)', helper: 'Escala uniforme da linha da bateria 2 (ícone + texto). Posição/rotação: Layout.' },
+          battery_3_row_scale: { label: 'Escala bateria 3 (ícone+texto)', helper: 'Escala uniforme da linha da bateria 3 (ícone + texto). Posição/rotação: Layout.' },
+          battery_4_row_scale: { label: 'Escala bateria 4 (ícone+texto)', helper: 'Escala uniforme da linha da bateria 4 (ícone + texto). Posição/rotação: Layout.' },
           update_available: 'Atualização disponível',
           update_open: 'Abrir',
           editor_preview_title: 'Pré-visualização Lumina (arrastar)',
@@ -20070,6 +20773,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
           editor_custom_text_label: 'Texto:',
           editor_custom_text_placeholder: 'Texto personalizado',
           editor_text_sensor_label: 'Sensor:',
+          editor_entity_assigned: 'Entity assigned',
           editor_draw_hint_off: 'Selecione um CF e clique em Desenhar.',
           editor_draw_hint_on: 'Desenhando CF {i}: desenhe no preview. Solte para guardar.',
           editor_export_flows: 'Exportar fluxos',
@@ -20507,8 +21211,18 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'sensor_battery_discharge', label: (fields.sensor_battery_discharge && fields.sensor_battery_discharge.label) || 'Battery Discharge', helper: (fields.sensor_battery_discharge && fields.sensor_battery_discharge.helper) || 'Power when discharging; flow to inverter. Mode Charge+Discharge.', selector: entitySelector },
         { name: 'invert_battery', label: fields.invert_battery.label, helper: fields.invert_battery.helper, selector: { boolean: {} } },
         { name: 'battery_text_color', label: (fields.battery_text_color && fields.battery_text_color.label) || 'Battery Text Color', helper: (fields.battery_text_color && fields.battery_text_color.helper) || 'Color for SOC and power.', selector: { color_picker: {} }, default: '#00f9f9' },
+        { name: 'battery_2_text_color', label: (fields.battery_2_text_color && fields.battery_2_text_color.label) || 'Battery 2 Text Color', helper: (fields.battery_2_text_color && fields.battery_2_text_color.helper) || 'Optional override for battery 2. Leave empty to use Battery Text Color.', selector: { color_picker: {} }, default: '' },
+        { name: 'battery_3_text_color', label: (fields.battery_3_text_color && fields.battery_3_text_color.label) || 'Battery 3 Text Color', helper: (fields.battery_3_text_color && fields.battery_3_text_color.helper) || 'Optional override for battery 3. Leave empty to use Battery Text Color.', selector: { color_picker: {} }, default: '' },
+        { name: 'battery_4_text_color', label: (fields.battery_4_text_color && fields.battery_4_text_color.label) || 'Battery 4 Text Color', helper: (fields.battery_4_text_color && fields.battery_4_text_color.helper) || 'Optional override for battery 4. Leave empty to use Battery Text Color.', selector: { color_picker: {} }, default: '' },
         { name: 'flow_threshold_battery', label: (fields.flow_threshold_battery && fields.flow_threshold_battery.label) || 'Flow threshold (W)', helper: (fields.flow_threshold_battery && fields.flow_threshold_battery.helper) || 'Do not animate flow when power is below this value (W).', selector: { number: { min: 0, max: 5000, step: 5, mode: 'slider', unit_of_measurement: 'W' } }, default: 10 },
         { name: 'battery_font_size', label: (fields.battery_font_size && fields.battery_font_size.label) || 'Battery Font Size (px)', helper: (fields.battery_font_size && fields.battery_font_size.helper) || 'Font size for battery text.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 12 },
+        { name: 'battery_1_font_size', label: (fields.battery_1_font_size && fields.battery_1_font_size.label) || 'Battery 1 Font Size (px)', helper: (fields.battery_1_font_size && fields.battery_1_font_size.helper) || 'Optional override. Leave empty to use Battery Font Size.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'battery_2_font_size', label: (fields.battery_2_font_size && fields.battery_2_font_size.label) || 'Battery 2 Font Size (px)', helper: (fields.battery_2_font_size && fields.battery_2_font_size.helper) || 'Optional override. Leave empty to use Battery Font Size.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'battery_3_font_size', label: (fields.battery_3_font_size && fields.battery_3_font_size.label) || 'Battery 3 Font Size (px)', helper: (fields.battery_3_font_size && fields.battery_3_font_size.helper) || 'Optional override. Leave empty to use Battery Font Size.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'battery_4_font_size', label: (fields.battery_4_font_size && fields.battery_4_font_size.label) || 'Battery 4 Font Size (px)', helper: (fields.battery_4_font_size && fields.battery_4_font_size.helper) || 'Optional override. Leave empty to use Battery Font Size.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'battery_2_row_scale', label: (fields.battery_2_row_scale && fields.battery_2_row_scale.label) || 'Battery 2 (icon+text) Scale', helper: (fields.battery_2_row_scale && fields.battery_2_row_scale.helper) || 'Uniform scale for battery 2 row (icon + text).', selector: { number: { min: 0.2, max: 3, step: 0.05, mode: 'slider' } }, default: 1 },
+        { name: 'battery_3_row_scale', label: (fields.battery_3_row_scale && fields.battery_3_row_scale.label) || 'Battery 3 (icon+text) Scale', helper: (fields.battery_3_row_scale && fields.battery_3_row_scale.helper) || 'Uniform scale for battery 3 row (icon + text).', selector: { number: { min: 0.2, max: 3, step: 0.05, mode: 'slider' } }, default: 1 },
+        { name: 'battery_4_row_scale', label: (fields.battery_4_row_scale && fields.battery_4_row_scale.label) || 'Battery 4 (icon+text) Scale', helper: (fields.battery_4_row_scale && fields.battery_4_row_scale.helper) || 'Uniform scale for battery 4 row (icon + text).', selector: { number: { min: 0.2, max: 3, step: 0.05, mode: 'slider' } }, default: 1 },
       ]),
       grid: define([
         { name: 'flow_threshold_grid', label: (fields.flow_threshold_grid && fields.flow_threshold_grid.label) || 'Grid flow threshold (W)', helper: (fields.flow_threshold_grid && fields.flow_threshold_grid.helper) || 'Do not animate grid flow when power is below this value (W).', selector: { number: { min: 0, max: 5000, step: 5, mode: 'slider', unit_of_measurement: 'W' } }, default: 10 },
@@ -20528,6 +21242,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'house_temperature_offset_y', label: (fields.house_temperature_offset_y && fields.house_temperature_offset_y.label) || 'Temperature Offset Y', helper: (fields.house_temperature_offset_y && fields.house_temperature_offset_y.helper) || 'Vertical offset for the temperature display (in pixels).', selector: { number: { min: -450, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } }, default: -100 },
         { name: 'house_temperature_rotation', label: (fields.house_temperature_rotation && fields.house_temperature_rotation.label) || 'Temperature Rotation', helper: (fields.house_temperature_rotation && fields.house_temperature_rotation.helper) || 'Rotation angle for the temperature display (in degrees, -360 to 360).', selector: { number: { min: -360, max: 360, step: 1, mode: 'box', unit_of_measurement: '°' } }, default: 0 },
         { name: 'grid_text_color', label: (fields.grid_text_color && fields.grid_text_color.label) || 'Grid Text Color', helper: (fields.grid_text_color && fields.grid_text_color.helper) || 'Color for grid meter. Default: #00f9f9.', selector: { color_picker: {} }, default: '#00f9f9' },
+        { name: 'house_text_color', label: (fields.house_text_color && fields.house_text_color.label) || 'Home / Load Text Color', helper: (fields.house_text_color && fields.house_text_color.helper) || 'Color for house load and temperature.', selector: { color_picker: {} }, default: '#00f9f9' },
         { name: 'flow_threshold_load', label: (fields.flow_threshold_load && fields.flow_threshold_load.label) || 'Load flow threshold (W)', helper: (fields.flow_threshold_load && fields.flow_threshold_load.helper) || 'Do not animate home load flow when power is below this value (W).', selector: { number: { min: 0, max: 5000, step: 5, mode: 'slider', unit_of_measurement: 'W' } }, default: 10 },
         { name: 'grid_font_size', label: (fields.grid_font_size && fields.grid_font_size.label) || 'Grid Font Size (px)', helper: (fields.grid_font_size && fields.grid_font_size.helper) || 'Font size for grid text.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 15 },
       ]),
@@ -20544,7 +21259,9 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'sensor_car2_soc', label: fields.sensor_car2_soc.label, helper: fields.sensor_car2_soc.helper, selector: entitySelector },
         { name: 'car1_label', label: fields.car1_label.label, helper: fields.car1_label.helper, selector: { text: { mode: 'blur' } } },
         { name: 'car2_label', label: fields.car2_label.label, helper: fields.car2_label.helper, selector: { text: { mode: 'blur' } } },
-        { name: 'car_text_color', label: (fields.car_text_color && fields.car_text_color.label) || 'Car Text Color', helper: (fields.car_text_color && fields.car_text_color.helper) || 'Color for car labels, power, %.', selector: { color_picker: {} }, default: '#00f9f9' },
+        { name: 'car_text_color', label: (fields.car_text_color && fields.car_text_color.label) || 'Car Text Color', helper: (fields.car_text_color && fields.car_text_color.helper) || 'Default color for both cars (label + power).', selector: { color_picker: {} }, default: '#00f9f9' },
+        { name: 'car1_text_color', label: (fields.car1_text_color && fields.car1_text_color.label) || 'Car 1 Text Color', helper: (fields.car1_text_color && fields.car1_text_color.helper) || 'Color for Car 1 label and power. Empty = use Car Text Color.', selector: { color_picker: {} } },
+        { name: 'car2_text_color', label: (fields.car2_text_color && fields.car2_text_color.label) || 'Car 2 Text Color', helper: (fields.car2_text_color && fields.car2_text_color.helper) || 'Color for Car 2 label and power. Empty = use Car Text Color.', selector: { color_picker: {} } },
         { name: 'flow_threshold_car', label: (fields.flow_threshold_car && fields.flow_threshold_car.label) || 'Flow threshold (W)', helper: (fields.flow_threshold_car && fields.flow_threshold_car.helper) || 'Do not animate EV flow when power is below this value (W).', selector: { number: { min: 0, max: 5000, step: 5, mode: 'slider', unit_of_measurement: 'W' } }, default: 10 },
         { name: 'car_font_size', label: (fields.car_font_size && fields.car_font_size.label) || 'Car Font Size (px)', helper: (fields.car_font_size && fields.car_font_size.helper) || 'Font size for car text.', selector: { number: { min: 8, max: 28, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 12 },
       ]),
@@ -20554,6 +21271,12 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'heat_pump_invert_flow', label: (fields.heat_pump_invert_flow && fields.heat_pump_invert_flow.label) || 'Heat Pump Invert Flow', helper: (fields.heat_pump_invert_flow && fields.heat_pump_invert_flow.helper) || 'Invert the heat pump flow direction. Useful if the sensor polarity is reversed.', selector: { boolean: {} }, default: false },
         { name: 'heat_pump_text_color', label: (fields.heat_pump_text_color && fields.heat_pump_text_color.label) || 'Heat Pump Text Color', helper: (fields.heat_pump_text_color && fields.heat_pump_text_color.helper) || 'Color for heat pump text.', selector: { color_picker: {} }, default: '#00f9f9' },
         { name: 'heat_pump_font_size', label: (fields.heat_pump_font_size && fields.heat_pump_font_size.label) || 'Heat Pump Font Size (px)', helper: (fields.heat_pump_font_size && fields.heat_pump_font_size.helper) || 'Font size for heat pump text.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 12 },
+      ]),
+      daynight: define([
+        { name: 'night_mode_enabled', label: (fields.night_mode_enabled && fields.night_mode_enabled.label) || 'Enable day/night background', helper: (fields.night_mode_enabled && fields.night_mode_enabled.helper) || 'Switch background automatically: day = current background, night = image set below (using sun.sun).', selector: { boolean: {} }, default: false },
+        { name: 'background_image_night', label: (fields.background_image_night && fields.background_image_night.label) || 'Night background image URL', helper: (fields.background_image_night && fields.background_image_night.helper) || 'Use /local/community/lumina-energy-card/night.jpg or night.png. File must be in www/community/lumina-energy-card/ and named only night.jpg or night.png. After adding the file, reload the integration and refresh.', selector: { text: {} }, default: '/local/community/lumina-energy-card/night.png' },
+        { name: 'sensor_sun_entity', label: (fields.sensor_sun_entity && fields.sensor_sun_entity.label) || 'Sun entity', helper: (fields.sensor_sun_entity && fields.sensor_sun_entity.helper) || 'Home Assistant sun entity. When state is below_horizon the night image is shown. Default: sun.sun', selector: entitySelector, default: 'sun.sun' },
+        { name: 'night_mode_override', label: (fields.night_mode_override && fields.night_mode_override.label) || 'Force night view', helper: (fields.night_mode_override && fields.night_mode_override.helper) || 'Toggle to show night background immediately (for testing).', selector: { boolean: {} }, default: false },
       ]),
       entities: define([
         
@@ -20831,11 +21554,25 @@ class LuminaEnergyCardEditor extends HTMLElement {
         { name: 'house_text_color', label: (fields.house_text_color && fields.house_text_color.label) || 'Home Text Color', helper: (fields.house_text_color && fields.house_text_color.helper) || 'Color for load and temperature.', selector: { color_picker: {} }, default: '#00f9f9' },
         { name: 'house_font_size', label: (fields.house_font_size && fields.house_font_size.label) || 'Home Font Size (px)', helper: (fields.house_font_size && fields.house_font_size.helper) || 'Font size for load and temperature.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 12 },
         { name: 'load_text_color', label: fields.load_text_color.label, helper: fields.load_text_color.helper, selector: { color_picker: {} }, default: '#00f9f9' },
+        { name: 'house_consumption_text_color', label: (fields.house_consumption_text_color && fields.house_consumption_text_color.label) || 'House consumption text color', helper: (fields.house_consumption_text_color && fields.house_consumption_text_color.helper) || 'Color for the house consumption value on the card.', selector: { color_picker: {} }, default: '' },
         { name: 'load_font_size', label: (fields.load_font_size && fields.load_font_size.label) || 'Load Font Size (px)', helper: (fields.load_font_size && fields.load_font_size.helper) || 'Font size for load text.', selector: { number: { min: 8, max: 32, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 12 },
       ]),
       layout: define([
         ...createLayoutFields('solar', 'Solar'),
         ...createLayoutFields('battery', 'Battery'),
+        ...createLayoutFields('battery_1', 'Battery 1'),
+        ...createLayoutFields('battery_2', 'Battery 2'),
+        ...createLayoutFields('battery_3', 'Battery 3'),
+        ...createLayoutFields('battery_4', 'Battery 4'),
+        { name: 'dev_mini_battery_2_scale', label: (fields.dev_mini_battery_2_scale && fields.dev_mini_battery_2_scale.label) || 'Mini Battery 2 Scale', helper: (fields.dev_mini_battery_2_scale && fields.dev_mini_battery_2_scale.helper) || 'Scale for the mini battery icon (battery 2).', selector: { number: { min: 0.2, max: 3, step: 0.05, mode: 'slider' } }, default: 0.7 },
+        { name: 'dev_mini_battery_2_offset_x', label: (fields.dev_mini_battery_2_offset_x && fields.dev_mini_battery_2_offset_x.label) || 'Mini Battery 2 Offset X (px)', helper: (fields.dev_mini_battery_2_offset_x && fields.dev_mini_battery_2_offset_x.helper) || 'Horizontal offset inside the battery row group.', selector: { number: { min: -200, max: 200, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: -2 },
+        { name: 'dev_mini_battery_2_offset_y', label: (fields.dev_mini_battery_2_offset_y && fields.dev_mini_battery_2_offset_y.label) || 'Mini Battery 2 Offset Y (px)', helper: (fields.dev_mini_battery_2_offset_y && fields.dev_mini_battery_2_offset_y.helper) || 'Vertical offset inside the battery row group.', selector: { number: { min: -200, max: 200, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 4 },
+        { name: 'dev_mini_battery_3_scale', label: (fields.dev_mini_battery_3_scale && fields.dev_mini_battery_3_scale.label) || 'Mini Battery 3 Scale', helper: (fields.dev_mini_battery_3_scale && fields.dev_mini_battery_3_scale.helper) || 'Scale for the mini battery icon (battery 3).', selector: { number: { min: 0.2, max: 3, step: 0.05, mode: 'slider' } }, default: 0.7 },
+        { name: 'dev_mini_battery_3_offset_x', label: (fields.dev_mini_battery_3_offset_x && fields.dev_mini_battery_3_offset_x.label) || 'Mini Battery 3 Offset X (px)', helper: (fields.dev_mini_battery_3_offset_x && fields.dev_mini_battery_3_offset_x.helper) || 'Horizontal offset inside the battery row group.', selector: { number: { min: -200, max: 200, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: -2 },
+        { name: 'dev_mini_battery_3_offset_y', label: (fields.dev_mini_battery_3_offset_y && fields.dev_mini_battery_3_offset_y.label) || 'Mini Battery 3 Offset Y (px)', helper: (fields.dev_mini_battery_3_offset_y && fields.dev_mini_battery_3_offset_y.helper) || 'Vertical offset inside the battery row group.', selector: { number: { min: -200, max: 200, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 4 },
+        { name: 'dev_mini_battery_4_scale', label: (fields.dev_mini_battery_4_scale && fields.dev_mini_battery_4_scale.label) || 'Mini Battery 4 Scale', helper: (fields.dev_mini_battery_4_scale && fields.dev_mini_battery_4_scale.helper) || 'Scale for the mini battery icon (battery 4).', selector: { number: { min: 0.2, max: 3, step: 0.05, mode: 'slider' } }, default: 0.7 },
+        { name: 'dev_mini_battery_4_offset_x', label: (fields.dev_mini_battery_4_offset_x && fields.dev_mini_battery_4_offset_x.label) || 'Mini Battery 4 Offset X (px)', helper: (fields.dev_mini_battery_4_offset_x && fields.dev_mini_battery_4_offset_x.helper) || 'Horizontal offset inside the battery row group.', selector: { number: { min: -200, max: 200, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: -2 },
+        { name: 'dev_mini_battery_4_offset_y', label: (fields.dev_mini_battery_4_offset_y && fields.dev_mini_battery_4_offset_y.label) || 'Mini Battery 4 Offset Y (px)', helper: (fields.dev_mini_battery_4_offset_y && fields.dev_mini_battery_4_offset_y.helper) || 'Vertical offset inside the battery row group.', selector: { number: { min: -200, max: 200, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 4 },
         ...createLayoutFields('home', 'Home'),
         ...createLayoutFields('home_temperature', 'Home Temperature'),
         ...createLayoutFields('grid', 'Grid'),
@@ -20896,6 +21633,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
       { name: 'solar_forecast_y', label: (fields.solar_forecast_y && fields.solar_forecast_y.label) || 'Solar Forecast Y (px)', helper: (fields.solar_forecast_y && fields.solar_forecast_y.helper) || 'Vertical position.', selector: { number: { min: 0, max: 450, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 400 },
       { name: 'solar_forecast_color', label: (fields.solar_forecast_color && fields.solar_forecast_color.label) || 'Solar Forecast Color', helper: (fields.solar_forecast_color && fields.solar_forecast_color.helper) || 'Color for icon and text.', selector: { color_picker: {} }, default: '#00FFFF' },
       { name: 'solar_forecast_size', label: (fields.solar_forecast_size && fields.solar_forecast_size.label) || 'Solar Forecast Font Size (px)', helper: (fields.solar_forecast_size && fields.solar_forecast_size.helper) || 'Font size for the forecast text.', selector: { number: { min: 8, max: 48, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 16 },
+      { name: 'weather_rain_entity', label: (fields.weather_rain_entity && fields.weather_rain_entity.label) || 'Weather entity for rain', helper: (fields.weather_rain_entity && fields.weather_rain_entity.helper) || 'Optional. Weather entity (e.g. Met.no). When state is rainy/pouring/lightning-rainy, the rain animation is shown.', selector: { entity: { domain: ['weather'] } }, default: '' },
 
       // Overlay Image fields
       { name: 'overlay_image_enabled', label: (fields.overlay_image_enabled && fields.overlay_image_enabled.label) || 'Enable Overlay Image', helper: (fields.overlay_image_enabled && fields.overlay_image_enabled.helper) || '⚠️ Requires valid PRO password above. Enable or disable the overlay image.', selector: { boolean: {} } },
@@ -21177,7 +21915,16 @@ _createUpdatesContent_() {
 _createSectionDefs(localeStrings, schemaDefs) {
     const sections = localeStrings.sections;
     return [
-      { id: 'lumina_pro', title: sections.lumina_pro.title, helper: sections.lumina_pro.helper, schema: null, defaultOpen: false, renderContent: () => this._createLuminaProSection(schemaDefs.lumina_pro) },
+      { id: 'lumina_pro', title: sections.lumina_pro.title, helper: sections.lumina_pro.helper, schema: null, defaultOpen: false, renderContent: () => {
+        try {
+          const proSchema = Array.isArray(schemaDefs && schemaDefs.lumina_pro) ? schemaDefs.lumina_pro : [];
+          const flowCustom = Array.isArray(schemaDefs && schemaDefs.flow_path_custom) ? schemaDefs.flow_path_custom : [];
+          const customFields = (flowCustom || []).filter((f) => f && f.name && (f.name.startsWith('custom_flow_') || f.name.startsWith('custom_text_')));
+          return this._createLuminaProSection([...customFields, ...proSchema]);
+        } catch (e) {
+          return this._createLuminaProSection(Array.isArray(schemaDefs && schemaDefs.lumina_pro) ? schemaDefs.lumina_pro : []);
+        }
+      } },
       { id: 'updates', title: (sections.updates && sections.updates.title) ? sections.updates.title : 'Updates', helper: (sections.updates && sections.updates.helper) ? sections.updates.helper : '', schema: null, defaultOpen: true, renderContent: () => this._createUpdatesContent_() },
       { id: 'language', title: sections.language.title, helper: sections.language.helper, schema: schemaDefs.language, defaultOpen: true },
       { id: 'installation_type', title: sections.installation_type.title, helper: sections.installation_type.helper, renderContent: () => this._createInstallationTypeSection(), defaultOpen: true },
@@ -21206,6 +21953,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       { id: 'socBar', title: (sections.socBar && sections.socBar.title) || 'SOC Bar', helper: (sections.socBar && sections.socBar.helper) || '6-segment bar on battery. Position, opacity, glow, colors.', schema: schemaDefs.socBar, defaultOpen: false },
       { id: 'gridBox', title: (sections.gridBox && sections.gridBox.title) || 'Grid Box', helper: (sections.gridBox && sections.gridBox.helper) || 'Top-right box. Import/Export + daily. Position and size.', schema: schemaDefs.gridBox, defaultOpen: false },
       { id: 'pvBox', title: (sections.pvBox && sections.pvBox.title) || 'PV Box', helper: (sections.pvBox && sections.pvBox.helper) || 'Top-left box. PV Total (sum) + Daily production. Position and size.', schema: schemaDefs.pvBox, defaultOpen: false },
+      { id: 'day_night', title: (sections.day_night && sections.day_night.title) || 'Day/Night Background', helper: (sections.day_night && sections.day_night.helper) || 'Switch background by sun.sun; upload only night image to www.', schema: schemaDefs.daynight, defaultOpen: false },
       { id: 'about', title: sections.about.title, helper: sections.about.helper, schema: null, defaultOpen: false, renderContent: () => this._createAboutContent() }
     ];
   }
@@ -21230,7 +21978,10 @@ _createSectionDefs(localeStrings, schemaDefs) {
     if (this._config && JSON.stringify(config) === JSON.stringify(this._config)) {
       return;
     }
+    const prevSlot = (this._config && typeof this._config._preview_text_slot === 'number') ? this._config._preview_text_slot : undefined;
     this._config = { ...config };
+    if (prevSlot !== undefined) this._config._preview_text_slot = prevSlot;
+    if (typeof this._previewSelectedTextSlot === 'number') this._config._preview_text_slot = this._previewSelectedTextSlot;
     this._syncEditorPreviewCard_();
 
     // Se l'editor è già disegnato, aggiorna solo i dati senza render() che distrugge gli input.
@@ -23279,7 +24030,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     let proFeaturesDiv = null;
     if (isLicenseActive && proSchema && proSchema.length > 0) {
       const schemaGeneral = proSchema.filter(f => f.name === 'text_visibility_sensor' || f.name === 'pro_debug_grid');
-      const schemaSolarForecast = proSchema.filter(f => f.name.startsWith('solar_forecast_') || f.name === 'sensor_solar_forecast');
+      const schemaSolarForecast = proSchema.filter(f => f.name.startsWith('solar_forecast_') || f.name === 'sensor_solar_forecast' || f.name === 'weather_rain_entity');
       const schemaImages = proSchema.filter(f => f.name.startsWith('overlay_image'));
       const schemaFlows = proSchema.filter(f => f.name.startsWith('custom_flow_'));
       const schemaText = proSchema.filter(f => f.name.startsWith('custom_text_'));
@@ -26244,3 +26995,55 @@ LuminaEnergyCardEditor.prototype._shareToGallery_ = function() {
   panel.appendChild(footer);
   setTimeout(() => nameInput.focus(), 100);
 };
+
+/* ─── Lumina Day/Night Background Module (Giorno/Notte) ───
+ * Switches background image by sun.sun (below_horizon = night) or manual toggle.
+ * Users upload only the NIGHT image to Home Assistant www; day uses existing background.
+ * Build order: sec + main + gallery + giornonotte
+ */
+
+(function() {
+  'use strict';
+
+  const DEFAULT_DAY_BG = '/local/community/lumina-energy-card/lumina_background1.png';
+
+  /**
+   * Resolve which background image to show: day (default) or night.
+   * Night when: night_mode_override is true OR (night_mode_enabled and sun entity state is 'below_horizon').
+   * @param {Object} config - Card config
+   * @param {Object} hass - Home Assistant object
+   * @returns {string} URL for background image
+   */
+  LuminaEnergyCard.prototype._getResolvedDayNightBackground_ = function(config, hass) {
+    var enabled = config && config.night_mode_enabled === true;
+    var overrideNight = config && config.night_mode_override === true;
+    var nightUrl = (config && config.background_image_night && String(config.background_image_night).trim()) || '';
+
+    if (overrideNight && nightUrl) {
+      return nightUrl;
+    }
+    if (!enabled || !nightUrl) {
+      return this._getDayBackgroundUrl_(config);
+    }
+    var sunEntityId = (config && config.sensor_sun_entity && String(config.sensor_sun_entity).trim()) || 'sun.sun';
+    if (!hass || !hass.states || !hass.states[sunEntityId]) {
+      return this._getDayBackgroundUrl_(config);
+    }
+    var state = hass.states[sunEntityId].state;
+    if (state === 'below_horizon') {
+      return nightUrl;
+    }
+    return this._getDayBackgroundUrl_(config);
+  };
+
+  /**
+   * Base day background URL (same logic as main.js before day/night).
+   */
+  LuminaEnergyCard.prototype._getDayBackgroundUrl_ = function(config) {
+    var defaultBg = DEFAULT_DAY_BG;
+    if (config && config.installation_type === '4') {
+      return (config.background_image && String(config.background_image).trim()) || '';
+    }
+    return (config && config.background_image && String(config.background_image).trim()) || defaultBg;
+  };
+})();
