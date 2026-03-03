@@ -1,7 +1,7 @@
 # Lumina Energy Card
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
-![Version](https://img.shields.io/badge/version-3.3.3-blue.svg)
+![Version](https://img.shields.io/badge/version-3.3.5-blue.svg)
 
 Repository: [https://github.com/Giorgio866/lumina-energy-card](https://github.com/Giorgio866/lumina-energy-card)
 
@@ -27,13 +27,20 @@ Commercial use / resale requires a separate agreement (`COMMERCIAL-LICENSE.md`).
 
 ### Overview
 
-Lumina Energy Card is a Home Assistant custom Lovelace card that displays animated energy flows (PV, battery, grid, load, heat pump, EV), aggregates PV strings and batteries, and supports optional EV charging and heat pump metrics. It includes **House Management** (cameras, lights, temperature, humidity, security keypad), **interactive popups** with toggles, round buttons (Echo Alive, Text toggle, HOME), **PRO** features (motion-based text visibility, overlay images, custom flows), **Import & Export** for config backup, and **version 3.3.1** enhancements.
+Lumina Energy Card is a Home Assistant custom Lovelace card that displays animated energy flows (PV, battery, grid, load, heat pump, EV), aggregates PV strings and batteries, and supports optional EV charging and heat pump metrics. It includes **House Management** (cameras, lights, temperature, humidity, security keypad), **interactive popups** with toggles, round buttons (Echo Alive, Text toggle, HOME), **PRO** features (motion-based text visibility, overlay images, custom flows), **Import & Export** for config backup, and **version 3.3.5** enhancements.
 
+### What's new in 3.3.5
 
-https://github.com/user-attachments/assets/d75b088d-f05f-48da-a83b-4aa0dd3b00a5
+- **Bug fixes:** Fixed [#275](https://github.com/Giorgio866/lumina-energy-card/issues/275), [#273](https://github.com/Giorgio866/lumina-energy-card/issues/273), [#272](https://github.com/Giorgio866/lumina-energy-card/issues/272).
+- **Text colors:** You can now change the color **individually** for each auto-related text (PV, battery, grid, etc.), and change the color of the **house absorption** text from the editor.
+- **4 independent batteries with SVG logo and fill:** You can now use **up to 4 batteries**, each with its own **SVG logo** and **fill level** (SOC-based), all independent. Configure each battery’s sensors, position, and style in the editor.
+- **Day/Night background:** You can set a **night background image** that switches **automatically** from day to night. The card uses the sun entity (e.g. `sun.sun`) to detect sunrise/sunset; you can also force “night view” with a toggle.  
+  **Where to upload the night image:** Place your image file (**`night.jpg`** or **`night.png`**) in your Home Assistant www folder for the card, for example:
+  - **`/config/www/community/lumina-energy-card/`** (if you use `config`), or  
+  - **`/homeassistant/www/community/lumina-energy-card/`** (e.g. in some installs).  
+  Then use the URL **`/local/community/lumina-energy-card/night.jpg`** (or **`night.png`**) in the editor under **Day/Night Background**. After uploading, **reload the frontend** (or the integration) and refresh the page so the image is served correctly.
 
-
-### What's new in 3.3.1
+### What's new in 3.3.3
 
 - **Gallery:** Share your dashboard templates to the community and browse templates shared by others. From the editor, use **"Share to gallery"** to submit a template (name, description, author, email, rules). One share per user per month. **"Top"** shows the most popular templates; a 30-day timer resets and notifies the winner.
 - **Bug fix – Text button:** The text toggle button no longer disappears when the HOME button is off.
@@ -247,6 +254,9 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 | 10 custom flows | **PRO** section | Up to 10 custom energy flows; editable in PRO and Preview |
 | Overlay (10 images) | **PRO** + **Preview Lumina (drag)** | Up to 10 overlay images; drag to position in preview |
 | Custom background | Editor / **PRO** | Upload your image or generate with IA (tokens) |
+| Day/Night background | Editor → **Day/Night** | Night image URL; auto switch by sun; upload to `www/community/lumina-energy-card/` |
+| 4 batteries (SVG + fill) | Editor → **Batteries** | Up to 4 independent batteries with SVG logo and SOC fill |
+| Text colors (auto, house) | Editor | Individual colors for PV/battery/grid texts; house absorption text color |
 | Array text | Editor | Customize text next to each PV/array |
 | Box Grid / Box PV content | **Grid Box** / **PV Box** | Choose what to show (power, daily, custom sensors) |
 | Home temperature | Editor | Display house temperature sensor on card |
@@ -280,9 +290,20 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 
 ### Panoramica
 
-Lumina Energy Card è una scheda Lovelace personalizzata per Home Assistant che mostra flussi energetici animati (PV, batteria, rete, carico, pompa di calore, EV), aggrega stringhe FV e batterie e supporta metriche opzionali per EV e pompa di calore. Include **Gestione casa** (telecamere, luci, temperatura, umidità, keypad sicurezza), **popup interattivi** con toggle, pulsanti rotondi (Echo Alive, Toggle testi, HOME), funzioni **PRO** (visibilità testi con sensore movimento, overlay, flussi personalizzati), **Import & Export** per il backup della configurazione e le **novità 3.3.1**.
+Lumina Energy Card è una scheda Lovelace personalizzata per Home Assistant che mostra flussi energetici animati (PV, batteria, rete, carico, pompa di calore, EV), aggrega stringhe FV e batterie e supporta metriche opzionali per EV e pompa di calore. Include **Gestione casa** (telecamere, luci, temperatura, umidità, keypad sicurezza), **popup interattivi** con toggle, pulsanti rotondi (Echo Alive, Toggle testi, HOME), funzioni **PRO** (visibilità testi con sensore movimento, overlay, flussi personalizzati), **Import & Export** per il backup della configurazione e le **novità 3.3.5**.
 
-### Novità in 3.3.1
+### Novità in 3.3.5
+
+- **Correzioni bug:** Risolti [#275](https://github.com/Giorgio866/lumina-energy-card/issues/275), [#273](https://github.com/Giorgio866/lumina-energy-card/issues/273), [#272](https://github.com/Giorgio866/lumina-energy-card/issues/272).
+- **Colori testi:** Puoi ora cambiare il colore **singolarmente** per ogni testo (PV, batteria, rete, ecc.) e il colore del testo **assorbimento casa** dall’editor.
+- **4 batterie indipendenti con logo SVG e riempimento:** Puoi usare **fino a 4 batterie**, ciascuna con **logo SVG** e **livello di riempimento** (basato sul SOC), tutte indipendenti. Configura sensori, posizione e stile per ogni batteria dall’editor.
+- **Sfondo giorno/notte:** Puoi impostare un’**immagine di sfondo notturna** che viene **alternata automaticamente** tra giorno e notte. La card usa l’entità sole (es. `sun.sun`) per rilevare alba/tramonto; puoi anche forzare la “vista notte” con un toggle.  
+  **Dove caricare l’immagine notturna:** Metti il file (**`night.jpg`** o **`night.png`**) nella cartella www di Home Assistant della card, ad esempio:
+  - **`/config/www/community/lumina-energy-card/`** (se usi `config`), oppure  
+  - **`/homeassistant/www/community/lumina-energy-card/`** (in alcune installazioni).  
+  Poi usa l’URL **`/local/community/lumina-energy-card/night.jpg`** (o **`night.png`**) nell’editor nella sezione **Sfondo giorno/notte**. Dopo il caricamento **ricarica il frontend** (o l’integrazione) e aggiorna la pagina perché l’immagine venga servita correttamente.
+
+### Novità in 3.3.3
 
 - **Galleria:** Condividi i template della tua dashboard con la community e sfoglia i template condivisi da altri. Dall’editor usa **"Condividi in galleria"** per inviare un template (nome, descrizione, autore, email, regole). Un invio per utente al mese. La **"Top"** mostra i template più popolari; un timer di 30 giorni si resetta e notifica il vincitore.
 - **Correzione – Pulsante Testo:** Il pulsante toggle testi non scompare più quando il pulsante HOME è disattivato.
@@ -488,6 +509,9 @@ Le funzioni PRO richiedono la **password PRO** (`pro_password`), sbloccabile dal
 | 10 flussi custom | Sezione **PRO** | Fino a 10 flussi energetici; modificabili in PRO e Preview |
 | Overlay (10 immagini) | **PRO** + **Preview Lumina (drag)** | Fino a 10 overlay; trascina per posizionare nella preview |
 | Sfondo personalizzato | Editor / **PRO** | Carica la tua immagine o genera con IA (token) |
+| Sfondo giorno/notte | Editor → **Giorno/Notte** | URL immagine notte; switch automatico con sole; carica in `www/community/lumina-energy-card/` |
+| 4 batterie (SVG + riempimento) | Editor → **Batterie** | Fino a 4 batterie indipendenti con logo SVG e riempimento SOC |
+| Colori testi (auto, casa) | Editor | Colori singoli per testi PV/batteria/rete; colore testo assorbimento casa |
 | Testo array | Editor | Personalizza il testo accanto a ogni stringa/array FV |
 | Contenuto Box Grid / Box PV | **Grid Box** / **PV Box** | Scegli cosa mostrare (potenza, giornaliero, sensori custom) |
 | Temperatura casa | Editor | Mostra sensore temperatura casa sulla card |
