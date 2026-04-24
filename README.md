@@ -1,7 +1,7 @@
 # Lumina Energy Card
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
-![Version](https://img.shields.io/badge/version-3.3.5-blue.svg)
+![Version](https://img.shields.io/badge/version-3.4.0-blue.svg)
 
 Repository: [https://github.com/Giorgio866/lumina-energy-card](https://github.com/Giorgio866/lumina-energy-card)
 
@@ -27,7 +27,29 @@ Commercial use / resale requires a separate agreement (`COMMERCIAL-LICENSE.md`).
 
 ### Overview
 
-Lumina Energy Card is a Home Assistant custom Lovelace card that displays animated energy flows (PV, battery, grid, load, heat pump, EV), aggregates PV strings and batteries, and supports optional EV charging and heat pump metrics. It includes **House Management** (cameras, lights, temperature, humidity, security keypad), **interactive popups** with toggles, round buttons (Echo Alive, Text toggle, HOME), **PRO** features (motion-based text visibility, overlay images, custom flows), **Import & Export** for config backup, and **version 3.3.5** enhancements.
+Lumina Energy Card is a Home Assistant custom Lovelace card that displays animated energy flows (PV, battery, grid, load, heat pump, EV), aggregates PV strings and batteries, and supports optional EV charging and heat pump metrics. It includes **House Management** (cameras, lights, temperature, humidity, security keypad), **interactive popups** with toggles, round buttons (Echo Alive, Text toggle, HOME), **PRO** features (motion-based text visibility, overlay images, custom flows), **Import & Export** for config backup, and **version 3.4.0** enhancements.
+
+### What's new in 3.4.0
+
+- **New language:** Full **Spanish** translation for card labels and editor UI.
+- **New "People" section:** Added a dedicated **People** area in the editor/dashboard to configure person entities and quickly see who is **home** or **away** directly on the card.
+- **New Solar Forecast popup:** Added a redesigned **solar forecast popup** with improved layout controls for weekly forecast visibility and positioning.
+- **More customization slots:** **Custom Flows** and **Custom Text** are now expanded to **20 slots each**.
+- **Bug fix – Custom Flow auto direction:** Fixed a regression where flow direction was not always inverting correctly in `auto` mode when sensor sign changed.
+- **Visual editor performance:** Optimizations in preview syncing and editor updates with up to **~60% faster** interactions in heavy configs.
+- **New Video Guides section:** Added a dedicated in-editor **Video Guides** section (now placed right below **Lumina PRO**) for faster onboarding.
+- **10 new text style presets:** Added **10 additional font/style options** to fine-tune dashboard text appearance.
+- **New Mini Cam feature (PRO):**
+  - Add mini camera widgets directly on the dashboard with drag-and-drop positioning in **Preview Lumina (drag)**.
+  - Each mini cam has independent icon position/size and top bar geometry.
+  - Motion-aware behaviors are supported via dedicated motion sensor + motion popup options.
+  - You can configure each slot separately (entity, title, dimensions, offsets, motion popup visibility and size).
+  - In preview, select exactly what to move (`icon`, `bar`, or `motion popup`) and edit precise coordinates from numeric fields.
+- **New Custom Popup layouts (PRO):**
+  - **Classic (text lines):** traditional multi-line popup (up to six sensor rows).
+  - **Tactical vehicle:** EV/car-oriented layout with map, speed/range/charge metrics, lock controls, and optional vehicle telemetry sensors.
+  - **Life sign (person):** person/presence layout with battery ring, connection/activity modules, and optional health sensors (heart rate, HR status, body temperature).
+  - You can choose the layout per popup slot, then configure layout-specific entities in dedicated grouped subsections.
 
 ### What's new in 3.3.5
 
@@ -232,10 +254,10 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 - **Background:** drag inside the preview to update `background_image_x` / `background_image_y`.
 
 - **Custom flows:**  
-  Up to **10 custom energy flows** with their own sensor, path, color, and direction. Use **`custom_flow_1_enabled`** … **`custom_flow_10_enabled`**, **`custom_flow_1_sensor`** … **`custom_flow_10_sensor`**, path (or preset), color, threshold. Editable in PRO and in **Preview Lumina (drag)**.
+  Up to **20 custom energy flows** with their own sensor, path, color, and direction. Use **`custom_flow_1_enabled`** … **`custom_flow_20_enabled`**, **`custom_flow_1_sensor`** … **`custom_flow_20_sensor`**, path (or preset), color, threshold. Editable in PRO and in **Preview Lumina (drag)**.
 
 - **Custom text:**  
-  Up to **5 custom text labels** with optional sensor values, position, color, and font size.
+  Up to **20 custom text labels** with optional sensor values, position, color, and font size.
 
 - **Solar forecast:**  
   Enable **`solar_forecast_enabled`**, set **`sensor_solar_forecast`**, and tune **`solar_forecast_max_power`**, position, and color (**default #00FFFF**).
@@ -251,7 +273,10 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 | Camera fullscreen on motion | **PRO** / motion sensor | Camera popup expands to fullscreen when motion detected |
 | Custom thresholds | **Colori Flussi** (Flow colors) | PV / flow / grid animation thresholds (W) |
 | Counter: house or inverter | Editor | Animated counter shows house consumption or inverter (PV) |
-| 10 custom flows | **PRO** section | Up to 10 custom energy flows; editable in PRO and Preview |
+| 20 custom flows | **PRO** section | Up to 20 custom energy flows; editable in PRO and Preview |
+| 20 custom text slots | **PRO** section | Up to 20 custom text labels with optional sensor value and independent styling |
+| Mini Cam (PRO) | **PRO** section + **Preview Lumina (drag)** | Dashboard mini camera widgets with draggable icon/bar/motion popup geometry |
+| Custom popup layouts (PRO) | **PRO** → Custom popups | Choose Classic, Tactical vehicle, or Life sign layout per popup slot |
 | Overlay (10 images) | **PRO** + **Preview Lumina (drag)** | Up to 10 overlay images; drag to position in preview |
 | Custom background | Editor / **PRO** | Upload your image or generate with IA (tokens) |
 | Day/Night background | Editor → **Day/Night** | Night image URL; auto switch by sun; upload to `www/community/lumina-energy-card/` |
@@ -272,7 +297,7 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 | Gallery | Editor → **Gallery** | Share your template to the gallery; browse and apply templates from others; Top & 30-day winner |
 | Solar forecast | **PRO** section | Estimated solar production + holographic sun (icon always visible) |
 | PRO (motion, overlay, etc.) | **PRO** section + **`pro_password`** | Motion-based text, overlay images, custom flows/text |
-| Languages | **Language** (editor) | EN, IT, DE, FR, NL, **RU**, **PT** |
+| Languages | **Language** (editor) | EN, IT, DE, FR, NL, **RU**, **PT**, **ES** |
 
 ---
 
@@ -295,6 +320,8 @@ Lumina Energy Card è una scheda Lovelace personalizzata per Home Assistant che 
 ### Novità in 3.3.5
 
 - **Correzioni bug:** Risolti [#275](https://github.com/Giorgio866/lumina-energy-card/issues/275), [#273](https://github.com/Giorgio866/lumina-energy-card/issues/273), [#272](https://github.com/Giorgio866/lumina-energy-card/issues/272).
+- **Nuova sezione "Persone":** Aggiunta una sezione dedicata **Persone** in editor/dashboard per configurare le entità persona e vedere subito chi è **in casa** o **fuori casa** direttamente sulla card.
+- **Nuovo popup previsioni solari:** Aggiunto un nuovo **popup previsioni solari** con layout migliorato e più controllo su visibilità/posizionamento della previsione settimanale.
 - **Colori testi:** Puoi ora cambiare il colore **singolarmente** per ogni testo (PV, batteria, rete, ecc.) e il colore del testo **assorbimento casa** dall’editor.
 - **4 batterie indipendenti con logo SVG e riempimento:** Puoi usare **fino a 4 batterie**, ciascuna con **logo SVG** e **livello di riempimento** (basato sul SOC), tutte indipendenti. Configura sensori, posizione e stile per ogni batteria dall’editor.
 - **Sfondo giorno/notte:** Puoi impostare un’**immagine di sfondo notturna** che viene **alternata automaticamente** tra giorno e notte. La card usa l’entità sole (es. `sun.sun`) per rilevare alba/tramonto; puoi anche forzare la “vista notte” con un toggle.  
